@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "256344353992e165",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a8bb8feefcdce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ea504557d8416c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27857112b4b21459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f2246b9cdf50b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3083374e79c2785c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66304850955c4af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "439d1401596d07e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef31d3b21d508004",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d46c5e7d922a10f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "34132cb7150b26d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03397531007fe768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17b95ea6834a6540",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cd845c56e897718",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2edc79854db4ed9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "45ea504557d8416c",
+  "lastOpenFiles": [
+    "Machine Learning/Chapter 7 Optimization Algorithms",
+    "Machine Learning/Chapter 1 Feature Engineering/Sec 1 Feature Normailzation.md",
+    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+    "README.md",
+    "Machine Learning/Chapter 1 Feature Engineering",
+    "Computer Science",
+    "Machine Learning"
+  ]
+}
