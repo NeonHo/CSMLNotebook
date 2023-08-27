@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensemble Models.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ensemble Models.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ensemble Models.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ensemble Models.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,13 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45ea504557d8416c",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Basic Items/Observations.md",
-    "Basic Items/Dirac Delta Function.md",
-    "Basic Items",
+    "Machine Learning/Chapter 12 Ensemble Models",
+    "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "Machine Learning/Basic Items/Observations.md",
+    "Machine Learning/Basic Items/Dirac Delta Function.md",
+    "Machine Learning/Basic Items",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
-    "Ensemble Models.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/未命名",
     "Machine Learning/Chapter 7 Optimization Algorithms",
