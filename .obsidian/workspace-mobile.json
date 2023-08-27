@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb4580aeda6371da",
+            "id": "49ac1e174a489ff6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ensemble Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ensemble Models.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Ensemble Models.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Ensemble Models.md"
+          }
         }
       }
     ],
@@ -123,6 +131,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcb77d992973cad7",
-  "lastOpenFiles": []
+  "active": "49ac1e174a489ff6",
+  "lastOpenFiles": [
+    "Ensemble Models.md"
+  ]
 }
