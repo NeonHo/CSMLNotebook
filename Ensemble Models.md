@@ -23,7 +23,7 @@ First of all, it is easy to imagine that we need training sets with different sa
 If not so, all sub-models have the same structure and the same training set, even the same training schedule, which is meaningless.
 So for a higher diversity, we need a series of training sets which are different from the others.
 A series of training sets with a higher diversity can help each learners to capture features and patterns from different views.
-This can help the ensemble model which consists of the trained sub-models become **more robust** and with **lower variance**, so that it can be **prevented from overfitting**.
+This can help the ensemble model which consists of the trained sub-models become **more robust** and with **lower variance**, so that it can be **prevented from over-fitting**.
 
 However, if the training sets are highly different from the true distribution in the real word, the observations in these sets will break the basic assumption:
  *The dataset we captured is Independent and Identically Distributed ($i.i.d.$) with the real world data.* 
@@ -32,7 +32,7 @@ So, the second request is that:
 
 Before this request, we need to guarantee that our initial dataset is large enough to have the ability to represent the real world distribution. 
 Before the demands of diversity, we need to guarantee that the initial dataset is much larger than the sub-sets we sampled, so that the sub-sets are easily independent from the other.
-Based on these demands above, we need several **independent** and **representitive** training sets for each models.
+Based on these demands above, we need several **independent** and **representative** training sets for each models.
 But in almost all real tasks, we can not usually capture enough observations to present the real part of the world we are interested in.
 So we need a skill to construct our training sets which meet our demands above for all of the sub-models.
 The skill is called **Bootstrapping**.
