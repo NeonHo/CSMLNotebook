@@ -1,5 +1,5 @@
 # 1. CS & ML Notebook
-An A.I. EnObsidian Backup Notebook based on Obsidian Git about Computer Science and Machine Learning.
+An A.I. Engineer, Neon Ho's personal Obsidian Backup Notebook based on Obsidian Git about Computer Science and Machine Learning.
 
 # 2. Obsidian Git User Guide
 
