@@ -39,7 +39,7 @@ The skill is called **Bootstrapping**.
 ### 2.1.2. **A1: ** Bootstrapping
 If we assume that we want train $L$ sub-models. 
 It is easy to understand what the Bootstrapping is doing.
-Just *sampling $B$ [[ Basic Items/Observations.mdvations ]]  with replacement from initial dataset with $N$ samples in it.*
+Just *sampling $B$ [[ Basic Items/Observations.md]]  with replacement from initial dataset with $N$ samples in it.*
 The $B$ observations are used to compose a **Bootstrap Sample**. 
 This sampling need to be done for $L$imes to create $L$ bootstrap samples to feed each sub-model.
 $$
