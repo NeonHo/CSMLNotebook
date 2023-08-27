@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Items/Observations.md",
+                "file": "Ensemble Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basic Items/Observations.md",
+            "file": "Ensemble Models.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basic Items/Observations.md",
+            "file": "Ensemble Models.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basic Items/Observations.md"
+            "file": "Ensemble Models.md"
           }
         }
       }
@@ -131,10 +131,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49ac1e174a489ff6",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
-    "Ensemble Models.md",
     "Basic Items/Observations.md",
+    "Ensemble Models.md",
+    "Basic Items/Dirac Delta Function.md",
     "Basic Items",
     "/Ensemble Models.md"
   ]
