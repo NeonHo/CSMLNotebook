@@ -3,7 +3,7 @@
 所以我们需要应对这个每一个迭代就要用到一个训练集的情况，所以使用随机梯度下降。
 # 2. 随机梯度下降是做什么的？
 ## 2.1. 经典梯度下降算法
-[[第3节 经典优化算法#3.2.1. 一阶法]] 中所讲的
+[[Section 3 Classical Optimization Algorithms#3.2.1. 一阶法]] 中所讲的
 $$
 \theta_{t+1}=\theta_{t} -\alpha\nabla L(\theta_t)
 $$
