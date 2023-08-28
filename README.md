@@ -10,3 +10,7 @@ An A.I. Engineer, Neon Ho's personal Obsidian Backup Notebook based on Obsidian 
 3. Open the repository as the obsidian vault.
 4. Install **Obsidian Git** plugins.
 5. Enable the plugins.
+## 2.2. iOS for iPad
+1. download the code zip file.
+2. unzip the file into a directory.
+3. copy the file
