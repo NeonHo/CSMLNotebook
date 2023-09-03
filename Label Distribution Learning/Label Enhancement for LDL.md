@@ -16,8 +16,8 @@ It is verified to be better than several existing LE methods.
 | Sign               | means                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | $x$                | an instance                                                                                                           |
-| $y$                | a possible label                                                                                                      |
-| $l_x^y\in \{0,1\}$ | whether $y$ describe $x$, called logical label, reflects the logical relationship between the label and the instance. |
+| $y$                | one of the possible labels                                                                                            |
+| $l_x^y\in \{0,1\}$ | whether $y$ describe $x$, called logical label, reflects the logical relationship between the label and the instance. | 
 
-But the logical label is limited by the exclusive choice, it answers that **which label**
+But the logical label is limited by the exclusive choice, it answers that **which label** can describe the instance, not **the degree** 
 ## 2.2. 
