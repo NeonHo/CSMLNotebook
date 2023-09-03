@@ -7,3 +7,4 @@ So we need to recover label distributions.
 # How to label enhance?
 1. use topological information of the feature space.
 2. use correlation among the labels.
+Label enhancement is **to recover label distribution from logical labels**.
