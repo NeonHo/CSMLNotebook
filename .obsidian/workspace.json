@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "974420a205be7542",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "27857112b4b21459",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "974420a205be7542",
+  "active": "45ea504557d8416c",
   "lastOpenFiles": [
     "README.md",
     "Label Distribution Learning/Label Enhancement for LDL.md",
