@@ -10,4 +10,5 @@ So we need to recover label distributions.
 Label enhancement (LE) is **to recover label distribution from logical labels**.
 2 novel LE algorithms are as follows:
 ## 2.1. Graph Laplacian Label Enhancement
+
 ## 2.2. 
