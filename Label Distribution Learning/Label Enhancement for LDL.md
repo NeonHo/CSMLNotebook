@@ -8,6 +8,6 @@ So we need to recover label distributions.
 1. use topological information of the feature space.
 2. use correlation among the labels.
 Label enhancement (LE) is **to recover label distribution from logical labels**.
-2 novel LE algorithms.
-
-## 2.1. 
+2 novel LE algorithms are as follows:
+## 2.1. Graph Laplacian Label Enhancement
+## 2.2. 
