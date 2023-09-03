@@ -21,6 +21,8 @@ It is verified to be better than several existing LE methods.
 
 But the logical label is limited by the exclusive choice, it answers that **which label** can describe the instance, not **the degree** to which $y$ describes $x$.
 
-So we prefer the degree called $
+So we prefer the degree denoted as $d_x^y\in[0,1]$.
+
+
 
 ## 2.2. 
