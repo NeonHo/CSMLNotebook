@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Label Distribution Learning/Label Enhancement for LDL.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "45ea504557d8416c",
   "lastOpenFiles": [
+    "README.md",
+    "Label Distribution Learning/Label Enhancement for LDL.md",
+    "Label Distribution Learning",
     "Attachments/Images/W update.png",
     "Attachments/Images/vanishing_grad-1.webp",
     "Attachments/Images/V update.png",
@@ -170,7 +173,6 @@
     "Attachments/Images/Pasted image 20230806210823.png",
     "Attachments/Images/Pasted image 20230806210622.png",
     "Attachments/Images/Pasted image 20230806210620.png",
-    "Attachments/Images/Pasted image 20230806165050.png",
     "Attachments/Images",
     "Attachments/新建文件夹",
     "Attachments",
@@ -184,9 +186,7 @@
     "Machine Learning/未命名",
     "Machine Learning/Chapter 7 Optimization Algorithms",
     "Machine Learning/Chapter 1 Feature Engineering/Sec 1 Feature Normailzation.md",
-    "README.md",
     "Machine Learning/Chapter 1 Feature Engineering",
-    "Computer Science",
-    "Machine Learning"
+    "Computer Science"
   ]
 }
