@@ -13,4 +13,9 @@ Label enhancement (LE) is **to recover label distribution from logical labels**.
 
 It is verified to be better than several existing LE methods.
 
+| Sign | means       |
+| ---- | ----------- |
+| $x$  | an instance |
+| $y$  |             |
+
 ## 2.2. 
