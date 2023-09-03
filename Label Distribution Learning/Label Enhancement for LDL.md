@@ -17,7 +17,7 @@ It is verified to be better than several existing LE methods.
 | ------------------ | ------------------------ |
 | $x$                | an instance              |
 | $y$                | a possible label         |
-| $l_x^y\in \{0,1\}$ | whether $y$ describe $x$ |
+| $l_x^y\in \{0,1\}$ | whether $y$ describe $x$, called logical label, reflects the logical relationship between the label and the instance. |
 |                    |                          |
 
 ## 2.2. 
