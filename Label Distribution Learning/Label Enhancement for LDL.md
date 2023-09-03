@@ -3,7 +3,7 @@
 Most training sets:
 1. only contain simple logical labels;
 2. difficult to obtain the label distribution directly.
-
+So we need to recover label distributions.
 # How to label enhance?
 1. use topological information of the feature space.
-2. 
+2. use correlation among the labels.
