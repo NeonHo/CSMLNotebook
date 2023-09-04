@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/VSCode Remote SSH.md",
+                "file": "Computer Science/Network/HTTP server.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/VSCode Remote SSH.md",
+            "file": "Computer Science/Network/HTTP server.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/VSCode Remote SSH.md",
+            "file": "Computer Science/Network/HTTP server.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/VSCode Remote SSH.md"
+            "file": "Computer Science/Network/HTTP server.md"
           }
         }
       }
@@ -146,8 +146,11 @@
   },
   "active": "f10f46b39432d799",
   "lastOpenFiles": [
-    "Label Distribution Learning/Label Enhancement for LDL.md",
     "Development/VSCode Remote SSH.md",
+    "Computer Science/Network/HTTP server.md",
+    "Computer Science/Network",
+    "Computer Science",
+    "Label Distribution Learning/Label Enhancement for LDL.md",
     "Development",
     "Ensemble Models.md",
     "Machine Learning/Basic Items",
@@ -175,8 +178,6 @@
     "/Machine Learning/Basic Items/Dirac Delta Function.md",
     "/Machine Learning/Chapter 12 Ensemble Models",
     "/Machine Learning/Basic Items",
-    "/Label Distribution Learning",
-    "/Attachments/Images",
     "Basic Items/Observations.md",
     "Basic Items/Dirac Delta Function.md",
     "/Ensemble Models.md"
