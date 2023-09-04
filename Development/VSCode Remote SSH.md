@@ -9,3 +9,5 @@ Therefore, [[HTTP server]] is also on the remote server.
 If we need to preview the effects locally, we need to forward a port to access the running services locally.
 
 for example:
+![[Pasted image 20230904151633.png]]
+If we forward a port from `localhost:5174` to remote port: `5174`, as soon as we visit th
