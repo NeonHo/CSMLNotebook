@@ -7,3 +7,7 @@ However, our shell, environments, code, etc. are all on the remote server.
 Therefore, [[HTTP server]] is also on the remote server.
 
 If we need to preview the effects locally, we need to forward a port to access the running services locally.
+
+for example:
+
+![[Pasted image 20230904151206.png]]
