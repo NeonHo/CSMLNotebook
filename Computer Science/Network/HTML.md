@@ -1,3 +1,4 @@
+```
 <head> and <body>
 <head>is the head of a web page.
 ● title
@@ -11,7 +12,7 @@ The website is composed of a lot of related pages like these.
 Editing Rules
 1. The pictures on the web page are gifs or jpgs.
 2. Enter is ignored by the browser but can make the code easy to read.
-3. ``is begin, </>is end.
+3. <>is begin, </>is end.
 4. <!--text--> is the comments that are not displayed.
 Brief
 DOCTYPE: document type
@@ -23,4 +24,4 @@ DOCTYPE: document type
 `<p></p>`: a paragraph.
 
 HTML is a markup language, not a programming language.
-
+```
