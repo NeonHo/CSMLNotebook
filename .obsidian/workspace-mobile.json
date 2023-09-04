@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensemble Models.md",
+                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ensemble Models.md",
+            "file": "Label Distribution Learning/Label Enhancement for LDL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ensemble Models.md",
+            "file": "Label Distribution Learning/Label Enhancement for LDL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ensemble Models.md"
+            "file": "Label Distribution Learning/Label Enhancement for LDL.md"
           }
         }
       }
@@ -131,12 +131,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "49ac1e174a489ff6",
   "lastOpenFiles": [
+    "Ensemble Models.md",
+    "Machine Learning/Basic Items",
+    "Attachments/Images/Pasted image 20230723084327.png",
+    "Attachments/Images/Pasted image 20230802144003.png",
+    "Attachments/Images/Pasted image 20230728152038.png",
+    "Attachments/Images/Pasted image 20230727200234.png",
+    "Attachments/Images/Pasted image 20230728152204.png",
+    "Attachments/Images/Pasted image 20230806213700.png",
+    "Attachments/Images/Pasted image 20230728152100.png",
+    "Attachments/Images/V update.png",
+    "Attachments/Images/Pasted image 20230728152112.png",
+    "Attachments/Images/Pasted image 20230806210622.png",
+    "Attachments/Images",
+    "Attachments",
+    "Machine Learning/Basic Items/Dirac Delta Function.md",
+    "Label Distribution Learning/Label Enhancement for LDL.md",
+    "Label Distribution Learning",
+    "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "Machine Learning/Chapter 12 Ensemble Models",
+    "Machine Learning/Basic Items/Observations.md",
+    "/README.md",
+    "/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "/Label Distribution Learning/Label Enhancement for LDL.md",
+    "/Machine Learning/Basic Items/Observations.md",
+    "/Machine Learning/Basic Items/Dirac Delta Function.md",
+    "/Machine Learning/Chapter 12 Ensemble Models",
+    "/Machine Learning/Basic Items",
+    "/Label Distribution Learning",
+    "/Attachments/Images",
+    "/Attachments",
     "Basic Items/Observations.md",
     "Basic Items/Dirac Delta Function.md",
-    "Ensemble Models.md",
-    "Basic Items",
     "/Ensemble Models.md"
   ]
 }
