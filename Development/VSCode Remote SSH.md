@@ -12,4 +12,6 @@ for example:
 ![[Pasted image 20230904151633.png]]
 If we forward a port from `localhost:5174` to remote port: `5174`, as soon as we visit `localhost:5174`, VSCode will post the request to the port `5174` on the remote server.
 
-If we do this, our local PC will forward the request from the local preview front end to the r
+If we do this, our local PC will forward the request from the local preview front end to the remote back end by using VSCode Remote SSH.
+
+Local PC will afford the load of front end and be responsible for 
