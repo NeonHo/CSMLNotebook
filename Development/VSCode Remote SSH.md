@@ -11,3 +11,5 @@ If we need to preview the effects locally, we need to forward a port to access t
 for example:
 ![[Pasted image 20230904151633.png]]
 If we forward a port from `localhost:5174` to remote port: `5174`, as soon as we visit `localhost:5174`, VSCode will post the request to the port `5174` on the remote server.
+
+If we do this, 
