@@ -14,4 +14,5 @@ If we forward a port from `localhost:5174` to remote port: `5174`, as soon as we
 
 If we do this, our local PC will forward the request from the local preview front end to the remote back end by using VSCode Remote SSH.
 
-Local PC will afford the load of front end and be responsible to forward the request 
+The local PC will afford the load of front end and be responsible to forward the request through VSCode to the remote back end.
+The lod

@@ -2,5 +2,8 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "spellcheckDictionary": [
+    "VSCode"
+  ]
 }
