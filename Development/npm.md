@@ -38,3 +38,4 @@ Here's what happens when you run `npm run dev`:
 4. Continuous Monitoring: In many cases, `npm run dev` will also monitor your project's files for changes. When it detects changes, it may trigger automatic code recompilation or server restart, allowing you to see the immediate effects of your code edits during development.
 
 Keep in mind that the exact behavior of `npm run dev` can vary significantly depending on the project's configuration, the specific script you've defined, and the technologies you're using. It is a common practice in web development for setting up a development environment tailored to your project's needs, making it easier to develop, test, and debug your code.
+## 1.2. 
