@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/VS code remote ssh.md",
+                "file": "Development/VSCode Remote SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/VS code remote ssh.md",
+            "file": "Development/VSCode Remote SSH.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/VS code remote ssh.md",
+            "file": "Development/VSCode Remote SSH.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/VS code remote ssh.md"
+            "file": "Development/VSCode Remote SSH.md"
           }
         }
       }
@@ -147,7 +147,7 @@
   "active": "f10f46b39432d799",
   "lastOpenFiles": [
     "Label Distribution Learning/Label Enhancement for LDL.md",
-    "Development/VS code remote ssh.md",
+    "Development/VSCode Remote SSH.md",
     "Development",
     "Ensemble Models.md",
     "Machine Learning/Basic Items",
