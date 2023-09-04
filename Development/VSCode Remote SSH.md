@@ -5,4 +5,5 @@ When developing a light service, we may need to preview the effects locally.
 However, our shell, environments, code, etc. are all on the remote server.
 Therefore, [[HTTP server]] is also on the remote server.
 
-If we need to preview the effects locally, we need to for
+If we need to preview the effects locally, we need to forward a port to access the running services locally.
+
