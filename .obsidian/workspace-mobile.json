@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/DOM.md",
+                "file": "Computer Science/Network/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/DOM.md",
+            "file": "Computer Science/Network/HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/DOM.md",
+            "file": "Computer Science/Network/HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/DOM.md"
+            "file": "Computer Science/Network/HTML.md"
           }
         }
       }
@@ -132,10 +132,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a67b3c2acb82115",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
-    "Development/Vite.md",
     "Development/DOM.md",
+    "Development/Vite.md",
     "Development/npm.md",
     "Computer Science/Network/HTML.md",
     "Computer Science/Network/HTTP server.md",

@@ -25,3 +25,4 @@ DOCTYPE: document type
 
 HTML is a markup language, not a programming language.
 ```
+
