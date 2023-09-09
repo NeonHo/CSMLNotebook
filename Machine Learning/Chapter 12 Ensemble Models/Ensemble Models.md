@@ -119,3 +119,4 @@ If the trees are deep, they are with high bias and low variance, so they are sui
 
 If the trees are shallow, they are with low bias and high variance. To avoid over-fitting, bagging is applied on them.
 
+Random Forest is a typical bagging method, but the only 
