@@ -115,4 +115,7 @@ If bagging is a good idea, what typical or famous method is based on this idea?
 
 Forest: a strong learner which is composed of several trees.
 
-If the trees are deep, they are with high bias and low variance, so they are suitable for <p color=>sequential methods</p>.
+If the trees are deep, they are with high bias and low variance, so they are suitable for <font color="red">sequential methods</font>.
+
+If the trees are shallow, they are with low bias and high variance. To avoid over-fitting, bagging is applied on them.
+
