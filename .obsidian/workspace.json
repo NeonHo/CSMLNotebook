@@ -6,6 +6,7 @@
       {
         "id": "e644796922ccd479",
         "type": "tabs",
+        "dimension": 64.09395973154362,
         "children": [
           {
             "id": "222f4b2305e16b97",
@@ -17,7 +18,26 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "b165dfd7d13f1faa"
+          }
+        ]
+      },
+      {
+        "id": "ed39c4966ed74cd1",
+        "type": "tabs",
+        "dimension": 35.90604026845637,
+        "children": [
+          {
+            "id": "a46e3b25aea06e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md"
+              }
+            },
+            "group": "b165dfd7d13f1faa"
           }
         ]
       }
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
