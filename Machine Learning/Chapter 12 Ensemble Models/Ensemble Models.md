@@ -111,5 +111,6 @@ If you want your bagging is more flexible, you can **attach weights** to the out
 To summarize, bagging is **a series weak learners were parallel connected, with an “average” aggregation at the tail.**, this is the ensemble model.
 ### 2.1.5. **Q3:** Is there any typical architecture we need to know?
 If bagging is a good idea, what typical or famous method is based on this idea?
-### 2.1.6. **A3: **Random Forest
+### 2.1.6. **A3:** Random Forest
 
+Forest: a strong learner which is composed of several trees.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
+                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
+                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Label Distribution Learning/Label Enhancement for LDL.md",
+                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Label Distribution Learning/Label Enhancement for LDL.md"
+                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md"
               }
             }
           }
@@ -161,9 +161,21 @@
   },
   "active": "45ea504557d8416c",
   "lastOpenFiles": [
+    "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
+    "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "Development/VSCode Remote SSH.md",
+    "Development/Vite.md",
+    "Development/npm.md",
+    "Development/DOM.md",
+    "Development",
+    "Computer Science/Network/HTML.md",
+    "Computer Science/Network/HTTP server.md",
+    "Computer Science/Network",
+    "Computer Science",
+    "Attachments/Pasted image 20230904151633.png",
+    "Attachments/Pasted image 20230904150557.png",
     "README.md",
-    "Label Distribution Learning/Label Enhancement for LDL.md",
-    "Label Distribution Learning",
+    "Machine Learning/Label Distribution Learning",
     "Attachments/Images/W update.png",
     "Attachments/Images/vanishing_grad-1.webp",
     "Attachments/Images/V update.png",
@@ -172,22 +184,16 @@
     "Attachments/Images/Pasted image 20230806213700.png",
     "Attachments/Images/Pasted image 20230806210853.png",
     "Attachments/Images/Pasted image 20230806210823.png",
-    "Attachments/Images/Pasted image 20230806210622.png",
-    "Attachments/Images/Pasted image 20230806210620.png",
     "Attachments/Images",
     "Attachments/新建文件夹",
     "Attachments",
     "Machine Learning/Chapter 12 Ensemble Models",
-    "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
     "Machine Learning/Basic Items/Observations.md",
     "Machine Learning/Basic Items/Dirac Delta Function.md",
     "Machine Learning/Basic Items",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/未命名",
-    "Machine Learning/Chapter 7 Optimization Algorithms",
-    "Machine Learning/Chapter 1 Feature Engineering/Sec 1 Feature Normailzation.md",
-    "Machine Learning/Chapter 1 Feature Engineering",
-    "Computer Science"
+    "Machine Learning/Chapter 1 Feature Engineering/Sec 1 Feature Normailzation.md"
   ]
 }
