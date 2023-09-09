@@ -130,3 +130,6 @@ The reason of sampling over features is as follows:
 >It reduces the correlation between the different returned outputs. Another advantage of sampling over the features is that **it makes the decision-making process more robust to missing data**: observations (from the training dataset or not) with missing data can still be regressed or classified based on the trees that take into account only features where data are not missing.
 
 ## 2.2. Boosting
+
+Boosting is the most famous ensemble method that can make the model less biased than the weak learners in it.
+
