@@ -114,3 +114,5 @@ If bagging is a good idea, what typical or famous method is based on this idea?
 ### 2.1.6. **A3:** Random Forest
 
 Forest: a strong learner which is composed of several trees.
+
+If the trees are deep, they are with high bias and low variance, so they are suitable for <p color=>sequential methods</p>.
