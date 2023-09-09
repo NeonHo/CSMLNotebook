@@ -115,6 +115,8 @@ If bagging is a good idea, what typical or famous method is based on this idea?
 
 Forest: a strong learner which is composed of several trees.
 
+Random: random bootstrap dataset + bagging of outputs from each tree + random features sampling
+
 If the trees are deep, they are with high bias and low variance, so they are suitable for <font color="red">sequential methods</font>.
 
 If the trees are shallow, they are with low bias and high variance. To avoid over-fitting, bagging is applied on them.
@@ -122,4 +124,9 @@ If the trees are shallow, they are with low bias and high variance. To avoid ove
 Random Forest is a typical bagging method, but there is an extra trick.
 The trick is that the bootstrap is not only used to generate subsets from the whole dataset, but also used to sample over features.
 
-The reason of sampling over features is as same as the bootstrap over dataset, if we only use the same set of features, 
+Different feature subsets are considered by different trees.
+
+
+The reason of sampling over features is as follows:
+>It reduces the correlation between the different returned outputs. Another advantage of sampling over the features is that **it makes the decision-making process more robust to missing data**: observations (from the training dataset or not) with missing data can still be regressed or classified based on the trees that take into account only features where data are not missing.
+
