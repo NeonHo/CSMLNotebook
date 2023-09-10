@@ -6,7 +6,7 @@
       {
         "id": "e644796922ccd479",
         "type": "tabs",
-        "dimension": 47.16049382716049,
+        "dimension": 63.51684470008217,
         "children": [
           {
             "id": "222f4b2305e16b97",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+                "file": "Multiplication Times for CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "ed39c4966ed74cd1",
         "type": "tabs",
-        "dimension": 52.83950617283951,
+        "dimension": 36.48315529991783,
         "children": [
           {
             "id": "a46e3b25aea06e63",
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md"
+                "file": "Multiplication Times for CNN.md"
               }
             },
             "group": "b165dfd7d13f1faa"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+                "file": "Multiplication Times for CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+                "file": "Multiplication Times for CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md"
+                "file": "Multiplication Times for CNN.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "222f4b2305e16b97",
   "lastOpenFiles": [
-    "README.md",
     "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "Multiplication Times for CNN.md",
+    "README.md",
     "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Development/VSCode Remote SSH.md",
     "Development/Vite.md",

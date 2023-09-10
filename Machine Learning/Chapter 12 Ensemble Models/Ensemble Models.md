@@ -1,5 +1,5 @@
 # 1. Why we need ensemble models?
-Maybe, the single model in the Machine Learning can not performance idealy.
+Maybe, the single model in the Machine Learning can not performance ideally.
 For example, only one model may not predict the result accurately or may only performance accurately in an small subset.
 We can use some tricks to lift the performance of the whole model by compose several ‘silly’ models.
 # 2. What are the ensemble models?
