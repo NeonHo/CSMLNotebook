@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/HTML.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "52af217b9a52708e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Network/HTML.md",
+            "file": "未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Network/HTML.md",
+            "file": "未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Network/HTML.md"
+            "file": "未命名.md"
           }
         }
       }
@@ -132,12 +145,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "52af217b9a52708e",
   "lastOpenFiles": [
+    "README.md",
+    "未命名.md",
+    "Computer Science/Network/HTML.md",
+    "Machine Learning/Label Distribution Learning",
+    "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
+    "/Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
+    "/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "/Machine Learning/Label Distribution Learning",
     "Development/DOM.md",
     "Development/Vite.md",
     "Development/npm.md",
-    "Computer Science/Network/HTML.md",
     "Computer Science/Network/HTTP server.md",
     "Attachments/Pasted image 20230904151633.png",
     "Attachments/Pasted image 20230904164439.png",
@@ -164,12 +184,9 @@
     "Machine Learning/Chapter 12 Ensemble Models",
     "Machine Learning/Basic Items/Observations.md",
     "/README.md",
-    "/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
     "/Label Distribution Learning/Label Enhancement for LDL.md",
     "/Machine Learning/Basic Items/Observations.md",
     "/Machine Learning/Basic Items/Dirac Delta Function.md",
-    "/Machine Learning/Chapter 12 Ensemble Models",
-    "/Machine Learning/Basic Items",
     "Basic Items/Observations.md",
     "Basic Items/Dirac Delta Function.md",
     "/Ensemble Models.md"
