@@ -8,8 +8,21 @@
 
 4. **步幅（stride）和填充（padding）**：步幅和填充的设置也会影响卷积操作的乘法次数。较大的步幅和较多的填充会减少输出特征图的大小，从而降低乘法操作的次数。
 
-综合考虑这些因素，一次卷积操作的乘法次数可以用以下公式表示：
+# 2D Convolution
+
+Each output unit need $C_{in}\times K^2$ multiplication and $C_{in}\times K^2-1$ addition.
+If we have bias, we need an extra addition for each output unit.
+And the total number of output units is $C_{out}\times W\times H$.
+So the total number of computation for 1 layer is 
 $$
-\text{乘法操作次数} = H \times W \times K_h \times K_w \times C_{\text{in}} \times C_{\text{out}}
+2\times C_{in}\times K^2 \times C_{out}\times W\times H
 $$
-这个公式考虑了输入特征图的大小、卷积核的大小以及通道数之间的关系，可以帮助你估算一次卷积操作的乘法次数。请注意，这只是一个粗略的估算，实际的计算过程中还会考虑到优化和并行计算等因素。
+
+# 3D Convolution
+
+3D convolution's kernel is 3D, so it has an extra dimension compared with 2D convolution, and the output feature matrix has an extra dimension $T$ to present "time".
+
+So the total number of computation for 1 layer is:
+$$
+2\times C_{in}\times K^3 \times C_{out}\times W\times H \times T
+$$
