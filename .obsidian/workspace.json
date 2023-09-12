@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md"
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md"
               }
             },
             "group": "b165dfd7d13f1faa"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md"
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md"
               }
             }
           }
@@ -169,11 +169,12 @@
   },
   "active": "222f4b2305e16b97",
   "lastOpenFiles": [
+    "Computer Science/Chapter 1 A Tour of Computer System/未命名.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
     "Attachments/Pasted image 20230912083403.png",
     "Attachments/Pasted image 20230912083110.png",
     "Attachments/Pasted image 20230912083037.png",
     "Multiplication Times for CNN.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.0. Hello.c.md",
     "Computer Science/Part III Interaction and Communication between Programs",
     "Computer Science/未命名.md",
     "Computer Science/Part II Running Programs on a System",
@@ -199,7 +200,6 @@
     "Attachments/Images/V update.png",
     "Attachments/Images/sigmoid_function.png",
     "Attachments/Images/Pasted image 20230806213754.png",
-    "Attachments/Images/Pasted image 20230806213700.png",
     "Attachments/Images",
     "Attachments/新建文件夹",
     "Machine Learning/Basic Items/Observations.md",
