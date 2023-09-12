@@ -20,8 +20,21 @@
               }
             },
             "group": "b165dfd7d13f1faa"
+          },
+          {
+            "id": "3cd3099f6f84f48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ed39c4966ed74cd1",
@@ -167,8 +180,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "222f4b2305e16b97",
+  "active": "3cd3099f6f84f48e",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230912104425.png",
+    "Attachments/Pasted image 20230912104316.png",
     "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md",
     "Attachments/Pasted image 20230912091854.png",
@@ -199,7 +214,6 @@
     "Attachments/Images/W update.png",
     "Attachments/Images/vanishing_grad-1.webp",
     "Attachments/Images/V update.png",
-    "Attachments/Images/sigmoid_function.png",
     "Attachments/Images",
     "Attachments/新建文件夹",
     "Machine Learning/Basic Items/Observations.md",
