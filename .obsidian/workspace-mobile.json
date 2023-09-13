@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Javascript/Axios.md",
+                "file": "Development/front end/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/Javascript/Axios.md",
+            "file": "Development/front end/Vue.js.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/Javascript/Axios.md",
+            "file": "Development/front end/Vue.js.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/Javascript/Axios.md"
+            "file": "Development/front end/Vue.js.md"
           }
         }
       }
@@ -134,9 +134,11 @@
   },
   "active": "5c905b7680d15e79",
   "lastOpenFiles": [
+    "Development/Javascript/Axios.md",
+    "Development/front end/Vue.js.md",
+    "Development/front end",
     "Development/Javascript",
     "Development/CSS.md",
-    "Development/Javascript/Axios.md",
     "Development/HTML.md",
     "Multiplication Times for CNN.md",
     "Attachments/Pasted image 20230912083110.png",
@@ -165,7 +167,6 @@
     "/Computer Science/Part III Interaction and Communication between Programs",
     "/Computer Science/Chapter 1 A Tour of Computer System",
     "README.md",
-    "未命名.md",
     "Computer Science/Network/HTML.md",
     "Machine Learning/Label Distribution Learning",
     "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
@@ -177,8 +178,6 @@
     "Computer Science/Network/HTTP server.md",
     "Development/VSCode Remote SSH.md",
     "Label Distribution Learning/Label Enhancement for LDL.md",
-    "Computer Science/Network",
-    "Computer Science",
     "Ensemble Models.md"
   ]
 }
