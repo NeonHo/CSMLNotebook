@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/CSS.md",
+                "file": "Development/Javascript/Axios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/CSS.md",
+            "file": "Development/Javascript/Axios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/CSS.md",
+            "file": "Development/Javascript/Axios.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/CSS.md"
+            "file": "Development/Javascript/Axios.md"
           }
         }
       }
@@ -134,8 +134,10 @@
   },
   "active": "5c905b7680d15e79",
   "lastOpenFiles": [
-    "Development/HTML.md",
+    "Development/Javascript",
     "Development/CSS.md",
+    "Development/Javascript/Axios.md",
+    "Development/HTML.md",
     "Multiplication Times for CNN.md",
     "Attachments/Pasted image 20230912083110.png",
     "Attachments/Pasted image 20230912083037.png",
@@ -177,8 +179,6 @@
     "Label Distribution Learning/Label Enhancement for LDL.md",
     "Computer Science/Network",
     "Computer Science",
-    "Ensemble Models.md",
-    "Machine Learning/Basic Items/Dirac Delta Function.md",
-    "Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md"
+    "Ensemble Models.md"
   ]
 }
