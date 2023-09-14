@@ -18,4 +18,9 @@ def hello():
     return 'Hello, World!'
 ```
 ## Application Factory
-### `__init__.py`
+### Create the flaskr directory and add the `__init__.py` file.
+The __init__.py serves double duty: 
+1. it will contain the application factory, 
+2. and it tells Python that the flaskr directory should be treated as a package.
+
+
