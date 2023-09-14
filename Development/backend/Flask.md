@@ -1,2 +1,4 @@
 Require a bit of boilerplate up front:
-avoid common pitfalls (likely mistakes in a situation)
+1. avoid common pitfalls (likely mistakes in a situation)
+2. create a project that is easy to expand on.
+3. 
