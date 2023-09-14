@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8d69ed18f2f9b7",
+        "id": "66755cfac7b427f5",
         "type": "tabs",
         "children": [
           {
-            "id": "0148357c8e2ec814",
+            "id": "455879ed6539feab",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Images/Pasted image 20230904150557.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -132,6 +130,7 @@
   },
   "active": "fcb77d992973cad7",
   "lastOpenFiles": [
+    "Development/未命名",
     "Development/front end/Vue.js.md",
     "Attachments/Images/Pasted image 20230912091854.png",
     "Development/Javascript/Axios.md",
@@ -144,7 +143,7 @@
     "Attachments/Images/Pasted image 20230912083037.png",
     "Attachments/Images/Pasted image 20230912104425.png",
     "Attachments/Images/Pasted image 20230912083403.png",
-    "Attachments/Pasted image 20230912113056.png",
+    "Attachments/Images/Pasted image 20230912113056.png",
     "Attachments/Images/Pasted image 20230912104316.png",
     "Attachments/Images/Pasted image 20230912112755.png",
     "Computer Science/Part III Interaction and Communication between Programs/Network/HTTP server.md",
