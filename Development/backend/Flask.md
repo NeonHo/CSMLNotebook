@@ -17,3 +17,5 @@ app = Flask(__name__)
 def hello():
     return 'Hello, World!'
 ```
+## Application Factory
+### `__init__.py`
