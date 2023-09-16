@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions.md",
+                "file": "Development/backend/Flask.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Troubles and Solutions.md",
+            "file": "Development/backend/Flask.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Troubles and Solutions.md",
+            "file": "Development/backend/Flask.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Troubles and Solutions.md"
+            "file": "Development/backend/Flask.md"
           }
         }
       }
@@ -147,10 +147,10 @@
   },
   "active": "ccdf0909b899749e",
   "lastOpenFiles": [
+    "Troubles and Solutions.md",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Development/Nvidia/TensorRT.md",
-    "Troubles and Solutions.md",
     "Development/Git",
     "Development/backend/Flask.md",
     "Development/Nvidia",
@@ -170,7 +170,6 @@
     "Attachments/Images/Pasted image 20230912083403.png",
     "Attachments/Images/Pasted image 20230912113056.png",
     "Attachments/Images/Pasted image 20230912104316.png",
-    "Attachments/Images/Pasted image 20230912112755.png",
     "Computer Science/Part III Interaction and Communication between Programs/Network/HTTP server.md",
     "Computer Science/Part III Interaction and Communication between Programs/Network",
     "Computer Science/Part III Interaction and Communication between Programs",
