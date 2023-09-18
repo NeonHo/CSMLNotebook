@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52c1c72d825d6ad7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ed39c4966ed74cd1",
@@ -190,7 +200,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3cd3099f6f84f48e",
+  "active": "52c1c72d825d6ad7",
   "lastOpenFiles": [
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.4. Floating Point.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.3. Integer Arithmetic.md",
