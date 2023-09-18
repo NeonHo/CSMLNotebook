@@ -5,6 +5,7 @@
   "attachmentFolderPath": "Attachments",
   "spellcheckDictionary": [
     "VSCode",
-    "TensorRT"
+    "TensorRT",
+    "Amdahl"
   ]
 }
