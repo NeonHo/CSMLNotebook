@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26eb895f9dbfb3bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ed39c4966ed74cd1",
@@ -161,6 +171,16 @@
                 "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md"
               }
             }
+          },
+          {
+            "id": "d1a2c0a48ed19f36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -180,7 +200,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3cd3099f6f84f48e",
+  "active": "26eb895f9dbfb3bc",
   "lastOpenFiles": [
     "Attachments/Pasted image 20230912113056.png",
     "Attachments/Pasted image 20230912112755.png",
