@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
+                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2..md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md"
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md"
               }
             },
             "group": "b165dfd7d13f1faa"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
+                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
+                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md"
+                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2..md"
               }
             }
           },
@@ -192,15 +192,17 @@
   },
   "active": "3cd3099f6f84f48e",
   "lastOpenFiles": [
+    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Information Storage.md",
+    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2..md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
-    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/Chapter 1 A Tour of Computer System/1.10. Summary.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md",
     "Troubles and Solutions.md",
     "Development/front end/Vue.js.md",
     "Development/front end",
@@ -222,7 +224,6 @@
     "Attachments/Images/Pasted image 20230912083403.png",
     "Attachments/Images/Pasted image 20230912083110.png",
     "Attachments/Images/Pasted image 20230912083037.png",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs are translated into different formats.md",
     "Multiplication Times for CNN.md",
     "Computer Science/Part III Interaction and Communication between Programs",
     "Computer Science/未命名.md",
@@ -236,7 +237,6 @@
     "Development/Vite.md",
     "Development/npm.md",
     "Development/DOM.md",
-    "Development",
-    "Computer Science/Part III Interaction and Communication between Programs/Network/HTML.md"
+    "Development"
   ]
 }
