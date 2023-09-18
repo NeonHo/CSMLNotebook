@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Troubles and Solutions.md",
+            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Troubles and Solutions.md",
+            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Troubles and Solutions.md"
+            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md"
           }
         }
       }
@@ -132,11 +132,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "455879ed6539feab",
   "lastOpenFiles": [
-    "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
+    "Troubles and Solutions.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.10. Summary.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2. Integer Representations.md",
     "Development/Nvidia/TensorRT.md",
@@ -161,7 +162,6 @@
     "/Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "/Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
     "/Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
-    "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.5. Summary.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
