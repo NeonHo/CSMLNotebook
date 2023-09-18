@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md",
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md"
+                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md"
               }
             }
           },
@@ -192,13 +192,13 @@
   },
   "active": "3cd3099f6f84f48e",
   "lastOpenFiles": [
+    "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Storage.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/Chapter 1 A Tour of Computer System/1.10. Summary.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems communicated using Networks..md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System manages Hardware.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.6. Memory Hierarchy.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processor read and explain the instructions.md",
     "Troubles and Solutions.md",
