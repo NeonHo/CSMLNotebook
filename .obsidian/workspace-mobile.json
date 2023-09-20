@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
+                "file": "Development/front end/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
+            "file": "Development/front end/Vue.js.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
+            "file": "Development/front end/Vue.js.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md"
+            "file": "Development/front end/Vue.js.md"
           }
         }
       }
@@ -132,10 +132,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "455879ed6539feab",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
-    "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
+    "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
     "Troubles and Solutions.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.10. Summary.md",
