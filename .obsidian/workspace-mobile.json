@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/front end/Vue.js.md",
+                "file": "Multiplication Times for CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Multiplication Times for CNN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Multiplication Times for CNN.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/Vue.js.md"
+            "file": "Multiplication Times for CNN.md"
           }
         }
       }
@@ -134,6 +134,7 @@
   },
   "active": "fcb77d992973cad7",
   "lastOpenFiles": [
+    "Development/front end/Vue.js.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
@@ -161,7 +162,6 @@
     "/Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "/Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "/Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
-    "/Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
