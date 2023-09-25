@@ -59,3 +59,8 @@ Number、String、表达式字面量、Array、Object、Function
 var 存储数据值。
 等号赋值。
 ## 操作符
+算术运算符、赋值运算符。
+## 语句
+用分号隔开
+## 关键字
+var创建一个变量。
