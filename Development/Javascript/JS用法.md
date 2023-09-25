@@ -37,3 +37,16 @@ F12能够通过Snippets中写一些小脚本，然后运行。
 通过修改HTML元素显示，
 通过alert警告显示。
 
+```HTML
+<!DOCTYPE html>
+<html>
+<body>
+<h1>我的第一个页面</h1><p>我的第一个段落。</p>
+	
+<script>window.alert(5 + 6);
+</script>
+
+</body>
+</html>
+```
+或者通过`console.log()`写到控制台。
