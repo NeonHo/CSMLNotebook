@@ -57,3 +57,5 @@ F12能够通过Snippets中写一些小脚本，然后运行。
 Number、String、表达式字面量、Array、Object、Function
 ## 变量
 var 存储数据值。
+等号赋值。
+## 操作符
