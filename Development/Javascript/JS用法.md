@@ -136,4 +136,5 @@ document.getElementById("demo2").innerHTML="RUNOOB-2!";      // 主线程先执�
 </script>
 
 ```
-RUNOOB-1
+RUNOOB-1!会在3秒后才显示出来，但是RUNOOB-2!立刻显示。
+
