@@ -53,3 +53,7 @@ F12能够通过Snippets中写一些小脚本，然后运行。
 
 # 语法
 ## 字面量
+一般的固定值
+Number、String、表达式字面量、Array、Object、Function
+## 变量
+var 存储数据值。
