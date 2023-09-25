@@ -9,4 +9,6 @@ JS脚本一定是位于H5的 `<script>` 与 `</script>` 标签之间。
 x=document.getElementById("demo");  //查找元素
 x.innerHTML="Hello JavaScript";    //改变内容
 ```
-获得一个DOM
+
+根据ID获得一个DOM，对这个DOM进行修改。
+
