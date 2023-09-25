@@ -66,3 +66,11 @@ var 存储数据值。
 var创建一个变量。
 ## 数据类型
 数字、表达式、字符串、数组、对象。
+## 函数
+```JavaScript
+function myFunction(a, b) {
+   	return a * b;         
+                     
+// 返回 a 乘以 b 的结果
+}
+```
