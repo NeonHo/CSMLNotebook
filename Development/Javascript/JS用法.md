@@ -11,7 +11,7 @@ x.innerHTML="Hello JavaScript";    //改变内容
 ```
 
 根据ID获得一个DOM，对这个DOM进行修改。
-
+# 输出
 完整的内容可以简单的理解为：
 ```HTML
 <!DOCTYPE html>
@@ -50,3 +50,6 @@ F12能够通过Snippets中写一些小脚本，然后运行。
 </html>
 ```
 或者通过`console.log()`写到控制台。
+
+# 语法
+## 字面量
