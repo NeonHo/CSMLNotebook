@@ -31,4 +31,9 @@ function myFunction()
 ```
 
 
-F12能够通过Snippets中写一些小脚本，然后运行
+F12能够通过Snippets中写一些小脚本，然后运行。
+
+输出有两种方式：
+通过修改HTML元素显示，
+通过alert警告显示。
+
