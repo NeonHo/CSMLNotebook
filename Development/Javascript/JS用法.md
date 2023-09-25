@@ -96,3 +96,5 @@ carname="Volvo";
 # 事件
 HTML事件 浏览器行为、用户行为。
 当事件发生， 就可以用JS执行代码。
+```JavaScript
+```
