@@ -12,3 +12,20 @@ x.innerHTML="Hello JavaScript";    //改变内容
 
 根据ID获得一个DOM，对这个DOM进行修改。
 
+完整的内容可以简单的理解为：
+```HTML
+<!DOCTYPE html>
+<html>
+<body>
+<h1>我的 Web 页面</h1>
+<p id="demo">一个段落</p>
+<button type="button" onclick="myFunction()">尝试一下</button>
+<script>
+function myFunction()
+{
+    document.getElementById("demo").innerHTML="我的第一个 JavaScript 函数";
+}
+</script>
+</body>
+</html>
+```
