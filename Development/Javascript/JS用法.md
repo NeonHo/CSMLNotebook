@@ -124,3 +124,16 @@ const 声明一个只读的常量，一旦声明，常量的值就不能改变�
 
 # 异步
 JavaScript 中的异步操作函数往往通过回调函数来实现异步任务的结果处理。
+```JavaScript
+<p>回调函数等待 3 秒后执行。</p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<script>
+setTimeout(function () {
+    document.getElementById("demo1").innerHTML="RUNOOB-1!";  // 三秒后子线程执行
+}, 3000);
+document.getElementById("demo2").innerHTML="RUNOOB-2!";      // 主线程先执行
+</script>
+
+```
+RUNOOB-1
