@@ -97,4 +97,10 @@ carname="Volvo";
 HTML事件 浏览器行为、用户行为。
 当事件发生， 就可以用JS执行代码。
 ```JavaScript
+<some-HTML-element some-event='JavaScript 代码'>
+```
+例如，点击按钮显示时间
+```JavaScript
+<button onclick="getElementById('demo').innerHTML=Date()">现在的时间是?</button>
+<p id="demo"></p>
 ```
