@@ -29,3 +29,6 @@ function myFunction()
 </body>
 </html>
 ```
+
+
+F12能够通过Snippets中写一些小脚本，然后运行

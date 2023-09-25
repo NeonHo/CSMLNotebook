@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/G6/快速上手.md",
+                "file": "Development/Javascript/JS用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/G6/快速上手.md",
+            "file": "Development/Javascript/JS用法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/G6/快速上手.md",
+            "file": "Development/Javascript/JS用法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/G6/快速上手.md"
+            "file": "Development/Javascript/JS用法.md"
           }
         }
       }
@@ -134,8 +134,8 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
-    "Development/Javascript/JS用法.md",
     "Development/G6/快速上手.md",
+    "Development/Javascript/JS用法.md",
     "Multiplication Times for CNN.md",
     "Development/G6",
     "Development/front end/Vue.js.md",
