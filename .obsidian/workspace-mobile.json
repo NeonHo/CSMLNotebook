@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/collections/deque.md",
+                "file": "Data Structure/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Languages/Python/collections/deque.md",
+            "file": "Data Structure/Binary Tree.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Languages/Python/collections/deque.md",
+            "file": "Data Structure/Binary Tree.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/Python/collections/deque.md"
+            "file": "Data Structure/Binary Tree.md"
           }
         }
       }
@@ -134,8 +134,10 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
-    "Languages/Python/list.md",
     "Languages/Python/collections/deque.md",
+    "Data Structure/Binary Tree.md",
+    "Data Structure",
+    "Languages/Python/list.md",
     "Languages/Python/collections",
     "Languages/Python/slice in List & Tuple.md",
     "Development/Javascript/JS用法.md",
@@ -165,13 +167,11 @@
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.4. Floating Point.md",
     "/Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.4. Floating Point.md",
-    "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.3. Integer Arithmetic.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Development/Git",
-    "Development/Nvidia",
     "Attachments/Images/Pasted image 20230904150557.png",
     "Attachments/Images/Pasted image 20230912091854.png",
     "Attachments/Images/Pasted image 20230912083110.png",
