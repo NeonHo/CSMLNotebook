@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Nvidia/如何查看cuda版本.md",
+                "file": "Development/quantization tool/quant single onnx network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/Nvidia/如何查看cuda版本.md",
+            "file": "Development/quantization tool/quant single onnx network.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/Nvidia/如何查看cuda版本.md",
+            "file": "Development/quantization tool/quant single onnx network.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/Nvidia/如何查看cuda版本.md"
+            "file": "Development/quantization tool/quant single onnx network.md"
           }
         }
       }
@@ -134,8 +134,10 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
-    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Development/Nvidia/如何查看cuda版本.md",
+    "Development/quantization tool/quant single onnx network.md",
+    "Development/quantization tool",
+    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Data Structure/Binary Tree.md",
     "Languages/Python/collections/deque.md",
@@ -166,12 +168,10 @@
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.5. Summary.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.3. Integer Arithmetic.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
-    "Development/Git",
     "Attachments/Images/Pasted image 20230904150557.png",
     "Attachments/Images/Pasted image 20230912091854.png",
     "Attachments/Images/Pasted image 20230912083110.png",
