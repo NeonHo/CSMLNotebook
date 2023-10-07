@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+                "file": "Development/Nvidia/如何查看cuda版本.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+            "file": "Development/Nvidia/如何查看cuda版本.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+            "file": "Development/Nvidia/如何查看cuda版本.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md"
+            "file": "Development/Nvidia/如何查看cuda版本.md"
           }
         }
       }
@@ -134,6 +134,8 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
+    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+    "Development/Nvidia/如何查看cuda版本.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Data Structure/Binary Tree.md",
     "Languages/Python/collections/deque.md",
@@ -165,8 +167,6 @@
     "Computer Science/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.3. Integer Arithmetic.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
-    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.4. Floating Point.md",
-    "/Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
