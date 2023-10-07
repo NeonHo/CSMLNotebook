@@ -6,5 +6,5 @@ In this API, we need to note that the arguments we need to set:
 
 | arguments    | mean                                                                                                                          |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| `with_label` | If it is `True`, the API will know that our dataset has input with label, and will ignore the label when calibrate the model. |
+| `with_label` | If it is `True`, the API will know that our dataset has input with label, and will ignore the label when calibrate the model at step 1st. |
 
