@@ -51,3 +51,29 @@ We can look up the methods using `dir` [[dir()]].
 >>> dir(Circle.radius)
 [..., 'deleter', ..., 'getter', 'setter']
 ```
+
+We can use these methods:
+
+```Python
+>>> from circle import Circle
+
+>>> circle = Circle(42.0)
+
+>>> circle.radius
+Get radius
+42.0
+
+>>> circle.radius = 100.0
+Set radius
+>>> circle.radius
+Get radius
+100.0
+
+>>> del circle.radius
+Delete radius
+>>> circle.radius
+Get radius
+Traceback (most recent call last):
+    ...
+AttributeError: 'Circle' object has no attribute '_radius'
+```
