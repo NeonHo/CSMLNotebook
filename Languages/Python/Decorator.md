@@ -18,5 +18,5 @@ The code above is equal to the code as follows:
 def decorated_func(args):
 	return args
 
-decorated_func = decorator_name()
+decorated_func = decorator_name(decorated_func)
 ```
