@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/Decorator.md",
+                "file": "Languages/Python/Built-in Functions/dir().md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Languages/Python/Built-in Functions/dir().md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Languages/Python/Built-in Functions/dir().md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/Python/Decorator.md"
+            "file": "Languages/Python/Built-in Functions/dir().md"
           }
         }
       }
@@ -143,9 +143,11 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
+    "Languages/Python/Decorator.md",
+    "Languages/Python/Built-in Functions/dir().md",
+    "Languages/Python/Built-in Functions",
     "Development/npm.md",
     "Development/CSS.md",
-    "Languages/Python/Decorator.md",
     "Development/quantization tool/operator static.md",
     "Development/Git/Git checkout specific tag.md",
     "Development/quantization tool/quant single onnx network.md",
@@ -174,11 +176,9 @@
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2. Integer Representations.md",
     "Development/Nvidia/TensorRT.md",
     "Development/backend/Flask.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/Part I Program Structure and Execution",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
-    "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230904150557.png",
