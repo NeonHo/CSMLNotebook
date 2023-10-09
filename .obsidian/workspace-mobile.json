@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/npm.md",
+                "file": "Languages/Python/Decorator.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "3406b0ef8f543448",
@@ -94,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/npm.md",
+            "file": "Languages/Python/Decorator.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/npm.md",
+            "file": "Languages/Python/Decorator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/npm.md"
+            "file": "Languages/Python/Decorator.md"
           }
         }
       }
@@ -141,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "455879ed6539feab",
   "lastOpenFiles": [
+    "Development/npm.md",
     "Development/CSS.md",
     "Languages/Python/Decorator.md",
     "Development/quantization tool/operator static.md",
@@ -174,7 +174,6 @@
     "Development/Nvidia/TensorRT.md",
     "Development/backend/Flask.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/Part I Program Structure and Execution",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
