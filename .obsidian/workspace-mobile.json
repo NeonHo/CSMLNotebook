@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/Built-in Functions/dir().md",
+                "file": "Languages/Python/Decorator.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Languages/Python/Built-in Functions/dir().md",
+            "file": "Languages/Python/Decorator.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Languages/Python/Built-in Functions/dir().md",
+            "file": "Languages/Python/Decorator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/Python/Built-in Functions/dir().md"
+            "file": "Languages/Python/Decorator.md"
           }
         }
       }
@@ -141,10 +141,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "455879ed6539feab",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
-    "Languages/Python/Decorator.md",
     "Languages/Python/Built-in Functions/dir().md",
+    "Languages/Python/Decorator.md",
     "Languages/Python/Built-in Functions",
     "Development/npm.md",
     "Development/CSS.md",

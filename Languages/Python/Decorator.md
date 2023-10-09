@@ -44,5 +44,4 @@ class Circle:
         print("Delete radius")
         del self._radius
 
-
 ```
