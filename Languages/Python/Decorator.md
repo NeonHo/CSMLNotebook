@@ -21,3 +21,5 @@ def decorated_func(args):
 decorated_func = decorator_name(decorated_func)
 ```
 
+# `property()`
+
