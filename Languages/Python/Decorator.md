@@ -15,5 +15,8 @@ Decorator can be a function or class.
 The code above is equal to the code as follows:
 
 ```Python
+def decorated_func(args):
+	return args
 
+decorated_func = decorator_name()
 ```
