@@ -12,4 +12,8 @@ def decorated_func(args):
 
 Decorator can be a function or class.
 
-The cod
+The code above is equal to the code as follows:
+
+```Python
+
+```
