@@ -1,3 +1,4 @@
-| OP name | Keyword Arguments |
-| ------- | ----------------- |
-|         |                   |
+| OP name       | Keyword Arguments                    |
+| ------------- | ------------------------------------ |
+| BaseLeakyReLU | negative_slop, inplace, i_bit, o_bit |
+|               |                                      |
