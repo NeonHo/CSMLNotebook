@@ -28,7 +28,7 @@ class Circle:
     def __init__(self, radius):
         self._radius = radius
 
-    @property
+    @property  # getter
     def radius(self):
         """The radius property."""
         print("Get radius")
@@ -44,4 +44,10 @@ class Circle:
         print("Delete radius")
         del self._radius
 
+```
+
+We can look up the methods using `dir` [[dir()]].
+```Python
+>>> dir(Circle.radius)
+[..., 'deleter', ..., 'getter', 'setter']
 ```
