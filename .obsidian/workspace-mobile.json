@@ -10,15 +10,21 @@
           {
             "id": "455879ed6539feab",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/Decorator.md",
+                "file": "Development/npm.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "bb3fe0b095b0c1cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Development/npm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Development/npm.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/Python/Decorator.md"
+            "file": "Development/npm.md"
           }
         }
       }
@@ -135,10 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "455879ed6539feab",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
-    "Development/quantization tool/operator static.md",
+    "Development/CSS.md",
     "Languages/Python/Decorator.md",
+    "Development/quantization tool/operator static.md",
     "Development/Git/Git checkout specific tag.md",
     "Development/quantization tool/quant single onnx network.md",
     "Development/Nvidia/如何查看cuda版本.md",
@@ -170,7 +177,6 @@
     "Computer Science/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/Part I Program Structure and Execution",
-    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Information Storage.md",
     "/Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "/Computer Science/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
