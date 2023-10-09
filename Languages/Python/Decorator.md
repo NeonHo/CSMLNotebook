@@ -11,3 +11,5 @@ def decorated_func(args):
 ```
 
 Decorator can be a function or class.
+
+The cod
