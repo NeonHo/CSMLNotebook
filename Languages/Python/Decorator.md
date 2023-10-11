@@ -81,4 +81,4 @@ AttributeError: 'Circle' object has no attribute '_radius'
 具体而言，当你使用类来创建一个新的对象时，Python会首先调用类的 __new__() 方法来创建对象的实例，然后调用 __init__() 方法来初始化该实例的属性。
 属性是在类实例化时创建的，并在 __init__() 方法中进行了初始化。
 # Note
-一定要记得在`__init__`中先给一个
+一定要记得在`__init__`中先给一个内置成员变量，例如`self._radius`
