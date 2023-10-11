@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/Decorator.md",
+                "file": "Development/Torch/nn.Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Development/Torch/nn.Module.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Languages/Python/Decorator.md",
+            "file": "Development/Torch/nn.Module.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/Python/Decorator.md"
+            "file": "Development/Torch/nn.Module.md"
           }
         }
       }
@@ -143,10 +143,10 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
+    "Languages/Python/Decorator.md",
     "Development/Torch/nn.Module.md",
     "Development/Torch",
     "Languages/Python/Built-in Functions/dir().md",
-    "Languages/Python/Decorator.md",
     "Languages/Python/Built-in Functions",
     "Development/npm.md",
     "Development/CSS.md",
