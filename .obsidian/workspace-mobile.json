@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/Basic Items/NMS Hand writing.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,8 +81,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "3406b0ef8f543448",
