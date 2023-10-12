@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basic Items/NMS Hand writing.md",
+                "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Basic Items/NMS Hand writing.md",
+            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/Basic Items/NMS Hand writing.md",
+            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/Basic Items/NMS Hand writing.md"
+            "file": "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md"
           }
         }
       }
@@ -142,8 +142,8 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
-    "Development/Torch/nn.Module.md",
     "Machine Learning/Basic Items/NMS Hand writing.md",
+    "Development/Torch/nn.Module.md",
     "Machine Learning/Deep Learning/Transformer.md",
     "Machine Learning/Deep Learning",
     "Languages/Python/Decorator.md",
