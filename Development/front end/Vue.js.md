@@ -42,7 +42,8 @@ export default {
 ```
 
 在这个示例中，`count` 被声明为一个 `const` 常量，并使用 `ref` 创建为一个响应式变量。这确保了 `count` 在组件内部不会被重新分配，但仍然可以使用 `count.value` 来访问其响应式值并修改它。
-# 刷新某个component
+# 根据其他component刷新某个component的思路
+
 设置一个app.vue的ref变量。
 ```Vue.js
 const graphUpdateTrigger = ref(1);
@@ -51,6 +52,6 @@ const graphUpdateTrigger = ref(1);
 ```Vue.js
 var graphUpdateTrigger = inject('graphUpdateTrigger')
 ```
-	通过
+通过`watch`方法看`graphUpdateTrigger` 变量的改变，然后触发后端请求，从而更新UI。
 # 注意
 前端的post和get方法，一定要和后端是匹配的，不然会在Axios调用时报错。
