@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/backend/Flask.md",
+                "file": "Development/front end/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/backend/Flask.md",
+            "file": "Development/front end/Vue.js.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/backend/Flask.md",
+            "file": "Development/front end/Vue.js.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/backend/Flask.md"
+            "file": "Development/front end/Vue.js.md"
           }
         }
       }
@@ -152,6 +152,7 @@
   },
   "active": "455879ed6539feab",
   "lastOpenFiles": [
+    "Development/backend/Flask.md",
     "Development/front end/Vue.js.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
@@ -186,7 +187,6 @@
     "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
     "Troubles and Solutions.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.10. Summary.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
