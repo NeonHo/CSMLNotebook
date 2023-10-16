@@ -54,6 +54,45 @@ var graphUpdateTrigger = inject('graphUpdateTrigger')
 ```
 通过`watch`方法看`graphUpdateTrigger` 变量的改变，然后触发后端请求，从而更新UI。
 
-# vue3中的
+# vue3中的return
+`return`语句在Vue 3的`setup()`函数中用于返回组件的配置选项。通过`return`语句，你可以将需要在模板中使用的数据、方法、计算属性等暴露给组件。
+
+在`setup()`函数中，你可以返回一个普通的对象，该对象中的属性将成为组件实例的属性，可以在模板中直接使用。
+
+以下是一个示例代码，展示了`setup()`函数中的`return`语句的作用：
+
+```vue
+<template>
+  <div>
+    <p>{{ message }}</p>
+    <button @click="handleClick">点击我</button>
+  </div>
+</template>
+
+<script>
+import { ref } from 'vue';
+
+export default {
+  name: 'MyComponent',
+  setup() {
+    const message = ref('Hello, World!');
+
+    const handleClick = () => {
+      message.value = '按钮被点击了';
+    };
+
+    return {
+      message,
+      handleClick
+    };
+  }
+};
+</script>
+```
+
+在上述代码中，我们在`setup()`函数中返回了一个对象，其中包含了`message`和`handleClick`两个属性。这样，`message`和`handleClick`就成为了组件实例的属性，可以在模板中直接使用。
+
+通过这种方式，你可以在`setup()`函数中定义组件的数据和方法，并通过`return`语句将它们暴露给组件的模板。这种方式可以让你更灵活地组织和管理组件的逻辑和数据。
 # 注意
+
 前端的post和get方法，一定要和后端是匹配的，不然会在Axios调用时报错。
