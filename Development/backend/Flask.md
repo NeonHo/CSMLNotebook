@@ -43,3 +43,54 @@ def show_user_profile(username):
 在上述示例中，`/user/<username>` 路由包含一个变量 `<username>`，它允许你访问不同用户的个人资料。这个变量的值将作为参数传递给路由处理函数。
 
 总之，URL 是由你在 Flask 应用程序中定义的路由来决定的，你可以根据你的需求自定义路由以映射到不同的功能或资源。
+
+# 传给Vue的可以直接用于vue的list
+
+flask后端应该如何返回才能得到下述这种Vue的数组?
+
+```Python
+		options: [{
+          value: '选项1',
+          label: '黄金糕'
+        }, {
+          value: '选项2',
+          label: '双皮奶'
+        }, {
+          value: '选项3',
+          label: '蚵仔煎'
+        }, {
+          value: '选项4',
+          label: '龙须面'
+        }, {
+          value: '选项5',
+          label: '北京烤鸭'
+        }],
+```
+
+在Flask后端中，你可以使用Flask的`jsonify`函数来返回一个包含Vue数组格式数据的响应。`jsonify`函数会将Python对象转换为JSON格式，并设置正确的Content-Type头部。
+
+以下是一个示例代码，展示如何在Flask后端返回包含Vue数组格式数据的响应：
+
+```python
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+@app.route('/api/endpoint')
+def get_options():
+    options = [
+        {'value': '选项1', 'label': '黄金糕'},
+        {'value': '选项2', 'label': '双皮奶'},
+        {'value': '选项3', 'label': '蚵仔煎'},
+        {'value': '选项4', 'label': '龙须面'},
+        {'value': '选项5', 'label': '北京烤鸭'}
+    ]
+    return jsonify(options)
+
+if __name__ == "__main__":
+    app.run()
+```
+
+在上述代码中，我们定义了一个Flask路由`/api/endpoint`，当该路由被请求时，会返回包含Vue数组格式数据的响应。我们使用`jsonify`函数将Python列表转换为JSON格式，并通过`return`语句返回响应。
+
+请确保在Flask项目中正确安装了Flask库，并运行上述代码以启动Flask服务器。当你在浏览器中访问`http://localhost:5000/api/endpoint`时，将会得到包含Vue数组格式数据的响应。
