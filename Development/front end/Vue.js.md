@@ -53,5 +53,7 @@ const graphUpdateTrigger = ref(1);
 var graphUpdateTrigger = inject('graphUpdateTrigger')
 ```
 通过`watch`方法看`graphUpdateTrigger` 变量的改变，然后触发后端请求，从而更新UI。
+
+# vue3中的
 # 注意
 前端的post和get方法，一定要和后端是匹配的，不然会在Axios调用时报错。
