@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "66755cfac7b427f5",
+        "id": "c9e62d592eb1aec9",
         "type": "tabs",
         "children": [
           {
-            "id": "455879ed6539feab",
+            "id": "0876bdc849b779ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/front end/Vue.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3fe0b095b0c1cf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -150,7 +138,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "455879ed6539feab",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
     "Development/backend/Flask.md",
     "Development/front end/Vue.js.md",
