@@ -11,8 +11,12 @@
             "id": "0876bdc849b779ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/Vue.js.md"
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md"
           }
         }
       }
@@ -138,10 +142,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/backend/Flask.md",
     "Development/front end/Vue.js.md",
+    "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
+    "Development/backend/Flask.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Machine Learning/Basic Items/NMS Hand writing.md",
@@ -174,7 +179,6 @@
     "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
     "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
-    "Troubles and Solutions.md",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
