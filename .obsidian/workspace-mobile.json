@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part III Interaction and Communication between Programs/Network/边缘.md",
+                "file": "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/边缘.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/边缘.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/边缘.md"
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md"
           }
         }
       }
@@ -145,7 +145,7 @@
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
     "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
-    "Computer Science/Part III Interaction and Communication between Programs/Network/边缘.md",
+    "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
     "Development/front end/Vue.js.md",
     "Development/backend/Flask.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
