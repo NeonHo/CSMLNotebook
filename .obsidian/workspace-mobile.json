@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Part III Interaction and Communication between Programs/Network/分组丢失和延时.md",
+                "file": "Computer Science/Part III Interaction and Communication between Programs/Network/协议层次及服务模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/分组丢失和延时.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/协议层次及服务模型.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/分组丢失和延时.md",
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/协议层次及服务模型.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/分组丢失和延时.md"
+            "file": "Computer Science/Part III Interaction and Communication between Programs/Network/协议层次及服务模型.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
     "Computer Science/Part III Interaction and Communication between Programs/Network/分组丢失和延时.md",
+    "Computer Science/Part III Interaction and Communication between Programs/Network/协议层次及服务模型.md",
+    "Computer Science/Part III Interaction and Communication between Programs/Network/网络结构.md",
     "Computer Science/Part III Interaction and Communication between Programs/Network/Internet结构 & ISP.md",
     "Computer Science/Part III Interaction and Communication between Programs/Network/概述.md",
     "Development/front end/Vue.js.md",
@@ -177,7 +178,6 @@
     "Languages/Python",
     "Languages",
     "Development/G6/快速上手.md",
-    "Multiplication Times for CNN.md",
     "Development/G6",
     "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Attachments/Pasted image 20230915210517.png",
