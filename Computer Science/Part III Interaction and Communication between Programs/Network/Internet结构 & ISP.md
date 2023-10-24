@@ -21,8 +21,10 @@
 				- eg.
 					- BBN
 					- Sprint
+				- Access
 					- POP 下层网络接入
-		- IXP
+					- Peer Link
+					- IXP
 		- ICP Internet Context Provider
 			- Google
 			- Baidu
