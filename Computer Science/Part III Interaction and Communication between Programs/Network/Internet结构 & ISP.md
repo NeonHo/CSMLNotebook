@@ -1,4 +1,4 @@
-除了核心接入和边缘的划分方式，还能划分为若干个关系密切的 ISP 网络 （In），通过互联设备连在一起。
+除了核心接入和边缘的划分方式，还能划分为若干个关系密切的 ISP 网络 （Internet Service Provider），通过互联设备连在一起。
 
 - 演化
 	- 端系统通过接入性 ISP 接入 Internet
@@ -7,3 +7,6 @@
 		- 有利可图
 			- 运营商使用global ISP 将Access Net 连起来
 			- 可以卖流量和带宽
+			- 不同 ISP 之间有竞争和合作
+				- peer link
+					- IXP exchange point
