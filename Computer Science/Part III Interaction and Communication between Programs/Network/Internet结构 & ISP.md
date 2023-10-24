@@ -15,4 +15,11 @@
 	- roles:
 		- ISP
 		- ICP Internet Context Provider
+			- Google
+			- Baidu
+			- Data Center
+				- lower cost than ISP
+				- can provide better service 
 		- Clients
+		- Access net
+		- regional net
