@@ -18,6 +18,10 @@
 				- Global
 				- Less Point
 				- Wider band width
+				- eg.
+					- BBN
+					- Sprint
+					- POP 下层网络接入
 		- IXP
 		- ICP Internet Context Provider
 			- Google
