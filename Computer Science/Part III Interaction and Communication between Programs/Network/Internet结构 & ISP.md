@@ -17,9 +17,11 @@
 		- ICP Internet Context Provider
 			- Google
 			- Baidu
+				- 向政府申请提速降费
 			- Data Center
 				- lower cost than ISP
-				- can provide better service 
+				- can provide better services all over the world 
+				- 用专用线缆拉专网
 		- Clients
 		- Access net
 		- regional net
