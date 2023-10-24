@@ -14,6 +14,11 @@
 			- regional net
 	- roles:
 		- ISP
+			- Tier 1 ISP
+				- Global
+				- Less Point
+				- Wider band width
+		- IXP
 		- ICP Internet Context Provider
 			- Google
 			- Baidu
