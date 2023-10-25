@@ -82,5 +82,9 @@ SELECT SUBSTR(name, 1, 1) from player
 SELECT SUBSTR(name, 1, 1), COUNT(SUBSTR(name, 1, 1)) from palyer
 GROUP BY SUBSTR(name, 1, 1)
 HAVING COUNT(SUBSTR(name, 1, 1)) >= 5
-
+LIMIT 3
 ```
+- `LIMIT` is used to remains the first 3 rows.
+- `LIMIT 3, 3` is used to remains the 4~6 rows
+	- the first 3 is the start index.
+	- the 2nd is the length.
