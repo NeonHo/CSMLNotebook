@@ -1,7 +1,7 @@
 # WHERE
 Use together with `SELECT, UPDATE, DELETE`.
 ```SQL
-SELECT * FROM player WHERE level = 1 AND level < 5;
+SELECT * FROM player WHERE level > 1 AND level < 5;
 SELECT * FROM player WHERE level BETWEEN 1 AND 5;
 SELECT * FROM player WHERE level NOT BETWEEN 1 AND 5;
 
@@ -13,6 +13,9 @@ SELECT * FROM player WHERE name LIKE `%wang%`;
 
 SELECT * FROM player WHERE name LIKE `wang_`;
 SELECT * FROM player WHERE name REGEXP `^wang.$`;
+
+SELECT * FROM player WHERE email is null;
+SELECT * FROM player WHERE email is NOT null;
 ```
 - `OR`’s priority is lower than `AND`.
 - `IN` is used for multiple selection.
@@ -25,4 +28,4 @@ SELECT * FROM player WHERE name REGEXP `^wang.$`;
 	- `[abc]` Any single character in the list.
 	- `[a-z]` Any single character in the range.
 	- `A|B` ’A’ or ’B’.
-	- 
+- 
