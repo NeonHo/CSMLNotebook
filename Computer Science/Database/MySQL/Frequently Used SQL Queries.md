@@ -44,3 +44,20 @@ SELECT * FROM player ORDER BY level DESC, exp ASC;
 - If the level column is the 5th column, the 2nd row is equal to the first.
 
 # Aggregate Functions
+聚合函数用于对表中的数据进行计算和汇总，并返回一个单一的结果值。常见的表聚合函数包括：
+
+COUNT：计算指定列或行的数量。
+SUM：计算指定列的总和。
+AVG：计算指定列的平均值。
+MAX：找到指定列的最大值。
+MIN：找到指定列的最小值。
+GROUP BY：按指定列对结果进行分组。
+HAVING：在GROUP BY之后，对分组结果进行筛选。
+DISTINCT：返回唯一的列值。
+
+```SQL
+SELECT AVG(level) FROM player;
+
+SELECT * from player group by sex;
+SELECT COUNT(*) from palyer group by sex;
+```
