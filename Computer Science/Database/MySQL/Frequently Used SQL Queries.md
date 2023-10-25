@@ -32,9 +32,10 @@ SELECT * FROM player WHERE email is NOT null;
 - `null` uses `is` instead of `=`
 - `null` and `’’` is not the same, which uses `=`
 # ORDER BY
-- default lift order
-- `BY` specifies one of the Column
+- default ascending (升序) order, or noted with `ASC`
+- `BY` specifies one or more of the Column
+- `DESC` is the note of descending (降序).
 ```SQL
 SELECT * FROM player ORDER BY level;
-SELECT * FROM player ORDER BY level exp;
+SELECT * FROM player ORDER BY level , exp;
 ```
