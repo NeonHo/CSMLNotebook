@@ -23,6 +23,8 @@ Else, show NULL for each column in `equip`.
 reverse.
 ```SQL
 select * from player
-inner join equip
+right join equip
 on player.id = equip.player_id
 ```
+If someone has the equipment, there will be the row concat to the `equip`.
+Else, the columns belong to players will be NULL.
