@@ -22,4 +22,7 @@ SELECT * FROM player WHERE name REGEXP `^wang.$`;
 	- `.` Any single character
 	- `^` head
 	- `$` tail
-	- `[abc]` the
+	- `[abc]` Any single character in the list.
+	- `[a-z]` Any single character in the range.
+	- `A|B` ’A’ or ’B’.
+	- 
