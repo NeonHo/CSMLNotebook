@@ -11,4 +11,7 @@ select * from fast where email like 'abcd%' order by id
 drop index email_index on fast
 ```
 
-
+也可
+```SQL
+alter table fast add index name_index (name)
+```
