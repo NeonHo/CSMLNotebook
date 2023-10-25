@@ -32,3 +32,5 @@ SELECT * FROM player WHERE email is NOT null;
 - `null` uses `is` instead of `=`
 - `null` and `’’` is not the same, which uses `=`
 # ORDER BY
+- default lift order
+- `BY` specifies one of the 
