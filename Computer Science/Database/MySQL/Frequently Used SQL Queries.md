@@ -62,4 +62,9 @@ SELECT sex, COUNT(*) from player group by sex;
 ```
 
 # HAVING
-shai xuan chu
+筛选出分组后的数据
+```SQL
+SELECT sex, COUNT(*) from player group by sex HAVING COUNT(level) > 4;
+```
+- only remains the count numbers of the players whose level > 4
+- 
