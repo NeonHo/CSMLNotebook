@@ -16,5 +16,10 @@ from player;
 # create new table from source table
 
 ```SQL
-create table new_player select * from player *
+create table new_player select * from player where level < 5
 ```
+# insert new rows into table
+```SQL
+insert into new_player select * from player where level between 6 and 10
+```
+# jud
