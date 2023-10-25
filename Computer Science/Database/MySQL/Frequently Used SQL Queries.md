@@ -100,5 +100,8 @@ SELECT DISTINCT sex from player
 ```SQL
 SELECT * FROM player WHERE level BETWEEN 1 AND 3;
 UNION
-SELECT * FROM player WHERE level BETWEEN 1 AND 3;
+SELECT * FROM player WHERE exp BETWEEN 1 AND 3;
 ```
+- Do union for two tables.
+- remove the repeat record.
+- 
