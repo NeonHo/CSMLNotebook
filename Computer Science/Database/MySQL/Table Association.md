@@ -12,6 +12,17 @@ on player.id = equip.player_id
 ```
 # LEFT JOIN
 Return all data of the left table, the right table will be filled with NULL if without value.
-
+```SQL
+select * from player
+left join equip
+on player.id = equip.player_id
+```
+If some player have the equipment, will show the rows from table `equip`.
+Else, show NULL for each column in `equip`.
 # RIGHT JOIN
 reverse.
+```SQL
+select * from player
+inner join equip
+on player.id = equip.player_id
+```
