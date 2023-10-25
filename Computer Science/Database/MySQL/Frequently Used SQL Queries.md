@@ -10,10 +10,16 @@ SELECT * FROM player WHERE level IN (1, 3, 5);
 
 SELECT * FROM player WHERE name LIKE `wang%`;
 SELECT * FROM player WHERE name LIKE `%wang%`;
-SELECT * FROM player WHERE name LIKE `wang__`;
-SELECT * FROM player WHERE name REGEXP `wang.`;
+
+SELECT * FROM player WHERE name LIKE `wang_`;
+SELECT * FROM player WHERE name REGEXP `^wang.$`;
 ```
 - `OR`’s priority is lower than `AND`.
 - `IN` is used for multiple selection.
 - `NOT` means taking the opposite.
 - `LIKE` is used to match strings.
+- `REGEXP`
+	- `.` Any single character
+	- `^` head
+	- `$` tail
+	- `[abc]` the
