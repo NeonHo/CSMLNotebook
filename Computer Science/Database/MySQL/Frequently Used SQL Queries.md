@@ -59,12 +59,14 @@ DISTINCT：返回唯一的列值。
 SELECT AVG(level) FROM player;
 
 SELECT sex, COUNT(*) from player group by sex;
-```
 
+SELECT sex, COUNT(*) from player group by level order by count(level) DESC;
+```
+- first group by level
+- then ordered by the count of the le
 # HAVING
 筛选出分组后的数据
 ```SQL
 SELECT sex, COUNT(*) from player group by sex HAVING COUNT(level) > 4;
 ```
 - only remains the count numbers of the players whose level > 4
-- 
