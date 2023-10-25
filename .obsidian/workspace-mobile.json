@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
+                "file": "Computer Science/Database/MySQL/SUBQUERY.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
+            "file": "Computer Science/Database/MySQL/SUBQUERY.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
+            "file": "Computer Science/Database/MySQL/SUBQUERY.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Database/MySQL/Frequently Used SQL Queries.md"
+            "file": "Computer Science/Database/MySQL/SUBQUERY.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Computer Science/未命名.md",
     "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
+    "Computer Science/Database/MySQL/SUBQUERY.md",
+    "Computer Science/未命名.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
     "Computer Science/CS System",
@@ -178,7 +179,6 @@
     "Computer Science/Data Structure",
     "Languages/Python/list.md",
     "Languages/Python/collections",
-    "Languages/Python/slice in List & Tuple.md",
     "Languages/Python",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
