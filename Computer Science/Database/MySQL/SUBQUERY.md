@@ -13,3 +13,8 @@ from player;
 ```
 - `as` can name the new column for subquery.
 
+# create new table from source table
+
+```SQL
+create table new_player select * from player *
+```
