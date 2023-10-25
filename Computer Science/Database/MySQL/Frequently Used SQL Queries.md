@@ -102,7 +102,7 @@ SELECT * FROM player WHERE level BETWEEN 1 AND 3;
 UNION
 SELECT * FROM player WHERE exp BETWEEN 1 AND 3;
 ```
-- Do $\union$ for two tables.
+- Do $\cap$ for two tables.
 - Remove the repeat record.
 - `ALL` can remain repetition.
 - Effective equal to `OR`
@@ -113,3 +113,11 @@ INTERSECT
 SELECT * FROM player WHERE exp BETWEEN 1 AND 3;
 ```
 $\cap$
+# EXCEPT
+```SQL
+SELECT * FROM player WHERE level BETWEEN 1 AND 3;
+EXCEPT
+SELECT * FROM player WHERE exp BETWEEN 1 AND 3;
+```
+$A - B$
+
