@@ -28,3 +28,5 @@ on player.id = equip.player_id
 ```
 If someone has the equipment, there will be the row concat to the `equip`.
 Else, the columns belong to players will be NULL.
+
+不加条件就变成笛卡尔集了。

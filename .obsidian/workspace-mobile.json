@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Database/MySQL/Table Association.md",
+                "file": "Computer Science/Database/MySQL/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Database/MySQL/Table Association.md",
+            "file": "Computer Science/Database/MySQL/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Database/MySQL/Table Association.md",
+            "file": "Computer Science/Database/MySQL/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Database/MySQL/Table Association.md"
+            "file": "Computer Science/Database/MySQL/Index.md"
           }
         }
       }
@@ -142,10 +142,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb77d992973cad7",
+  "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Computer Science/Database/MySQL/Subquery.md",
     "Computer Science/Database/MySQL/Table Association.md",
+    "Computer Science/Database/MySQL/Index.md",
+    "Computer Science/Database/MySQL/Subquery.md",
     "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
     "Computer Science/未命名.md",
     "Computer Science/Database/MySQL",
@@ -176,7 +177,6 @@
     "Development/Nvidia/如何查看cuda版本.md",
     "Development/quantization tool",
     "Computer Science/Data Structure/Binary Tree.md",
-    "Languages/Python/collections/deque.md",
     "Computer Science/Data Structure",
     "Languages/Python/collections",
     "Languages/Python",
