@@ -24,5 +24,5 @@ insert into new_player select * from player where level between 6 and 10
 ```
 # judge exist
 ```SQL
-select exists ()
+select exists ( select * from player where level > 10 )
 ```
