@@ -33,4 +33,8 @@ SELECT * FROM player WHERE email is NOT null;
 - `null` and `’’` is not the same, which uses `=`
 # ORDER BY
 - default lift order
-- `BY` specifies one of the 
+- `BY` specifies one of the Column
+```SQL
+SELECT * FROM player ORDER BY level;
+SELECT * FROM player ORDER BY level exp;
+```
