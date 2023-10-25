@@ -103,5 +103,6 @@ UNION
 SELECT * FROM player WHERE exp BETWEEN 1 AND 3;
 ```
 - Do union for two tables.
-- remove the repeat record.
+- Remove the repeat record.
+- `ALL` can remain repetition.
 - 
