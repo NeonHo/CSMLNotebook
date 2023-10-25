@@ -62,11 +62,12 @@ SELECT sex, COUNT(*) from player group by sex;
 
 SELECT sex, COUNT(*) from player group by level order by count(level) DESC;
 ```
-- first group by level
-- then ordered by the count of the le
+- First group by level
+- then ordered by the count of the level.
 # HAVING
 筛选出分组后的数据
 ```SQL
 SELECT sex, COUNT(*) from player group by sex HAVING COUNT(level) > 4;
 ```
 - only remains the count numbers of the players whose level > 4
+# SUB
