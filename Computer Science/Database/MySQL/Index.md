@@ -7,5 +7,8 @@ CREATE [UNIQUE|FULLTEXT|SPATIAL] INDEX index_name ON tbl_name (index_col_name, .
 ```SQL
 create index email_index on fast (email)
 show index from fast
-select * from *
+select * from fast where email like 'abcd%' order by id
+drop index email_index on fast
 ```
+
+
