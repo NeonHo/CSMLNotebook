@@ -22,4 +22,7 @@ create table new_player select * from player where level < 5
 ```SQL
 insert into new_player select * from player where level between 6 and 10
 ```
-# jud
+# judge exist
+```SQL
+select exists ()
+```
