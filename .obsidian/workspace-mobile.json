@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66755cfac7b427f5",
+        "id": "c9e62d592eb1aec9",
         "type": "tabs",
         "children": [
           {
-            "id": "455879ed6539feab",
+            "id": "0876bdc849b779ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/front end/Vue.js.md",
+                "file": "Computer Science/Database/MySQL/Index.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "bb3fe0b095b0c1cf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -103,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Computer Science/Database/MySQL/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/Vue.js.md",
+            "file": "Computer Science/Database/MySQL/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/Vue.js.md"
+            "file": "Computer Science/Database/MySQL/Index.md"
           }
         }
       }
@@ -150,10 +142,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "455879ed6539feab",
+  "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/backend/Flask.md",
+    "Computer Science/Database/MySQL/Table Association.md",
+    "Computer Science/Database/MySQL/Index.md",
+    "Computer Science/Database/MySQL/Subquery.md",
+    "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
+    "Computer Science/未命名.md",
+    "Computer Science/Database/MySQL",
+    "Computer Science/Database",
+    "Computer Science/CS System",
+    "Computer Science/Network/协议层次及服务模型.md",
+    "Computer Science/Network/分组丢失和延时.md",
+    "Computer Science/Network/网络结构.md",
+    "Computer Science/Network/Internet结构 & ISP.md",
+    "Computer Science/Network/概述.md",
     "Development/front end/Vue.js.md",
+    "Development/backend/Flask.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Machine Learning/Basic Items/NMS Hand writing.md",
@@ -171,23 +176,10 @@
     "Development/quantization tool/quant single onnx network.md",
     "Development/Nvidia/如何查看cuda版本.md",
     "Development/quantization tool",
-    "Data Structure/Binary Tree.md",
-    "Languages/Python/collections/deque.md",
-    "Data Structure",
-    "Languages/Python/list.md",
+    "Computer Science/Data Structure/Binary Tree.md",
+    "Computer Science/Data Structure",
     "Languages/Python/collections",
-    "Languages/Python/slice in List & Tuple.md",
-    "Development/Javascript/JS用法.md",
     "Languages/Python",
-    "Languages",
-    "Development/G6/快速上手.md",
-    "Multiplication Times for CNN.md",
-    "Development/G6",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.8. Systems Communicate with Other Systems Using Networks.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.7. The Operating System Manages the Hardware.md",
-    "Computer Science/Chapter 1 A Tour of Computer System/1.9. Importants.md",
-    "Troubles and Solutions.md",
-    "Computer Science/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230904150557.png",

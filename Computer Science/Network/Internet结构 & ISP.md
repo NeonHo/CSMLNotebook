@@ -1,0 +1,38 @@
+除了核心接入和边缘的划分方式，还能划分为若干个关系密切的 ISP 网络 （Internet Service Provider），通过互联设备连在一起。
+
+- 演化
+	- 端系统 client 通过接入性 ISP 接入 Internet
+	- 如何互联
+		- 全连接将有$n^2$ 的连接，且不可扩展。
+		- 有利可图
+			- 运营商使用global ISP 将Access Net 连起来
+			- 可以卖流量和带宽
+			- 不同 ISP 之间有竞争和合作
+				- peer link
+					- IXP Internet exchange point
+					- Peer Link
+			- regional net
+	- roles:
+		- ISP
+			- Tier 1 ISP
+				- Global
+				- Less Point
+				- Wider band width
+				- eg.
+					- BBN
+					- Sprint
+				- Access
+					- POP 下层网络接入
+					- Peer Link
+					- IXP
+		- ICP Internet Context Provider
+			- Google
+			- Baidu
+				- 向政府申请提速降费
+			- Data Center
+				- lower cost than ISP
+				- can provide better services all over the world 
+				- 用专用线缆拉专网
+		- Clients
+		- Access net
+		- regional net
