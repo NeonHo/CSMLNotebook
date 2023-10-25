@@ -37,6 +37,9 @@ SELECT * FROM player WHERE email is NOT null;
 - `DESC` is the note of descending (降序).
 ```SQL
 SELECT * FROM player ORDER BY level;
+SELECT * FROM player ORDER BY 5;
 SELECT * FROM player ORDER BY level DESC, exp ASC;
 ```
-- The 2nd row is ordered by level descending first, and then or
+- The 3rd row is ordered by level descending first, and then ordered by exp ascending.
+- If the level column is the 5th column, the 2nd row is equal to the first.
+
