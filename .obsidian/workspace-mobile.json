@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Database/MySQL/SUBQUERY.md",
+                "file": "Computer Science/Database/MySQL/Table Association.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Database/MySQL/SUBQUERY.md",
+            "file": "Computer Science/Database/MySQL/Table Association.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Database/MySQL/SUBQUERY.md",
+            "file": "Computer Science/Database/MySQL/Table Association.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Database/MySQL/SUBQUERY.md"
+            "file": "Computer Science/Database/MySQL/Table Association.md"
           }
         }
       }
@@ -142,10 +142,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0876bdc849b779ba",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
+    "Computer Science/Database/MySQL/Subquery.md",
+    "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
-    "Computer Science/Database/MySQL/SUBQUERY.md",
     "Computer Science/未命名.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
@@ -177,7 +178,6 @@
     "Computer Science/Data Structure/Binary Tree.md",
     "Languages/Python/collections/deque.md",
     "Computer Science/Data Structure",
-    "Languages/Python/list.md",
     "Languages/Python/collections",
     "Languages/Python",
     "Attachments/Pasted image 20230915210517.png",
