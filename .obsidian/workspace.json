@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md"
+                "file": "Computer Science/CS System/未命名.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
+                "file": "Computer Science/CS System/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
+                "file": "Computer Science/CS System/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
+                "file": "Computer Science/CS System/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md"
+                "file": "Computer Science/CS System/未命名.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "f6598d58f80d0d32",
   "lastOpenFiles": [
+    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
+    "Computer Science/CS System/未命名.md",
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
     "Computer Science/Database/MySQL/Index.md",
@@ -195,7 +197,6 @@
     "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
     "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
     "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.10. Summary.md",
     "Computer Science/CS System/Chapter 1 A Tour of Computer System",
     "Computer Science/CS System",
@@ -204,7 +205,6 @@
     "Machine Learning/Basic Items/NMS Hand writing.md",
     "Languages/Python/Built-in Functions/dir().md",
     "Languages/Python/collections/deque.md",
-    "Languages/Python/slice in List & Tuple.md",
     "Languages/Python/collections",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
