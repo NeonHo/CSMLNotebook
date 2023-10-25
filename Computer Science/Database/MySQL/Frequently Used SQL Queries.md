@@ -91,3 +91,8 @@ LIMIT 3
 	- JD’s preference select.
 # DISTINCT
 keep rows unique.
+Remove the repeating rows.
+```SQL
+SELECT DISTINCT sex from player
+```
+- the return table is ``
