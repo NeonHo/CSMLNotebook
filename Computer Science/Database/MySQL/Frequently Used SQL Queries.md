@@ -76,4 +76,11 @@ SELECT SUBSTR(name, 1, 1) from player
 ```
 - the first parameter is column name
 - the 2nd is the start position
-- th
+- the 3rd is the length of substring.
+# LIMIT
+```SQL
+SELECT SUBSTR(name, 1, 1), COUNT(SUBSTR(name, 1, 1)) from palyer
+GROUP BY SUBSTR(name, 1, 1)
+HAVING COUNT(SUBSTR(name, 1, 1)) >= 5
+
+```
