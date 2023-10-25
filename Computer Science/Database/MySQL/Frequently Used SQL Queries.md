@@ -88,3 +88,6 @@ LIMIT 3
 - `LIMIT 3, 3` is used to remains the 4~6 rows
 	- the first 3 is the start index.
 	- the 2nd is the length.
+	- JD’s preference select.
+# DISTINCT
+keep rows unique.
