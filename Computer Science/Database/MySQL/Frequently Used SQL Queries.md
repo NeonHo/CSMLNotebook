@@ -70,4 +70,10 @@ SELECT sex, COUNT(*) from player group by level order by count(level) DESC;
 SELECT sex, COUNT(*) from player group by sex HAVING COUNT(level) > 4;
 ```
 - only remains the count numbers of the players whose level > 4
-# SUB
+# SUBSTR()
+```SQL
+SELECT SUBSTR(name, 1, 1) from player
+```
+- the first parameter is column name
+- the 2nd is the start position
+- th
