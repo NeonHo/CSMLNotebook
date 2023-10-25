@@ -6,5 +6,6 @@ The primary key and foreign key.
 # INNER JOIN
 Only return the rows which both have value in this column
 # LEFT JOIN
-
+Return all data of the left table, the right table will be filled with NULL if without value.
 # RIGHT JOIN
+reverse.
