@@ -8,5 +8,8 @@ select level, ROUND((select AVG(level) from player)) from player;
 - ROUND float to INT
 ```SQL
 select level, ROUND((select AVG(level) from player)) as average,
-level - ROUND((select AVG(level) from player))
+level - ROUND((select AVG(level) from player)) as diff
+from player;
 ```
+- `as` can name the new column for subquery.
+
