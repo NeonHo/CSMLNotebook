@@ -43,3 +43,4 @@ SELECT * FROM player ORDER BY level DESC, exp ASC;
 - The 3rd row is ordered by level descending first, and then ordered by exp ascending.
 - If the level column is the 5th column, the 2nd row is equal to the first.
 
+# Aggregate Functions
