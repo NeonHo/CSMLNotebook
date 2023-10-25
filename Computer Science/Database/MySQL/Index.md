@@ -1,4 +1,5 @@
 方便快速查询。
 ```SQL
-create [UNIQUE|FULLTEXT]
+CREATE [UNIQUE|FULLTEXT|SPATIAL] INDEX index_name ON tbl_name (index_col_name, ...)
 ```
+
