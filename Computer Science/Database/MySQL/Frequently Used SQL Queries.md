@@ -95,4 +95,10 @@ Remove the repeating rows.
 ```SQL
 SELECT DISTINCT sex from player
 ```
-- the return table is ``
+- The return table is `m, w` not `m, m, m, m…,w,…,w`.
+# UNION
+```SQL
+SELECT * FROM player WHERE level BETWEEN 1 AND 3;
+UNION
+SELECT * FROM player WHERE level BETWEEN 1 AND 3;
+```
