@@ -15,6 +15,7 @@ SELECT * FROM player WHERE name LIKE `wang_`;
 SELECT * FROM player WHERE name REGEXP `^wang.$`;
 
 SELECT * FROM player WHERE email is null;
+SELECT * FROM player WHERE email = ‘’;
 SELECT * FROM player WHERE email is NOT null;
 ```
 - `OR`’s priority is lower than `AND`.
@@ -28,4 +29,6 @@ SELECT * FROM player WHERE email is NOT null;
 	- `[abc]` Any single character in the list.
 	- `[a-z]` Any single character in the range.
 	- `A|B` ’A’ or ’B’.
-- 
+- `null` uses `is` instead of `=`
+- `null` and `’’` is not the same, which uses `=`
+# ORDER BY
