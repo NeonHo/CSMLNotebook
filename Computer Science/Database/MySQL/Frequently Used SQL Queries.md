@@ -58,6 +58,8 @@ DISTINCT：返回唯一的列值。
 ```SQL
 SELECT AVG(level) FROM player;
 
-SELECT * from player group by sex;
-SELECT COUNT(*) from palyer group by sex;
+SELECT sex, COUNT(*) from player group by sex;
 ```
+
+# HAVING
+shai xuan chu
