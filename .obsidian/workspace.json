@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e644796922ccd479",
-        "type": "tabs",
-        "dimension": 63.51684470008217,
-        "children": [
-          {
-            "id": "b4b6bb22d9c99829",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ed39c4966ed74cd1",
         "type": "tabs",
-        "dimension": 36.48315529991783,
         "children": [
           {
             "id": "a46e3b25aea06e63",
@@ -169,7 +151,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4b6bb22d9c99829",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
