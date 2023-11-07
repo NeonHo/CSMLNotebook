@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CS System/总线.md"
+                "file": "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md"
               }
             }
           },
@@ -33,9 +33,11 @@
             "id": "bc9f0ce8a6acf013",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CS System/总线.md",
+                "file": "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CS System/总线.md",
+                "file": "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CS System/总线.md"
+                "file": "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md"
               }
             }
           },
@@ -180,6 +182,7 @@
   },
   "active": "bc9f0ce8a6acf013",
   "lastOpenFiles": [
+    "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Computer Science/CS System/计算机时钟频率.md",
     "Computer Science/CS System/总线.md",
     "Computer Science/CS System/CPU(执行)时间.md",
@@ -214,7 +217,6 @@
     "Computer Science/CS System",
     "Machine Learning/Deep Learning/Transformer.md",
     "Machine Learning/Deep Learning",
-    "Machine Learning/Basic Items/NMS Hand writing.md",
     "Languages/Python/collections",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
