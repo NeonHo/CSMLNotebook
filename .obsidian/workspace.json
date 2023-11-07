@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc9f0ce8a6acf013",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6598d58f80d0d32",
+  "active": "bc9f0ce8a6acf013",
   "lastOpenFiles": [
     "Computer Science/CS System/计算机时钟频率.md",
     "Computer Science/CS System/总线.md",
