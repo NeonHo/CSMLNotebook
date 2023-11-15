@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/TypeScript/Basics.md",
+                "file": "Development/Javascript/Declaretion.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/TypeScript/Basics.md",
+            "file": "Development/Javascript/Declaretion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/TypeScript/Basics.md",
+            "file": "Development/Javascript/Declaretion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/TypeScript/Basics.md"
+            "file": "Development/Javascript/Declaretion.md"
           }
         }
       }
@@ -144,8 +144,10 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/TypeScript/Introduction.md",
+    "Development/Javascript/JS用法.md",
+    "Development/Javascript/Declaretion.md",
     "Development/TypeScript/Basics.md",
+    "Development/TypeScript/Introduction.md",
     "Computer Science/Database/MySQL/Index.md",
     "Development/TypeScript",
     "Development/未命名.md",
@@ -172,8 +174,6 @@
     "Computer Science/Network/Internet结构 & ISP.md",
     "Computer Science/Network/概述.md",
     "Development/front end/Vue.js.md",
-    "Development/backend/Flask.md",
-    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Machine Learning/Deep Learning",
     "Development/Torch",
     "Languages/Python/Built-in Functions",
