@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Javascript/Declaretion.md",
+                "file": "Development/front end/TypeScript/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/Javascript/Declaretion.md",
+            "file": "Development/front end/TypeScript/Basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/Javascript/Declaretion.md",
+            "file": "Development/front end/TypeScript/Basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/Javascript/Declaretion.md"
+            "file": "Development/front end/TypeScript/Basics.md"
           }
         }
       }
@@ -144,12 +144,12 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/Javascript/JS用法.md",
-    "Development/Javascript/Declaretion.md",
-    "Development/TypeScript/Basics.md",
-    "Development/TypeScript/Introduction.md",
+    "Development/front end/Javascript/Declare Vars.md",
+    "Development/front end/Javascript/JS用法.md",
+    "Development/front end/TypeScript/Basics.md",
+    "Development/front end/TypeScript/Introduction.md",
     "Computer Science/Database/MySQL/Index.md",
-    "Development/TypeScript",
+    "Development/front end/TypeScript",
     "Development/未命名.md",
     "Machine Learning/Deep Learning/ViT.md",
     "Computer Science/CS System/计算机时钟频率.md",
