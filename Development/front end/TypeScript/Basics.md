@@ -15,3 +15,8 @@ TS -> JS for browser and Node.js
 # Value & type
 
 The type is an attribute which is belonged to the value.
+
+The real code is JS to process the value.
+
+The type code is TS to process the type.
+
