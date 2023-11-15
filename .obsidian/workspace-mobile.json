@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/front end/Vue.js/ref.md",
+                "file": "Development/front end/Vue.js/ref, provide, inject.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/Vue.js/ref.md",
+            "file": "Development/front end/Vue.js/ref, provide, inject.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/Vue.js/ref.md",
+            "file": "Development/front end/Vue.js/ref, provide, inject.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/Vue.js/ref.md"
+            "file": "Development/front end/Vue.js/ref, provide, inject.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/front end/TypeScript/Basics.md",
     "Development/front end/Vue.js/ref.md",
+    "Development/front end/Vue.js/ref, provide, inject.md",
+    "Development/front end/TypeScript/Basics.md",
     "Development/front end/Vue.js",
     "Development/front end/Javascript/Declare Vars.md",
     "Development/front end/Javascript/JS用法.md",
@@ -174,7 +175,6 @@
     "Computer Science/Network/分组丢失和延时.md",
     "Computer Science/Network/网络结构.md",
     "Computer Science/Network/Internet结构 & ISP.md",
-    "Computer Science/Network/概述.md",
     "Machine Learning/Deep Learning",
     "Development/Torch",
     "Languages/Python/Built-in Functions",
