@@ -7,5 +7,6 @@ let foo:string;
 - If you use a variable, give it a value first to avoid `undefined` error.
 - Type declaration is not necessary
 	- TS will judge it by itself.
+	- If the new value's type is inconsistent with the variable, error.
 	- 
 
