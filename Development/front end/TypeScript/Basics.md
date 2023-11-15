@@ -8,6 +8,9 @@ let foo:string;
 - Type declaration is not necessary
 	- TS will judge it by itself.
 	- If the new value's type is inconsistent with the variable, error.
-# TypeScript compilation
-TS -> JS to
+# TypeScript's compilation
+TS -> JS for browser and Node.js
 
+
+# value & type
+type is 
