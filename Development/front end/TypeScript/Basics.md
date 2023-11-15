@@ -12,5 +12,6 @@ let foo:string;
 TS -> JS for browser and Node.js
 
 
-# value & type
-type is 
+# Value & type
+
+The type is an attribute which is belonged to the value.
