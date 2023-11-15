@@ -4,5 +4,8 @@ let foo:string;
 ```
 `string` is the type.
 
-If use a variable, give it a value first to avoid `undefined` error.
+- If you use a variable, give it a value first to avoid `undefined` error.
+- Type declaration is not necessary
+	- TS will judge it by itself.
+	- 
 
