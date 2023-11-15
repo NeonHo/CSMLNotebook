@@ -22,3 +22,7 @@ The type code is TS to process the type.
 
 During the compilation, type will be removed.
 
+# tsconfig.json
+
+arguments for complication of TS is written in this file.
+
