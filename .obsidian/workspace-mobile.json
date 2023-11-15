@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/TypeScript/简介.md",
+                "file": "Development/TypeScript/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/TypeScript/简介.md",
+            "file": "Development/TypeScript/Basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/TypeScript/简介.md",
+            "file": "Development/TypeScript/Basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/TypeScript/简介.md"
+            "file": "Development/TypeScript/Basics.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
+    "Development/TypeScript/Introduction.md",
+    "Development/TypeScript/Basics.md",
     "Computer Science/Database/MySQL/Index.md",
-    "Development/TypeScript/简介.md",
     "Development/TypeScript",
     "Development/未命名.md",
     "Machine Learning/Deep Learning/ViT.md",
@@ -173,7 +174,6 @@
     "Development/front end/Vue.js.md",
     "Development/backend/Flask.md",
     "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
-    "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Machine Learning/Deep Learning",
     "Development/Torch",
     "Languages/Python/Built-in Functions",
