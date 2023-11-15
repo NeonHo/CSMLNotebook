@@ -20,3 +20,5 @@ The real code is JS to process the value.
 
 The type code is TS to process the type.
 
+During the compilation, type will be removed.
+
