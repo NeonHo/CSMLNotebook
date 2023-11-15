@@ -17,10 +17,6 @@ import { Ref, inject } from 'vue'
 const step = inject<Ref<string>>('step');
 // functions
 function change_step(newStepStr: string) {
-    if (newStepStr == "analyze") {
-        alert("功能优化中，暂未开放")
-        return
-    }
     console.log("change_step", newStepStr);
     if (step) {
         step.value = newStepStr
