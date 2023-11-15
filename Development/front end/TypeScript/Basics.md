@@ -26,3 +26,6 @@ During the compilation, type will be removed.
 
 arguments for complication of TS is written in this file.
 
+# ts-node module
+
+run the TS code directly.
