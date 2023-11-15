@@ -28,4 +28,6 @@ arguments for complication of TS is written in this file.
 
 # ts-node module
 
-run the TS code directly.
+Using this, we can run the TS code directly.
+
+The `npx` is calling the ts-node online, without intalling the ts-node module.
