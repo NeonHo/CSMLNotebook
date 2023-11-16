@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/front end/TypeScript/TS Type Assert.md",
+                "file": "Development/front end/TypeScript/Auto Semicolon Insertion.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/TypeScript/TS Type Assert.md",
+            "file": "Development/front end/TypeScript/Auto Semicolon Insertion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/TypeScript/TS Type Assert.md",
+            "file": "Development/front end/TypeScript/Auto Semicolon Insertion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/TypeScript/TS Type Assert.md"
+            "file": "Development/front end/TypeScript/Auto Semicolon Insertion.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/front end/TypeScript/export.md",
     "Development/front end/TypeScript/TS Type Assert.md",
+    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
+    "Development/front end/TypeScript/export.md",
     "Development/front end/Vue.js/ref, provide, inject.md",
     "Development/front end/Vue.js/ref.md",
     "Development/front end/TypeScript/Basics.md",
@@ -174,7 +175,6 @@
     "Computer Science/Database",
     "Computer Science/CS System",
     "Computer Science/Network/协议层次及服务模型.md",
-    "Computer Science/Network/分组丢失和延时.md",
     "Machine Learning/Deep Learning",
     "Development/Torch",
     "Languages/Python/Built-in Functions",
