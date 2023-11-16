@@ -65,3 +65,9 @@ python -m torch.distributed.launch --nproc_per_node=NUM_GPUS_YOU_HAVE YOUR_SCRIP
 - 当使用 DDP 时，需要注意数据的加载方式，确保每个进程加载的数据是不同的。
 
 总之，选择哪种方法取决于你的具体需求，例如模型的大小、训练数据的大小、可用的 GPU 数量以及是否跨节点训练等。通常，对于大规模训练任务，DDP 是更优的选择。
+
+
+
+# zhihu valid
+pytorch多gpu并行训练 - link-web的文章 - 知乎
+https://zhuanlan.zhihu.com/p/86441879
