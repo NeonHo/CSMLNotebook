@@ -10,3 +10,6 @@
 
 那么，我们的就只需要保证所有vue在第一级文件夹components中即可。
 types文件夹与components同一级。
+
+具体class的引入写法参考：[csdn](http://t.csdnimg.cn/hyGMZ)
+
