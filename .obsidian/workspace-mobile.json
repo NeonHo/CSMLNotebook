@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Torch/Multi GPU Training.md",
+                "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/Torch/Multi GPU Training.md",
+            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/Torch/Multi GPU Training.md",
+            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/Torch/Multi GPU Training.md"
+            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md"
           }
         }
       }
@@ -144,8 +144,9 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/Torch/Multi GPU Training.md",
+    "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/front end/TypeScript/TS Type Assert.md",
     "Development/front end/TypeScript/export.md",
     "Development/front end/Vue.js/ref, provide, inject.md",
@@ -171,7 +172,6 @@
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
     "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
-    "Computer Science/未命名.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
     "Computer Science/CS System",
