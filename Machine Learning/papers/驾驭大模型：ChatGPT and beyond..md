@@ -14,4 +14,8 @@
 	- efficiency
 	- cost
 	- latency
-# 
+# Introduction
+- rapid development recently
+- address multi NLP tasks.
+- Effectively and efficiently requires understanding.
+- 
