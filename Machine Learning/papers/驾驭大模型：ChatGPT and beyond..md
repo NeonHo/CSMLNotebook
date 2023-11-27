@@ -8,4 +8,9 @@
 	- emergent abilities
 - The importance of Data
 - The specific challenges
-- 
+- the impact of spurious biases
+- essential considerations:
+	- efficiency
+	- cost
+	- latency
+	- 
