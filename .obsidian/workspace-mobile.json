@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/front end/TypeScript/设别不到写class的文件怎么办.md"
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
           }
         }
       }
@@ -144,8 +144,10 @@
   },
   "active": "0876bdc849b779ba",
   "lastOpenFiles": [
-    "Development/Torch/Multi GPU Training.md",
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
+    "Machine Learning/papers",
+    "Development/Torch/Multi GPU Training.md",
     "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/front end/TypeScript/TS Type Assert.md",
     "Development/front end/TypeScript/export.md",
@@ -171,7 +173,6 @@
     "/Computer Science/CS System/CPU(执行)时间.md",
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
-    "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
     "Computer Science/CS System",
@@ -179,7 +180,6 @@
     "Development/Torch",
     "Languages/Python/Built-in Functions",
     "Development/quantization tool",
-    "Computer Science/Data Structure",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230904150557.png",
