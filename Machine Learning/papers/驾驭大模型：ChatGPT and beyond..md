@@ -6,4 +6,6 @@
 	- traditional NL understanding
 	- NL generation
 	- emergent abilities
-- The impor
+- The importance of Data
+- The specific challenges
+- 
