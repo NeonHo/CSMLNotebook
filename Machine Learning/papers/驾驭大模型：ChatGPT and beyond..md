@@ -24,4 +24,7 @@
 - How to select the most suitable LLM.
 	- Model size
 	- computational requirements
-	- 
+	- existing domain-specific pre-trained models.
+- For better leverage the power
+
+- 
