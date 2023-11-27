@@ -19,4 +19,6 @@
 - address multi NLP tasks.
 - Effectively and efficiently requires understanding.
 
-- 
+- Working with LLMs in downstream NLP tasks.
+- why or why not use LLMs
+- how to select the most sui
