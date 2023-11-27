@@ -8,9 +8,10 @@
 	- emergent abilities
 - The importance of Data
 - The specific challenges
-- the impact of spurious biases
-- essential considerations:
+- 
+- essential considerations for deployment of LLMs:
+	- the impact of spurious biases
 	- efficiency
 	- cost
 	- latency
-	- 
+# 
