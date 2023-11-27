@@ -31,4 +31,8 @@
 	- brief introduction to LLMs
 		- GPT
 		- BERT
+	- critical factors from the data
+		- pre-training data
+		- training/tuning data
+		- test data
 	- 
