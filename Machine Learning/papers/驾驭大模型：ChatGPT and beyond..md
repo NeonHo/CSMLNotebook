@@ -27,4 +27,8 @@
 	- existing domain-specific pre-trained models.
 - For better leverage the power
 
-- 
+- Structure:
+	- brief introduction to LLMs
+		- GPT
+		- BERT
+	- 
