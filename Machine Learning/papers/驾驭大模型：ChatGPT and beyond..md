@@ -36,4 +36,8 @@
 		- training/tuning data
 		- test data
 	- various concrete NLP tasks
+		- knowledge-intensive task
+			- Q&A
+			- conversation
+			- inference
 		- 
