@@ -75,4 +75,5 @@
 		- encoder-decoder
 		- encoder-only
 		- decoder-only
-		- 
+	- evolutionary tree
+		- decoder-only (gradually dominating)
