@@ -5,4 +5,6 @@
 - RepQ
 	- simultaneous application
 	- apply quantization to re-parameterized network.
-	- 
+	- the test stage weights
+		- a differentiable function of trainable parameters
+		- 
