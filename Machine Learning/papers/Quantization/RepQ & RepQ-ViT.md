@@ -11,4 +11,5 @@
 	- better than baseline method LSQ
 # Introduction
 focus on re-parametrization and quantization as our main research fields.
-- better than resnet-101(f)
+- faster than resnet-101
+- 
