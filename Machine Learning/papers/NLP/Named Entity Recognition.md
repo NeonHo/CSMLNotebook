@@ -4,4 +4,7 @@
 - entity:
 	- thing
 	- talked or refer to in the text.
+- A form of NLP
+	- stage 1: detecting the entities from the text
+	- stage 2: classifying them into different categories
 - 
