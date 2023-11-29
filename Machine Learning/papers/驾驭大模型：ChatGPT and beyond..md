@@ -47,7 +47,7 @@
 	- LLMs v.s.  fine-tuned models.
 	- LLMs
 		- huge language  models
-		- pretrained on large amounts of datasets 
+		- pre-trained on large amounts of datasets 
 		- without tuning on data for specific tasks
 	- fine-tuned models  less than 20B params
 		- smaller
