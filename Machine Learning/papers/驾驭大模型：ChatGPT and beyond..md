@@ -40,4 +40,5 @@
 			- Q&A
 			- conversation
 			- inference
+		- traditional NLU(Nature Language Understanding) tasks
 		- 
