@@ -69,5 +69,10 @@
 - sota LLMs
 	- differ in 
 		- training strategies
-		-  model architectures
-	- 
+		- model architectures
+		- use cases
+	- 3 types
+		- encoder-decoder
+		- encoder-only
+		- decoder-only
+		- 
