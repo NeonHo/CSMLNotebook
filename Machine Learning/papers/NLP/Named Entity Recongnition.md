@@ -1,4 +1,0 @@
-- A data preprocessing task
-- The identification of key information in the text
-- classification into a set of predefined categories
-- 
