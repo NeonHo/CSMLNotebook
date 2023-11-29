@@ -100,4 +100,5 @@
 			- Google contributions
 			- flexibility and versatility of decoder-only make it less promising.
 ## BERT-style Language Models
-- 
+- natural language data is readily available
+- unsuper
