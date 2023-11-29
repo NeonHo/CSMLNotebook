@@ -90,4 +90,7 @@
 			- LaMDA
 			- GPT-4
 			- API-based research become the predominant method in the academic community
-		- 
+		- encoder-decoder remain promising.
+			- Most are open-sourced
+			- Google contributions
+			- flexibility and versatility of decoder-only make it less promising.
