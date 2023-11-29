@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/ViT.md"
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
               }
             }
           },
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/ViT.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/ViT.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/ViT.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/ViT.md"
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
               }
             }
           },
@@ -182,8 +182,30 @@
   },
   "active": "bc9f0ce8a6acf013",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Machine Learning/Deep Learning/ViT.md",
+    "Machine Learning/papers/NLP/Named Entity Recognition.md",
+    "Machine Learning/papers/NLP/Masked Language Models.md",
+    "Machine Learning/papers/NLP/Autoregressive Language Models.md",
+    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
+    "Machine Learning/papers/NLP",
+    "Machine Learning/papers",
+    "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
+    "Development/front end/Vue.js/ref.md",
+    "Development/front end/Vue.js/ref, provide, inject.md",
+    "Development/front end/Vue.js",
+    "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
+    "Development/front end/TypeScript/TS Type Assert.md",
+    "Development/front end/TypeScript/Introduction.md",
+    "Development/front end/TypeScript/export.md",
+    "Development/front end/TypeScript/Basics.md",
+    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
+    "Development/front end/TypeScript",
+    "Development/front end/Javascript/JS用法.md",
+    "Development/front end/Javascript/Declare Vars.md",
+    "Development/front end/Javascript/Axios.md",
+    "Development/front end/Javascript",
+    "Development/Torch/Multi GPU Training.md",
+    "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Computer Science/CS System/计算机时钟频率.md",
     "Computer Science/CS System/总线.md",
     "Computer Science/CS System/CPU(执行)时间.md",
@@ -191,33 +213,11 @@
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
     "Computer Science/Database/MySQL/Index.md",
-    "Computer Science/Database/MySQL/Frequently Used SQL Queries.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
-    "Computer Science/Data Structure/Binary Tree.md",
     "Computer Science/Data Structure",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.5. Summary.md",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.4. Floating Point.md",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.3. Integer Arithmetic.md",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.2. Integer Representations.md",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations/2.1. Information Storage.md",
     "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
     "Computer Science/CS System/Part I Program Structure and Execution",
-    "Computer Science/Network/网络结构.md",
-    "Computer Science/Network/概述.md",
-    "Computer Science/Network/协议层次及服务模型.md",
-    "Computer Science/Network/分组丢失和延时.md",
-    "Computer Science/Network/Internet结构 & ISP.md",
-    "Computer Science/Network/HTTP server.md",
-    "Computer Science/Network",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.6. Storage Devices Form a Hierarchy.md",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.5. Caches Matter.md",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.4. Processors Read and Interpret Instructions Stored in Memory.md",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.10. Summary.md",
-    "Computer Science/CS System/Chapter 1 A Tour of Computer System",
-    "Computer Science/CS System",
-    "Machine Learning/Deep Learning",
-    "Languages/Python/collections",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230912113056.png",
