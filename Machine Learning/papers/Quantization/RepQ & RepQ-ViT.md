@@ -15,4 +15,5 @@ focus on re-parametrization and quantization as our main research fields.
 - ==Channel Pruning== 
 - part of YOLOv7
 - The idea behind re-parametrization
+	- represented in different math form
 	- 
