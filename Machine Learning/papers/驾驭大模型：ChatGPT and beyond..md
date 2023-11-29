@@ -53,3 +53,7 @@
 		- smaller
 		- pretrained
 		- further tuned on a smaller, task-specific dataset.
+- summarize
+	- Natural language understanding.
+	- Natural language generation
+	- 
