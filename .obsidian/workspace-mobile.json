@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/papers/NLP/Named Entity Recongnition.md",
+                "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recongnition.md",
+            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recongnition.md",
+            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recongnition.md"
+            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md"
           }
         }
       }
@@ -146,7 +146,7 @@
   "lastOpenFiles": [
     "Machine Learning/papers/NLP",
     "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
-    "Machine Learning/papers/NLP/Named Entity Recongnition.md",
+    "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Machine Learning/papers",
     "Development/Torch/Multi GPU Training.md",

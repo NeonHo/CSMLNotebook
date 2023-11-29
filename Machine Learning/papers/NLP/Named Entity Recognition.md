@@ -1,0 +1,7 @@
+- A data preprocessing task
+- The identification of key information in the text
+- classification into a set of predefined categories
+- entity:
+	- thing
+	- talked or refer to in the text.
+- 
