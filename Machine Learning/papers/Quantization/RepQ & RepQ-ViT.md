@@ -9,4 +9,5 @@
 		- ==present a differentiable function of trainable parameters==
 	- apply QAT on top of this function
 	- better than baseline method LSQ
-	- 
+# Introduction
+focus on re-paramet
