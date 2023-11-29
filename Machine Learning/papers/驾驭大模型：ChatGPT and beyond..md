@@ -79,4 +79,7 @@
 		- decoder-only (gradually dominating)
 			- 2021 game-changing LLMs GPT-3
 			- boom
+		- encoder-only
+			- BERT
+			- fade away
 			- 
