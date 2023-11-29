@@ -13,4 +13,6 @@
 	- deep learning based NER
 		- assemble words
 			- word embedding
-				- u
+				- semantic relationship
+				- syntactic relationship
+			- 
