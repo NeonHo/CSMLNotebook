@@ -66,4 +66,8 @@
 		- decision-making
 		- problem-solving
 # Practical Guide for Models
-
+- sota LLMs
+	- differ in 
+		- training strategies
+		-  model architectures
+	- 
