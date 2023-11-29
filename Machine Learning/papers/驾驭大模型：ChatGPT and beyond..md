@@ -45,11 +45,11 @@
 		- generation task
 - Analyze the abilities of LLM.
 	- LLMs v.s.  fine-tuned  models.
-	- LLMs 
+	- LLMs
 		- huge language models
 		- pretrained on large amounts of datasets 
 		- without tuning on data for specific tasks
-	- fine-tuned models
+	- fine-tuned models  less than 20B params
 		- smaller
 		- pretrained
 		- further tuned on a smaller, task-specific dataset.
