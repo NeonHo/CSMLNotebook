@@ -10,4 +10,5 @@
 - Method
 	- multi-class classification
 	- Conditional Random Field
-	- 
+	- deep learning based NER
+		- 
