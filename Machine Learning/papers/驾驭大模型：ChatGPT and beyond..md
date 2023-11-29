@@ -83,4 +83,6 @@
 			- BERT
 			- fade away
 		- OpenAI leadership
+		- Meta
+			- open-source LLMs
 		- 
