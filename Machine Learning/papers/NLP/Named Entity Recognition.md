@@ -11,4 +11,5 @@
 	- multi-class classification
 	- Conditional Random Field
 	- deep learning based NER
-		- 
+		- assemble words
+			- word embedding
