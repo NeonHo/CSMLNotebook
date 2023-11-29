@@ -7,4 +7,7 @@
 - A form of NLP
 	- stage 1: detecting the entities from the text
 	- stage 2: classifying them into different categories
-- 
+- Method
+	- multi-class classification
+	- Conditional Random Field
+	- 
