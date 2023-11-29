@@ -41,4 +41,4 @@
 			- conversation
 			- inference
 		- traditional NLU(Nature Language Understanding) tasks
-			- 
+			- Named Entity Recognition (NER)
