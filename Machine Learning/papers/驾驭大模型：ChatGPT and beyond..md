@@ -56,6 +56,10 @@
 - summarize
 	- Natural language understanding.
 		- generalize to out-of-distribution data
-		- 
+		- with few training data.
 	- Natural language generation
+		- create text for various applications
+	- Knowledge-intensive tasks
+		- requiring domain-specific expertise
+		- requiring general world knowledge.
 	- 
