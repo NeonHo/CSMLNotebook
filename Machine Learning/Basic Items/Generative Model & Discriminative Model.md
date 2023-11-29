@@ -25,3 +25,8 @@ If you take a few minutes to stare at those two matrices, you will understand th
 The distribution p(y|x) is the natural distribution for classifying a given example x into a class y, which is why algorithms that model this directly are called discriminative algorithms. Generative algorithms model p(x,y), which can be transformed into p(y|x) by applying Bayes rule and then used for classification. However, the distribution p(x,y) can also be used for other purposes. For example, you could use p(x,y) to generate likely (x,y) pairs.
 
 From the description above, you might be thinking that generative models are more generally useful and therefore better, but it's not as simple as that. This paper is a very popular reference on the subject of discriminative vs. generative classifiers, but it's pretty heavy going. The overall gist is that discriminative models generally outperform generative models in classification tasks.
+
+# Easier understanding
+A generative algorithm models how the data was generated in order to categorize a signal. It asks the question: based on my generation assumptions, which category is most likely to generate this signal?
+
+A discriminative algorithm does not care about how the data was generated, it simply categorizes a given signal.
