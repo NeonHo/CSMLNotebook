@@ -43,4 +43,7 @@
 		- traditional NLU(Nature Language Understanding) tasks
 			- Named Entity Recognition (NER)[[Named Entity Recognition]]
 		- generation task
+- Analyze the abilities of LLM.
+	- LLMs v.s.  fine-tuned  models.
+	- LLMs are huge language models pretrained on large amounts of datasets without tuning on data for specific tasks
 	- 
