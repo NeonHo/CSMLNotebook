@@ -1,3 +1,7 @@
 - Quantization: network compression
-- Re-Parameterization: emerging technique
-- improve
+- Re-parameterize: emerging technique to improve model performance
+- both is individually.
+- Combine is lack
+- RepQ
+	- simultaneous application
+	- 
