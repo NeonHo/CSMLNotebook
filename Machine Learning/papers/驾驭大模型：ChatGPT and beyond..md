@@ -77,3 +77,6 @@
 		- decoder-only
 	- evolutionary tree
 		- decoder-only (gradually dominating)
+			- 2021 game-changing LLMs GPT-3
+			- boom
+			- 
