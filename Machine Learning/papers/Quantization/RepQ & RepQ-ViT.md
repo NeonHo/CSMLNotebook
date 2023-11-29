@@ -4,4 +4,5 @@
 - Combine is lack
 - RepQ
 	- simultaneous application
+	- apply quantization to re-parameterized network.
 	- 
