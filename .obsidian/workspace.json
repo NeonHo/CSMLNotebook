@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
+                "file": "看透财务自由的本质.md"
               }
             }
           },
@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42648418f0daaf34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "看透财务自由的本质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
+                "file": "看透财务自由的本质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
+                "file": "看透财务自由的本质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
+                "file": "看透财务自由的本质.md"
               }
             }
           },
@@ -180,13 +192,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc9f0ce8a6acf013",
+  "active": "42648418f0daaf34",
   "lastOpenFiles": [
+    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
+    "看透财务自由的本质.md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP/Masked Language Models.md",
     "Machine Learning/papers/NLP/Autoregressive Language Models.md",
-    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
     "Machine Learning/papers/NLP",
     "Machine Learning/papers",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
@@ -212,7 +225,6 @@
     "Computer Science/CS System/Chapter 1 A Tour of Computer System/1.2. Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Science/Database/MySQL/Table Association.md",
     "Computer Science/Database/MySQL/Subquery.md",
-    "Computer Science/Database/MySQL/Index.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
     "Computer Science/Data Structure",
