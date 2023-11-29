@@ -82,4 +82,5 @@
 		- encoder-only
 			- BERT
 			- fade away
-			- 
+		- OpenAI leadership
+		- 
