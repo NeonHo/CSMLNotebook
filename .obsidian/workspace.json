@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "看透财务自由的本质.md"
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
               }
             }
           },
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "看透财务自由的本质.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "看透财务自由的本质.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "看透财务自由的本质.md"
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
               }
             }
           },
@@ -192,10 +192,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "42648418f0daaf34",
+  "active": "bc9f0ce8a6acf013",
   "lastOpenFiles": [
-    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
     "看透财务自由的本质.md",
+    "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP/Masked Language Models.md",
