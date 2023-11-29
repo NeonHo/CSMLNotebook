@@ -109,4 +109,7 @@
 		- Develop a deeper understanding of the relationships between words and the context in which they are used.
 		- Trained on a large corpus of texts
 		- Using transformer
-		- 
+		- sota results
+			- sentiment analysis
+			- named entity recognition
+			- 
