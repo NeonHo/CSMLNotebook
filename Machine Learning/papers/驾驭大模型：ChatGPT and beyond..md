@@ -107,4 +107,6 @@
 		- mask words in a sentence
 		- considering the surrounding context.
 		- Develop a deeper understanding of the relationships between words and the context in which they are used.
-		- trained
+		- Trained on a large corpus of texts
+		- Using transformer
+		- 
