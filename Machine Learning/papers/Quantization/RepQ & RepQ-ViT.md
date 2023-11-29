@@ -8,4 +8,5 @@
 	- the test stage weights
 		- ==present a differentiable function of trainable parameters==
 	- apply QAT on top of this function
+	- better than baseline method LSQ
 	- 
