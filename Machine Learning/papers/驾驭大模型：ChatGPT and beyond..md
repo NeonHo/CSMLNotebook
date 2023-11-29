@@ -71,10 +71,15 @@
 		- training strategies
 		- model architectures
 		- use cases
-	- 3 types
-		- encoder-decoder
-		- encoder-only
+	- 2 types
+		- encoder-decoder and encoder-only
+			- [[Masked Language Models]]
+			- Discriminative [[Generative Model & Discriminative Model]]
+			- Predict masked words
 		- decoder-only
+			- [[Autoregressive Language Models]]
+			- 
+		-
 	- evolutionary tree
 		- decoder-only (gradually dominating)
 			- 2021 game-changing LLMs GPT-3
@@ -94,3 +99,4 @@
 			- Most are open-sourced
 			- Google contributions
 			- flexibility and versatility of decoder-only make it less promising.
+		
