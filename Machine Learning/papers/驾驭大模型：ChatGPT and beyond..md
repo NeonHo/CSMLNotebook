@@ -103,7 +103,7 @@
 
 - to better utilize extremely large datasets.
 	- natural language data is readily available
-	- unsupervised training paradigms
+	- unsupervised training paradigms: Masked Language Model
 		- mask words in a sentence
 		- considering the surrounding context.
 		- 
