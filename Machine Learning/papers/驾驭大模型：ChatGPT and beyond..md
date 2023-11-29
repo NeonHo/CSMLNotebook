@@ -104,4 +104,6 @@
 - to better utilize extremely large datasets.
 	- natural language data is readily available
 	- unsupervised training paradigms
-	- 
+		- mask words in a sentence
+		- considering the surrounding context.
+		- 
