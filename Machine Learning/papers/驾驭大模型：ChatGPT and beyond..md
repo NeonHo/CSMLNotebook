@@ -64,4 +64,5 @@
 		- requiring general world knowledge.
 	- Reasoning ability
 		- decision-making
-		- 
+		- problem-solving
+	- 
