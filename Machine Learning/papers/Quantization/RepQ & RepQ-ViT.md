@@ -6,5 +6,5 @@
 	- simultaneous application
 	- apply quantization to re-parameterized network.
 	- the test stage weights
-		- present a differentiable function of trainable parameters
+		- ==present a differentiable function of trainable parameters==
 		- 
