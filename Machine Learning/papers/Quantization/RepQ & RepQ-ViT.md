@@ -12,4 +12,6 @@
 # Introduction
 focus on re-parametrization and quantization as our main research fields.
 - faster than resnet-101
+- ==Channel Pruning== 
+- part of YOLOv7
 - 
