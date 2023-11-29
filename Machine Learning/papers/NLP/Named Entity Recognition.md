@@ -15,4 +15,6 @@
 			- word embedding
 				- semantic relationship
 				- syntactic relationship
-			- 
+			- learn analyzes topic-specific
+			- high level words automatically.
+		- 
