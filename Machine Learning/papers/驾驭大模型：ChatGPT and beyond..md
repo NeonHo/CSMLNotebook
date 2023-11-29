@@ -27,7 +27,7 @@
 	- existing domain-specific pre-trained models.
 - For better leverage the power
 
-- Structure:
+- Paper Structure:
 	- brief introduction to LLMs
 		- GPT
 		- BERT
@@ -43,4 +43,4 @@
 		- traditional NLU(Nature Language Understanding) tasks
 			- Named Entity Recognition (NER)[[Named Entity Recognition]]
 		- generation task
-		- 
+	- 
