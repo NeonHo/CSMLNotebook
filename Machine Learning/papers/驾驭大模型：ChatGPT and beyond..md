@@ -85,4 +85,8 @@
 		- OpenAI leadership
 		- Meta
 			- open-source LLMs
-		- 
+		- close-source is the tendency
+			- PaLM
+			- LaMDA
+			- GPT-4
+			- predominant method in the academic com
