@@ -1,1 +1,3 @@
-- 
+- Quantization: network compression
+- Re-Parameterization: emerging technique
+- improve
