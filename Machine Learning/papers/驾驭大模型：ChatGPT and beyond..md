@@ -89,4 +89,5 @@
 			- PaLM
 			- LaMDA
 			- GPT-4
-			- predominant method in the academic com
+			- API-based research become the predominant method in the academic community
+		- 
