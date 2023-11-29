@@ -55,5 +55,7 @@
 		- further tuned on a smaller, task-specific dataset.
 - summarize
 	- Natural language understanding.
+		- generalize to out-of-distribution data
+		- 
 	- Natural language generation
 	- 
