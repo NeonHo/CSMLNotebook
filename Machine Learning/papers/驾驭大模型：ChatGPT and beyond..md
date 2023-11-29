@@ -101,9 +101,10 @@
 			- flexibility and versatility of decoder-only make it less promising.
 ## BERT-style Language Models
 
-- to better utilize extremely large datasets.
-	- natural language data is readily available
+- To better utilize extremely large datasets.
+	- Natural language data is readily available
 	- unsupervised training paradigms: Masked Language Model
 		- mask words in a sentence
 		- considering the surrounding context.
+		- Develop a deeper understanding of the relationships between words and the context in which they are used.
 		- 
