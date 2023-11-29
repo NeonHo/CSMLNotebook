@@ -65,4 +65,5 @@
 	- Reasoning ability
 		- decision-making
 		- problem-solving
-	- 
+# Practical Guide for Models
+
