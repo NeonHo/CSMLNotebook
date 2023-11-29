@@ -10,4 +10,4 @@
 	- apply QAT on top of this function
 	- better than baseline method LSQ
 # Introduction
-focus on re-paramet
+focus on re-parametrization and quantization as our main research fields.
