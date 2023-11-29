@@ -75,11 +75,11 @@
 		- encoder-decoder and encoder-only
 			- [[Masked Language Models]]
 			- Discriminative [[Generative Model & Discriminative Model]]
-			- Predict masked words
+			- Predict masked wolds
 		- decoder-only
 			- [[Autoregressive Language Models]]
+			- Generative
 			- 
-		-
 	- evolutionary tree
 		- decoder-only (gradually dominating)
 			- 2021 game-changing LLMs GPT-3
