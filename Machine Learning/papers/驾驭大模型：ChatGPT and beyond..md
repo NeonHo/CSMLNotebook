@@ -62,4 +62,4 @@
 	- Knowledge-intensive tasks
 		- requiring domain-specific expertise
 		- requiring general world knowledge.
-	- 
+	- Reasoning ability
