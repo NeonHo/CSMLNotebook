@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
+                "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md",
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/papers/NLP/Named Entity Recognition.md"
+            "file": "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md"
           }
         }
       }
@@ -142,11 +142,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0876bdc849b779ba",
+  "active": "fcb77d992973cad7",
   "lastOpenFiles": [
+    "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP",
     "Machine Learning/papers/驾驭大模型：ChatGPT and beyond..md",
-    "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Machine Learning/papers",
     "Development/Torch/Multi GPU Training.md",
@@ -179,7 +179,6 @@
     "Machine Learning/Deep Learning",
     "Development/Torch",
     "Languages/Python/Built-in Functions",
-    "Development/quantization tool",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230904150557.png",
