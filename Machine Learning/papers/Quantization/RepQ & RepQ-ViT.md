@@ -96,4 +96,5 @@ Quantization
 - reduce inference time
 - power consumption
 - decreasing the precision of mat mul in Conv and FC
+- QAT recover the quality
 - 
