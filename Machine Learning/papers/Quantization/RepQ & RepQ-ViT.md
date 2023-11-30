@@ -48,4 +48,4 @@ Paragraph 3rd
 - challenge:
 	- difference between testing weights and training weights
 	- prohibit the standard QAT application
-	- 
+	- if QAT on training, can not merge 
