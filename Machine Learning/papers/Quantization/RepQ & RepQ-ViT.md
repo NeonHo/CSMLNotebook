@@ -26,4 +26,5 @@ focus on re-parametrization and quantization as our main research fields.
 			- BN
 	- training with blocks
 	- inference with a single Conv
-	- 
+	- boosting model quality but without burden at inference.
+- Efficiency 
