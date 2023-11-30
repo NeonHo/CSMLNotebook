@@ -74,4 +74,8 @@ Paragraph 4th
 	- rep equal to a certain gradient scaling strategy.
 - Quantization
 	- 32bit float point numbers is redundant to remain quality.
-	- 
+	- search the optimal low-bit integer parameters.
+	- quantization
+		- ronding
+			- zero gradient everywhere
+			- 
