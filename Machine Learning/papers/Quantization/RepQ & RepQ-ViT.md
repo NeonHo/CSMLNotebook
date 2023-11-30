@@ -104,4 +104,7 @@ Quantization
 
 Options
 - Apply Rep and PTQ successively
-	- unfr
+	- unfriendly distributions
+	- big drop after PTQ
+- Apply Rep and QAT successively
+	- 
