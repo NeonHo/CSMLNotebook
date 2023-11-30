@@ -62,4 +62,6 @@ Paragraph 4th
 - BN contained in the rep blocks 
 	- challenge for differentiable merging and hence for QAT.
 	- how to compute differentiable weight functions via BN folding
-	- enhance BN-folding 
+	- enhance BN-folding by introducing BN statistics estimation
+	- reduce the computational complexity in the theory and practice.
+- 
