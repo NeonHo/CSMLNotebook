@@ -54,4 +54,6 @@ Paragraph 3rd
 	- as a differentiable function of the trainable parameters of the re-parameterized block
 	- to apply a pseudo-quantization function on top of it.
 	- enables end2end QA Re-parameterized training.
-	- 
+
+Paragraph 4th
+- first method allows QAT with arbitrary re-parametrization schemes.
