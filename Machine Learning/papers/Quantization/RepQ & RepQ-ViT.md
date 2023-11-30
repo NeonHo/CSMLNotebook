@@ -73,4 +73,5 @@ Paragraph 4th
 	- faster convergence in a simple convex problem.
 	- rep equal to a certain gradient scaling strategy.
 - Quantization
+	- 32bit float point numbers is redundant to remain quality.
 	- 
