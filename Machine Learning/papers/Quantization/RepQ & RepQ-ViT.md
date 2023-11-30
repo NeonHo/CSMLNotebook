@@ -44,4 +44,6 @@ Paragraph 3rd
 - to solve problem:
 	- quality
 	- generalization
-	- 
+- introduce QAT for Re-Parameterized NN.
+- challenge:
+	- test
