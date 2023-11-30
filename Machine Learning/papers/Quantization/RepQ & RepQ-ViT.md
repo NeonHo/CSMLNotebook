@@ -61,4 +61,5 @@ Paragraph 4th
 	- lossless 8-bit quantization of Rep
 - BN contained in the rep blocks 
 	- challenge for differentiable merging and hence for QAT.
-	- 
+	- how to compute differentiable weight functions via BN folding
+	- enhance BN-folding 
