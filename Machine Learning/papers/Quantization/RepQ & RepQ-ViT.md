@@ -57,3 +57,4 @@ Paragraph 3rd
 
 Paragraph 4th
 - first method allows QAT with arbitrary re-parametrization schemes.
+	- extensive experiments showing that our RepQ
