@@ -66,5 +66,7 @@ Paragraph 4th
 	- reduce the computational complexity in the theory and practice.
 # Related works
 - Re-parameterization
+	- train deep networks without explicit residual connections
+	- single-branch architectures to reach a decent quality.
 	- 
 - Quantization
