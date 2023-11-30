@@ -71,5 +71,6 @@ Paragraph 4th
 	- a larger number of conv, diverse branches in their blocks.
 	- object detection : yolov6 v7
 	- faster convergence in a simple convex problem.
-	- 
+	- rep equal to a certain gradient scaling strategy.
 - Quantization
+	- 
