@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daa6a153287b112c",
+        "id": "e844b8a4617c5fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "7572d4dd190c558c",
+            "id": "ac21bc08014a6b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,13 +138,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a148b6e7d89eaf70",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7572d4dd190c558c",
+  "active": "ac21bc08014a6b36",
   "lastOpenFiles": [
+    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Multiplication Times for CNN.md",
+    "看透财务自由的本质.md",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Computer Science/CS System/总线.md",
-    "看透财务自由的本质.md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP/Masked Language Models.md",
@@ -194,7 +203,6 @@
     "Computer Science/Database",
     "Computer Science/Data Structure",
     "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
-    "Computer Science/CS System/Part I Program Structure and Execution",
     "Attachments/Pasted image 20230915210517.png",
     "Attachments/Pasted image 20230915210020.png",
     "Attachments/Images/Pasted image 20230912113056.png",
