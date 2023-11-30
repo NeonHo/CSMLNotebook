@@ -110,4 +110,6 @@ Options
 	- Rep train and convert into single layer
 	- std QAT
 - Apply Rep and QAT simultaneously
-	- quantize each layer inside a rep block 
+	- quantize each layer inside a rep block independently
+	- merge those layers into a single quantized layer only after QAT
+	- 
