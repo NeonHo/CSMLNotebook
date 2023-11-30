@@ -79,4 +79,5 @@ Paragraph 4th
 		- rounding
 			- zero gradient everywhere
 			- QAT address this issue by simulating quantization in a differentiable manner.
-			- 
+				- allowing the subsequent quantization.
+				- 
