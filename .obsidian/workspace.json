@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine Learning/papers/Quantization/未命名.md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +168,10 @@
   },
   "active": "ac21bc08014a6b36",
   "lastOpenFiles": [
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Machine Learning/papers/Quantization/LSQ.md",
+    "Machine Learning/papers/Quantization/未命名.md",
     "README.md",
+    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Multiplication Times for CNN.md",
     "看透财务自由的本质.md",
     "Machine Learning/papers/Quantization",
@@ -197,8 +200,6 @@
     "Development/front end/Javascript",
     "Development/Torch/Multi GPU Training.md",
     "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
-    "Computer Science/CS System/计算机时钟频率.md",
-    "Computer Science/CS System/CPU(执行)时间.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
     "Computer Science/Data Structure",
