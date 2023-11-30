@@ -10,7 +10,7 @@
 	- apply QAT on top of this function
 	- better than baseline method LSQ
 # Introduction
-Paragraph 1sth
+Paragraph 1st
 - focus on re-parametrization and quantization as our main research fields.
 
 Paragraph 2nd
@@ -34,4 +34,7 @@ Paragraph 2nd
 	- re-parameterization
 	- quantization $\ge75\%$ cut
 
-Par
+Paragraph 3rd
+- apply re-parameterization to practical applications
+- quantize it.
+- 
