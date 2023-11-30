@@ -107,4 +107,5 @@ Options
 	- unfriendly distributions
 	- big drop after PTQ
 - Apply Rep and QAT successively
-	- 
+	- Rep train and convert into single layer
+	- std QAT
