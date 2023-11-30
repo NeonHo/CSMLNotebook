@@ -46,4 +46,6 @@ Paragraph 3rd
 	- generalization
 - introduce QAT for Re-Parameterized NN.
 - challenge:
-	- test
+	- difference between testing weights and training weights
+	- prohibit the standard QAT application
+	- 
