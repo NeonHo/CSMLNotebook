@@ -49,6 +49,7 @@ Paragraph 3rd
 	- difference between testing weights and training weights
 	- prohibit the standard QAT application
 	- if QAT on training, can not merge into one branch without increasing the quantizer bit width.
-- Propose to compute the inference parameters of a Conv
+- Propose
+	- to compute the inference parameters of a Conv as a differentiable function of the trainable parameters of the re-parameterize
 	- 
 	- 
