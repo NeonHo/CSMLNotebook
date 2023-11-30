@@ -95,5 +95,5 @@ Paragraph 4th
 Quantization
 - reduce inference time
 - power consumption
-- decreasing the precision of mat mul
+- decreasing the precision of mat mul in Conv and FC
 - 
