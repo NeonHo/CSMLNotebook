@@ -101,4 +101,7 @@ Quantization
 	- transformed into $Q(X)*Q(W)$
 		- $Q$ is pseudo-quantization func
 - LSQ is used
-- 
+
+Options
+- Apply Rep and PTQ successively
+	- unfr
