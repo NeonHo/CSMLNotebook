@@ -52,5 +52,6 @@ Paragraph 3rd
 - Propose
 	- to compute the inference parameters of a Conv 
 	- as a differentiable function of the trainable parameters of the re-parameterized block
-	- apply a pseudo-quantization function on top of it.
+	- to apply a pseudo-quantization function on top of it.
+	- enables end2end QA Re-parameterized training.
 	- 
