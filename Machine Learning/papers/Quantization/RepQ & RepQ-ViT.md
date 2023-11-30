@@ -50,3 +50,4 @@ Paragraph 3rd
 	- prohibit the standard QAT application
 	- if QAT on training, can not merge into one branch without increasing the quantizer bit width.
 - Propose to compute the inference
+	- 
