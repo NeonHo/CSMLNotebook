@@ -97,4 +97,7 @@ Quantization
 - power consumption
 - decreasing the precision of mat mul in Conv and FC
 - QAT recover the quality
-	- the original
+	- the original conv: $X * W$ 
+	- transformed into $Q(X)*Q(W)$
+		- $Q$ is pseudo-quantization func
+		- 
