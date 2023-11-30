@@ -64,4 +64,6 @@ Paragraph 4th
 	- how to compute differentiable weight functions via BN folding
 	- enhance BN-folding by introducing BN statistics estimation
 	- reduce the computational complexity in the theory and practice.
-- 
+# Related works
+- Re-parameterization
+- Quantization
