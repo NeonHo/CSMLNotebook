@@ -90,4 +90,10 @@ Paragraph 4th
 					- BN re-estimation
 					- additional regularization
 					- various non-uniform quantization extensions.
-					- 
+# Background
+
+Quantization
+- reduce inference time
+- power consumption
+- decreasing the precision of mat mul
+- 
