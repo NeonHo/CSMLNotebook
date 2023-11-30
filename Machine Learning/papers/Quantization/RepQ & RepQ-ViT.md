@@ -40,4 +40,8 @@ Paragraph 3rd
 	- only 2 work:
 		- QRepVGG
 		- RepOpt
+	- eliminates the improvements introduced by the re-parameterization.
+- to solve problem:
+	- quality
+	- generalization
 	- 
