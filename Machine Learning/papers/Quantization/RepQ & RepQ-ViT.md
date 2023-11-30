@@ -68,5 +68,5 @@ Paragraph 4th
 - Re-parameterization
 	- train deep networks without explicit residual connections
 	- single-branch architectures to reach a decent quality.
-	- 
+	- a larger number of conv, diverse
 - Quantization
