@@ -10,7 +10,10 @@
 	- apply QAT on top of this function
 	- better than baseline method LSQ
 # Introduction
-focus on re-parametrization and quantization as our main research fields.
+Paragraph 1sth
+- focus on re-parametrization and quantization as our main research fields.
+
+Paragraph 2nd
 - faster than resnet-101
 - ==Channel Pruning== 
 - part of YOLOv7
@@ -30,4 +33,5 @@ focus on re-parametrization and quantization as our main research fields.
 - Efficiency
 	- re-parameterization
 	- quantization $\ge75\%$ cut
-	- 
+
+Par
