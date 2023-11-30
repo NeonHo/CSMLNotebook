@@ -83,4 +83,4 @@ Paragraph 4th
 					- injecting pseudo-quantization noise into full-precision network training.
 					- straight-through estimator
 					- a smooth approximation of stair-step function
-					- 
+				- 
