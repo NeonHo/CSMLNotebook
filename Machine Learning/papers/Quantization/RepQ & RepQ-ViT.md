@@ -69,5 +69,7 @@ Paragraph 4th
 	- train deep networks without explicit residual connections
 	- single-branch architectures to reach a decent quality.
 	- a larger number of conv, diverse branches in their blocks.
-	- object detection : yolov
+	- object detection : yolov6 v7
+	- faster convergence in a simple convex problem.
+	- 
 - Quantization
