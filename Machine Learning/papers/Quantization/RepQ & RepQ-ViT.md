@@ -87,4 +87,7 @@ Paragraph 4th
 					- knowledge distillation
 					- progressive quantization
 					- stochastic precision
+					- BN re-estimation
+					- additional regularization
+					- various non-uniform quantization extensions.
 					- 
