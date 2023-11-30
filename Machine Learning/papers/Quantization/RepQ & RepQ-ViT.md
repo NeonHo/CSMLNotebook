@@ -57,4 +57,6 @@ Paragraph 3rd
 
 Paragraph 4th
 - first method allows QAT with arbitrary re-parametrization schemes.
-	- extensive experiments showing that our RepQ
+	- extensive experiments showing that our RepQ consistent quality enhancement on SOTA architectures.
+	- lossless 8-bit quantization of Rep
+	- 
