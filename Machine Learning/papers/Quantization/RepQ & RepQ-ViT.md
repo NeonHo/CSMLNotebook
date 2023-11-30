@@ -18,8 +18,8 @@ focus on re-parametrization and quantization as our main research fields.
 	- represented in different math form
 	- help gradient descent to reach a better local minimum.
 		- improve performance
-	- re-parameterization involves replacing linear layers.
-		- Conv or FC with a combination of linear layers
+	- re-parameterization involves replacing linear layers (FC or Conv).
+		- replace Conv with a block consisting of multiple Conv Lyaers with:
 			- various kernel sizes
 			- channel numbers
 			- residual connections
