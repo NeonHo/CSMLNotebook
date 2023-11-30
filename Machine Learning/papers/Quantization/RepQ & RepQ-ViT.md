@@ -76,6 +76,7 @@ Paragraph 4th
 	- 32bit float point numbers is redundant to remain quality.
 	- search the optimal low-bit integer parameters.
 	- quantization
-		- ronding
+		- rounding
 			- zero gradient everywhere
+			- QAT address this issue by simulating quantization in a differentiable manner.
 			- 
