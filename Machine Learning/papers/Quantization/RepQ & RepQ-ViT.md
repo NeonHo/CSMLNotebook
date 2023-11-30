@@ -36,5 +36,8 @@ Paragraph 2nd
 
 Paragraph 3rd
 - apply re-parameterization to practical applications
-- quantize it.
-- 
+- to quantize it.
+	- only 2 work:
+		- QRepVGG
+		- RepOpt
+	- 
