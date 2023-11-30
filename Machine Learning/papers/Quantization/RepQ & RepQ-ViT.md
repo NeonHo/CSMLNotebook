@@ -17,4 +17,6 @@ focus on re-parametrization and quantization as our main research fields.
 - The idea behind re-parametrization
 	- represented in different math form
 	- help gradient descent to reach a better local minimum.
-	- 
+		- improve performance
+	- re-parameterization involves replacing linear layers.
+		- other me
