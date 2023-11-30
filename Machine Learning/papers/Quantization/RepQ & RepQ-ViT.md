@@ -109,3 +109,5 @@ Options
 - Apply Rep and QAT successively
 	- Rep train and convert into single layer
 	- std QAT
+- Apply Rep and QAT simultaneously
+	- 
