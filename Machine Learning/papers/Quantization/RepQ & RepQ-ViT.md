@@ -24,4 +24,6 @@ focus on re-parametrization and quantization as our main research fields.
 			- channel numbers
 			- residual connections
 			- BN
-		- 
+	- training with blocks
+	- inference with a single Conv
+	- 
