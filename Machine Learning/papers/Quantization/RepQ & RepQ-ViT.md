@@ -80,4 +80,5 @@ Paragraph 4th
 			- zero gradient everywhere
 			- QAT address this issue by simulating quantization in a differentiable manner.
 				- allowing the subsequent quantization.
-				- 
+					- injecting pseudo-quantization noise into full-precision network training.
+					- 
