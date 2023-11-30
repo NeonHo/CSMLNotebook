@@ -100,4 +100,5 @@ Quantization
 	- the original conv: $X * W$ 
 	- transformed into $Q(X)*Q(W)$
 		- $Q$ is pseudo-quantization func
-		- 
+- LSQ is used
+- 
