@@ -27,4 +27,7 @@ focus on re-parametrization and quantization as our main research fields.
 	- training with blocks
 	- inference with a single Conv
 	- boosting model quality but without burden at inference.
-- Efficiency 
+- Efficiency
+	- re-parameterization
+	- quantization $\ge75\%$ cut
+	- 
