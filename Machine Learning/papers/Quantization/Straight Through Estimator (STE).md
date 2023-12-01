@@ -9,3 +9,5 @@ $$
 \frac{\partial Loss}{\partial X_{raw}}=\frac{\partial Loss}{\partial X_q}
 $$
 # Theory
+[[Deterministic quantization & Stochastic quantization]]
+Use the expectation of the Stochastic Quantization 
