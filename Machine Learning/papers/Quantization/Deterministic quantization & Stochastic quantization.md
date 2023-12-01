@@ -1,4 +1,7 @@
 # Binarization
 ## Deterministic
 
+$$
+
+$$
 ## Stochastic
