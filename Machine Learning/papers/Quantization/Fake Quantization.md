@@ -2,11 +2,11 @@
 
 Insert the fake quantization nodes.
 
-## forward
+## Forward
 
 	input -> float -> int -> float
 simulate the quantization error
-## backward
+## Backward
 STE
 
 $$
@@ -16,7 +16,10 @@ $$
 \end{array}
 $$
 
-The 1st error is rounding error.
-The 2nd error is clipping error.
-the whole error is: $|\hat{v}-v|$.
+The 1st error is a rounding error.
+The 2nd error is a clipping error.
+The whole error is: $|\hat{v}-v|$.
+
+## After the backward
+The weights is updated after the backward.
 
