@@ -10,5 +10,6 @@ $$
 $$
 # Theory
 [[Deterministic quantization & Stochastic quantization]]
-Regard the expectation of the Stochastic Quantization as the function value for the backward in the Deterministic quantization.
+To regard the expectation of the Stochastic Quantization as the function value for the backward in the Deterministic quantization.
 Because the quantized value $X_{quant}$ is vertical, the partial is infinity.
+The expectation of the quantized value $X_{quant}$ in stochastic quantization is 
