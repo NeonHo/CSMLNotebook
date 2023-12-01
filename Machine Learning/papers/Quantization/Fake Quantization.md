@@ -23,6 +23,10 @@ The whole error is: $|\hat{v}-v|$.
 ## After the backward
 The weights are updated after the backward.
 So we will re-estimate the quantization parameter: $s$.
+$$
+s=\frac{|v|_{max}}{Q_P}
+$$
+
 
 # STE
 
