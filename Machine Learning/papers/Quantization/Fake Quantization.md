@@ -26,7 +26,3 @@ So we will re-estimate the quantization parameter: $s$.
 $$
 s=\frac{|v|_{max}}{Q_P}
 $$
-
-
-# STE
-
