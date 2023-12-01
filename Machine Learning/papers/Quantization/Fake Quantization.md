@@ -5,9 +5,9 @@ Insert the fake quantization nodes.
 ## Forward
 
 	input -> float -> int -> float
-simulate the quantization error
+Simulate the quantization error
 ## Backward
-STE
+use STE to estimate the gradient.
 
 $$
 \begin{array}{lr}
