@@ -8,3 +8,4 @@ $$
 $$
 \frac{\partial Loss}{\partial X_{raw}}=\frac{\partial Loss}{\partial X_q}
 $$
+# Theory
