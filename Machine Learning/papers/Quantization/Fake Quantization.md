@@ -21,5 +21,8 @@ The 2nd error is a clipping error.
 The whole error is: $|\hat{v}-v|$.
 
 ## After the backward
-The weights is updated after the backward.
+The weights are updated after the backward.
+So we will re-estimate the quantization parameter: $s$.
+
+# STE
 
