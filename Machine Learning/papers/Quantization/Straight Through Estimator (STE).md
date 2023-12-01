@@ -10,4 +10,4 @@ $$
 $$
 # Theory
 [[Deterministic quantization & Stochastic quantization]]
-Regard the expectation of the Stochastic Quantization as the a
+Regard the expectation of the Stochastic Quantization as the function value for the backward in the Deterministic quantization.
