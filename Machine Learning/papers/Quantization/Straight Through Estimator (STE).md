@@ -2,6 +2,6 @@
 $$
 \begin{array}{lr}
 X_{quant}=Round(Clip(X_{real}, Q_{min}, Q_{max}))\\
-
+X_{}
 \end{array}
 $$
