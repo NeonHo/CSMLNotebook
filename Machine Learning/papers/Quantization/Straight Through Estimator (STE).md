@@ -10,4 +10,4 @@ $$
 $$
 # Theory
 [[Deterministic quantization & Stochastic quantization]]
-Use the expectation of the Stochastic Quantization 
+Regard the expectation of the Stochastic Quantization as the a
