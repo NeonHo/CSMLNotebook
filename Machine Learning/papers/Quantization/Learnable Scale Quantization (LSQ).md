@@ -22,4 +22,4 @@ $$
 R=\frac{\frac{\partial_s L}{s}}{\frac{||\partial_w L||}{||w||}}\approx 1
 $$
 
-limit the gradient from scale.
+$R$ limits the gradient from scale.
