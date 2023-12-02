@@ -119,4 +119,6 @@ Options
 		- Merge into one is a big drop.
 - QAT and Rep simultaneously
 	- performing pseudo-quantization on top of merged rep block.
-	- 
+
+# Proposed Methods
+
