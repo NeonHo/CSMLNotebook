@@ -11,9 +11,11 @@
             "id": "95b0def93cff6503",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md"
+                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
+                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
+                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md"
+                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md"
               }
             }
           },
@@ -167,11 +169,12 @@
   },
   "active": "95b0def93cff6503",
   "lastOpenFiles": [
+    "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
+    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Excalidraw/Drawing 2023-12-02 18.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
-    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Excalidraw",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
@@ -197,7 +200,6 @@
     "Development/front end/TypeScript/Introduction.md",
     "Development/front end/TypeScript/export.md",
     "Development/front end/TypeScript/Basics.md",
-    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/front end/TypeScript",
     "Development/front end/Javascript",
     "Computer Science/Database/MySQL",
