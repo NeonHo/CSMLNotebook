@@ -1,3 +1,4 @@
+All in all, fake quantization is use the quantization error between $w_{quant}$ and
 # Simple Procedure for Symmetric Quantization
 
 Insert the fake quantization nodes.
