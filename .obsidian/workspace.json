@@ -169,8 +169,8 @@
   "active": "ac21bc08014a6b36",
   "lastOpenFiles": [
     "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
-    "Machine Learning/papers/Quantization/LSQ.md",
     "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
+    "Machine Learning/papers/Quantization/LSQ.md",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "README.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
