@@ -17,3 +17,7 @@ $$
 In the LSQ, the gradients are changed suddenly too in the transition point, so it will be more similar to the real quantization than the ==QIL== and the ==PACT==.
 
 ![[微信图片_20231202181911.jpg]]
+The author believe that the gradient from the scale and 
+$$
+
+$$
