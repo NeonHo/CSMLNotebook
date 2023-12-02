@@ -26,5 +26,8 @@ $$
 
 ## Stochastic
 $$
-\frac{\partial \mathbb{E} (x_{binarize})}{\partial x_{raw}}=\frac{clip}{x_{raw}}
+\frac{\partial \mathbb{E} (x_{binarize})}{\partial x_{raw}}=\frac{\partial clip(x_{raw}, -1, 1)}{\partial x_{raw}}
 $$
+
+# General STE
+Multi level qua
