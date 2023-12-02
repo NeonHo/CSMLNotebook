@@ -41,4 +41,4 @@ $$
 | $Q_N$ or $Q_{negative}$ | the negative border of quantization $-2^{b-1}$       |
 
 initialization:
-- $\frac{2|v|}{\sqrt{Q_{pos}}}$
+- $s:=\frac{2|v|}{\sqrt{Q_{pos}}}$
