@@ -1,4 +1,6 @@
-All in all, fake quantization is use the quantization error between $w_{quant}$ and
+All in all, fake quantization is use the quantization error between $w_{quant}$ and $w_{raw}$ as the loss, 
+apply gradient descent to update the weight to make it be friendly to minimum the loss value.
+As for the no gradient quantization weights, we use STE to estimate the gradient.
 # Simple Procedure for Symmetric Quantization
 
 Insert the fake quantization nodes.
