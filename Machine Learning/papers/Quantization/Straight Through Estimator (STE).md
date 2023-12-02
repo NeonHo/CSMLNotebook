@@ -26,5 +26,5 @@ $$
 
 ## Stochastic
 $$
-\frac{\partial x_{binarize}}{\partial x_{raw}}=
+\frac{\partial \mathbb{E} (x_{binarize})}{\partial x_{raw}}=\frac{clip}{x_{raw}}
 $$
