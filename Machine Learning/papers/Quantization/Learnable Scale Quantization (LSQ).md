@@ -23,3 +23,8 @@ R=\frac{\frac{\partial_s L}{s}}{\frac{||\partial_w L||}{||w||}}\approx 1
 $$
 
 $R$ limits the gradient from scale.
+
+For training stable,
+$$
+g=\frac{1}{\sqrt{N_WQ_P}}
+$$
