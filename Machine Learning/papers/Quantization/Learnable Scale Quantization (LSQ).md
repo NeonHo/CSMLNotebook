@@ -40,3 +40,4 @@ $$
 | $Q_{P}$ or $Q_{pos}$    | the positive border of quantization    $2^{b-1} - 1$ |
 | $Q_N$ or $Q_{negative}$ | the negative border of quantization $-2^{b-1}$       |
 
+
