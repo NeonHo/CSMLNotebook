@@ -18,5 +18,5 @@ The expectation of the quantized value $X_{quant}$ in stochastic quantization is
 
 [[Deterministic quantization & Stochastic quantization]]
 $$
-\frac{\partial x_{quant}}{\partial x_{raw}}=\frac{\partial}{}
+\frac{\partial x_{quant}}{\partial x_{raw}}=\frac{\partial clip(x_{raw},-1, 1)}{\partial x_{raw}}=\bein{case}1\\-1\end{case}
 $$
