@@ -113,8 +113,9 @@ Options
 	- quantize each layer inside a rep block independently
 	- merge those layers into a single quantized layer only after QAT
 	- ==what is rep in this==
-		- Rep is not only diverse branch, it can also have mutiple-conv layers in one branch
+		- Rep is not only diverse branch, it can also have multiple-conv layers in one branch
 		- $f(x)=xw=xw_1w_2$
+		- lower bit quantization is much more challenging.
 		- 
 - QAT and Rep simultaneously
 	- performing pseudo-quantization on top of merged rep block.
