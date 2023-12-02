@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md"
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "95b0def93cff6503",
   "lastOpenFiles": [
+    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Attachments/Images/微信图片_20231202181911.jpg",
     "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
-    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Excalidraw/Drawing 2023-12-02 18.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
@@ -213,7 +213,6 @@
     "Attachments/Images/Pasted image 20230912104316.png",
     "Attachments/Images/Pasted image 20230912091854.png",
     "Attachments/Images/Pasted image 20230912083403.png",
-    "Attachments/Images/Pasted image 20230912083110.png",
-    "Attachments/Images/Pasted image 20230912083037.png"
+    "Attachments/Images/Pasted image 20230912083110.png"
   ]
 }
