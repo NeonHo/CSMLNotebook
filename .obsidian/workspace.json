@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -167,8 +168,9 @@
   },
   "active": "95b0def93cff6503",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-02 18.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Excalidraw",
@@ -198,7 +200,6 @@
     "Development/front end/TypeScript/Basics.md",
     "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/front end/TypeScript",
-    "Development/front end/Javascript/JS用法.md",
     "Development/front end/Javascript",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
