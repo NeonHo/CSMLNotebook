@@ -24,7 +24,8 @@ $$
 
 $R$ limits the gradient from scale.
 
-For training stable,
+For training stability, the scale for weight need a scaling factor $g$:
 $$
 g=\frac{1}{\sqrt{N_WQ_P}}
 $$
+The scale for 
