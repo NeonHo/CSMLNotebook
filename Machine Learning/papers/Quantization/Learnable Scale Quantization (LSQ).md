@@ -21,3 +21,5 @@ The author believe that the gradient from the scale and the gradient from the we
 $$
 R=\frac{\frac{\partial_s L}{s}}{\frac{||\partial_w L||}{||w||}}\approx 1
 $$
+
+limit the gradient from scale.
