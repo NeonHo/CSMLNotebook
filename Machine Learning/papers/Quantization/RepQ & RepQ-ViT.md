@@ -113,7 +113,7 @@ Options
 	- quantize each layer inside a rep block independently
 	- merge those layers into a single quantized layer only after QAT
 	- ==what is rep in this==
-		- Rep is not only diverse branch
+		- Rep is not only diverse branch, it can have mutiple-
 - QAT and Rep simultaneously
 	- performing pseudo-quantization on top of merged rep block.
 	- 
