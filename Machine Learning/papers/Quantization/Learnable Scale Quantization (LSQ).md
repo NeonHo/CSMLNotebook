@@ -4,10 +4,11 @@ Update the scale with backward propagation.
 
 
 $$
-fake\ quant({v}) = round(clip(\frac{v}{s}, -Q_N, Q_P)) \times s=\begin{cases}-Q_N\times s& \frac{v}{s}\le -Q_N\\round(\frac{v}{s})\times s\end{cases}
-$$
+fake\ quant({v}) = round(clip(\frac{v}{s}, -Q_N, Q_P)) \times s=\begin{cases}-Q_N\times s& \frac{v}{s}\le -Q_N\\round(\frac{v}{s})\times s &-Q_N < \frac{v}{s} < Q_P\\ Q_P\times s& \frac{v}{s}\ge Q_P\end{cases}
 $$
 
+$$
+\frac{\}{}
 $$
 
 ![[Drawing 2023-12-02 17.52.08.excalidraw]]
