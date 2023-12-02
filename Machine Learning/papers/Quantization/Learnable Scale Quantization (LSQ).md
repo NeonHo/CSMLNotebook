@@ -17,7 +17,7 @@ $$
 In the LSQ, the gradients are changed suddenly too in the transition point, so it will be more similar to the real quantization than the ==QIL== and the ==PACT==.
 
 ![[微信图片_20231202181911.jpg]]
-The author believe that the gradient from the scale and 
+The author believe that the gradient from the scale and the gradient from the weights need to be as close as possible.
 $$
-
+R=\frac{\frac{\partial_s L}{s}}{\frac{||\partial_w L||}{||w||}}\approx 1
 $$
