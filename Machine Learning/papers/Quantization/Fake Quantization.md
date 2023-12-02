@@ -7,7 +7,7 @@ Insert the fake quantization nodes.
 	input -> float -> int -> float
 Simulate the quantization error
 ## Backward
-use STE to estimate the gradient.
+use STE to estimate the gradient. [[Straight Through Estimator (STE)]]
 
 $$
 \begin{array}{lr}

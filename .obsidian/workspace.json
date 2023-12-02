@@ -11,12 +11,8 @@
             "id": "ac21bc08014a6b36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/papers/Quantization/LSQ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/LSQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/LSQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/papers/Quantization/LSQ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +160,11 @@
   },
   "active": "ac21bc08014a6b36",
   "lastOpenFiles": [
+    "Machine Learning/papers/Quantization/Fake Quantization.md",
+    "Machine Learning/papers/Quantization/LSQ.md",
     "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
-    "Machine Learning/papers/Quantization/LSQ.md",
     "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
-    "Machine Learning/papers/Quantization/Fake Quantization.md",
     "README.md",
     "Multiplication Times for CNN.md",
     "看透财务自由的本质.md",
