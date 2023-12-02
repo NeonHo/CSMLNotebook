@@ -116,7 +116,7 @@ Options
 		- Rep is not only diverse branch, it can also have multiple-conv layers in one branch
 		- $f(x)=xw=xw_1w_2$
 		- lower bit quantization is much more challenging.
-		- 
+		- Merge into one is a big drop.
 - QAT and Rep simultaneously
 	- performing pseudo-quantization on top of merged rep block.
 	- 
