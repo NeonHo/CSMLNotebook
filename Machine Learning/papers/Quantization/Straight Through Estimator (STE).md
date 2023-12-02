@@ -16,6 +16,7 @@ The expectation of the quantized value $X_{quant}$ in stochastic quantization is
 
 # STE for Binarization
 
+[[Deterministic quantization & Stochastic quantization]]
 $$
-\frac
+\frac{\partial x_{quant}}{\partial x_{raw}}
 $$
