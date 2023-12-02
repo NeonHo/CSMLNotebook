@@ -1,4 +1,4 @@
-# Simple Procedure for Symetic
+# Simple Procedure for Symmetric Quantization
 
 Insert the fake quantization nodes.
 
