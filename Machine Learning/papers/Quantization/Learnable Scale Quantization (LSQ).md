@@ -24,11 +24,11 @@ $$
 
 $R$ limits the gradient from scale.
 
-For training stability, the scale for weight need a scaling factor $g$:
+For training stability, the scale $s$ for weight need a scaling factor $g$:
 $$
 g=\frac{1}{\sqrt{N_{weight}Q_{pos}}}
 $$
-The scale for feature need a scaling factor $g$:
+The scale $s$ for feature need a scaling factor $g$:
 $$
 g=\frac{1}{\sqrt{N_{feature}Q_{pos}}}
 $$
