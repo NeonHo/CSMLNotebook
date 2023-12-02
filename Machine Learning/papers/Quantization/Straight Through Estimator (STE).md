@@ -30,4 +30,5 @@ $$
 $$
 
 # General STE
-Multi level qua
+Multi level quantization function cannot only use one STE.
+Each Level need an STE.
