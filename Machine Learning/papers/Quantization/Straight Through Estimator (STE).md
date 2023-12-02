@@ -18,5 +18,5 @@ The expectation of the quantized value $X_{quant}$ in stochastic quantization is
 
 [[Deterministic quantization & Stochastic quantization]]
 $$
-\frac{\partial x_{quant}}{\partial x_{raw}}
+\frac{\partial x_{quant}}{\partial x_{raw}}=\frac{\partial}{}
 $$
