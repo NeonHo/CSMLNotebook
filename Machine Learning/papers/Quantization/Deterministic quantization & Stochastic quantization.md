@@ -7,5 +7,5 @@ $$
 ## Stochastic
 $$
 x_{quant}=\begin{cases}-1&with\quad prob\quad p=clip\left( \dfrac{1-x_{raw}}{2},0,1\right) \\
-1 &with\quad prob\quad p=clip\left( \dfrac{1+x}{2},0,1\right) \end{cases}
+1 &with\quad prob\quad p=clip\left( \dfrac{1+x_{raw}}{2},0,1\right) \end{cases}
 $$
