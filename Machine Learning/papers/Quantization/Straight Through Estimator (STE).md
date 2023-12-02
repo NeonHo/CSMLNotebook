@@ -14,4 +14,8 @@ To regard the expectation of the Stochastic Quantization as the function value f
 Because the quantized value $X_{quant}$ is vertical, the partial is infinity.
 The expectation of the quantized value $X_{quant}$ in stochastic quantization is normal, the partial is a good choice.
 
-# 
+# STE for Binarization
+
+$$
+\frac
+$$
