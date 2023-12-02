@@ -8,7 +8,7 @@ fake\ quant({v}) = round(clip(\frac{v}{s}, -Q_N, Q_P)) \times s=\begin{cases}-Q_
 $$
 
 $$
-\frac{\}{}
+\frac{\partial \hat{v}}{\partial s}=\begin{cases}-Q_N & \frac{v}{s} \le -Q_N\\round(\frac{v}{s})+\frac{\partial}{}\end{cases}
 $$
 
 ![[Drawing 2023-12-02 17.52.08.excalidraw]]
