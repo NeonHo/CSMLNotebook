@@ -32,6 +32,9 @@ The scale for feature need a scaling factor $g$:
 $$
 g=\frac{1}{\sqrt{N_{feature}Q_{pos}}}
 $$
-| sign | means |
-| ---- | ----- |
-| $N_{weight}$    |  the size of weights  |
+| sign                 | means                                                |
+| -------------------- | ---------------------------------------------------- |
+| $N_{weight}$         | the size of weights                                  |
+| $N_{feature}$        | the size of features                                 |
+| $Q_{P}$ or $Q_{pos}$ | the positive border of quantization    $2^{b-1} - 1$ |
+| $Q_N$ or $Q_{negative}$                     |                                                      |
