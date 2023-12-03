@@ -199,4 +199,7 @@ Options
 #### OREPA
 [2204.00826v1.pdf (arxiv.org)](https://arxiv.org/pdf/2204.00826v1.pdf)
 ![[Pasted image 20231203195952.png]]
+aiming to reduce the huge training overhead by squeezing the complex training-time block into a single convolution.
 ![[Pasted image 20231203195916.png]]
+![[Pasted image 20231203200942.png]]
+### 
