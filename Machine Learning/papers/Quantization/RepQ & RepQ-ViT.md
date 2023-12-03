@@ -131,4 +131,5 @@ Options
 	- reduce training time
 		- by merging Rep blocks ==without== BN into a single Conv
 	- still optimizing the extended set of weights introduced by Rep
-		- the summary of weighted weights
+		- the summary of weighted weights.
+		- 
