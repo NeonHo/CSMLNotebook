@@ -174,4 +174,5 @@ Options
 		- A simple example:
 			- $X (Batch\ Size, Height, Width, Channel_{in})$
 			- $W (Channel_{in}, Channel_{out})$
+			- $\mathbb{E}[XW]=\mathbb{E}[X]W$
 			- 
