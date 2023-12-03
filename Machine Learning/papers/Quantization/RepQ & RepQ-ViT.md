@@ -234,4 +234,5 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 - RepQ-BN is better than RepQ-BNEst in 8 bits
 - RepQ-BNEst is better in 4 bits
 - RepQ-BNEst allows for a 25% training time reduction compared to RepQ-BN.
-- 
+# Discussion
+4-bit RepVGG
