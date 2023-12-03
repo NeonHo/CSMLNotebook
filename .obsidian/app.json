@@ -16,6 +16,7 @@
     "Conv",
     "RepQ-BN",
     "RepQ-BN",
-    "RepQ-BNEst"
+    "RepQ-BNEst",
+    "ACNet"
   ]
 }

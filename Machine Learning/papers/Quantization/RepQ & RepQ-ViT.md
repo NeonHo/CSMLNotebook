@@ -188,9 +188,11 @@ Options
 		- $\mathbb{E}[X*W]\approx \mathbb{E}[X]\cdot \sum_{h,w}W_{h,w}$
 		- $\mathbb{V}[X*W]\approx \mathbb{V} [X]\cdot \sum_{h,w}W_{h,w}^2$
 
-# Exps
+# Exp
 ## setup
-### ACNet
+### For Resnet-18
+#### ACNet
 [1908.03930v3.pdf (arxiv.org)](https://arxiv.org/pdf/1908.03930v3.pdf)
 - ![[Pasted image 20231203194833.png]]
 - ![[Pasted image 20231203195223.png]]
+#### 
