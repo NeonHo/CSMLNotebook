@@ -185,6 +185,6 @@ Options
 			- quadratic statistic of the weight $W*W$ (element-wise square of $W$)
 			- output that estimates variance
 		- computationally more efficient for QAT.
-		- $\mathbb{E}[X*W]\approx \mathbb{E}[X]\cdot \sum_{h,d}W_{h,d}$
-		- $\mathbb{V}[X*W]\approx \mathbb{V} [X]\cdot \sum_{h,d}W_{h,d}^2$
+		- $\mathbb{E}[X*W]\approx \mathbb{E}[X]\cdot \sum_{h,w}W_{h,w}$
+		- $\mathbb{V}[X*W]\approx \mathbb{V} [X]\cdot \sum_{h,w}W_{h,w}^2$
 - 
