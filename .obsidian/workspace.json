@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72dbcddf59c079f1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20231203201445.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Attachments/Pasted image 20231203201445.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Attachments/Pasted image 20231203201445.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
+                "file": "Attachments/Pasted image 20231203201445.png"
               }
             }
           },
@@ -180,10 +190,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "157cdfb59cf4bdbc",
+  "active": "72dbcddf59c079f1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
     "看透财务自由的本质.md",
     "Attachments/Pasted image 20231203201458.png",
     "Attachments/Pasted image 20231203201445.png",
