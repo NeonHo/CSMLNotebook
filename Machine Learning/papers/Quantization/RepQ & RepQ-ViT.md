@@ -218,6 +218,8 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- A simple example for $R(X)=BN(X*W)+X$
 		- if BNEst
 			- FP training with BN estimation
+			- Q: Why need FP training with BN estimation?
+			- A: W is related the first training stage, so the dataflow is needed be consistent with quantization stage. (RepQ-BN don't need because the extra Conv can get away from the training flow passes.)
 		- else:
 			- FP training
 		- if BNEst
