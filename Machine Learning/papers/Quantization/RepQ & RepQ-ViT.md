@@ -220,4 +220,4 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- if BNEst
 			- estimate
 		- else:
-			- estimate for 
+			- an extra Conv
