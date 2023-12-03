@@ -148,4 +148,6 @@ Options
 - pseudo-quantization
 	- $X*M(W_1,...,W_n)\rightarrow Q(X)*Q(M(W_1,...,W_n))$
 	- apply on top of $M$
-	- $Q$ and $M$ are differentiable function.
+	- $\because$ $Q$ and $M$ are differentiable function.
+	- $\therefore$ the gradient propagates smoothly to the weights $W_1,...,W_n$.
+	- 
