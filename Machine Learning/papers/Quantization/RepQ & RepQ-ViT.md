@@ -22,7 +22,7 @@ Paragraph 2nd
 	- help gradient descent to reach a better local minimum.
 		- improve performance
 	- re-parameterization involves replacing linear layers (FC or Conv).
-		- replace Conv with a block consisting of multiple Conv Lyaers with:
+		- replace Conv with a block consisting of multiple Conv Layers with:
 			- various kernel sizes
 			- channel numbers
 			- residual connections
