@@ -162,4 +162,5 @@ Options
 	- $BN(X*W)=X*\frac{W}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma-\frac{\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma+\beta$
 	- $BN(X*W)=X*M(X,W)+b(X,W)$
 - A Conv followed by BN is equivalent to a single Conv operator.
-	- dependent on the input X through the batch statistics.
+	- Dependent on the input X through the batch statistics: mean and variance.
+	- 
