@@ -18,6 +18,7 @@
     "RepQ-BN",
     "RepQ-BNEst",
     "ACNet",
-    "OREPA"
+    "OREPA",
+    "RepVGG"
   ]
 }
