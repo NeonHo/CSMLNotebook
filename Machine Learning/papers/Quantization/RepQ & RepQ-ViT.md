@@ -182,5 +182,5 @@ Options
 - A similar reduction is not possible due to the need to calculate the input covariance matrix.
 	- Approximate the covariance matrix with a diagonal form.
 		- The variance is substituted with
-			- quadratic statistic of the weight
+			- quadratic statistic of the weight $W*W$ (element-wise square of $W$)
 			- output that estimates variance
