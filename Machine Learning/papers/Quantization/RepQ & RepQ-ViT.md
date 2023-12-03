@@ -179,4 +179,4 @@ Options
 				- Multiply $i\times o$ weight parameters.
 				- Avoiding feature map $XW$ storing.
 				- The complexity is no different (I think).
-				- 
+- a similar reduction is not possible due to the need to calculate
