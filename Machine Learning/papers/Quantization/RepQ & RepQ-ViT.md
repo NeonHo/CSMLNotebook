@@ -174,5 +174,5 @@ Options
 		- A simple example:
 			- $X (Batch\ Size, Height, Width, Channel_{in})$
 			- $W (Channel_{in}, Channel_{out})$
-			- $\mathbb{E}[XW]=\mathbb{E}[X]W$
+			- $\mathbb{E}[X^{(b,h,w,i)}W^{(i,o)}]=\mathbb{E}[X]W$
 			- 
