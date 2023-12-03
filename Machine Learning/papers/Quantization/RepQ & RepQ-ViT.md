@@ -193,6 +193,10 @@ Options
 ### For Resnet-18
 #### ACNet
 [1908.03930v3.pdf (arxiv.org)](https://arxiv.org/pdf/1908.03930v3.pdf)
+![[Pasted image 20231203200006.png]]
 - ![[Pasted image 20231203194833.png]]
 - ![[Pasted image 20231203195223.png]]
-#### 
+#### OREPA
+[2204.00826v1.pdf (arxiv.org)](https://arxiv.org/pdf/2204.00826v1.pdf)
+![[Pasted image 20231203195952.png]]
+![[Pasted image 20231203195916.png]]
