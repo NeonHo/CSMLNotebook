@@ -218,6 +218,6 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- A simple example for $R(X)=BN(X*W)+X$
 		- FP training with BN
 		- if BNEst
-			- estimate
+			- estimate the BN statistics.
 		- else:
-			- an extra Conv
+			- an extra Conv to calculate BN stati
