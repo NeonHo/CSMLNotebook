@@ -212,3 +212,5 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- FP pretrained for initialization.
 		- QAT
 	- w/o Rep during the QAT
+	- Plain: no Rep
+	- 
