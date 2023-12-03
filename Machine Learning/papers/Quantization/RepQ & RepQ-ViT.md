@@ -211,5 +211,4 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- two stage:
 		- FP pretrained for initialization.
 		- QAT
-	- no Rep in the QAT
-	- RepQ
+	- w/o Rep during the QAT
