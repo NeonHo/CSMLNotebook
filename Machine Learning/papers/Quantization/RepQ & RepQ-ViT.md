@@ -157,4 +157,6 @@ Options
 	- removal leads drop
 	- handle BN in QAT
 - First option is fusing BN with the preceding Conv during training.
-	- Folding BN reduces the task to the no-BN case
+	- Folding BN reduces the task to the no-BN case.
+	- $BN(X*W)=\frac{X*W-\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]}}$
+	- 
