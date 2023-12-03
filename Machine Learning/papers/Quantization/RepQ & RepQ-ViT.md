@@ -163,4 +163,5 @@ Options
 	- $BN(X*W)=X*M(X,W)+b(X,W)$
 - A Conv followed by BN is equivalent to a single Conv operator.
 	- Dependent on the input X through the batch statistics: mean and variance.
+	- Rep with BN: $R(X, W)=X*M(X, W_1,...,W_n)$
 	- 
