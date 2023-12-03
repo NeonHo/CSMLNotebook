@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72dbcddf59c079f1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20231203201445.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20231203201445.png",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20231203201445.png",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20231203201445.png"
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
               }
             }
           },
@@ -190,13 +180,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "72dbcddf59c079f1",
+  "active": "157cdfb59cf4bdbc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231203201445.png",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
     "看透财务自由的本质.md",
     "Attachments/Pasted image 20231203201458.png",
-    "Attachments/Pasted image 20231203201445.png",
     "Attachments/Pasted image 20231203200942.png",
     "Attachments/Pasted image 20231203200538.png",
     "Attachments/Pasted image 20231203200006.png",
@@ -232,7 +222,6 @@
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Development/front end/TypeScript/TS Type Assert.md",
     "Development/front end/TypeScript/Introduction.md",
-    "Development/front end/TypeScript/export.md",
     "Development/front end/TypeScript",
     "Development/front end/Javascript",
     "Computer Science/Database/MySQL",
