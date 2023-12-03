@@ -231,4 +231,5 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- quantization training
 ## Results
 - 8-bit RepQ exceeds the FP result
+- RepQ-BN is better than RepQ-BNEst
 - 
