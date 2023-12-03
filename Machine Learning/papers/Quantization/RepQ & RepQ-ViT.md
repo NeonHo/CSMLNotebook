@@ -150,4 +150,4 @@ Options
 	- apply on top of $M$
 	- $\because$ $Q$ and $M$ are differentiable function.
 	- $\therefore$ the gradient propagates smoothly to the weights $W_1,...,W_n$.
-	- 
+	- End-to-end QAT = Rep with $M$ $+$ 
