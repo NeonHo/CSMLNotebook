@@ -190,5 +190,7 @@ Options
 
 # Exps
 ## setup
+### ACNet
+[1908.03930v3.pdf (arxiv.org)](https://arxiv.org/pdf/1908.03930v3.pdf)
 - ![[Pasted image 20231203194833.png]]
-- 
+- ![[Pasted image 20231203195223.png]]
