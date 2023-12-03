@@ -14,15 +14,15 @@ Paragraph 1st
 - focus on re-parametrization and quantization as our main research fields.
 
 Paragraph 2nd
-- faster than resnet-101
+- Faster than resnet-101
 - ==Channel Pruning== 
 - part of YOLOv7
 - The idea behind re-parametrization
 	- represented in different math form
 	- help gradient descent to reach a better local minimum.
-		- improve performance
+		- Improve performance
 	- re-parameterization involves replacing linear layers (FC or Conv).
-		- replace Conv with a block consisting of multiple Conv Layers with:
+		- Replace Conv with a block consisting of multiple Conv Layers with:
 			- various kernel sizes
 			- channel numbers
 			- residual connections
@@ -37,8 +37,8 @@ Paragraph 2nd
 Paragraph 3rd
 - apply re-parameterization to practical applications
 - to quantize it.
-	- only 2 work:
-		- QRepVGG
+	- Only 2 work:
+		- QARepVGG
 		- RepOpt
 	- eliminates the improvements introduced by the re-parameterization.
 - to solve problem:
