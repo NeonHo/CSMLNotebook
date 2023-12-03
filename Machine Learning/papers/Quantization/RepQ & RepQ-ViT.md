@@ -229,7 +229,7 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 			- an extra Conv to calculate BN statistics.
 			- fuse BN
 		- quantization training
-## Results
+## results
 - 8-bit RepQ exceeds the FP result
 - RepQ-BN is better than RepQ-BNEst in 8 bits
 - RepQ-BNEst is better in 4 bits
