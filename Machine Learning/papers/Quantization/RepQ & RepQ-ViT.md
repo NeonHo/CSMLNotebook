@@ -155,4 +155,5 @@ Options
 - use BN
 	- some papers: BN is essential
 	- removal leads drop
+	- handle BN in QAT
 	- 
