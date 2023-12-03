@@ -214,4 +214,4 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- w/o Rep during the QAT
 	- Plain: no Rep
 	- Merged: trained in the FP stage, Rep merged back into Conv before QAT.
-	- 
+	- RepQ: don't merge after training, build new gradient flow for these weights and apply QAT.
