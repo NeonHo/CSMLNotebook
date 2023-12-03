@@ -175,7 +175,7 @@ Options
 			- $X (Batch\ Size, Height, Width, Channel_{in})$
 			- $W (Channel_{in}, Channel_{out})$
 			- $\mathbb{E}[X^{(b,h,w,i)}W^{(i,o)}]=\mathbb{E}[X^{(b,h,w,i)}]W^{(i,o)}$
-				- calculate $i$ means on $b\times h\times w$ input values.
+				- calculate $i$ means on $b\times h\times w$ input values. $O(b\times h\times w)\times C_{in}$
 				- Multiply $i\times o$ weight parameters.
 				- Avoiding feature map $XW$ storing.
 				- The complexity is no different (I think).
