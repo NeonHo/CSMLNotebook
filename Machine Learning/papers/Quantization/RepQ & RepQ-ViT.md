@@ -217,7 +217,7 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- RepQ: don't merge after training, build new gradient flow for these weights and apply QAT.
 	- A simple example for $R(X)=BN(X*W)+X$
 		- if BNEst
-			- FP training with BN with BN estimation
+			- FP training with BN estimation
 		- else:
 			- FP training
 		- if BNEst
