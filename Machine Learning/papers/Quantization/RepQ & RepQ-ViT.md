@@ -122,3 +122,5 @@ Options
 
 # Proposed Methods
 
+1. Rep Block without BN layers
+2. 
