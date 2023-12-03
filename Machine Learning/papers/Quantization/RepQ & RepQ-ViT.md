@@ -129,3 +129,5 @@ Options
 ## RepQ: QAT with Rep
 - in Online Convolutional Re-parameterization
 	- reduce training time
+		- by merging Rep blocks ==without== BN into a single Conv
+	- still optimizing the 

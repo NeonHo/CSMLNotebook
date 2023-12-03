@@ -12,6 +12,7 @@
     "re-paramet",
     "Binarization",
     "QIL",
-    "RepQ"
+    "RepQ",
+    "Conv"
   ]
 }
