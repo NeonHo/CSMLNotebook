@@ -223,4 +223,4 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- else:
 			- an extra Conv to calculate BN statistics.
 			- fuse BN
-		- quantization
+		- quantization training
