@@ -134,5 +134,5 @@ Options
 		- the summary of weighted weights.
 - Illustrate the Rep
 	- a simple example: 
-		- $R(X, W)=X*W_1*W_2+X*W_3$
-		- 
+		- Training $R(X, W)=X*W_1*W_2+X*W_3$
+		- Inference $$
