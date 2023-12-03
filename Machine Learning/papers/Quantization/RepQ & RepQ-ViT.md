@@ -140,4 +140,5 @@ Options
 		- $M$ is a differentiable function.
 			- From the block's trainable parameters,
 			- to the final converted convolution.
-		- Generalize to all novel Rep blocks
+		- Generalize to all novel Rep strategies without BN:
+			- R(X,)
