@@ -177,4 +177,5 @@ Options
 			- $\mathbb{E}[X^{(b,h,w,i)}W^{(i,o)}]=\mathbb{E}[X^{(b,h,w,i)}]W^{(i,o)}$
 				- calculate $i$ means on $b\times h\times w$ input values.
 				- Multiply $i\times o$ weight parameters.
+				- Avoiding feature map $XW$ storing.
 				- 
