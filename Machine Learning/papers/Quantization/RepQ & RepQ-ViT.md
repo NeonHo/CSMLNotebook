@@ -126,3 +126,5 @@ Options
 2. For BN layers
 	1. RepQ-BN
 	2. RepQ-BNEst
+## RepQ: QAT with Rep
+- in 
