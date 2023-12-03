@@ -167,4 +167,5 @@ Options
 	- Algorithm 1st To compute $M$ and apply quantization in practice for a simple case of $R(X, W)=BN(X*W)$
 		- $Y=X*W$
 ## RepQ-BNEst
-- Conv 
+- Conv is computed twice in Algorithm 1st.
+- 
