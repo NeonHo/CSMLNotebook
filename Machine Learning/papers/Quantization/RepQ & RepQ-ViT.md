@@ -156,4 +156,5 @@ Options
 	- some papers: BN is essential
 	- removal leads drop
 	- handle BN in QAT
-- first option is fusing BN with the preceding Conv
+- First option is fusing BN with the preceding Conv during training.
+	- A similar procedure
