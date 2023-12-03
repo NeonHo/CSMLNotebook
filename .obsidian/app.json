@@ -15,6 +15,7 @@
     "RepQ",
     "Conv",
     "RepQ-BN",
-    "RepQ-BN"
+    "RepQ-BN",
+    "RepQ-BNEst"
   ]
 }

@@ -166,4 +166,5 @@ Options
 	- Rep with BN: $R(X, W)=X*M(X, W_1,...,W_n)$
 	- Algorithm 1st To compute $M$ and apply quantization in practice for a simple case of $R(X, W)=BN(X*W)$
 		- $Y=X*W$
-		- 
+## RepQ-BNEst
+- Conv 
