@@ -140,4 +140,4 @@ Options
 		- $M$ is a differentiable function.
 			- From the block's trainable parameters,
 			- to the final converted convolution.
-			- 
+		- Generalize to all novel Rep blocks
