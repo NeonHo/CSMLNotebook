@@ -181,4 +181,6 @@ Options
 				- The complexity is no different (I think).
 - A similar reduction is not possible due to the need to calculate the input covariance matrix.
 	- Approximate the covariance matrix with a diagonal form.
-		- the varianc
+		- The variance is substituted with
+			- quadratic statistic of the weight
+			- output that estimates variance
