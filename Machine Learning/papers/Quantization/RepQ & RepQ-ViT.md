@@ -178,4 +178,5 @@ Options
 				- calculate $i$ means on $b\times h\times w$ input values.
 				- Multiply $i\times o$ weight parameters.
 				- Avoiding feature map $XW$ storing.
+				- The complexity is no different (I think).
 				- 
