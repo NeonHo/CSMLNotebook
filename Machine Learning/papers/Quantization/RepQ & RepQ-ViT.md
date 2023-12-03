@@ -170,4 +170,5 @@ Options
 - Conv is computed twice in Algorithm 1st.
 	- The 1st Conv is used to calculate the BN statistics $\mu$ and $V$.
 	- Not necessary.
-		- a novel method of estimating BN
+		- A novel method of estimating BN running statistics based on inputs and weights without extra Conv.
+		- 
