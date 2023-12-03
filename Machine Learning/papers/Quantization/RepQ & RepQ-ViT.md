@@ -202,4 +202,5 @@ Options
 aiming to reduce the huge training overhead by squeezing the complex training-time block into a single convolution.
 ![[Pasted image 20231203195916.png]]
 ![[Pasted image 20231203200942.png]]
-### 
+### For VGG
+#### RepVGG
