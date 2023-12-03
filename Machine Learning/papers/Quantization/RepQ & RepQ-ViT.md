@@ -159,4 +159,6 @@ Options
 - First option is fusing BN with the preceding Conv during training.
 	- Folding BN reduces the task to the no-BN case.
 	- $BN(X*W)=\frac{X*W-\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma+\beta$
-	- $BN(X*W)=X*\frac{W}{}$
+	- $BN(X*W)=X*\frac{W}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma-\frac{\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma+\beta$
+	- $BN(X*W)=X*M(X,W)+b(X,W)$
+	- 
