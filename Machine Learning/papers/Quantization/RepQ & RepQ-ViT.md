@@ -230,3 +230,5 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 			- fuse BN
 		- quantization training
 ## Results
+- 8-bit RepQ exceeds the FP result
+- 
