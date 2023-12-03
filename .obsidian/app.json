@@ -13,6 +13,8 @@
     "Binarization",
     "QIL",
     "RepQ",
-    "Conv"
+    "Conv",
+    "RepQ-BN",
+    "RepQ-BN"
   ]
 }
