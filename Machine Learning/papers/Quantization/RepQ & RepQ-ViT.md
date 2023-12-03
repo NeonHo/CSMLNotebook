@@ -146,4 +146,5 @@ Options
 - $M(W_1, W_2, W_3)$ and $X*W_1*W_2+X*W_3$ is equally in gradient flow in backward and forward.
 
 - pseudo-quantization
-- 
+	- $X*M(W_1,...,W_n)\rightarrow Q(X)*Q(M(W_1,...,W_n))$
+	- 
