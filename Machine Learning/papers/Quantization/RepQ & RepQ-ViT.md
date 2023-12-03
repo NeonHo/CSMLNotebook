@@ -142,4 +142,4 @@ Options
 			- to the final converted convolution.
 		- Generalize to all novel Rep strategies without BN:
 			- $R(X,W)=X*M(W_1,...,W_n)$
-			- 
+		- 
