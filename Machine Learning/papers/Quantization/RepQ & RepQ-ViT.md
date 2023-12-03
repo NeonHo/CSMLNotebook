@@ -133,4 +133,6 @@ Options
 	- still optimizing the extended set of weights introduced by Rep
 		- the summary of weighted weights.
 - Illustrate the Rep
-	- 
+	- a simple example: 
+		- $R(X, W)=X*W_1*W_2+X*W_3$
+		- 
