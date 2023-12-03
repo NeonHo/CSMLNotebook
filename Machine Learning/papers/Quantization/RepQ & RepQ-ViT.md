@@ -153,4 +153,6 @@ Options
 	- End-to-end QAT $RepQ$ = Rep with $M$ $+$ pseudo-quantization function $Q$.
 ## RepQ-BN
 - use BN
+	- some papers: BN is essential
+	- removal leads drop
 	- 
