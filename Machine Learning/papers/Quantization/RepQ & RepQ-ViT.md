@@ -161,4 +161,4 @@ Options
 	- $BN(X*W)=\frac{X*W-\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma+\beta$
 	- $BN(X*W)=X*\frac{W}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma-\frac{\mathbb{E}[X*W]}{\sqrt{\mathbb{V}[X*W]+\varepsilon}}\gamma+\beta$
 	- $BN(X*W)=X*M(X,W)+b(X,W)$
-- 
+- Conv followed by BN is equivalent to a single Conv
