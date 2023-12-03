@@ -171,4 +171,7 @@ Options
 	- The 1st Conv is used to calculate the BN statistics $\mu$ and $V$.
 	- Not necessary.
 		- A novel method of estimating BN running statistics based on inputs and weights without extra Conv.
-		- 
+		- A simple example:
+			- $X (Batch\ Size, Height, Width, Channel_{in})$
+			- $W (Channel_{in}, Channel_{out})$
+			- 
