@@ -175,4 +175,6 @@ Options
 			- $X (Batch\ Size, Height, Width, Channel_{in})$
 			- $W (Channel_{in}, Channel_{out})$
 			- $\mathbb{E}[X^{(b,h,w,i)}W^{(i,o)}]=\mathbb{E}[X^{(b,h,w,i)}]W^{(i,o)}$
-			- 
+				- calculate $i$ mean values on $b\times h\times w$ parameters.
+				- Multiply $i\times o$ parameters.
+				- 
