@@ -133,6 +133,9 @@ Options
 	- still optimizing the extended set of weights introduced by Rep
 		- the summary of weighted weights.
 - Illustrate the Rep
-	- in a simple example: 
+	- In a simple example: 
 		- Training $R(X, W)=X*W_1*W_2+X*W_3$
-		- Inference $R(X,W)=X*(W_1*W_2+W_3)=X*M(W_1,W_2,W-)$
+		- Inference $R(X,W)=X*(W_1*W_2+W_3)=X*M(W_1,W_2,W_3)$
+	- In a broader sense
+		- $M$ is a differentiable function.
+		- 
