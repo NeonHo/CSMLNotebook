@@ -209,7 +209,7 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 - compare with QARepVGG
 - Baseline:
 	- two stage:
-		- FP pretrained
+		- FP pretrained for initialization.
 		- QAT
 	- no Rep in the QAT
 	- RepQ
