@@ -206,4 +206,7 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 #### RepVGG A0 & B0
 ![[Pasted image 20231203201458.png]]
 ![[Pasted image 20231203201445.png]]
-compare with QARepVGG and 
+- compare with QARepVGG
+- Baseline:
+	- no Rep in the QAT
+	- RepQ
