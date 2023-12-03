@@ -127,4 +127,5 @@ Options
 	1. RepQ-BN
 	2. RepQ-BNEst
 ## RepQ: QAT with Rep
-- in 
+- in Online Convolutional Re-parameterization
+	- reduce training time
