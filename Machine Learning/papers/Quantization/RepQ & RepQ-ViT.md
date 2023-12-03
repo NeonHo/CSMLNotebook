@@ -213,4 +213,5 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- QAT
 	- w/o Rep during the QAT
 	- Plain: no Rep
+	- Merged: trained in the FP stage, Rep merged back into Conv.
 	- 
