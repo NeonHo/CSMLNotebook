@@ -176,8 +176,8 @@ Options
 			- $W (Channel_{in}, Channel_{out})$
 			- $\mathbb{E}[X^{(b,h,w,i)}W^{(i,o)}]=\mathbb{E}[X^{(b,h,w,i)}]W^{(i,o)}$
 				- calculate $i$ means on $b\times h\times w$ input values. $O(b\times h\times w)\times C_{in}$
-				- Multiply $i\times o$ weight parameters.
-				- Avoiding feature map $XW$ storing.
+				- Multiply $i\times o$ weight parameters. $O(1\times C_{in}\times C_{out})$
+				- Avoiding feature map $XW$ storing. and $O(b\times h\times w\times 1\times 1\times C_{in}\times C_{out})$
 				- The complexity is no different (I think).
 - A similar reduction is not possible due to the need to calculate the input covariance matrix.
 	- Approximate the covariance matrix with a diagonal form.
