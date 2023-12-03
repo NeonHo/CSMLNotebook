@@ -187,4 +187,7 @@ Options
 		- computationally more efficient for QAT.
 		- $\mathbb{E}[X*W]\approx \mathbb{E}[X]\cdot \sum_{h,w}W_{h,w}$
 		- $\mathbb{V}[X*W]\approx \mathbb{V} [X]\cdot \sum_{h,w}W_{h,w}^2$
+
+# Exps
+## setup
 - 
