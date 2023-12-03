@@ -184,3 +184,5 @@ Options
 		- The variance is substituted with
 			- quadratic statistic of the weight $W*W$ (element-wise square of $W$)
 			- output that estimates variance
+		- computationally more efficient for QAT.
+		- 
