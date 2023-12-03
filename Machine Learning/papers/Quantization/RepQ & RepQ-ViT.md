@@ -138,4 +138,6 @@ Options
 		- Inference $R(X,W)=X*(W_1*W_2+W_3)=X*M(W_1,W_2,W_3)$
 	- In a broader sense
 		- $M$ is a differentiable function.
-		- 
+			- from the block's trainable parameters
+			- to the final converted convolution.
+			- 
