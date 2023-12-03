@@ -219,5 +219,8 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 		- FP training with BN
 		- if BNEst
 			- estimate the BN statistics.
+			- fuse BN
 		- else:
-			- an extra Conv to calculate BN stati
+			- an extra Conv to calculate BN statistics.
+			- fuse BN
+		- quantization
