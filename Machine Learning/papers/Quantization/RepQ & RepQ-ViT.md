@@ -143,5 +143,5 @@ Options
 		- Generalize to all novel Rep strategies without BN:
 			- $R(X,W)=X*M(W_1,...,W_n)$
 
-- $M(W_1, W_2, W_3)$ and $X*W_1*W_2+X*W_3$ 
+- $M(W_1, W_2, W_3)$ and $X*W_1*W_2+X*W_3$ is equally in gradient flow in backward and forward.
 - 
