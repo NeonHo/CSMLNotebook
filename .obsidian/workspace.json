@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "157cdfb59cf4bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
+                "file": "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md"
               }
             }
           },
@@ -167,10 +178,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "95b0def93cff6503",
+  "active": "157cdfb59cf4bdbc",
   "lastOpenFiles": [
-    "看透财务自由的本质.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
+    "看透财务自由的本质.md",
     "Attachments/Pasted image 20231203201458.png",
     "Attachments/Pasted image 20231203201445.png",
     "Attachments/Pasted image 20231203200942.png",
