@@ -168,4 +168,5 @@ Options
 		- $Y=X*W$
 ## RepQ-BNEst
 - Conv is computed twice in Algorithm 1st.
-- 
+	- The 1st Conv is used to calculate the BN statistics $\mu$ and $V$.
+	- 
