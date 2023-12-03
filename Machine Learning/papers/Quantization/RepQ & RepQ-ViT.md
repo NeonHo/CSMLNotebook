@@ -122,5 +122,5 @@ Options
 
 # Proposed Methods
 
-1. Rep Block without BN layers
+1. RepQ training framework Rep Block without BN layers
 2. 
