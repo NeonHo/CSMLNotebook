@@ -216,7 +216,10 @@ aiming to reduce the huge training overhead by squeezing the complex training-ti
 	- Merged: trained in the FP stage, Rep merged back into Conv before QAT.
 	- RepQ: don't merge after training, build new gradient flow for these weights and apply QAT.
 	- A simple example for $R(X)=BN(X*W)+X$
-		- FP training with BN
+		- if BNEst
+			- FP training with BN with BN estimation
+		- else:
+			- FP training
 		- if BNEst
 			- estimate the BN statistics.
 			- fuse BN
