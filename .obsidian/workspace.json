@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac21bc08014a6b36",
+            "id": "95b0def93cff6503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "157cdfb59cf4bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 421.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
               }
             }
           },
@@ -152,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,15 +176,36 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ac21bc08014a6b36",
+  "active": "157cdfb59cf4bdbc",
   "lastOpenFiles": [
+    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+    "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Attachments/Pasted image 20231203201445.png",
+    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
+    "看透财务自由的本质.md",
+    "Attachments/Pasted image 20231203201458.png",
+    "Attachments/Pasted image 20231203200942.png",
+    "Attachments/Pasted image 20231203200538.png",
+    "Attachments/Pasted image 20231203200006.png",
+    "Attachments/Pasted image 20231203195952.png",
+    "Attachments/Pasted image 20231203195916.png",
+    "Attachments/Pasted image 20231203195223.png",
+    "Attachments/Pasted image 20231203194833.png",
+    "Attachments/Images/微信图片_20231202181911.jpg",
+    "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
+    "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-02 18.00.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
+    "Excalidraw",
+    "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
+    "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
     "README.md",
     "Multiplication Times for CNN.md",
-    "看透财务自由的本质.md",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Computer Science/CS System/总线.md",
@@ -187,31 +222,10 @@
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Development/front end/TypeScript/TS Type Assert.md",
     "Development/front end/TypeScript/Introduction.md",
-    "Development/front end/TypeScript/export.md",
-    "Development/front end/TypeScript/Basics.md",
-    "Development/front end/TypeScript/Auto Semicolon Insertion.md",
     "Development/front end/TypeScript",
-    "Development/front end/Javascript/JS用法.md",
-    "Development/front end/Javascript/Declare Vars.md",
-    "Development/front end/Javascript/Axios.md",
     "Development/front end/Javascript",
-    "Development/Torch/Multi GPU Training.md",
-    "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
-    "Computer Science/CS System/计算机时钟频率.md",
-    "Computer Science/CS System/CPU(执行)时间.md",
     "Computer Science/Database/MySQL",
     "Computer Science/Database",
-    "Computer Science/Data Structure",
-    "Computer Science/CS System/Part I Program Structure and Execution/Chapter 2 The presentation and processing of Informations",
-    "Attachments/Pasted image 20230915210517.png",
-    "Attachments/Pasted image 20230915210020.png",
-    "Attachments/Images/Pasted image 20230912113056.png",
-    "Attachments/Images/Pasted image 20230912112755.png",
-    "Attachments/Images/Pasted image 20230912104425.png",
-    "Attachments/Images/Pasted image 20230912104316.png",
-    "Attachments/Images/Pasted image 20230912091854.png",
-    "Attachments/Images/Pasted image 20230912083403.png",
-    "Attachments/Images/Pasted image 20230912083110.png",
-    "Attachments/Images/Pasted image 20230912083037.png"
+    "Computer Science/Data Structure"
   ]
 }

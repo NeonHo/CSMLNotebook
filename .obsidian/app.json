@@ -9,6 +9,18 @@
     "Amdahl",
     "IXP",
     "FTP，SMTP，HTTP，DNS\n\t\t- ",
-    "re-paramet"
+    "re-paramet",
+    "Binarization",
+    "QIL",
+    "RepQ",
+    "Conv",
+    "RepQ-BN",
+    "RepQ-BN",
+    "RepQ-BNEst",
+    "ACNet",
+    "OREPA",
+    "RepVGG",
+    "QARepVGG\n- ",
+    "QARepVGG"
   ]
 }
