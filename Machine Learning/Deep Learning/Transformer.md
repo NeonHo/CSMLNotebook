@@ -6,9 +6,11 @@
 
 具体来说，\($d_{\text{model}}$\) 表示输入和输出嵌入向量的维度，通常在 Transformer 的编码器和解码器中是相同的。在注意力机制中，每个注意力头产生的注意力权重的维度也等于 \($d_{\text{model}}$\)。
 
-在 Transformer 模型的原始论文 "Attention is All You Need" 中，\(d_{\text{model}}\) 是作为模型的一个超参数进行调整的。该值的选择影响了模型的表示能力和计算复杂性。通常，较大的 \(d_{\text{model}}\) 值可以提高模型的表示能力，但会增加计算成本。
+> 一个嵌入向量长
 
-例如，在 PyTorch 中，如果使用 `nn.Transformer` 模块，可以通过参数 `d_model` 来设置 \(d_{\text{model}}\) 的值。以下是一个简单的示例：
+在 Transformer 模型的原始论文 "Attention is All You Need" 中，\($d_{\text{model}}$\) 是作为模型的一个超参数进行调整的。该值的选择影响了模型的表示能力和计算复杂性。通常，较大的 \($d_{\text{model}}$\) 值可以提高模型的表示能力，但会增加计算成本。
+
+例如，在 PyTorch 中，如果使用 `nn.Transformer` 模块，可以通过参数 `d_model` 来设置 \($d_{\text{model}}$\) 的值。以下是一个简单的示例：
 
 ```python
 import torch.nn as nn
