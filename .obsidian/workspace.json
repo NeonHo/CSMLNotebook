@@ -167,8 +167,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "95b0def93cff6503",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Development/NumPy",
     "Development/timm/models/vision_transformer/Block.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Development/timm/models/vision_transformer/未命名.md",
@@ -211,7 +212,6 @@
     "Machine Learning/papers/NLP",
     "Machine Learning/papers",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
-    "Development/front end/Vue.js/ref.md",
     "Development/front end/Vue.js",
     "Development/front end/TypeScript",
     "Development/front end/Javascript"
