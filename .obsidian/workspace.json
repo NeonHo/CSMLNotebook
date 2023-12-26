@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/U-Net.md",
+                "file": "Machine Learning/Deep Learning/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/U-Net.md",
+                "file": "Machine Learning/Deep Learning/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/U-Net.md",
+                "file": "Machine Learning/Deep Learning/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/U-Net.md"
+                "file": "Machine Learning/Deep Learning/Transformer.md"
               }
             }
           },
@@ -182,8 +182,10 @@
   },
   "active": "157cdfb59cf4bdbc",
   "lastOpenFiles": [
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+    "Machine Learning/Deep Learning/ViT.md",
+    "Machine Learning/Deep Learning/Transformer.md",
     "Machine Learning/Deep Learning/U-Net.md",
+    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Attachments/Pasted image 20231203201445.png",
@@ -210,7 +212,6 @@
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Computer Science/CS System/总线.md",
-    "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP/Masked Language Models.md",
     "Machine Learning/papers/NLP/Autoregressive Language Models.md",
@@ -222,7 +223,6 @@
     "Development/front end/Vue.js",
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Development/front end/TypeScript/TS Type Assert.md",
-    "Development/front end/TypeScript/Introduction.md",
     "Development/front end/TypeScript",
     "Development/front end/Javascript",
     "Computer Science/Database/MySQL",
