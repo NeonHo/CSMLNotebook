@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Development/timm/models/vision_transformer/PatchEmbed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Development/timm/models/vision_transformer/PatchEmbed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
+                "file": "Development/timm/models/vision_transformer/PatchEmbed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
+                "file": "Development/timm/models/vision_transformer/PatchEmbed.md"
               }
             }
           },
@@ -169,16 +169,16 @@
   },
   "active": "95b0def93cff6503",
   "lastOpenFiles": [
+    "Development/timm/models/vision_transformer/Block.md",
+    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Development/timm/models/vision_transformer/未命名.md",
-    "Development/timm/from timm.models.vision_transformer import PatchEmbed.md",
+    "Development/timm/models/vision_transformer/PatchEmbed.md",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
-    "Development/timm/from timm.models.vision_transformer import Block.md",
     "Machine Learning/Deep Learning/Transformer.md",
     "Development/timm",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Attachments/Pasted image 20231203201445.png",
