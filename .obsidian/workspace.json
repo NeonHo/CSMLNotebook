@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/NumPy/未命名.md",
+                "file": "Development/NumPy/stack().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/NumPy/未命名.md",
+                "file": "Development/NumPy/stack().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/NumPy/未命名.md",
+                "file": "Development/NumPy/stack().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/NumPy/未命名.md"
+                "file": "Development/NumPy/stack().md"
               }
             }
           },
@@ -170,7 +170,7 @@
   "active": "95b0def93cff6503",
   "lastOpenFiles": [
     "Development/NumPy/meshgrid().md",
-    "Development/NumPy/未命名.md",
+    "Development/NumPy/stack().md",
     "Development/timm/models/vision_transformer/PatchEmbed.md",
     "Development/NumPy",
     "Development/timm/models/vision_transformer/Block.md",
