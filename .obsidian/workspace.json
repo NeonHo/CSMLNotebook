@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "157cdfb59cf4bdbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/timm/from timm.models.vision_transformer import Block.md"
+                "file": "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md"
               }
             }
           },
@@ -180,10 +167,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "157cdfb59cf4bdbc",
+  "active": "95b0def93cff6503",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/Transformer.md",
+    "Development/timm/models/vision_transformer/未命名.md",
+    "Development/timm/from timm.models.vision_transformer import PatchEmbed.md",
+    "Development/timm/models/vision_transformer",
+    "Development/timm/models",
     "Development/timm/from timm.models.vision_transformer import Block.md",
+    "Machine Learning/Deep Learning/Transformer.md",
     "Development/timm",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
@@ -221,12 +212,8 @@
     "Machine Learning/papers",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "Development/front end/Vue.js/ref.md",
-    "Development/front end/Vue.js/ref, provide, inject.md",
     "Development/front end/Vue.js",
-    "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
     "Development/front end/TypeScript",
-    "Development/front end/Javascript",
-    "Computer Science/Database/MySQL",
-    "Computer Science/Database"
+    "Development/front end/Javascript"
   ]
 }
