@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/Transformer.md",
+                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/Transformer.md",
+                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/Transformer.md",
+                "file": "Development/timm/from timm.models.vision_transformer import Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/Transformer.md"
+                "file": "Development/timm/from timm.models.vision_transformer import Block.md"
               }
             }
           },
@@ -182,8 +182,10 @@
   },
   "active": "157cdfb59cf4bdbc",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/Transformer.md",
+    "Development/timm/from timm.models.vision_transformer import Block.md",
+    "Development/timm",
+    "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
@@ -222,11 +224,9 @@
     "Development/front end/Vue.js/ref, provide, inject.md",
     "Development/front end/Vue.js",
     "Development/front end/TypeScript/设别不到写class的文件怎么办.md",
-    "Development/front end/TypeScript/TS Type Assert.md",
     "Development/front end/TypeScript",
     "Development/front end/Javascript",
     "Computer Science/Database/MySQL",
-    "Computer Science/Database",
-    "Computer Science/Data Structure"
+    "Computer Science/Database"
   ]
 }
