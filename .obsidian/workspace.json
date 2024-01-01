@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e844b8a4617c5fc2",
+        "id": "3948258f8818bd52",
         "type": "tabs",
         "children": [
           {
-            "id": "95b0def93cff6503",
+            "id": "0b06a1601c602d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/NumPy/meshgrid().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42a989e5c64e24f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "看透财务自由的本质.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{s}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "看透财务自由的本质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
+                "file": "看透财务自由的本质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md"
+                "file": "看透财务自由的本质.md"
               }
             }
           },
@@ -162,9 +148,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "9cdb1ba7b9f66f7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,8 +177,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "42a989e5c64e24f5",
+  "active": "0b06a1601c602d4a",
   "lastOpenFiles": [
+    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
     "Machine Learning/Deep Learning/Transformer.md",
@@ -200,7 +195,6 @@
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
     "Development/timm",
-    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Attachments/Pasted image 20231203201445.png",
     "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
