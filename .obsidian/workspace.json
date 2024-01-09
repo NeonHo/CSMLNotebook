@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "看透财务自由的本质.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC合规问题.md",
+                "file": "GoldBucket/AIGC合规问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d41f806057bdad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoldBucket/AIGC API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC合规问题.md",
+                "file": "GoldBucket/AIGC API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC合规问题.md",
+                "file": "GoldBucket/AIGC API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC合规问题.md"
+                "file": "GoldBucket/AIGC API.md"
               }
             }
           },
@@ -190,10 +202,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3d4b0a192946ee8",
+  "active": "6d41f806057bdad9",
   "lastOpenFiles": [
-    "看透财务自由的本质.md",
-    "AIGC合规问题.md",
+    "GoldBucket/看透财务自由的本质.md",
+    "Troubles and Solutions.md",
+    "GoldBucket/AIGC API.md",
+    "GoldBucket",
+    "GoldBucket/AIGC合规问题.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
@@ -232,11 +247,8 @@
     "README.md",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
-    "Computer Science/CS System/总线.md",
-    "Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Machine Learning/papers/NLP",
     "Machine Learning/papers",
-    "Development/front end/Vue.js",
-    "Development/front end/TypeScript"
+    "Development/front end/Vue.js"
   ]
 }
