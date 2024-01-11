@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/AIGC API.md",
+                "file": "Development/Torch/Optimizer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/AIGC API.md",
+                "file": "Development/Torch/Optimizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/AIGC API.md",
+                "file": "Development/Torch/Optimizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/AIGC API.md"
+                "file": "Development/Torch/Optimizer.md"
               }
             }
           },
@@ -204,9 +204,10 @@
   },
   "active": "6d41f806057bdad9",
   "lastOpenFiles": [
+    "GoldBucket/AIGC API.md",
+    "Development/Torch/Optimizer.md",
     "GoldBucket/看透财务自由的本质.md",
     "Troubles and Solutions.md",
-    "GoldBucket/AIGC API.md",
     "GoldBucket",
     "GoldBucket/AIGC合规问题.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
@@ -246,7 +247,6 @@
     "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
     "README.md",
     "Machine Learning/papers/Quantization",
-    "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Machine Learning/papers/NLP",
     "Machine Learning/papers",
     "Development/front end/Vue.js"

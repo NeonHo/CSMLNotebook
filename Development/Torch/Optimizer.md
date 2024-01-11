@@ -1,0 +1,2 @@
+Optimizer是权重参数的反向传播迭代器。
+我们在训练的过程中一定要记得将正确的需要被更新的parameters送入到build_optimizer中。
