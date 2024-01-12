@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Torch/Optimizer.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Torch/Optimizer.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Torch/Optimizer.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Torch/Optimizer.md"
+                "file": "GoldBucket/看透财务自由的本质.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "6d41f806057bdad9",
   "lastOpenFiles": [
-    "GoldBucket/AIGC API.md",
     "Development/Torch/Optimizer.md",
+    "GoldBucket/AIGC API.md",
     "GoldBucket/看透财务自由的本质.md",
     "Troubles and Solutions.md",
     "GoldBucket",
