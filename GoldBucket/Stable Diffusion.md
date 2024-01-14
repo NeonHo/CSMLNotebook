@@ -16,6 +16,8 @@
 	- Stable Diffusion first compresses the image into the latent space. 
 	- gradually destroys the image by adding noise, 
 	- be trained to reverse this process and regenerate the image from scratch.
+- Versions
+	- SDXL Turbo (Stable Diffusion XL Turbo) is an improved version of SDXL 1.0 (Stable Diffusion XL 1.0)
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
