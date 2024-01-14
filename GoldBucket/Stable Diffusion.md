@@ -2,6 +2,8 @@
 - a deep learning model
 	- use for: converting text to images
 		- generate high-quality, photo-realistic images that look like real photographs by simply inputting any text.
+	- Latest: Stable Diffusion XL
+		- a larger UNet backbone network
 		- 
 - Open-source & free
 - switch models flexible.
