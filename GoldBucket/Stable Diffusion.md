@@ -8,9 +8,10 @@
 	- How to use:
 		- use the free AI image generator on Stable Diffusion Online.
 		- search over 9 million Stable Diffusion prompts on Prompt Database.
+		- Most NVidia and AMD GPUs with 8GB or more.
 - train on:
 	- the 2b English language label subset of LAION 5b https://laion.ai/blog/laion-5b/
-	- 
+
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
