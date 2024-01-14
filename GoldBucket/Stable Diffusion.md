@@ -19,6 +19,7 @@
 - Versions
 	- SDXL Turbo (Stable Diffusion XL Turbo) is an improved version of SDXL 1.0 (Stable Diffusion XL 1.0)
 	- SDXL Turbo implements a new distillation technique called Adversarial Diffusion Distillation (ADD)
+	- enables the model to synthesize images in a single step and generate real-time text-to-image outputs while maintaining high sampling fidelity.
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
