@@ -21,6 +21,7 @@
     "OREPA",
     "RepVGG",
     "QARepVGG\n- ",
-    "QARepVGG"
+    "QARepVGG",
+    "UNet"
   ]
 }
