@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 230.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +204,10 @@
   },
   "active": "6d41f806057bdad9",
   "lastOpenFiles": [
-    "Development/Torch/Optimizer.md",
     "GoldBucket/AIGC API.md",
+    "GoldBucket/Stable Diffusion.md",
     "GoldBucket/看透财务自由的本质.md",
+    "Development/Torch/Optimizer.md",
     "Troubles and Solutions.md",
     "GoldBucket",
     "GoldBucket/AIGC合规问题.md",
@@ -244,7 +246,6 @@
     "Excalidraw",
     "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
     "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
-    "README.md",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP",
     "Machine Learning/papers",
