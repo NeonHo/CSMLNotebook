@@ -4,7 +4,7 @@
 		- generate high-quality, photo-realistic images that look like real photographs by simply inputting any text.
 	- Latest: Stable Diffusion XL
 		- a larger UNet backbone network
-		- 
+			- generate even higher quality images.
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
