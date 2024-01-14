@@ -14,8 +14,8 @@
 - How it works.
 	- Instead of operating in the high-dimensional image space, 
 	- Stable Diffusion first compresses the image into the latent space. 
-	- The model then gradually destroys the image by adding noise, 
-	- and is trained to reverse this process and regenerate the image from scratch.
+	- gradually destroys the image by adding noise, 
+	- be trained to reverse this process and regenerate the image from scratch.
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
