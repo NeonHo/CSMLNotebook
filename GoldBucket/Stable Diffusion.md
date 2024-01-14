@@ -5,6 +5,9 @@
 	- Latest: Stable Diffusion XL
 		- a larger UNet backbone network
 			- generate even higher quality images.
+	- How to use:
+		- use the free AI image generator on Stable Diffusion Online.
+		- search over 9 million Stable Diffusion prompts on Prompt Database.
 - Open-source & free
 - switch models flexible.
 - 自动生成图片、艺术风格转换、人脸生成等.
