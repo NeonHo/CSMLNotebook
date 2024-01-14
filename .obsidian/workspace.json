@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/证件照生成APP.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/证件照生成APP.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/证件照生成APP.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/证件照生成APP.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "6d41f806057bdad9",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion.md",
     "GoldBucket/证件照生成APP.md",
+    "GoldBucket/Stable Diffusion.md",
     "GoldBucket/AIGC API.md",
     "GoldBucket/看透财务自由的本质.md",
     "Development/Torch/Optimizer.md",
