@@ -30,4 +30,9 @@ pip install -e .
 	- Fill your own values:
 		- `OPENAI_API_KEY: 'sk-...' # YOUR_API_KEY` 
 		- `OPENAI_API_MODEL: 'intended model' # gpt-4, gpt-3.5-turbo, etc.`
-	- 
+### 1.2.2. We often want agents to use tools.
+- Web searching API
+- Web browsing
+- **Azure Text to Speech**
+- Stable Diffusion local deployment
+- 
