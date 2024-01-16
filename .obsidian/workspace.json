@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/Multi Agent.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Multi Agent.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Multi Agent.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Multi Agent.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -192,11 +192,12 @@
   },
   "active": "a3d4b0a192946ee8",
   "lastOpenFiles": [
+    "GoldBucket/Stable Diffusion UI.md",
+    "GoldBucket/Stable Diffusion.md",
+    "GoldBucket/Multi Agent.md",
     "Attachments/Pasted image 20240116144139.png",
     "GoldBucket/AIGC合规问题.md",
     "GoldBucket/Multi-Agent.md",
-    "GoldBucket/Stable Diffusion.md",
-    "GoldBucket/Multi Agent.md",
     "GoldBucket/证件照生成APP.md",
     "GoldBucket/AIGC API.md",
     "GoldBucket/看透财务自由的本质.md",
@@ -230,7 +231,6 @@
     "Attachments/Pasted image 20231203195916.png",
     "Attachments/Pasted image 20231203195223.png",
     "Attachments/Pasted image 20231203194833.png",
-    "Attachments/Images/微信图片_20231202181911.jpg",
     "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
     "Excalidraw",
