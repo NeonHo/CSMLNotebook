@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/AIGC合规问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d41f806057bdad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
+                "file": "GoldBucket/Multi Agent.md"
               }
             }
           },
@@ -202,17 +190,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6d41f806057bdad9",
+  "active": "a3d4b0a192946ee8",
   "lastOpenFiles": [
-    "GoldBucket/Multi Agent.md",
+    "GoldBucket/AIGC合规问题.md",
+    "GoldBucket/Multi-Agent.md",
     "GoldBucket/Stable Diffusion.md",
+    "GoldBucket/Multi Agent.md",
     "GoldBucket/证件照生成APP.md",
     "GoldBucket/AIGC API.md",
     "GoldBucket/看透财务自由的本质.md",
     "Development/Torch/Optimizer.md",
     "Troubles and Solutions.md",
     "GoldBucket",
-    "GoldBucket/AIGC合规问题.md",
     "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/U-Net.md",
@@ -244,7 +233,6 @@
     "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 18.00.20.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-02 17.54.37.excalidraw.md",
     "Excalidraw",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP",
