@@ -7,3 +7,4 @@
 Ubuntu 22.04 
 Python 3.9+
 install `nodejs` first, then use `npm` to install `mermaid-cli`
+`pyppeteer` is a web automation testing tool implemented in Python that can execute JavaScript scripts.
