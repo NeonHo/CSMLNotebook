@@ -35,4 +35,4 @@ pip install -e .
 - Web browsing
 - **Azure Text to Speech**
 - Stable Diffusion local deployment
-- 
+# 2. Concept
