@@ -9,4 +9,5 @@
 - install `nodejs` first, then use `npm` to install `mermaid-cli`
 - `pyppeteer` is a web automation testing tool implemented in Python that can execute JavaScript scripts.
 - Install a browser first and set the browser path when running.
-- **playwright** replace `pypp`
+- **playwright** replaces `pyppeteer`.
+- 
