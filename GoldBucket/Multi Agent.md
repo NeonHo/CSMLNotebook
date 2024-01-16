@@ -14,3 +14,4 @@
 
 ### 1.1.2. Comparison
 ![[Pasted image 20240116144139.png]]
+## 1.2. Setup
