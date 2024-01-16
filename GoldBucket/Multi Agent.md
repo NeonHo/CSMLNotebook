@@ -38,6 +38,8 @@ pip install -e .
 # 2. Concepts
 
 ## 2.1. MetaGPT's concept of agent and environment
+- an agent should be able to think or plan like human
+- 
 ## 2.2. Agents interact with each other.
 ## 2.3. A multi-agent collaboration.
 
