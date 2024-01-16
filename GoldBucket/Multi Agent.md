@@ -40,7 +40,9 @@ pip install -e .
 ## 2.1. MetaGPT's concept of agent and environment
 - an agent should be able to think or plan like human
 	- possesses memories or even emotions, 
-	- is equipped with a certain skill set to interact with the environment, other agents, and human.
+	- is equipped with a certain skill set
+	- interact with the environment, other agents, and human.
+	- 
 ## 2.2. Agents interact with each other.
 ## 2.3. A multi-agent collaboration.
 
