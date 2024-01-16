@@ -19,3 +19,5 @@
 - complete the configuration before use.
 ### 1.2.1. OpenAI API
 
+- Use a config or key file. This is the recommended way, best for continuous and full-feature usage and development.
+- 
