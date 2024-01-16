@@ -11,4 +11,6 @@
 	- `pyppeteer` is a web automation testing tool implemented in Python that can execute JavaScript scripts.
 - Install a browser first and set the browser path when running.
 	- `playwright install --with-deps chromium`
-- 
+
+### 1.1.2. Comparison
+![[Pasted image 20240116144139.png]]
