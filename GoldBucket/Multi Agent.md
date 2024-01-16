@@ -37,3 +37,5 @@ pip install -e .
 - Stable Diffusion local deployment
 # 2. Concepts
 
+## 2.1. MetaGPT's concept of agent and environment
+## 2.2. 
