@@ -16,4 +16,6 @@
 ![[Pasted image 20240116144139.png]]
 ## 1.2. Setup
 - connecting with model providers.
-- 
+- complete the configuration before use.
+### 1.2.1. OpenAI API
+
