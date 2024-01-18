@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Development/训练小trick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Development/训练小trick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Development/训练小trick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
+                "file": "Development/训练小trick.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "Development/GPU Days.md",
     "GoldBucket/Stable Diffusion.md",
+    "Development/训练小trick.md",
+    "Development/GPU Days.md",
     "GoldBucket/看透财务自由的本质.md",
     "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/Multi Agent.md",
@@ -219,7 +220,6 @@
     "Attachments/Pasted image 20231203195916.png",
     "Attachments/Pasted image 20231203195223.png",
     "Attachments/Pasted image 20231203194833.png",
-    "Machine Learning/Label Distribution Learning/Label Enhancement for LDL.md",
     "Excalidraw",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP",
