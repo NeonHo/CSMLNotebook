@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "GoldBucket/看透财务自由的本质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
+                "file": "GoldBucket/看透财务自由的本质.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "a3d4b0a192946ee8",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/Stable Diffusion.md",
+    "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/Multi Agent.md",
     "Attachments/Pasted image 20240116144139.png",
     "GoldBucket/AIGC合规问题.md",
