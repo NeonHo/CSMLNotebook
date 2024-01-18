@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/训练小trick.md",
+                "file": "Development/quantization tool/量化心得.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/训练小trick.md",
+                "file": "Development/quantization tool/量化心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/训练小trick.md",
+                "file": "Development/quantization tool/量化心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/训练小trick.md"
+                "file": "Development/quantization tool/量化心得.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion.md",
     "Development/训练小trick.md",
+    "Development/quantization tool/量化心得.md",
+    "GoldBucket/Stable Diffusion.md",
     "Development/GPU Days.md",
     "GoldBucket/看透财务自由的本质.md",
     "GoldBucket/Stable Diffusion UI.md",
@@ -211,7 +212,6 @@
     "Development/timm",
     "Machine Learning/papers/Quantization/Fake Quantization.md",
     "Attachments/Pasted image 20231203201445.png",
-    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
     "Attachments/Pasted image 20231203201458.png",
     "Attachments/Pasted image 20231203200942.png",
     "Attachments/Pasted image 20231203200538.png",
