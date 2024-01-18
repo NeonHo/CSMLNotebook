@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3948258f8818bd52",
+        "id": "5d0cea85783b6527",
         "type": "tabs",
         "children": [
           {
-            "id": "0b06a1601c602d4a",
+            "id": "2b31ac22024ff88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3d4b0a192946ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/看透财务自由的本质.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -190,8 +177,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3d4b0a192946ee8",
+  "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
+    "GoldBucket/看透财务自由的本质.md",
     "GoldBucket/Stable Diffusion.md",
     "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/Multi Agent.md",
@@ -200,7 +188,6 @@
     "GoldBucket/Multi-Agent.md",
     "GoldBucket/证件照生成APP.md",
     "GoldBucket/AIGC API.md",
-    "GoldBucket/看透财务自由的本质.md",
     "Development/Torch/Optimizer.md",
     "Troubles and Solutions.md",
     "GoldBucket",
