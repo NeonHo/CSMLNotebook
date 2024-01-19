@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Basic Items/Inductive Biases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Basic Items/Inductive Biases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Basic Items/Inductive Biases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
+                "file": "Machine Learning/Basic Items/Inductive Biases.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "GoldBucket/Stable Diffusion.md",
+    "Machine Learning/Basic Items/Inductive Biases.md",
+    "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "Development/训练小trick.md",
     "Development/quantization tool/量化心得.md",
     "Development/GPU Days.md",
@@ -207,7 +208,6 @@
     "Development/NumPy",
     "Development/timm/models/vision_transformer/Block.md",
     "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
-    "Development/timm/models/vision_transformer/未命名.md",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
     "Development/timm",
