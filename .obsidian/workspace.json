@@ -11,12 +11,8 @@
             "id": "2b31ac22024ff88a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +171,8 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "Machine Learning/Basic Items/Inductive Biases.md",
     "GoldBucket/Stable Diffusion.md",
+    "Machine Learning/Basic Items/Inductive Biases.md",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "Development/训练小trick.md",
     "Development/quantization tool/量化心得.md",
