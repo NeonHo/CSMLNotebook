@@ -96,5 +96,7 @@
 - 扩散概率模型 DM
 	- 密度估计和采样质量上都是 SOTA
 		- 来源于 backbone is U-Net
-		- 这种 backbone 与 类似图像数据的归纳偏好 自然契合。
+		- 这种 backbone 与 类似图像数据的归纳偏好[[Inductive Biases]] 自然契合。
+		- 最好的合成质量来自：
+			- 用一个重新加权的目标进行训练
 		- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basic Items/Inductive Biases.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Basic Items/Inductive Biases.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Basic Items/Inductive Biases.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Basic Items/Inductive Biases.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion.md",
     "Machine Learning/Basic Items/Inductive Biases.md",
+    "GoldBucket/Stable Diffusion.md",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "Development/训练小trick.md",
     "Development/quantization tool/量化心得.md",
