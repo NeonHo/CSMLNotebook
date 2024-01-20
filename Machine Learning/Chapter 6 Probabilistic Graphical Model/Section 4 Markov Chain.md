@@ -10,4 +10,4 @@ The future is independent of the past given the present.
 	- 进行预测和处理
 	- ![[7794b60e7bc5ec8be7d5aac07df5a2d.jpg]]
 - Markov Chain
-	- 
+	- 用数学
