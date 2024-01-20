@@ -19,7 +19,7 @@
 		- $x_0 \rightarrow x_T$ is forward
 			- original image is added noise gradually to pure noise.
 			- [[Section 4 Markov Chain]]  $q(x_{1:T}|x_o)=\prod_{t=1}^Tq(x_t|x_{t-1})$  
-			- $q(x_t|x_{t-1})=N(x_t, \mu=\sqrt{1-\beta_t}x_{t-1}, \sigma=\beta_tI)$ 
+			- $q(x_t|x_{t-1})=N(x_t, \mu=\sqrt{1-\beta_t}x_{t-1}, \sigma^2=\beta_tI)$ 
 			- $\beta_t$ is set previously.
 				- increase as Linear or Cosine.
 		- $x_T\rightarrow x_0$ is reverse
