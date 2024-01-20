@@ -7,3 +7,4 @@
 	- for image synthesis
 	- OpenAI, Stability AI, Google Brain
 # Theory Introduction
+- From noise to obejective
