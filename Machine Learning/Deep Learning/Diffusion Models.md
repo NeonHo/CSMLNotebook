@@ -2,7 +2,7 @@
 - 图像生成领域常见模型
 	- [[Section 1 GAN]]
 	- [[Variational Autoencoder]]
-- Denoising Diffusion Probabilistic Model
+- Denoising Diffusion Probabilistic Model (DDPM)
 	- called Diffusion Models
 	- for image synthesis
 	- OpenAI, Stability AI, Google Brain
@@ -13,4 +13,6 @@
 	- forward (diffusion process)
 	- reverse
 		- to generate data samples (as the generator from [[Section 1 GAN]])
-		- 
+			- the generator of GAN will change the dimension.
+			- DDPM will keep the dimension
+			- 
