@@ -17,4 +17,5 @@
 			- DDPM will keep the dimension
 	- ![[319a03cc4de41836a325f926f525d56.jpg]]
 		- $x_0 \rightarrow x_T$ is forward
-			- original image to p
+			- original image is added noise gradually to pure noise.
+		- $x_T\ri$
