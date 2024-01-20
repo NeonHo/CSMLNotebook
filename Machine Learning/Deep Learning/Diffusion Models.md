@@ -6,4 +6,4 @@
 	- called Diffusion Models
 	- for image synthesis
 	- OpenAI, Stability AI, Google Brain
-# 
+# Theory Introduction
