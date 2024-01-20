@@ -5,4 +5,7 @@ The future is independent of the past given the present.
 	- RNN [[Section 1 RNN v.s. CNN]]
 	- HMM
 - 随机过程
+	- 统计模型
+	- 对事物的过程
+	- 进行预测和处理
 	- 
