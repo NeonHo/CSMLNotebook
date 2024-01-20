@@ -40,6 +40,9 @@ https://zhuanlan.zhihu.com/p/560603623
 			- learn a denoising process.
 			- reverse of the $q(x_t|x_{t-1})$ is $q(x_{t-1}|x_t,x_0)$
 				- 没有$x_0$, 马尔科夫链也没办法以一个高置信度重构出输入图像。
+				- 将$q(x_{t-1}|x_t,x_0)$ 这个后验概率用高斯分布的概率密度函数展开
+					- ![[Pasted image 20240120190405.png]]
+					- 
 				- DDPM use [[Section 1 Multi-layer Perceptron & Boolean Function#Neural Network]] to model the reverse process.
 					- $p_\theta(x_{t-1}|x_t)\sim q(x_{t-1}|x_t)$
 					- $q(x_{t-1}|x_t,x_0)=N(x_{t-1}|)$
