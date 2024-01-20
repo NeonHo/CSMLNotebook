@@ -12,6 +12,7 @@ https://zhuanlan.zhihu.com/p/560603623
 	- OpenAI, Stability AI, Google Brain
 # Theory Introduction
 
+![[Pasted image 20240120181026.png]]
 
 
 - From noise to objective data sample
