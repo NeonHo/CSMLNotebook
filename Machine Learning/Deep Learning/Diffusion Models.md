@@ -22,6 +22,8 @@
 			- $q(x_t|x_{t-1})=N(x_t, \mu=\sqrt{1-\beta_t}x_{t-1}, \sigma^2=\beta_tI)$ 
 			- $\beta_t$ is set previously.
 				- increase as Linear or Cosine.
+			- 重参数化技巧 
+			- $x_t=\sqrt{1-\beta_t}x_t-1$
 		- $x_T\rightarrow x_0$ is reverse
 			- random noise is recovered to input image.
 			- learn a denoising process.
