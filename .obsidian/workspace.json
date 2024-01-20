@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0cea85783b6527",
+        "id": "31647db458c5169f",
         "type": "tabs",
         "children": [
           {
-            "id": "2b31ac22024ff88a",
+            "id": "5bf03fa3be9e2d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
+                "file": "GoldBucket/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md"
+                "file": "GoldBucket/Stable Diffusion.md"
               }
             }
           },
@@ -177,10 +177,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b31ac22024ff88a",
+  "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "Development/timm/models/vision_transformer/Block.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
     "Attachments/ca36c32534e11bc59dce51096efde6d.jpg",
     "Attachments/7794b60e7bc5ec8be7d5aac07df5a2d.jpg",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
@@ -210,7 +211,6 @@
     "Machine Learning/Deep Learning/U-Net.md",
     "Machine Learning/Deep Learning/Transformer.md",
     "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
-    "Multiplication Times for CNN.md",
     "Development/NumPy",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",

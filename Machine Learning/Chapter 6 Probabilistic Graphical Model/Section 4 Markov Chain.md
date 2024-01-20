@@ -3,7 +3,7 @@ The future is independent of the past given the present.
 - 极端的思想却能够降低复杂度。
 - 时间序列模型应用：
 	- RNN [[Section 1 RNN v.s. CNN]]
-	- HMM
+	- HMM [[Hidden Markov Model]]
 - 随机过程
 	- 统计模型
 	- 对事物的过程
