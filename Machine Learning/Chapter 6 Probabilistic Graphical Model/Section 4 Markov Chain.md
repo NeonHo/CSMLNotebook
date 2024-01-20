@@ -16,4 +16,6 @@ The future is independent of the past given the present.
 		- 此前的状态均与下一状态无关。
 	- 数学
 		- $P(X_{t+1}|...,X_{t-2},X_{t-1},X_{t})=P(X_{t+1}|X_t)$
+	- 转移概率矩阵
+		- ![[ca36c32534e11bc59dce51096efde6d.jpg]]
 		- 
