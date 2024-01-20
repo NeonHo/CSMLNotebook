@@ -44,5 +44,6 @@ https://zhuanlan.zhihu.com/p/560603623
 					- ![[Pasted image 20240120190405.png]]
 				- DDPM use [[Section 1 Multi-layer Perceptron & Boolean Function#Neural Network]] to model the reverse process.
 					- $p_\theta(x_{t-1}|x_t)\sim q(x_{t-1}|x_t)$
-					- $q(x_{t-1}|x_t,x_0)=N(x_{t-1}|)$
-					- 
+						- ![[Pasted image 20240120190738.png]]
+						- ![[Pasted image 20240120190809.png]]
+						- 
