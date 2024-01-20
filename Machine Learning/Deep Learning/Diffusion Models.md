@@ -31,4 +31,5 @@
 			- random noise is recovered to input image.
 			- learn a denoising process.
 			- reverse of the $q(x_t|x_{t-1})$ is $q(x_{t-1}|x_t)$
-				- DDPM use Neural Network to model the 
+				- DDPM use [[Section 1 Multi-layer Perceptron & Boolean Function#Neural Network]] to model the reverse process.
+				- 
