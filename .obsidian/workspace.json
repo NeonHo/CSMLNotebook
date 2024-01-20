@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/Stable Diffusion.md"
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md"
               }
             }
           },
@@ -177,10 +177,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
-    "Machine Learning/未命名",
     "GoldBucket/Stable Diffusion.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model",
     "Machine Learning/Basic Items/Inductive Biases.md",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
     "Development/训练小trick.md",
@@ -223,7 +224,6 @@
     "Excalidraw",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP",
-    "Machine Learning/papers",
-    "Development/front end/Vue.js"
+    "Machine Learning/papers"
   ]
 }
