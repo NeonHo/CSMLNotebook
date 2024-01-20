@@ -7,4 +7,6 @@
 	- for image synthesis
 	- OpenAI, Stability AI, Google Brain
 # Theory Introduction
-- From noise to obejective
+- From noise to objective data sample
+	- noise from simple distribution
+	- 
