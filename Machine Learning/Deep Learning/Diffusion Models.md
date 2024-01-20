@@ -46,4 +46,5 @@ https://zhuanlan.zhihu.com/p/560603623
 					- $p_\theta(x_{t-1}|x_t)\sim q(x_{t-1}|x_t)$
 						- ![[Pasted image 20240120190738.png]]
 						- ![[Pasted image 20240120190809.png]]
+						- ![[e6541d259be4430a834bfe81174dd58.jpg]]
 						- 
