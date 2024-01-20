@@ -177,10 +177,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b31ac22024ff88a",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion.md",
+    "Machine Learning/Chapter 10 RNN",
+    "Machine Learning/Deep Learning/RNN.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
+    "GoldBucket/Stable Diffusion.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model",
     "Machine Learning/Basic Items/Inductive Biases.md",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
@@ -206,9 +208,7 @@
     "Multiplication Times for CNN.md",
     "Development/NumPy/stack().md",
     "Development/NumPy/meshgrid().md",
-    "Development/timm/models/vision_transformer/PatchEmbed.md",
     "Development/NumPy",
-    "Development/timm/models/vision_transformer/Block.md",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
     "Development/timm",
