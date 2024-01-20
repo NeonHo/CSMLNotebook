@@ -3,4 +3,7 @@
 	- [[Section 1 GAN]]
 	- [[Variational Autoencoder]]
 - Denoising Diffusion Probabilistic Model
-	- called DM
+	- called Diffusion Models
+	- for image synthesis
+	- OpenAI, Stability AI, Google Brain
+	- 
