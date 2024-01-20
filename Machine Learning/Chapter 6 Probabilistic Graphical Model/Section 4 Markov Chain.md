@@ -8,4 +8,6 @@ The future is independent of the past given the present.
 	- 统计模型
 	- 对事物的过程
 	- 进行预测和处理
-- 
+	- ![[7794b60e7bc5ec8be7d5aac07df5a2d.jpg]]
+- Markov Chain
+	- 
