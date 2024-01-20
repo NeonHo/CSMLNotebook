@@ -18,6 +18,7 @@
 	- ![[319a03cc4de41836a325f926f525d56.jpg]]
 		- $x_0 \rightarrow x_T$ is forward
 			- original image is added noise gradually to pure noise.
+			- [[Section 4 Markov Chain]]  $q(x_{1:T}|x_o)=\prod_{t=1}^Tq(x_t|x_{t-1})$  
 		- $x_T\rightarrow x_0$ is reverse
 			- random noise is recovered to input image.
 			- learn a denoising process.
