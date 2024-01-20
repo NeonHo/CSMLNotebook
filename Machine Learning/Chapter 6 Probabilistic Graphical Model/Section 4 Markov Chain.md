@@ -10,4 +10,8 @@ The future is independent of the past given the present.
 	- 进行预测和处理
 	- ![[7794b60e7bc5ec8be7d5aac07df5a2d.jpg]]
 - Markov Chain
-	- 用数学
+	- 用数学方法解释自然变化的一般规律模型
+	- 马尔可夫性质——无记忆性：
+		- 下一状态的概率分布只由当前状态决定。
+		- 此前的状态均与下一状态无关。
+		- 
