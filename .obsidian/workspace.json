@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Deep Learning/Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Deep Learning/Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Deep Learning/Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md"
+                "file": "Machine Learning/Deep Learning/Diffusion Models.md"
               }
             }
           },
@@ -179,12 +179,12 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "Machine Learning/Basic Items/Reparameterization Trick.md",
     "Attachments/Pasted image 20240120130141.png",
     "Attachments/Pasted image 20240120125934.png",
     "Attachments/Pasted image 20240120125452.png",
     "Attachments/Pasted image 20240120125229.png",
     "Machine Learning/Deep Learning/Diffusion Models.md",
-    "Machine Learning/Basic Items/Reparameterization Trick.md",
     "Attachments/319a03cc4de41836a325f926f525d56.jpg",
     "Machine Learning/Deep Learning/Stable Diffusion.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
@@ -222,7 +222,6 @@
     "Development/timm",
     "Attachments/Pasted image 20231203201445.png",
     "Attachments/Pasted image 20231203201458.png",
-    "Attachments/Pasted image 20231203200942.png",
     "Excalidraw",
     "Machine Learning/papers/Quantization"
   ]
