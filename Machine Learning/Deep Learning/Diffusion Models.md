@@ -9,4 +9,7 @@
 # Theory Introduction
 - From noise to objective data sample
 	- noise from simple distribution
+- 2 procedures (Both are [[Section 4 Markov Chain]]):
+	- forward (diffusion process)
+	- reverse
 	- 
