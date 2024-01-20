@@ -14,4 +14,6 @@ The future is independent of the past given the present.
 	- 马尔可夫性质——无记忆性：
 		- 下一状态的概率分布只由当前状态决定。
 		- 此前的状态均与下一状态无关。
+	- 数学
+		- $P(X_{t+1}|...,X_{t-2},X_{t-1},X_{t})=P(X_{t+1}|X_t)$
 		- 
