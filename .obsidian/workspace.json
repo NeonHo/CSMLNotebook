@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md"
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md"
               }
             }
           },
@@ -177,11 +177,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
+    "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
+    "Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
     "Machine Learning/Chapter 10 RNN",
     "Machine Learning/Deep Learning/RNN.md",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Markov Chain.md",
     "GoldBucket/Stable Diffusion.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model",
     "Machine Learning/Basic Items/Inductive Biases.md",
@@ -207,7 +209,6 @@
     "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Multiplication Times for CNN.md",
     "Development/NumPy/stack().md",
-    "Development/NumPy/meshgrid().md",
     "Development/NumPy",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
@@ -223,7 +224,6 @@
     "Attachments/Pasted image 20231203194833.png",
     "Excalidraw",
     "Machine Learning/papers/Quantization",
-    "Machine Learning/papers/NLP",
-    "Machine Learning/papers"
+    "Machine Learning/papers/NLP"
   ]
 }
