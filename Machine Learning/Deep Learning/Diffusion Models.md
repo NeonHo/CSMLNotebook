@@ -12,4 +12,5 @@
 - 2 procedures (Both are [[Section 4 Markov Chain]]):
 	- forward (diffusion process)
 	- reverse
-	- 
+		- to generate data samples (as the generator from [[Section 1 GAN]])
+		- 
