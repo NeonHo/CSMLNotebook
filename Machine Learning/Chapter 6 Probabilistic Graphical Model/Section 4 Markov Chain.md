@@ -8,4 +8,4 @@ The future is independent of the past given the present.
 	- 统计模型
 	- 对事物的过程
 	- 进行预测和处理
-	- 
+- 
