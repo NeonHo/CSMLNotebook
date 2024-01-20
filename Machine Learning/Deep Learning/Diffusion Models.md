@@ -15,4 +15,6 @@
 		- to generate data samples (as the generator from [[Section 1 GAN]])
 			- the generator of GAN will change the dimension.
 			- DDPM will keep the dimension
-			- 
+	- ![[319a03cc4de41836a325f926f525d56.jpg]]
+		- $x_0 \rightarrow x_T$ is forward
+			- original image to p
