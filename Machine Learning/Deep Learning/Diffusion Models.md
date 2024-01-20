@@ -48,4 +48,4 @@ https://zhuanlan.zhihu.com/p/560603623
 						- ![[Pasted image 20240120190809.png]]
 						- ![[e6541d259be4430a834bfe81174dd58.jpg]]
 						- ![[6883dc7a8b5ad565d399715286e8c39.jpg]]
-						- 
+						- 方差不重要，关键在于均值，但是ju
