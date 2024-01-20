@@ -33,4 +33,4 @@
 			- reverse of the $q(x_t|x_{t-1})$ is $q(x_{t-1}|x_t)$
 				- DDPM use [[Section 1 Multi-layer Perceptron & Boolean Function#Neural Network]] to model the reverse process.
 					- $p_\theta(x_{t-1}|x_t)\sim q(x_{t-1}|x_t)$
-					- $q(x_{t-1}|x_t,x_0)=N()$
+					- $q(x_{t-1}|x_t,x_0)=N(x_{t-1}|)$
