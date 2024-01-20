@@ -177,8 +177,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b31ac22024ff88a",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Machine Learning/未命名",
     "GoldBucket/Stable Diffusion.md",
     "Machine Learning/Basic Items/Inductive Biases.md",
     "Machine Learning/Basic Items/Generative Model & Discriminative Model.md",
@@ -207,7 +208,6 @@
     "Development/timm/models/vision_transformer/PatchEmbed.md",
     "Development/NumPy",
     "Development/timm/models/vision_transformer/Block.md",
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
     "Development/timm/models/vision_transformer",
     "Development/timm/models",
     "Development/timm",
