@@ -18,4 +18,7 @@ The future is independent of the past given the present.
 		- $P(X_{t+1}|...,X_{t-2},X_{t-1},X_{t})=P(X_{t+1}|X_t)$
 	- 转移概率矩阵
 		- ![[ca36c32534e11bc59dce51096efde6d.jpg]]
-		- 
+	- 非Markov Chain  过程
+		- 从箱中取球，不放回。
+		- 有放回就有Markov性
+	- 

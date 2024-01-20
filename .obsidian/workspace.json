@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md"
+                "file": "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md"
               }
             }
           },
@@ -179,11 +179,12 @@
   },
   "active": "2b31ac22024ff88a",
   "lastOpenFiles": [
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Morkov Model.md",
     "Attachments/ca36c32534e11bc59dce51096efde6d.jpg",
     "Attachments/7794b60e7bc5ec8be7d5aac07df5a2d.jpg",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
     "Machine Learning/Chapter 10 RNN",
     "Machine Learning/Deep Learning/RNN.md",
     "GoldBucket/Stable Diffusion.md",
@@ -221,7 +222,6 @@
     "Attachments/Pasted image 20231203200006.png",
     "Attachments/Pasted image 20231203195952.png",
     "Attachments/Pasted image 20231203195916.png",
-    "Attachments/Pasted image 20231203195223.png",
     "Excalidraw",
     "Machine Learning/papers/Quantization",
     "Machine Learning/papers/NLP"
