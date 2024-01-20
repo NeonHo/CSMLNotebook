@@ -22,11 +22,12 @@
 			- $q(x_t|x_{t-1})=N(x_t, \mu=\sqrt{1-\beta_t}x_{t-1}, \sigma^2=\beta_tI)$ 
 			- $\beta_t$ is set previously.
 				- increase as Linear or Cosine.
-			- 重参数化技巧 
+			- $x_t$ 是从非标准的正态分布中采样得到的。
+			- 通过[[Reparameterization Trick]]
 			- $x_t=\sqrt{1-\beta_t}x_{t-1}+\sqrt{\beta_t}\epsilon$
 				- $\epsilon\sim N(0, I)$
 				- 用 $\epsilon$ 代替采样时没有梯度的变量$x_t$ 从而有利于反向传播
 		- $x_T\rightarrow x_0$ is reverse
 			- random noise is recovered to input image.
 			- learn a denoising process.
-		- 
+			- 
