@@ -63,4 +63,5 @@ https://zhuanlan.zhihu.com/p/560603623
 									- $D_{KL}(q(x_{t-1}|x_t,x_0)||p_\theta(x_{t-1}|x_t))=\frac{\beta^2_t}{2\Sigma^2_t\alpha_t(1-\bar{\alpha}_t)}||\hat{z}_t-\hat{z}_\theta(\sqrt{\bar{\alpha}_t}x_0+\sqrt{1-\bar{\alpha}_t}\hat{z}_t,t)||^2$
 									-   神经网络$\theta$ 训练：
 										- 本来是根据$\hat{z}_t\sim N(0,I)$构建$x_t$
-										- 现在给定
+										- 现在给定$x_t$，用$\theta$ 预测一个$\hat{z}_\theta(x_t,t)$
+										- 
