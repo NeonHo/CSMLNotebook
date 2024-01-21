@@ -66,4 +66,4 @@ https://zhuanlan.zhihu.com/p/560603623
 										- 现在给定$x_t$，用$\theta$ 预测一个$\hat{z}_\theta(x_t,t)$分布
 										- 评估预测分布和真实分布的差距。
 									- 推理：
-										-                                                                                                                                                                                                                                                                                                                                                                                                                                           
+										- 
