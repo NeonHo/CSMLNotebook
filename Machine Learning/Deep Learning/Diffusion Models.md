@@ -66,5 +66,6 @@ https://zhuanlan.zhihu.com/p/560603623
 										- 现在给定$x_t$，用$\theta$ 预测一个$\hat{z}_\theta(x_t,t)$分布
 										- 评估预测分布和真实分布的差距。
 									- 推理：
-										- 从$z\sim N(0,1)$开始，用
-							- $p_\theta(x_{t-1}|x_t)\sim N(x_{t-1};\mu_\theta(x_t,t),\Sigma_\theta(x_t,t))$
+										- 从$z\sim N(0,1)$采样，用$p_\theta(x_{t-1}|x_t)\sim N(x_{t-1};\mu_\theta(x_t,t),\Sigma_\theta(x_t,t))$ 这个关系式得到递推式：
+											- $x_{t-1}=\mu_\theta(x_t,t)+\sqrt{\Sigma_\theta(x_t,t)}z$
+											- 从
