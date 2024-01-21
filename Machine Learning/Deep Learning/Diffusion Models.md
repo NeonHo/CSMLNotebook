@@ -61,4 +61,4 @@ https://zhuanlan.zhihu.com/p/560603623
 								- $\mu$ 分布不确定，值域较广，我们希望预测正态分布的采样。
 									- $\mu_\theta(x_t,t)=\frac{1}{\sqrt{a_t}}(x_t+\frac{\beta_t}{\sqrt{1-\bar{\alpha}_t}}\hat{z}_\theta(x_t,t))$
 									- $D_{KL}(q(x_{t-1}|x_t,x_0)||p_\theta(x_{t-1}|x_t))=\frac{\beta^2_t}{2\Sigma^2_t\alpha_t(1-\bar{\alpha}_t)}||\hat{z}_t-\hat{z}_\theta(\sqrt{\bar{\alpha}_t}x_0+\sqrt{1-\bar{\alpha}_t}\hat{z}_t,t)||^2$
-									- 
+									-   神经网络$\theta$ 用于根据$z$
