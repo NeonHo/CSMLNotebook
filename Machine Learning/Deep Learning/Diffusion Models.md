@@ -54,4 +54,5 @@ https://zhuanlan.zhihu.com/p/560603623
 							- $p_\theta(x_{t-1}|x_t)\sim N(x_{t-1};\mu_\theta(x_t,t),\Sigma_\theta(x_t,t))$
 								- $\Sigma_\theta(x_t,t)=\frac{(1-\bar{\alpha}_{t-1})\beta_t}{1-\bar{\alpha}_t}$
 							- 高斯分布$p(\mu_1,\sigma_1)$ vs $q(\mu_2,\sigma_2)$ 的 KL散度
-								- $D_{KL}(p,q)=\log \frac{\sigma_2}{\sigma_1}+$
+								- $D_{KL}(p,q)=\log \frac{\sigma_2}{\sigma_1}+\frac{\sigma^2_1+(\mu_1-\mu_2)^2}{2\sigma^2_2}-\frac{1}{2}$
+								- 
