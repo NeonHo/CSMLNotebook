@@ -50,5 +50,6 @@ https://zhuanlan.zhihu.com/p/560603623
 						- ![[6883dc7a8b5ad565d399715286e8c39.jpg]]
 						- 方差不重要，关键在于均值，但是均值的拟合很重要。
 							- ![[Pasted image 20240120190405.png]]
-							- 方差只与 $\beta_t$ 有关， 
+							- 方差只与 $\beta_t$ 有关， 无需预测。
+							- $q(x_{t-1}|x_t)\sim N(x_{t-1};\mu_\theta(x_t,t),\Sigma_\theta(x_t,t))$
 							- 
