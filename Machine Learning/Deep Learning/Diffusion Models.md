@@ -53,4 +53,4 @@ https://zhuanlan.zhihu.com/p/560603623
 							- 方差只与 $\beta_t$ 有关， 无需预测。
 							- $p_\theta(x_{t-1}|x_t)\sim N(x_{t-1};\mu_\theta(x_t,t),\Sigma_\theta(x_t,t))$
 								- $\Sigma_\theta(x_t,t)=\frac{(1-\bar{\alpha}_{t-1})\beta_t}{1-\bar{\alpha}_t}$
-								- 
+							- 高斯分布$p(\mu_1,\sigma_1)$
