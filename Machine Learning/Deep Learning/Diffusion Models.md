@@ -56,4 +56,5 @@ https://zhuanlan.zhihu.com/p/560603623
 							- 高斯分布$p(\mu_1,\sigma_1)$ vs $q(\mu_2,\sigma_2)$ 的 KL散度
 								- $D_{KL}(p,q)=\log \frac{\sigma_2}{\sigma_1}+\frac{\sigma^2_1+(\mu_1-\mu_2)^2}{2\sigma^2_2}-\frac{1}{2}$
 								- 因为方差相同
-								- 所以 $D_{KL}(q(x_{t-1}|x_t,x_0)||p_\theta)$
+								- 所以 $D_{KL}(q(x_{t-1}|x_t,x_0)||p_\theta(x_{t-1}|x_t))=\frac{1}{2\Sigma^2_t}||\mu_t(x_t,x_0)-\mu_\theta(x_t,t)||^2 + C$
+								- 所以我们最后的目标是最小化
