@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/自律激励器.md",
+                "file": "Machine Learning/Deep Learning/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/自律激励器.md",
+                "file": "Machine Learning/Deep Learning/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/自律激励器.md",
+                "file": "Machine Learning/Deep Learning/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/自律激励器.md"
+                "file": "Machine Learning/Deep Learning/Stable Diffusion.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
-    "GoldBucket/AI剧本杀.md",
     "GoldBucket/自律激励器.md",
+    "GoldBucket/AI剧本杀.md",
     "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/AIGC API.md",
     "GoldBucket/证件照生成APP.md",
