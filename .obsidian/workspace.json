@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoldBucket/AI剧本杀.md",
+                "file": "GoldBucket/自律激励器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoldBucket/AI剧本杀.md",
+                "file": "GoldBucket/自律激励器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoldBucket/AI剧本杀.md",
+                "file": "GoldBucket/自律激励器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoldBucket/AI剧本杀.md"
+                "file": "GoldBucket/自律激励器.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
-    "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/AI剧本杀.md",
+    "GoldBucket/自律激励器.md",
+    "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/AIGC API.md",
     "GoldBucket/证件照生成APP.md",
     "GoldBucket/看透财务自由的本质.md",
@@ -218,7 +219,6 @@
     "Development/GPU Days.md",
     "GoldBucket/Multi Agent.md",
     "GoldBucket/AIGC合规问题.md",
-    "GoldBucket/Multi-Agent.md",
     "GoldBucket",
     "Development/NumPy",
     "Development/timm/models/vision_transformer",
