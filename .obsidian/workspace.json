@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Basic Items/NMS Hand writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Basic Items/NMS Hand writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md",
+                "file": "Machine Learning/Basic Items/NMS Hand writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Basic Items/Reparameterization Trick.md"
+                "file": "Machine Learning/Basic Items/NMS Hand writing.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "Machine Learning/Basic Items/Reparameterization Trick.md",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
@@ -205,7 +206,6 @@
     "Attachments/Pasted image 20240120190405.png",
     "Attachments/Pasted image 20240120181026.png",
     "Machine Learning/Chapter 9 Forward Neural Network",
-    "Machine Learning/Basic Items/Reparameterization Trick.md",
     "Attachments/Pasted image 20240120130141.png",
     "Attachments/Pasted image 20240120125934.png",
     "Attachments/Pasted image 20240120125452.png",
