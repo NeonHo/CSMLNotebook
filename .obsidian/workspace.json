@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/onnx/获取一个op_type对应的attributes.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/onnx/获取一个op_type对应的attributes.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/onnx/获取一个op_type对应的attributes.md",
+                "file": "GoldBucket/Multi Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/onnx/获取一个op_type对应的attributes.md"
+                "file": "GoldBucket/Multi Agent.md"
               }
             }
           },
@@ -179,8 +180,9 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
-    "Development/onnx/获取所有op_type.md",
+    "GoldBucket/AIGC API.md",
     "Development/onnx/获取一个op_type对应的attributes.md",
+    "Development/onnx/获取所有op_type.md",
     "Machine Learning/Basic Items/NMS Hand writing.md",
     "Development/onnx",
     "Machine Learning/Basic Items/Reparameterization Trick.md",
@@ -200,7 +202,6 @@
     "GoldBucket/自律激励器.md",
     "GoldBucket/AI剧本杀.md",
     "GoldBucket/Stable Diffusion UI.md",
-    "GoldBucket/AIGC API.md",
     "GoldBucket/证件照生成APP.md",
     "GoldBucket/看透财务自由的本质.md",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
