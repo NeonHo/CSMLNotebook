@@ -11,8 +11,12 @@
             "id": "3ed53321a33a3399",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GoldBucket/Multi Agent.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "GoldBucket/Multi Agent.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "GoldBucket/Multi Agent.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "GoldBucket/Multi Agent.md"
+          }
         }
       }
     ]
@@ -136,51 +144,51 @@
   },
   "active": "3ed53321a33a3399",
   "lastOpenFiles": [
-    "GoldBucket/AIGC合规问题.md",
-    "Machine Learning/papers/Quantization/RepQ & RepQ-ViT.md",
-    "Development/Torch/Optimizer.md",
-    "Development/NumPy",
-    "GoldBucket",
-    "Development/NumPy/meshgrid().md",
-    "Development/NumPy/stack().md",
-    "Development/timm/models/vision_transformer/PatchEmbed.md",
-    "Development/timm/models/vision_transformer/Block.md",
-    "Development/timm/models/vision_transformer",
-    "Development/timm/models",
-    "Development/timm",
-    "GoldBucket/看透财务自由的本质.md",
     "GoldBucket/AIGC API.md",
-    "/Machine Learning/Deep Learning/Transformer.md",
-    "/GoldBucket/看透财务自由的本质.md",
-    "/GoldBucket/AIGC合规问题.md",
-    "/GoldBucket/AIGC API.md",
-    "/Development/Torch/Optimizer.md",
-    "/Development/timm/models/vision_transformer/PatchEmbed.md",
-    "/Development/timm/models/vision_transformer/Block.md",
-    "/Development/NumPy/stack().md",
-    "/Development/NumPy/meshgrid().md",
-    "/GoldBucket",
-    "/Development/timm/models/vision_transformer",
-    "/Development/timm/models",
-    "/Development/timm",
-    "/Development/NumPy",
-    "Machine Learning/Deep Learning/U-Net.md",
-    "/Machine Learning/Deep Learning/U-Net.md",
-    "Attachments/Pasted image 20231203200942.png",
-    "Attachments/Pasted image 20231203194833.png",
-    "Attachments/Pasted image 20231203201445.png",
-    "Attachments/Pasted image 20231203200006.png",
-    "Machine Learning/papers/Quantization/Straight Through Estimator (STE).md",
-    "Attachments/Pasted image 20231203195952.png",
-    "Attachments/Images/微信图片_20231202181911.jpg",
-    "Attachments/Pasted image 20231203195223.png",
-    "Attachments/Pasted image 20231203200538.png",
-    "Attachments/Pasted image 20231203201458.png",
-    "Attachments/Pasted image 20231203195916.png",
-    "Machine Learning/papers/Quantization/Fake Quantization.md",
-    "Machine Learning/papers/Quantization/Learnable Scale Quantization (LSQ).md",
-    "Machine Learning/papers/Quantization/Deterministic quantization & Stochastic quantization.md",
-    "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md"
+    "Machine Learning/Chapter 9 Forward Neural Network",
+    "Attachments/7794b60e7bc5ec8be7d5aac07df5a2d.jpg",
+    "Attachments/Pasted image 20240116144139.png",
+    "Attachments/ca36c32534e11bc59dce51096efde6d.jpg",
+    "Development/GPU Days.md",
+    "Attachments/Pasted image 20240120181026.png",
+    "Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
+    "Attachments/319a03cc4de41836a325f926f525d56.jpg",
+    "Machine Learning/Deep Learning/Stable Diffusion.md",
+    "Development/quantization tool/量化心得.md",
+    "Attachments/Pasted image 20240120190809.png",
+    "GoldBucket/Stable Diffusion UI.md",
+    "Machine Learning/Deep Learning/Diffusion Models.md",
+    "Machine Learning/Basic Items/Inductive Biases.md",
+    "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
+    "Development/训练小trick.md",
+    "Attachments/Pasted image 20240120130141.png",
+    "Development/onnx",
+    "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
+    "Machine Learning/Chapter 13 Generative Adversarial Network",
+    "Development/onnx/获取所有op_type.md",
+    "GoldBucket/Multi Agent.md",
+    "Machine Learning/Basic Items/Reparameterization Trick.md",
+    "GoldBucket/证件照生成APP.md",
+    "Attachments/Pasted image 20240120190405.png",
+    "Development/onnx/获取一个op_type对应的attributes.md",
+    "Attachments/Pasted image 20240120125229.png",
+    "Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
+    "Machine Learning/Chapter 10 RNN",
+    "GoldBucket/AI剧本杀.md",
+    "Machine Learning/Deep Learning/Autoencoder.md",
+    "Machine Learning/Chapter 13 Generative Adversarial Network/Section 1 GAN.md",
+    "Machine Learning/Deep Learning/Variational Autoencoder.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model",
+    "GoldBucket/自律激励器.md",
+    "/Machine Learning/Deep Learning/Autoencoder.md",
+    "/Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
+    "/Machine Learning/Chapter 13 Generative Adversarial Network/Section 1 GAN.md",
+    "/Machine Learning/Chapter 9 Forward Neural Network",
+    "/Machine Learning/Chapter 6 Probabilistic Graphical Model",
+    "/Machine Learning/Chapter 13 Generative Adversarial Network",
+    "/Machine Learning/Chapter 10 RNN",
+    "/Development/onnx"
   ]
 }
