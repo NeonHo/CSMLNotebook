@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb80c9f406fcfd84",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
