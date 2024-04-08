@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Git/Git checkout specific tag.md",
+                "file": "huawei晟腾/ssh连接有问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Git/Git checkout specific tag.md",
+                "file": "huawei晟腾/ssh连接有问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Git/Git checkout specific tag.md",
+                "file": "huawei晟腾/ssh连接有问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Git/Git checkout specific tag.md"
+                "file": "huawei晟腾/ssh连接有问题.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "huawei晟腾/ssh连接有问题.md",
     "huawei晟腾",
     "未命名.canvas",
     "Development/Git/Git checkout specific tag.md",
@@ -224,7 +225,6 @@
     "GoldBucket",
     "Development/NumPy",
     "Development/timm/models/vision_transformer",
-    "Development/timm/models",
-    "Development/timm"
+    "Development/timm/models"
   ]
 }
