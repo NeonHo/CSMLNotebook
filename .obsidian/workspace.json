@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea5e4f900f3b6b51",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5bf03fa3be9e2d65",
+  "active": "ea5e4f900f3b6b51",
   "lastOpenFiles": [
     "Troubles and Solutions.md",
     "GoldBucket/Multi Agent.md",
