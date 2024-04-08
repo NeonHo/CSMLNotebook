@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ea5e4f900f3b6b51",
+            "id": "bb80c9f406fcfd84",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.11"
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -188,8 +188,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea5e4f900f3b6b51",
+  "active": "bb80c9f406fcfd84",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Development/Git/Git checkout specific tag.md",
     "Troubles and Solutions.md",
     "GoldBucket/Multi Agent.md",
     "GoldBucket/AIGC API.md",
@@ -215,7 +217,6 @@
     "GoldBucket/AI剧本杀.md",
     "GoldBucket/Stable Diffusion UI.md",
     "GoldBucket/证件照生成APP.md",
-    "GoldBucket/看透财务自由的本质.md",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
     "Attachments/Pasted image 20240120190809.png",
@@ -227,7 +228,6 @@
     "Attachments/Pasted image 20240120125934.png",
     "Attachments/Pasted image 20240120125452.png",
     "Attachments/Pasted image 20240120125229.png",
-    "Machine Learning/Deep Learning/Variational Autoencoder.md",
     "Machine Learning/Chapter 13 Generative Adversarial Network",
     "Machine Learning/Chapter 10 RNN",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model",
