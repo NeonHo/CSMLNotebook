@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "huawei晟腾/ssh连接有问题.md",
+                "file": "huawei晟腾/晟腾平台使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "huawei晟腾/ssh连接有问题.md",
+                "file": "huawei晟腾/晟腾平台使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "huawei晟腾/ssh连接有问题.md",
+                "file": "huawei晟腾/晟腾平台使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "huawei晟腾/ssh连接有问题.md"
+                "file": "huawei晟腾/晟腾平台使用.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
-    "huawei晟腾/ssh连接有问题.md",
+    "huawei晟腾/晟腾平台使用.md",
     "huawei晟腾",
     "未命名.canvas",
     "Development/Git/Git checkout specific tag.md",
