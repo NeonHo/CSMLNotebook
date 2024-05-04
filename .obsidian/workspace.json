@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/网络结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/网络结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/网络结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md"
+                "file": "Computer Science/Network/网络结构.md"
               }
             }
           },
@@ -180,9 +179,9 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/概述.md",
     "Computer Science/Network/网络结构.md",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Attachments/Pasted image 20240504155236.png",
     "Attachments/Pasted image 20240504155215.png",
     "Computer Science/Network/1. 概述/1.1 Internet.md",
