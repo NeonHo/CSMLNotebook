@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.1 Internet.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.1 Internet.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.1 Internet.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.1 Internet.md"
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md"
               }
             }
           },
@@ -180,11 +180,12 @@
   },
   "active": "5bf03fa3be9e2d65",
   "lastOpenFiles": [
+    "Computer Science/Network/网络结构.md",
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+    "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Attachments/Pasted image 20240504152718.png",
     "Computer Science/Network/概述.md",
     "Computer Science/Network/HTTP server.md",
-    "Computer Science/Network/网络结构.md",
-    "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
@@ -193,7 +194,6 @@
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述",
     "huawei晟腾/晟腾平台使用.md",
     "huawei晟腾",
@@ -220,7 +220,6 @@
     "Attachments/Pasted image 20240120130141.png",
     "Attachments/Pasted image 20240120125934.png",
     "Attachments/Pasted image 20240120125452.png",
-    "Attachments/Pasted image 20240120125229.png",
     "Machine Learning/Chapter 13 Generative Adversarial Network",
     "Machine Learning/Chapter 10 RNN",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model",
