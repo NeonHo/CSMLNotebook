@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/front end/Vue.js/Vite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/front end/Vue.js/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/front end/Vue.js/Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md"
+                "file": "Development/front end/Vue.js/Vite.md"
               }
             }
           },
@@ -177,8 +177,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3401ee377f3206c7",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Development/未命名",
+    "Development/front end/Node.js/npm.md",
+    "Development/front end/Node.js",
+    "Development/front end/DOM.md",
+    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Attachments/Pasted image 20240504170132.png",
@@ -196,7 +201,6 @@
     "Troubles and Solutions.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
-    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述",
     "huawei晟腾/晟腾平台使用.md",
     "huawei晟腾",
@@ -211,8 +215,6 @@
     "Machine Learning/Basic Items/Reparameterization Trick.md",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
-    "Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
     "Attachments/Pasted image 20240120190809.png",
@@ -223,7 +225,6 @@
     "Machine Learning/Chapter 10 RNN",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model",
     "GoldBucket",
-    "Development/NumPy",
-    "Development/timm/models/vision_transformer"
+    "Development/NumPy"
   ]
 }
