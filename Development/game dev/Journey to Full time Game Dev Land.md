@@ -7,6 +7,7 @@ asap (as soon as possible)
 		- post social media on a daily basis.
 			- with a link to wish-lists.
 			- 19% of the wish-lists will convert in a year.
+			- wish-lists = exposure
 			- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
