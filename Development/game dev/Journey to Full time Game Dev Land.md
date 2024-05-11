@@ -5,7 +5,9 @@ asap (as soon as possible)
 		- push myself to release an actual game.
 	- secure the wish-lists for your indie game.
 		- post social media on a daily basis.
-			- with a link to a rudimentary steam page to start securing those wish-lists.
+			- with a link to wish-lists.
+			- 19% of the wish-lists will convert in a year.
+			- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
 # 4. Funding (Optional Shourtcut!)
