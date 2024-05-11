@@ -8,7 +8,8 @@ asap (as soon as possible)
 			- with a link to wish-lists.
 			- 19% of the wish-lists will convert in a year.
 			- wish-lists = exposure
-			- 
+- company logo
+	- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
 # 4. Funding (Optional Shourtcut!)
