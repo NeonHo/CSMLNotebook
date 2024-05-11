@@ -1,4 +1,4 @@
-# 1. social media presence
+# 1. Social media presence
 asap (as soon as possible)
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
@@ -6,4 +6,4 @@ asap (as soon as possible)
 # 5. Extending prototype
 # 6. Beta testing
 # 7. Build Hype!
-# 8. steam launch!
+# 8. Steam launch!
