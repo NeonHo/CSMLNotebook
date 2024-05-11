@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/game dev/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/game dev/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+                "file": "Development/game dev/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md"
+                "file": "Development/game dev/未命名.md"
               }
             }
           },
@@ -204,6 +204,9 @@
   },
   "active": "6a8132139eff3752",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
+    "Development/game dev/未命名.md",
+    "Development/game dev",
     "Troubles and Solutions.md",
     "README.md",
     "Machine Learning/Multiplication Times for CNN.md",
@@ -214,7 +217,6 @@
     "Development/front end/Node.js/npm.md",
     "Development/front end/Node.js",
     "Development/front end/DOM.md",
-    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Attachments/Pasted image 20240504170132.png",
@@ -239,7 +241,6 @@
     "GoldBucket/AIGC API.md",
     "Development/onnx/获取一个op_type对应的attributes.md",
     "Development/onnx/获取所有op_type.md",
-    "Machine Learning/Basic Items/NMS Hand writing.md",
     "Development/onnx",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
@@ -249,7 +250,6 @@
     "Machine Learning/Chapter 9 Forward Neural Network",
     "Machine Learning/Chapter 13 Generative Adversarial Network",
     "Machine Learning/Chapter 10 RNN",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model",
-    "GoldBucket"
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model"
   ]
 }
