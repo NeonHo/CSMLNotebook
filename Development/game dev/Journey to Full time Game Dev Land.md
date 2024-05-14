@@ -9,9 +9,14 @@ asap (as soon as possible)
 			- 19% of the wish-lists will convert in a year.
 			- wish-lists = exposure
 - company logo
+	- photoshop 下载
+- 自媒体
+	- premium 下载
 - steamwork注册
 	- ==遇到问题：700RMB的费用==
 	- 接收外汇的银行卡：中行或者招商行都可以
+- 个人网站
+	- wix.com设计
 	- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
