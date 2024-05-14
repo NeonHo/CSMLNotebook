@@ -9,6 +9,8 @@ asap (as soon as possible)
 			- 19% of the wish-lists will convert in a year.
 			- wish-lists = exposure
 - company logo
+- steamwork注册
+	- ==遇到问题：700RMB的费用==
 	- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
