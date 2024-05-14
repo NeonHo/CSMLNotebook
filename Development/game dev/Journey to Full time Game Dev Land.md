@@ -11,6 +11,7 @@ asap (as soon as possible)
 - company logo
 - steamwork注册
 	- ==遇到问题：700RMB的费用==
+	- 接收外汇的银行卡：中行或者招商行都可以
 	- 
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
