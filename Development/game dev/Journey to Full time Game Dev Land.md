@@ -18,6 +18,7 @@ asap (as soon as possible)
 - 个人网站
 	- hexo
 	- 阿里云 南京本地。
+	- ==等待实名认证2-3个工作日== 每天试一下ICP备案
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
 # 4. Funding (Optional Shortcut!)
