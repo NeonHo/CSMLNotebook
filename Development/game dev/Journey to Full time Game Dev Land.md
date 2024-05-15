@@ -16,8 +16,8 @@ asap (as soon as possible)
 	- ==遇到问题：700RMB的费用==
 	- 接收外汇的银行卡：中行或者招商行都可以
 - 个人网站
-	- wix.com设计
-	- 
+	- hexo
+	- 阿里云 南京本地。
 # 2. Game Design Bible
 # 3. Build our prototype in unity from scratch
 # 4. Funding (Optional Shortcut!)
