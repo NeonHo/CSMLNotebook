@@ -18,11 +18,16 @@ sudo apt install apache2 \
                  php-zip
 ```
 
+[[Ghostscript]]
 ## Install Apache2
 [[Apache2]]
-a'li'yu
+阿里云中需要对安全组进行编辑
+[参考](http://t.csdnimg.cn/GsnIq)
+![[Pasted image 20240516174121.png]]
 
-[[Ghostscript]]
+不然访问不了Apache的 “It works!”页面
+
+
 # MySQL -> WordPress
 1. [[Create Database for wordpress]]
 2. configure WordPress to use this database.
