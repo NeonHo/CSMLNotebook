@@ -25,4 +25,6 @@ sudo apt install apache2 \
 2. configure WordPress to use this database.
 3. copy the sample configuration file to `wp-config.php`
 	1. `sudo cp softwares/wordpress/wp-config-sample.php softwares/wordpress/wp-config.php`
+4. set the database credentials in the configuration file
+	1. `sudo sed -i 's/database_name_here/wordpress/' softwares/wordpress/wp-config.php`
 	2. 
