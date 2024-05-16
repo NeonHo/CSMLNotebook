@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/game dev/Journey to Full time Game Dev Land.md"
+                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md"
               }
             }
           },
@@ -202,13 +202,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "6a8132139eff3752",
   "lastOpenFiles": [
+    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+    "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
     "Projects/未命名",
-    "Projects/game dev/Build My Own Website",
+    "Projects/game dev/1-Build My Own Website",
     "Projects",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "Projects/game dev/Journey to Full time Game Dev Land.md",
     "Projects/game dev",
     "Troubles and Solutions.md",
     "README.md",
@@ -249,7 +250,6 @@
     "Attachments/Pasted image 20240120190809.png",
     "Attachments/Pasted image 20240120190738.png",
     "Attachments/Pasted image 20240120190405.png",
-    "Machine Learning/Chapter 9 Forward Neural Network",
-    "Machine Learning/Chapter 13 Generative Adversarial Network"
+    "Machine Learning/Chapter 9 Forward Neural Network"
   ]
 }
