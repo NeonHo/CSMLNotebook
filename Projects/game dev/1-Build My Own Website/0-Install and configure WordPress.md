@@ -19,3 +19,4 @@ sudo apt install apache2 \
 ```
 
 [[Apache2]]
+[[Ghostscript]]
