@@ -36,7 +36,7 @@ Apache2的详细安装和指令
 ```bash
 sudo apt install -y php php-{common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,opcache,soap,zip,intl}
 ```
-
+http://t.csdnimg.cn/bWf1w
 # MySQL -> WordPress
 1. [[Create Database for wordpress]]
 2. configure WordPress to use this database.
