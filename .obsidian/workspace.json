@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/Journey to Full time Game Dev Land.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/game dev/Journey to Full time Game Dev Land.md"
+                "file": "Projects/game dev/Journey to Full time Game Dev Land.md"
               }
             }
           },
@@ -203,11 +202,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a8132139eff3752",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Projects/未命名",
+    "Projects/game dev/Build My Own Website",
+    "Projects",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "Development/game dev/Journey to Full time Game Dev Land.md",
-    "Development/game dev",
+    "Projects/game dev/Journey to Full time Game Dev Land.md",
+    "Projects/game dev",
     "Troubles and Solutions.md",
     "README.md",
     "Machine Learning/Multiplication Times for CNN.md",
@@ -241,7 +243,6 @@
     "GoldBucket/Multi Agent.md",
     "GoldBucket/AIGC API.md",
     "Development/onnx/获取一个op_type对应的attributes.md",
-    "Development/onnx/获取所有op_type.md",
     "Development/onnx",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
@@ -249,8 +250,6 @@
     "Attachments/Pasted image 20240120190738.png",
     "Attachments/Pasted image 20240120190405.png",
     "Machine Learning/Chapter 9 Forward Neural Network",
-    "Machine Learning/Chapter 13 Generative Adversarial Network",
-    "Machine Learning/Chapter 10 RNN",
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model"
+    "Machine Learning/Chapter 13 Generative Adversarial Network"
   ]
 }
