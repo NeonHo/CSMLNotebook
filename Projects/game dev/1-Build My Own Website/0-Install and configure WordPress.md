@@ -20,3 +20,7 @@ sudo apt install apache2 \
 
 [[Apache2]]
 [[Ghostscript]]
+# MySQL -> WordPress
+1. [[Create Database for wordpress]]
+2. configure WordPress to use this database.
+3. copy the sample configuration file to `wp-config.php`
