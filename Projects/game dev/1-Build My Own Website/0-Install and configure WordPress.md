@@ -18,7 +18,10 @@ sudo apt install apache2 \
                  php-zip
 ```
 
+## Install Apache2
 [[Apache2]]
+a'li'yu
+
 [[Ghostscript]]
 # MySQL -> WordPress
 1. [[Create Database for wordpress]]

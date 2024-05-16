@@ -78,5 +78,3 @@ sudo a2dissite example.com.conf
    ```
 
 通过这些步骤，你可以在Ubuntu服务器上成功安装和配置Apache2，并使用它来托管你的WordPress网站。
-
-DefaultRuntimeDir
