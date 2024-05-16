@@ -1,3 +1,5 @@
+[Medium Ref](https://medium.com/@sabinjoshi044/how-to-install-wordpress-on-ubuntu-a-step-by-step-guide-bad460da8fa5)
+
 # Install dependencies
 [tutorial](https://ubuntu.com/tutorials/install-and-configure-wordpress#2-install-dependencies)
 ```Bash
@@ -30,6 +32,7 @@ Apache2的详细安装和指令
 ![[Pasted image 20240516174121.png]]
 
 不然访问不了Apache的 “It works!”页面
+## Install PHP
 
 
 # MySQL -> WordPress
