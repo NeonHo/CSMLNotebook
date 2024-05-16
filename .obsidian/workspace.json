@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/MySQL/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/MySQL/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/MySQL/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md"
+                "file": "Projects/game dev/1-Build My Own Website/Resources/MySQL/未命名.md"
               }
             }
           },
@@ -204,8 +204,10 @@
   },
   "active": "6a8132139eff3752",
   "lastOpenFiles": [
-    "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
     "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL/未命名.md",
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL",
+    "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
     "Projects/game dev/1-Build My Own Website/Resources",
     "Projects/game dev/0-Journey to Full time Game Dev Land.md",
@@ -244,8 +246,6 @@
     "Development/huawei晟腾",
     "未命名.canvas",
     "Development/Git/Git checkout specific tag.md",
-    "GoldBucket/Multi Agent.md",
-    "Development/onnx",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
     "Attachments/Pasted image 20240120190809.png",
