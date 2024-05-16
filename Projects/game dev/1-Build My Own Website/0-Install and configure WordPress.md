@@ -33,7 +33,9 @@ Apache2的详细安装和指令
 
 不然访问不了Apache的 “It works!”页面
 ## Install PHP
-
+```bash
+sudo apt install -y php php-{common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,opcache,soap,zip,intl}
+```
 
 # MySQL -> WordPress
 1. [[Create Database for wordpress]]
