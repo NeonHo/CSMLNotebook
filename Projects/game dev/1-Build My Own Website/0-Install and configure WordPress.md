@@ -21,8 +21,12 @@ sudo apt install apache2 \
 [[Ghostscript]]
 ## Install Apache2
 [[Apache2]]
+
+Apache2的详细安装和指令
+[参考2](http://t.csdnimg.cn/NsxqT)
+
 阿里云中需要对安全组进行编辑
-[参考](http://t.csdnimg.cn/GsnIq)
+[参考1](http://t.csdnimg.cn/GsnIq)
 ![[Pasted image 20240516174121.png]]
 
 不然访问不了Apache的 “It works!”页面
