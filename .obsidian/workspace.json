@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md"
+                "file": "Projects/game dev/1-Build My Own Website/Resources/Apache2.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "6a8132139eff3752",
   "lastOpenFiles": [
+    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
     "Attachments/Pasted image 20240516174121.png",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
@@ -211,7 +212,6 @@
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
     "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
     "Projects/game dev/1-Build My Own Website/Resources",
-    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Projects/未命名",
     "Projects/game dev/1-Build My Own Website",
     "Projects",
