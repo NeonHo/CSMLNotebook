@@ -2,26 +2,11 @@
 
 # Install dependencies
 [tutorial](https://ubuntu.com/tutorials/install-and-configure-wordpress#2-install-dependencies)
-```Bash
-sudo apt update
-sudo apt install apache2 \
-                 ghostscript \
-                 libapache2-mod-php \
-                 mysql-server \
-                 php \
-                 php-bcmath \
-                 php-curl \
-                 php-imagick \
-                 php-intl \
-                 php-json \
-                 php-mbstring \
-                 php-mysql \
-                 php-xml \
-                 php-zip
-```
+
 
 [[Ghostscript]]
 ## Install Apache2
+
 [[Apache2]]
 
 Apache2的详细安装和指令
