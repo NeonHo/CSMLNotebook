@@ -1,3 +1,5 @@
+[参考 step1](https://ubuntu.com/tutorials/install-and-configure-wordpress#5-configure-database)
+[参考 step2](https://ubuntu.com/tutorials/install-and-configure-wordpress#6-configure-wordpress-to-connect-to-the-database)
 这一套操作在 MySQL 中完成了以下任务：
 
 1. **创建数据库 `wordpress`**：

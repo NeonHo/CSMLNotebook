@@ -23,6 +23,9 @@ sudo apt install -y php php-{common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,ima
 ```
 http://t.csdnimg.cn/bWf1w
 # MySQL -> WordPress
+```Bash
+sudo apt install mysql-server
+```
 1. [[Create Database for wordpress]]
 2. configure WordPress to use this database.
 3. copy the sample configuration file to `wp-config.php`
