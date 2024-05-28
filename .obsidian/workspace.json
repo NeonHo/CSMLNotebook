@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/GAME DEV DOC/Game Design Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/GAME DEV DOC/Game Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+                "file": "Projects/game dev/GAME DEV DOC/Game Design Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/game dev/0-Journey to Full time Game Dev Land.md"
+                "file": "Projects/game dev/GAME DEV DOC/Game Design Document.md"
               }
             }
           },
@@ -203,13 +203,16 @@
   },
   "active": "dc14ac15484ca55a",
   "lastOpenFiles": [
+    "Projects/game dev/GAME DEV DOC/Resources.md",
+    "Projects/game dev/GAME DEV DOC/Game Design Document.md",
+    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+    "Projects/game dev/GAME DEV DOC",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
     "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
     "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
     "Development/ML & DL/GPU Days.md",
     "().md",
-    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Attachments/Pasted image 20240516174121.png",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
@@ -241,10 +244,7 @@
     "Computer Science/Network/HTTP server.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
-    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
     "Computer Science/Network/1. 概述",
-    "Development/huawei晟腾",
     "未命名.canvas",
     "Attachments/6883dc7a8b5ad565d399715286e8c39.jpg",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
