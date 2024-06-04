@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "dc14ac15484ca55a",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Attachments/Pasted image 20240604225112.png",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
@@ -212,7 +213,6 @@
     "Attachments/Pasted image 20240604220833.png",
     "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/0abb132326ae58ea5838ef3564df9e5.jpg",
     "Attachments/Pasted image 20240530205446.png",
     "Projects/game dev/Knowedges/Game Engine.md",
