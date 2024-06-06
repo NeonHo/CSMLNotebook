@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md"
+                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "dc14ac15484ca55a",
   "lastOpenFiles": [
-    "Troubles and Solutions/Troubles and Solutions.md",
     "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+    "Troubles and Solutions/Ubuntu系统装Windows10.md",
+    "Troubles and Solutions/Troubles and Solutions.md",
     "Troubles and Solutions",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
@@ -244,7 +245,6 @@
     "Development/ML & DL/训练小trick.md",
     "Development/front end/Vue.js/Vite.md",
     "Development/ML & DL",
-    "Development/front end/Node.js/npm.md",
     "Attachments/Pasted image 20240504170132.png",
     "Attachments/Pasted image 20240504163911.png",
     "Attachments/Pasted image 20240504155236.png",
