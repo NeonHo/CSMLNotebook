@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md"
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
               }
             }
           },
@@ -180,12 +180,12 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240629125622.png",
     "Attachments/Pasted image 20240629114558.png",
     "Attachments/Pasted image 20240629113012.png",
     "Development/ML & DL/训练小trick.md",
-    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Troubles and Solutions/Ubuntu系统装Windows10.md",
     "Development/ML & DL/GPU Days.md",
@@ -225,7 +225,6 @@
     "Development/ML & DL",
     "Attachments/Pasted image 20240504170132.png",
     "Attachments/Pasted image 20240504163911.png",
-    "Attachments/Pasted image 20240504155236.png",
     "未命名.canvas"
   ]
 }
