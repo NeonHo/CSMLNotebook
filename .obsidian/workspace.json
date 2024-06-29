@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md",
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubles and Solutions/Ubuntu系统装Windows10.md"
+                "file": "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md"
               }
             }
           },
@@ -191,13 +191,14 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Development/ML & DL/GPU Days.md",
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+    "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Troubles and Solutions/Ubuntu系统装Windows10.md",
+    "Development/ML & DL/GPU Days.md",
     "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
     "Troubles and Solutions/Troubles and Solutions.md",
     "Troubles and Solutions",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240604225112.png",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
@@ -230,7 +231,6 @@
     "README.md",
     "Machine Learning/Multiplication Times for CNN.md",
     "Development/ML & DL/训练小trick.md",
-    "Development/front end/Vue.js/Vite.md",
     "Development/ML & DL",
     "Attachments/Pasted image 20240504170132.png",
     "Attachments/Pasted image 20240504163911.png",
