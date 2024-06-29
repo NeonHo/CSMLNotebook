@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3401ee377f3206c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/ML & DL/训练小trick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4bf702b79ba707d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,6 +180,8 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Development/ML & DL/训练小trick.md",
+    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Troubles and Solutions/Ubuntu系统装Windows10.md",
@@ -200,7 +189,6 @@
     "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
     "Troubles and Solutions/Troubles and Solutions.md",
     "Troubles and Solutions",
-    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Attachments/Pasted image 20240604225112.png",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
@@ -232,7 +220,6 @@
     "Projects/game dev",
     "README.md",
     "Machine Learning/Multiplication Times for CNN.md",
-    "Development/ML & DL/训练小trick.md",
     "Development/ML & DL",
     "Attachments/Pasted image 20240504170132.png",
     "Attachments/Pasted image 20240504163911.png",
