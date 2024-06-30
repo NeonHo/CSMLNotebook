@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PDU",
+                "query": "TCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -180,8 +180,10 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Computer Science/Network/1. 概述/1.1 Internet.md",
+    "Computer Science/Network/概述.md",
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+    "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Attachments/Pasted image 20240629125622.png",
     "Attachments/Pasted image 20240629114558.png",
@@ -195,7 +197,6 @@
     "Troubles and Solutions",
     "Attachments/Pasted image 20240604225112.png",
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
     "Attachments/Pasted image 20240604220833.png",
     "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
