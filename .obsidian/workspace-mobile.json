@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Development/game dev/Journey to Full time Game Dev Land.md",
+            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Development/game dev/Journey to Full time Game Dev Land.md"
+            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
           }
         }
       }
@@ -146,51 +146,51 @@
   },
   "active": "7685b0dc0a036e86",
   "lastOpenFiles": [
-    "/Development/game dev/Journey to Full time Game Dev Land.md",
     "Development/game dev/Journey to Full time Game Dev Land.md",
-    "Development/G6/快速上手.md",
-    "Excalidraw/Drawing 2024-05-11 17.43.59.excalidraw.md",
-    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "GoldBucket/Multi Agent.md",
-    "Development/front end/Node.js",
-    "Development/game dev",
-    "Development/ML & DL",
-    "Development/front end/CSS.md",
-    "Development/ML & DL/GPU Days.md",
-    "Development/front end/Node.js/npm.md",
-    "Development/ML & DL/训练小trick.md",
-    "Machine Learning/Multiplication Times for CNN.md",
-    "Development/front end/DOM.md",
-    "Development/front end/Vue.js/Vite.md",
-    "Development/front end/HTML.md",
-    "Development/huawei晟腾/晟腾平台使用.md",
-    "Development/huawei晟腾",
-    "/Development/ML & DL/训练小trick.md",
-    "/Development/ML & DL/GPU Days.md",
-    "/Machine Learning/Multiplication Times for CNN.md",
-    "/Development/front end/Node.js/npm.md",
-    "/Development/front end/Vue.js/Vite.md",
-    "/Development/front end/HTML.md",
-    "/Development/front end/DOM.md",
-    "/Development/front end/CSS.md",
-    "/Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
-    "/Computer Science/Network/1. 概述/1.3 网络核心.md",
-    "/Development/huawei晟腾/晟腾平台使用.md",
-    "/Development/huawei晟腾",
-    "/Development/game dev",
-    "/Development/front end/Node.js",
-    "/Development/ML & DL",
-    "Attachments/Pasted image 20240504152718.png",
-    "huawei晟腾",
-    "Attachments/Pasted image 20240504155236.png",
-    "Attachments/Pasted image 20240504170132.png",
-    "Attachments/Pasted image 20240504163911.png",
-    "Computer Science/Network/1. 概述",
-    "Attachments/Pasted image 20240504155215.png",
-    "/Attachments/Pasted image 20240504170132.png",
-    "/Attachments/Pasted image 20240504163911.png",
-    "/Attachments/Pasted image 20240504155236.png",
-    "/Attachments/Pasted image 20240504155215.png",
-    "/Attachments/Pasted image 20240504152718.png"
+    "Attachments/0abb132326ae58ea5838ef3564df9e5.jpg",
+    "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+    "Troubles and Solutions",
+    "Attachments/Pasted image 20240516174121.png",
+    "Attachments/Pasted image 20240701152209.png",
+    "Attachments/Pasted image 20240629114558.png",
+    "Attachments/Pasted image 20240530205446.png",
+    "Attachments/Pasted image 20240604220833.png",
+    "Attachments/Pasted image 20240604225112.png",
+    "Attachments/Pasted image 20240629113012.png",
+    "Projects/game dev/Knowedges",
+    "Projects/game dev/1-Build My Own Website",
+    "Projects/game dev/GAME DEV DOC",
+    "Projects/game dev",
+    "Projects",
+    "Projects/game dev/GAME DEV DOC/1-Resources.md",
+    "Troubles and Solutions/Ubuntu系统装Windows10.md",
+    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
+    "Projects/game dev/GAME DEV DOC/0-Game Design Document.md",
+    "Troubles and Solutions/Troubles and Solutions.md",
+    "Projects/game dev/Knowedges/Game Engine.md",
+    "Attachments/Pasted image 20240629125622.png",
+    "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+    "Projects/game dev/GAME DEV DOC/2-Coding.md",
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
+    "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
+    "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL",
+    "Projects/game dev/1-Build My Own Website/Resources",
+    "/Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+    "/Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+    "/Projects/game dev/Knowedges/Game Engine.md",
+    "/Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
+    "/Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
+    "/Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
+    "/Projects/game dev/0-Journey to Full time Game Dev Land.md",
+    "/Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
+    "/Computer Science/Network/1. 概述/1.2 网络边缘.md",
+    "/Computer Science/Network/1. 概述/1.1 Internet.md",
+    "/Troubles and Solutions/Ubuntu系统装Windows10.md",
+    "/Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
+    "/Attachments/Pasted image 20240701152209.png",
+    "/Troubles and Solutions",
+    "/Projects/game dev/Knowedges"
   ]
 }
