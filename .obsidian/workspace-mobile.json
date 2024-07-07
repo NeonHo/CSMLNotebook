@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
+            "file": "README.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   },
   "active": "7685b0dc0a036e86",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Development/game dev/Journey to Full time Game Dev Land.md",
     "Attachments/0abb132326ae58ea5838ef3564df9e5.jpg",
     "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
@@ -188,7 +189,6 @@
     "/Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "/Computer Science/Network/1. 概述/1.1 Internet.md",
     "/Troubles and Solutions/Ubuntu系统装Windows10.md",
-    "/Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
     "/Attachments/Pasted image 20240701152209.png",
     "/Troubles and Solutions",
     "/Projects/game dev/Knowedges"
