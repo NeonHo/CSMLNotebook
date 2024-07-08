@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
+                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md"
               }
             }
           },
@@ -179,8 +178,10 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240701152209.png",
+    "README.md",
+    "Troubles and Solutions/Mac 系统Git 仓库同步.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+    "Attachments/Pasted image 20240701152209.png",
     "Computer Science/Network/概述.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.1 Internet.md",
@@ -215,7 +216,6 @@
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
     "().md",
     "Attachments/Pasted image 20240516174121.png",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
     "Projects/game dev/1-Build My Own Website/Resources",
     "Projects/未命名",
@@ -224,7 +224,6 @@
     "Projects/game dev",
     "Development/ML & DL",
     "Attachments/Pasted image 20240504170132.png",
-    "Attachments/Pasted image 20240504163911.png",
     "未命名.canvas"
   ]
 }
