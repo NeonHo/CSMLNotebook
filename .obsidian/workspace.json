@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
+                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md"
               }
             }
           },
@@ -180,9 +180,9 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240708201225.png",
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "README.md",
     "Attachments/Pasted image 20240701152209.png",
     "Computer Science/Network/概述.md",
@@ -225,7 +225,6 @@
     "Projects",
     "Projects/game dev",
     "Development/ML & DL",
-    "Attachments/Pasted image 20240504170132.png",
     "未命名.canvas"
   ]
 }
