@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubles and Solutions/Mac 系统Git 仓库同步.md"
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "README.md",
     "Troubles and Solutions/Mac 系统Git 仓库同步.md",
+    "README.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240701152209.png",
     "Computer Science/Network/概述.md",
