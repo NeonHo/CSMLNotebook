@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
+                "file": "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
+                "file": "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
+                "file": "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md"
+                "file": "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md"
               }
             }
           },
@@ -179,8 +179,14 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
+    "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
+    "Computer Science/Network/2. 应用层/2.7 CDN.md",
+    "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
+    "Computer Science/Network/2. 应用层/2.5 DNS.md",
+    "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
+    "Computer Science/Network/2. 应用层/2.3 FTP.md",
     "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
-    "Computer Science/Network/2. 应用层/2.3. FTP.md",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/Network/HTTP server.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
@@ -208,15 +214,9 @@
     "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
     "Attachments/Pasted image 20240604220833.png",
-    "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
     "Attachments/0abb132326ae58ea5838ef3564df9e5.jpg",
     "Attachments/Pasted image 20240530205446.png",
-    "Projects/game dev/Knowedges/Game Engine.md",
-    "Projects/game dev/GAME DEV DOC/0-Game Design Document.md",
     "Projects/game dev/Knowedges",
-    "Projects/game dev/GAME DEV DOC/2-Coding.md",
-    "Projects/game dev/GAME DEV DOC/1-Resources.md",
-    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Projects/game dev/GAME DEV DOC",
     "Attachments/Pasted image 20240516174121.png",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
