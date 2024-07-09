@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
+                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
+                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
+                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.8 Internet 历史.md"
+                "file": "Computer Science/Network/2. 应用层/2.3. FTP.md"
               }
             }
           },
@@ -179,12 +179,19 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+    "Computer Science/Network/2. 应用层/2.3. FTP.md",
+    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
+    "Computer Science/Network/HTTP server.md",
+    "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
+    "Computer Science/Network/概述.md",
+    "Computer Science/Network/网络结构.md",
+    "Computer Science/Network/2. 应用层",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240708201225.png",
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
     "README.md",
     "Attachments/Pasted image 20240701152209.png",
-    "Computer Science/Network/概述.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
@@ -192,7 +199,6 @@
     "Attachments/Pasted image 20240629114558.png",
     "Attachments/Pasted image 20240629113012.png",
     "Development/ML & DL/训练小trick.md",
-    "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Troubles and Solutions/Ubuntu系统装Windows10.md",
     "Development/ML & DL/GPU Days.md",
     "Troubles and Solutions/16G的U盘为什么放不下5G大的文件.md",
@@ -212,10 +218,6 @@
     "Projects/game dev/GAME DEV DOC/1-Resources.md",
     "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Projects/game dev/GAME DEV DOC",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
-    "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
-    "Projects/game dev/1-Build My Own Website/Resources/Ghostscript.md",
-    "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
     "Attachments/Pasted image 20240516174121.png",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
     "Projects/game dev/1-Build My Own Website/Resources",
@@ -223,7 +225,6 @@
     "Projects/game dev/1-Build My Own Website",
     "Projects",
     "Projects/game dev",
-    "Development/ML & DL",
     "未命名.canvas"
   ]
 }
