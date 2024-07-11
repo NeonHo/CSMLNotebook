@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "服务器",
+                "query": "SAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -180,8 +179,9 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/CTF/Web/前置技能.md",
     "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/Web",
@@ -199,7 +199,6 @@
     "Computer Science/Network/概述.md",
     "Computer Science/Network/网络结构.md",
     "Computer Science/Network/2. 应用层",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Attachments/Pasted image 20240708201225.png",
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
     "README.md",
