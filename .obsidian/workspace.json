@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Exploit.md",
+                "file": "Computer Science/CTF/Web/前置技能.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Exploit.md",
+                "file": "Computer Science/CTF/Web/前置技能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Exploit.md",
+                "file": "Computer Science/CTF/Web/前置技能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Exploit.md"
+                "file": "Computer Science/CTF/Web/前置技能.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/CTF/Exploit.md",
+    "Computer Science/CTF/Web/前置技能.md",
+    "Computer Science/CTF/Web",
+    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/CTF",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
@@ -213,7 +215,6 @@
     "Troubles and Solutions/Troubles and Solutions.md",
     "Troubles and Solutions",
     "Attachments/Pasted image 20240604225112.png",
-    "Computer Science/Network/1. 概述/1.4. 接入网和物理媒体.md",
     "Attachments/Pasted image 20240604220833.png",
     "Attachments/0abb132326ae58ea5838ef3564df9e5.jpg",
     "Attachments/Pasted image 20240530205446.png",
@@ -224,7 +225,6 @@
     "Projects/game dev/1-Build My Own Website/Resources",
     "Projects/未命名",
     "Projects/game dev/1-Build My Own Website",
-    "Projects",
     "未命名.canvas"
   ]
 }
