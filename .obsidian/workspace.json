@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "服务器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -179,10 +180,11 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/CTF/Web/前置技能.md",
     "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/Web",
-    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/CTF",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
@@ -202,7 +204,6 @@
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
     "README.md",
     "Attachments/Pasted image 20240701152209.png",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.1 Internet.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Attachments/Pasted image 20240629125622.png",
