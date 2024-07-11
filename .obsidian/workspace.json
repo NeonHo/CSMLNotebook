@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/未命名.md",
+                "file": "Computer Science/CTF/Exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/未命名.md",
+                "file": "Computer Science/CTF/Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/未命名.md",
+                "file": "Computer Science/CTF/Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/未命名.md"
+                "file": "Computer Science/CTF/Exploit.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
-    "Computer Science/CTF/未命名.md",
+    "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
