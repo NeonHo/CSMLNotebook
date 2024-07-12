@@ -253,3 +253,78 @@ fetch('http://example.com/old-page')
 
 ### 总结
 HTTP临时重定向允许服务器暂时指示客户端访问一个新的URL而不改变原始请求的URL。302和307是两种常见的临时重定向状态码，它们的主要区别在于是否要求重定向请求保持原始方法和请求体。
+
+
+# Cookie欺骗、认证和伪造
+
+### 1. Cookie基础知识
+**Cookie** 是服务器在客户端（如浏览器）上存储的一小段数据，用于保持会话状态、存储用户偏好、跟踪用户活动等。Cookies包含一个名称-值对，可以设置为在特定时间段内有效。
+
+### 2. Cookie欺骗
+**Cookie欺骗（Cookie Tampering）** 是指恶意用户修改或伪造Cookie，以便冒充合法用户或获取未授权的访问权限。
+
+#### 示例：
+- 攻击者通过拦截并修改Cookie中的值来更改用户身份或权限。例如，将用户ID从`123`改为`456`，以访问其他用户的账户。
+
+### 3. Cookie认证
+**Cookie认证** 是指使用Cookie来验证用户身份。服务器在用户登录时生成一个会话ID（Session ID）并将其存储在Cookie中。每次请求时，浏览器会自动发送该Cookie，以证明用户的身份。
+
+#### 过程：
+1. 用户登录时，服务器生成一个唯一的会话ID，并将其存储在Cookie中。
+2. 客户端在后续请求中自动发送该Cookie，服务器通过检查Cookie中的会话ID来验证用户身份。
+
+### 4. Cookie伪造
+**Cookie伪造（Cookie Forging）** 是指攻击者创建或伪造合法的Cookie，以便冒充合法用户。这通常涉及对Cookie结构和加密机制的深入了解。
+
+#### 示例：
+- 攻击者使用工具或脚本创建一个伪造的会话Cookie，并注入到浏览器中，冒充合法用户访问受保护的资源。
+
+### 如何防范Cookie欺骗和伪造
+
+#### 1. 使用HttpOnly标志
+将Cookie标记为`HttpOnly`，使其无法通过JavaScript访问，减少XSS攻击带来的风险。
+
+```http
+Set-Cookie: sessionId=abc123; HttpOnly
+```
+
+#### 2. 使用Secure标志
+将Cookie标记为`Secure`，确保它只能通过HTTPS连接传输，防止在传输过程中被拦截。
+
+```http
+Set-Cookie: sessionId=abc123; Secure
+```
+
+#### 3. 设置SameSite标志
+使用`SameSite`标志，限制Cookie在跨站请求中的发送，从而防止CSRF攻击。
+
+```http
+Set-Cookie: sessionId=abc123; SameSite=Strict
+```
+
+#### 4. 加密和签名
+对Cookie中的敏感数据进行加密和签名，防止其被篡改。
+
+```javascript
+// 示例：加密和签名Cookie
+const crypto = require('crypto');
+
+function createSignedCookie(value, secret) {
+  const signature = crypto.createHmac('sha256', secret).update(value).digest('hex');
+  return `${value}.${signature}`;
+}
+
+const secret = 'mySecretKey';
+const cookieValue = 'userId=123';
+const signedCookie = createSignedCookie(cookieValue, secret);
+console.log(signedCookie);
+```
+
+#### 5. 定期验证
+服务器应定期验证Cookie中的数据，确保其未被篡改。例如，通过检查Cookie中的签名或加密值来验证其完整性。
+
+### 总结
+- **Cookie欺骗**：通过修改Cookie值来冒充其他用户或提升权限。
+- **Cookie认证**：使用Cookie存储会话ID以验证用户身份。
+- **Cookie伪造**：创建或伪造合法的Cookie以冒充合法用户。
+- **防范措施**：使用HttpOnly、Secure和SameSite标志，实施加密和签名，定期验证Cookie数据。
