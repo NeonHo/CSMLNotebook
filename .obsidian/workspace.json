@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "吞吐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -179,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4bf702b79ba707d",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Attachments/Pasted image 20240711213808.png",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
