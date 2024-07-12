@@ -134,7 +134,7 @@ fetch('https://example.com/resource', {
 - `CONNECT`方法在大多数浏览器的控制台中不常用，更多用于代理服务器。
 - 使用这些示例代码时，请确保URL是实际可用的，并根据实际需求调整请求的内容和处理方式。
 
-# curl工具
+## curl工具
 `curl` 是一个命令行工具，用于通过各种协议（如HTTP、HTTPS、FTP等）传输数据。下面是对这条命令 `curl -v -X GET https://example.com/resource` 的解释：
 
 ### 解释命令
@@ -179,3 +179,73 @@ fetch('https://example.com/resource', {
 
 ### 总结
 这条`curl`命令用于向指定URL（`https://example.com/resource`）发起GET请求，并以详细模式显示请求和响应的全部信息。这对于调试和分析请求非常有帮助。
+# 临时重定向
+HTTP临时重定向是指服务器向客户端（如浏览器）发送一个状态码，指示客户端应临时访问一个不同的URL，而不是原始请求的URL。临时重定向的常见状态码是302和307。以下是对HTTP临时重定向的详细解释：
+
+### 302 Found（临时重定向）
+
+#### 含义
+- 302状态码表示所请求的资源临时地被移动到另一个URL，客户端应继续使用原始请求的URL来进行后续请求。
+- 服务器在响应中包含`Location`头部，指示客户端应访问的新URL。
+
+#### 示例
+假设你请求`http://example.com/old-page`，服务器响应如下：
+
+```
+HTTP/1.1 302 Found
+Location: http://example.com/new-page
+```
+
+浏览器会自动重定向到`http://example.com/new-page`，但用户在将来仍然可以使用`http://example.com/old-page`来访问原始资源。
+
+#### 示例代码（使用curl）
+```sh
+curl -v -X GET http://example.com/old-page
+```
+
+### 307 Temporary Redirect（临时重定向）
+
+#### 含义
+- 307状态码类似于302，但更严格地要求客户端在重定向请求时保持原始请求方法和请求体。
+- 服务器在响应中包含`Location`头部，指示客户端应访问的新URL。
+
+#### 示例
+假设你请求`http://example.com/old-page`，服务器响应如下：
+
+```
+HTTP/1.1 307 Temporary Redirect
+Location: http://example.com/new-page
+```
+
+浏览器会自动重定向到`http://example.com/new-page`，并使用与原始请求相同的方法（例如GET或POST）。
+
+#### 示例代码（使用curl）
+```sh
+curl -v -X GET http://example.com/old-page
+```
+
+### 使用场景
+- **302 Found**：多用于临时重定向，比如当某个资源暂时不可用而需要转移到另一个URL时。浏览器可能会缓存302响应的重定向目标。
+- **307 Temporary Redirect**：更常用于需要确保请求方法不变的场景，例如表单提交的重定向。
+
+### 浏览器行为
+当浏览器收到302或307状态码时，会自动处理重定向并访问新的URL。这对用户是透明的，用户不会注意到中间的重定向过程。
+
+### 示例代码（使用JavaScript的fetch）
+假设你在浏览器控制台中发送一个请求并处理重定向响应：
+
+```javascript
+fetch('http://example.com/old-page')
+  .then(response => {
+    if (response.status === 302 || response.status === 307) {
+      return fetch(response.headers.get('Location'));
+    } else {
+      return response;
+    }
+  })
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
+```
+
+### 总结
+HTTP临时重定向允许服务器暂时指示客户端访问一个新的URL而不改变原始请求的URL。302和307是两种常见的临时重定向状态码，它们的主要区别在于是否要求重定向请求保持原始方法和请求体。
