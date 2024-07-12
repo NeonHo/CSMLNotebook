@@ -135,6 +135,9 @@ fetch('https://example.com/resource', {
 - 使用这些示例代码时，请确保URL是实际可用的，并根据实际需求调整请求的内容和处理方式。
 
 ## curl工具
+
+**curl 命令需要在控制台上进行执行，Safari浏览器不能用。**
+
 `curl` 是一个命令行工具，用于通过各种协议（如HTTP、HTTPS、FTP等）传输数据。下面是对这条命令 `curl -v -X GET https://example.com/resource` 的解释：
 
 ### 解释命令
