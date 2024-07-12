@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+                "file": "Computer Science/CTF/Web/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+                "file": "Computer Science/CTF/Web/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+                "file": "Computer Science/CTF/Web/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md"
+                "file": "Computer Science/CTF/Web/HTTP.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/CTF/Web/前置技能.md",
+    "Computer Science/CTF/Web/HTTP.md",
+    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Attachments/Pasted image 20240712114312.png",
     "Attachments/Pasted image 20240712111640.png",
     "Attachments/Pasted image 20240712110947.png",
@@ -187,14 +190,11 @@
     "Attachments/Pasted image 20240712103654.png",
     "Attachments/Pasted image 20240712102746.png",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Attachments/Pasted image 20240712101750.png",
     "Attachments/Pasted image 20240712101724.png",
-    "Attachments/Pasted image 20240712101541.png",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
-    "Computer Science/CTF/Web/前置技能.md",
     "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
