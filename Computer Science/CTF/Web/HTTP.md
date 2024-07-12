@@ -26,7 +26,7 @@ fetch('https://example.com/flag-endpoint', {
 - 使用`.then()`方法处理响应数据并在控制台中输出。
 
 HTTP/1.1协议中定义了八种方法（动作），分别是GET、HEAD、POST、PUT、DELETE、CONNECT、OPTIONS和TRACE。以下是每种方法在控制台上使用`fetch` API执行的示例代码：
-
+## HTTP 1.1 的 8种请求方式
 ### 1. GET
 用于请求指定资源。
 
