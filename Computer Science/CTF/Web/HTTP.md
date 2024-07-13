@@ -338,3 +338,7 @@ https://zh.wikipedia.org/wiki/HTTP基本认证
 最初，基本认证是定义在HTTP 1.0规范（[RFC 1945](https://tools.ietf.org/html/rfc1945)）中，后续的有关安全的信息可以在HTTP 1.1规范（[RFC 2616](https://tools.ietf.org/html/rfc2616)）和HTTP认证规范（[RFC 2617](https://tools.ietf.org/html/rfc2617)）中找到。于1999年 [RFC 2617](https://tools.ietf.org/html/rfc2617) 过期，于2015年的 [RFC 7617](https://tools.ietf.org/html/rfc7617) 重新被定义。
 
 在[MDN](https://zh.wikipedia.org/wiki/MDN_Web_Docs "MDN Web Docs")网站，已经有对应的维基文章[1](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81#cite_note-1)。
+
+具体题目操作
+首先题目给出了前100个密码，但是没有告诉我们用户名，所以我们需要使用intruder暴力破解
+![[Pasted image 20240713122324.png]]
