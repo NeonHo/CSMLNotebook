@@ -339,7 +339,7 @@ https://zh.wikipedia.org/wiki/HTTP基本认证
 
 在[MDN](https://zh.wikipedia.org/wiki/MDN_Web_Docs "MDN Web Docs")网站，已经有对应的维基文章[1](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81#cite_note-1)。
 
-具体题目操作
+## 具体题目操作
 首先题目给出了前100个密码，但是没有告诉我们用户名，所以我们需要使用intruder暴力破解。
 ![[Pasted image 20240713122324.png]]
 首先我们随便用一个编造名和一个随意的密码试一下：
@@ -362,3 +362,5 @@ Connection: close
 ![[Pasted image 20240713122934.png]]
 解码得到的账户和密码就是我们编的：`ctf:12345`
 所以，我们只需要暴力搜这个Basic后的编码就可以。
+这就需要使用intruder来进行attack。
+具体需要设置四个位置：
