@@ -367,4 +367,6 @@ Connection: close
 
 **第一个是最开始的Host和端口号**
 ![[Pasted image 20240713122324.png]]
-第二个是Position，把GET Message复制进去，并且add position:
+第二个是Position，把GET Message复制进去，并且add position
+![[Pasted image 20240713124112.png]]
+第三个是Payloads
