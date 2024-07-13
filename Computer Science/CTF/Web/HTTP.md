@@ -328,3 +328,13 @@ console.log(signedCookie);
 - **Cookie认证**：使用Cookie存储会话ID以验证用户身份。
 - **Cookie伪造**：创建或伪造合法的Cookie以冒充合法用户。
 - **防范措施**：使用HttpOnly、Secure和SameSite标志，实施加密和签名，定期验证Cookie数据。
+# 基本认证
+https://zh.wikipedia.org/wiki/HTTP基本认证
+
+在[HTTP](https://zh.wikipedia.org/wiki/HTTP "HTTP")中，**基本认证**（英语：Basic access authentication）是允许[http用户代理](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E4%BB%A3%E7%90%86 "用户代理")（如：[网页浏览器](https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8 "网页浏览器")）在请求时，提供 [用户名](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E5%90%8D "用户名") 和 [密码](https://zh.wikipedia.org/wiki/%E5%8F%A3%E4%BB%A4 "密码") 的一种方式。
+
+在进行基本认证的过程里，请求的[HTTP头字段](https://zh.wikipedia.org/wiki/HTTP%E5%A4%B4%E5%AD%97%E6%AE%B5 "HTTP头字段")会包含`Authorization`字段，形式如下： `Authorization: Basic <凭证>`，该凭证是用户和密码的组和的[base64编码](https://zh.wikipedia.org/wiki/Base64 "Base64")。
+
+最初，基本认证是定义在HTTP 1.0规范（[RFC 1945](https://tools.ietf.org/html/rfc1945)）中，后续的有关安全的信息可以在HTTP 1.1规范（[RFC 2616](https://tools.ietf.org/html/rfc2616)）和HTTP认证规范（[RFC 2617](https://tools.ietf.org/html/rfc2617)）中找到。于1999年 [RFC 2617](https://tools.ietf.org/html/rfc2617) 过期，于2015年的 [RFC 7617](https://tools.ietf.org/html/rfc7617) 重新被定义。
+
+在[MDN](https://zh.wikipedia.org/wiki/MDN_Web_Docs "MDN Web Docs")网站，已经有对应的维基文章[1](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81#cite_note-1)。
