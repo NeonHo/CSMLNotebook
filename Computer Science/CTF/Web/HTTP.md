@@ -374,4 +374,6 @@ Connection: close
 第四个是密码前缀：
 ![[Pasted image 20240713124332.png]]
 注意是`admin:`而不是`admin`。
-另外，encode和Prefix的前后顺序绝不能变，否则很有可能先加密再jia
+另外，encode和Prefix的前后顺序绝不能变，否则很有可能先加密再加一个明文`admin:`。
+
+最后点击Start attack按钮，结束后按照status属性排序，找到200状态对应的报文，查看respond即可看到flag。
