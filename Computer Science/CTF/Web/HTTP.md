@@ -358,4 +358,4 @@ Connection: close
 
 
 ```
-其中Author
+其中Authorization后面Basic标示Base编码，`Y3RmOjEyMzQ1`的
