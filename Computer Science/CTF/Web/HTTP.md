@@ -358,4 +358,7 @@ Connection: close
 
 
 ```
-其中Authorization后面Basic标示Base编码，`Y3RmOjEyMzQ1`的
+其中Authorization后面Basic标示Base编码，`Y3RmOjEyMzQ1`就是Base加密的，我们可以将其Convert回来：
+![[Pasted image 20240713122934.png]]
+解码得到的账户和密码就是我们编的：
+ctf:12345
