@@ -340,5 +340,22 @@ https://zh.wikipedia.org/wiki/HTTP基本认证
 在[MDN](https://zh.wikipedia.org/wiki/MDN_Web_Docs "MDN Web Docs")网站，已经有对应的维基文章[1](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81#cite_note-1)。
 
 具体题目操作
-首先题目给出了前100个密码，但是没有告诉我们用户名，所以我们需要使用intruder暴力破解
+首先题目给出了前100个密码，但是没有告诉我们用户名，所以我们需要使用intruder暴力破解。
 ![[Pasted image 20240713122324.png]]
+首先我们随便用一个编造名和一个随意的密码试一下：
+```
+GET /flag.html HTTP/1.1
+Host: challenge-8bfcd162ce5be763.sandbox.ctfhub.com:10800
+Cache-Control: max-age=0
+Authorization: Basic Y3RmOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://challenge-8bfcd162ce5be763.sandbox.ctfhub.com:10800/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+
+```
+其中Author
