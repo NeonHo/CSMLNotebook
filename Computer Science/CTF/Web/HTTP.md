@@ -369,4 +369,9 @@ Connection: close
 ![[Pasted image 20240713122324.png]]
 第二个是Position，把GET Message复制进去，并且add position
 ![[Pasted image 20240713124112.png]]
-第三个是Payloads
+第三个是Payloads，要把暴力破解使用的密码load进去：
+![[Pasted image 20240713124237.png]]
+第四个是密码前缀：
+![[Pasted image 20240713124332.png]]
+注意是`admin:`而不是`admin`。
+另外，encode和Prefix的前后顺序绝不能变，否则很有可能先加密再jia
