@@ -364,3 +364,7 @@ Connection: close
 所以，我们只需要暴力搜这个Basic后的编码就可以。
 这就需要使用intruder来进行attack。
 具体需要设置四个位置：
+
+**第一个是最开始的Host和端口号**
+![[Pasted image 20240713122324.png]]
+第二个是Position，把GET Message复制进去，并且add position:
