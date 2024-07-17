@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
+                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
+                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
+                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md"
+                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md"
               }
             }
           },
@@ -179,7 +179,8 @@
   },
   "active": "2e9b9d0ddc31b27a",
   "lastOpenFiles": [
-    "Computer Science/Network/2. 应用层/2.5 DNS.md",
+    "Computer Science/Network/2. 应用层/2.7 CDN.md",
+    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
@@ -206,7 +207,6 @@
     "Computer Science/CTF",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
-    "Computer Science/Network/2. 应用层/2.7 CDN.md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
     "Computer Science/Network/HTTP server.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
