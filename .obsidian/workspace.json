@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "域名",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS.md",
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS.md"
+                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md"
               }
             }
           },
@@ -179,6 +180,7 @@
   },
   "active": "2e9b9d0ddc31b27a",
   "lastOpenFiles": [
+    "Computer Science/Network/2. 应用层/2.5 DNS.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
     "Attachments/Pasted image 20240716173218.png",
     "Attachments/Pasted image 20240716173048.png",
@@ -207,7 +209,6 @@
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.7 CDN.md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
-    "Computer Science/Network/2. 应用层/2.5 DNS.md",
     "Computer Science/Network/HTTP server.md",
     "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Computer Science/Network/概述.md",
