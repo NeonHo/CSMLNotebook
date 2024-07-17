@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "域名",
+                "query": "URL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/1. 概述/1.2 网络边缘.md"
+                "file": "Computer Science/Network/2. 应用层/2.7 CDN.md"
               }
             }
           },
@@ -181,6 +180,8 @@
   "active": "2e9b9d0ddc31b27a",
   "lastOpenFiles": [
     "Computer Science/Network/2. 应用层/2.5 DNS.md",
+    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
     "Attachments/Pasted image 20240716173218.png",
     "Attachments/Pasted image 20240716173048.png",
@@ -191,7 +192,6 @@
     "Attachments/Pasted image 20240715170943.png",
     "Attachments/Pasted image 20240715165632.png",
     "Computer Science/Network/2. 应用层/2.3 FTP.md",
-    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Attachments/Pasted image 20240715163558.png",
     "Computer Science/CTF/Web/HTTP.md",
     "Attachments/Pasted image 20240713124332.png",
@@ -201,7 +201,6 @@
     "Computer Science/CTF/Web/前置技能.md",
     "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
