@@ -4,3 +4,5 @@ SQL注入漏洞是指攻击者通过浏览器或者其他客户端将恶意SQL�
 - 文件系统操作：列目录，读取、写入文件等。
 - 执行系统命令：远程执行命令。
 
+`--dbs` get the databases
+`-D` specify the database 
