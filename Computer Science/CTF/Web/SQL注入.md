@@ -7,5 +7,7 @@ SQL注入漏洞是指攻击者通过浏览器或者其他客户端将恶意SQL�
 `--dbs` get the databases.
 `-D` specify the database, following:
 - `--tables` get the tables in this database.
-- `-T` specify the table, following `--columns` shows the columns.
-- 
+- `-T` specify the table, following:
+	- `--columns` shows the columns.
+	- `-C` specify the columns, following:
+		- `--dump` print the value
