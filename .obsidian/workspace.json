@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/概述和传输层服务.md"
+                "file": "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md"
               }
             }
           },
@@ -179,8 +179,13 @@
   },
   "active": "2e9b9d0ddc31b27a",
   "lastOpenFiles": [
+    "Computer Science/Network/3. 传输层/3.5 面向连接的传输TCP.md",
+    "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
+    "Computer Science/Network/3. 传输层/3.4 可靠数据传输的原理.md",
+    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
+    "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
-    "Computer Science/Network/3. 传输层/概述和传输层服务.md",
     "Computer Science/Network/3. 传输层",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
@@ -211,13 +216,8 @@
     "Computer Science/Network/2. 应用层/2.3 FTP.md",
     "Computer Science/CTF/Web/HTTP.md",
     "Computer Science/CTF/工具.md",
-    "Computer Science/CTF/Web/前置技能.md",
-    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
-    "Computer Science/Network/HTTP server.md",
-    "Computer Science/Network/1. 概述/1.8 Internet 历史.md",
     "Computer Science/Network/2. 应用层",
     "Troubles and Solutions",
     "Projects/game dev/Knowedges",
