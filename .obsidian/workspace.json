@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e9b9d0ddc31b27a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3d8244692cc0ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md"
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md"
               }
             }
           },
@@ -192,9 +179,9 @@
   },
   "active": "b3d8244692cc0ac7",
   "lastOpenFiles": [
+    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Attachments/Pasted image 20240724113537.png",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
-    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Computer Science/Network/3. 传输层/3.7 TCP拥塞控制.md",
     "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
     "Computer Science/Network/3. 传输层/3.5 面向连接的传输TCP.md",
@@ -225,7 +212,6 @@
     "Attachments/Pasted image 20240717165441.png",
     "Attachments/Pasted image 20240717165235.png",
     "Attachments/Pasted image 20240717165217.png",
-    "Attachments/Pasted image 20240717165017.png",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
     "Computer Science/Network/2. 应用层/2.3 FTP.md",
