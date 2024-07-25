@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cab0617284544d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md"
+                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md"
               }
             }
           },
@@ -177,8 +190,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3d8244692cc0ac7",
+  "active": "cab0617284544d76",
   "lastOpenFiles": [
+    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
@@ -197,7 +211,6 @@
     "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Computer Science/CTF/Web/SQL注入.md",
     "Computer Science/Network/2. 应用层/2.7 CDN.md",
-    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
     "Attachments/Pasted image 20240719094039.png",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
