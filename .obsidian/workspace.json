@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "UDP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,24 +193,26 @@
   },
   "active": "cab0617284544d76",
   "lastOpenFiles": [
+    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
+    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
+    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
+    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
+    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
+    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
     "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
     "Attachments/Pasted image 20240726101130.png",
     "Attachments/Pasted image 20240726092940.png",
     "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
-    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
-    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Attachments/Pasted image 20240724113537.png",
-    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/Network/3. 传输层/3.7 TCP拥塞控制.md",
     "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
     "Computer Science/Network/3. 传输层/3.5 面向连接的传输TCP.md",
     "Computer Science/Network/3. 传输层/3.4 可靠数据传输的原理.md",
-    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
     "Computer Science/Network/3. 传输层",
     "Computer Science/Network/1. 概述/1.3 网络核心.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
     "Computer Science/CTF/Web/SQL注入.md",
     "Computer Science/Network/2. 应用层/2.7 CDN.md",
@@ -225,7 +228,6 @@
     "Attachments/Pasted image 20240717171554.png",
     "Attachments/Pasted image 20240717165504.png",
     "Attachments/Pasted image 20240717165441.png",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
     "Computer Science/Network/2. 应用层/2.3 FTP.md",
     "Computer Science/CTF/Web",
