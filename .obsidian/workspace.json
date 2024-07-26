@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md"
+                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md"
               }
             }
           },
@@ -192,13 +192,13 @@
   },
   "active": "cab0617284544d76",
   "lastOpenFiles": [
+    "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
     "Attachments/Pasted image 20240726101130.png",
     "Attachments/Pasted image 20240726092940.png",
     "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
-    "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
     "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Attachments/Pasted image 20240724113537.png",
     "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
@@ -225,7 +225,6 @@
     "Attachments/Pasted image 20240717171554.png",
     "Attachments/Pasted image 20240717165504.png",
     "Attachments/Pasted image 20240717165441.png",
-    "Attachments/Pasted image 20240717165235.png",
     "Computer Science/Network/1. 概述/1.2 网络边缘.md",
     "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
     "Computer Science/Network/2. 应用层/2.3 FTP.md",
