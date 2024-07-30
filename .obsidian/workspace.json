@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3d8244692cc0ac7",
+            "id": "d4bf702b79ba707d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cab0617284544d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UDP",
+                "query": "TCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md"
+                "file": "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md"
               }
             }
           },
@@ -181,58 +168,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cab0617284544d76",
+  "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
-    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
-    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
-    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
-    "Computer Science/Network/1. 概述/1.6 性能：丢失、延时、吞吐量.md",
-    "Computer Science/Network/1. 概述/1.2 网络边缘.md",
-    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
-    "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
-    "Attachments/Pasted image 20240726101130.png",
-    "Attachments/Pasted image 20240726092940.png",
-    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
-    "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
     "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
-    "Attachments/Pasted image 20240724113537.png",
+    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
+    "Computer Science/Network/2. 应用层/2.7 CDN.md",
+    "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
+    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
+    "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
+    "Computer Science/Network/2. 应用层/2.3 FTP.md",
+    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
+    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
+    "Computer Science/Network/2. 应用层",
+    "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
+    "GoldBucket/如何快速学习一个领域.md",
     "Computer Science/Network/3. 传输层/3.7 TCP拥塞控制.md",
     "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
     "Computer Science/Network/3. 传输层/3.5 面向连接的传输TCP.md",
     "Computer Science/Network/3. 传输层/3.4 可靠数据传输的原理.md",
+    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
+    "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
+    "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Computer Science/Network/3. 传输层",
-    "Computer Science/Network/1. 概述/1.3 网络核心.md",
-    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
-    "Computer Science/CTF/Web/SQL注入.md",
-    "Computer Science/Network/2. 应用层/2.7 CDN.md",
-    "Computer Science/Network/1. 概述/1.5 Internet结构 & ISP.md",
-    "Attachments/Pasted image 20240719094039.png",
-    "Attachments/截屏2024-07-19 上午9.15.38.png",
     "Computer Science/CTF/Web/密码口令.md",
-    "GoldBucket/如何快速学习一个领域.md",
+    "Computer Science/CTF/Web/前置技能.md",
+    "Computer Science/CTF/Web/信息泄露.md",
+    "Computer Science/CTF/Web/SQL注入.md",
+    "Computer Science/CTF/Web/HTTP.md",
+    "Computer Science/CTF/工具.md",
+    "Computer Science/CTF/Web",
+    "Computer Science/CTF/Exploit.md",
+    "Computer Science/CTF",
+    "Attachments/截屏2024-07-19 上午9.15.38.png",
+    "Attachments/Pasted image 20240726101130.png",
+    "Attachments/Pasted image 20240726092940.png",
+    "Attachments/Pasted image 20240724113537.png",
+    "Attachments/Pasted image 20240719094039.png",
     "Attachments/Pasted image 20240717174312.png",
     "Attachments/Pasted image 20240717174246.png",
-    "README.md",
-    "Computer Science/CTF/Web/信息泄露.md",
     "Attachments/Pasted image 20240717171554.png",
     "Attachments/Pasted image 20240717165504.png",
     "Attachments/Pasted image 20240717165441.png",
-    "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
-    "Computer Science/Network/2. 应用层/2.3 FTP.md",
-    "Computer Science/CTF/Web",
-    "Computer Science/CTF",
-    "Computer Science/Network/2. 应用层",
+    "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
     "Troubles and Solutions",
     "Projects/game dev/Knowedges",
     "Projects/game dev/GAME DEV DOC",
