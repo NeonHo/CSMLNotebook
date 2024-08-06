@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/密码.md",
+                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/密码.md",
+                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/密码.md",
+                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/密码.md"
+                "file": "Troubles and Solutions/Kali apt-get 失败问题.md"
               }
             }
           },
@@ -177,11 +177,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Computer Science/CTF/密码.md",
+    "Troubles and Solutions/Kali apt-get 失败问题.md",
     "未命名",
     "Computer Science/CTF/Exploit.md",
-    "Computer Science/CTF/密码.md",
     "Computer Science/CTF/工具.md",
     "Computer Science/CTF/Web/密码口令.md",
     "Computer Science/CTF/Web/SQL注入.md",
@@ -224,7 +225,6 @@
     "Projects/game dev/GAME DEV DOC",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
     "Projects/game dev/1-Build My Own Website/Resources",
-    "Projects/未命名",
     "未命名.canvas"
   ]
 }
