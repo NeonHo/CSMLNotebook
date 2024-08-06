@@ -14,3 +14,4 @@ If it’s missing, add it by editing the `sources.list` file using a text editor
 ```
 sudo nano /etc/apt/sources.list
 ```
+Add the correct repository lines then save the file and exit.
