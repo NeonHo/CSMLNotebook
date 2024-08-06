@@ -6,3 +6,7 @@ Verify your /etc/apt/sources.list file contains the correct entries for Kali Lin
 ```Bash
 cat /etc/apt/sources.list
 ```
+The official Kali Linux repository should look something like this:
+```Shell
+deb https://http.kali.org/kali kali-rolling main contrib non-free
+```
