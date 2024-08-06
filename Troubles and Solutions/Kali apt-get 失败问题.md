@@ -10,3 +10,7 @@ The official Kali Linux repository should look something like this:
 ```Shell
 deb https://http.kali.org/kali kali-rolling main contrib non-free
 ```
+If it’s missing, add it by editing the `sources.list` file using a text editor like Nano:
+```
+sudo nano /etc/apt/sources.list
+```
