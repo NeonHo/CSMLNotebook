@@ -1,1 +1,8 @@
 我们需要微Kali的apt配置文件进行修改。
+https://ultahost.com/knowledge-base/fix-unable-to-locate-package-kali-linux/
+
+Step 4: Check Your Repositories
+Verify your /etc/apt/sources.list file contains the correct entries for Kali Linux repositories:
+```Bash
+cat /etc/apt/sources.list
+```
