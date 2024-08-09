@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
+                "file": "Computer Science/CTF/Web/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
+                "file": "Computer Science/CTF/Web/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubles and Solutions/Kali apt-get 失败问题.md",
+                "file": "Computer Science/CTF/Web/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubles and Solutions/Kali apt-get 失败问题.md"
+                "file": "Computer Science/CTF/Web/Nginx.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
-    "Computer Science/CTF/密码.md",
     "Troubles and Solutions/Kali apt-get 失败问题.md",
+    "Computer Science/CTF/Web/Nginx.md",
+    "Computer Science/CTF/密码.md",
     "未命名",
     "Computer Science/CTF/Exploit.md",
     "Computer Science/CTF/工具.md",
@@ -206,7 +207,6 @@
     "Computer Science/Network/3. 传输层/3.2 多路复用 & 解复用.md",
     "Computer Science/Network/3. 传输层/3.1 概述和传输层服务.md",
     "Computer Science/Network/3. 传输层",
-    "Computer Science/CTF/Web/前置技能.md",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
