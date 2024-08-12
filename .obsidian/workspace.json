@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Web/萌新Web23.md",
+                "file": "Computer Science/CTF/Web/Web入门.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web/萌新Web23.md",
+                "file": "Computer Science/CTF/Web/Web入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web/萌新Web23.md",
+                "file": "Computer Science/CTF/Web/Web入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web/萌新Web23.md"
+                "file": "Computer Science/CTF/Web/Web入门.md"
               }
             }
           },
@@ -178,9 +178,16 @@
   },
   "active": "d4bf702b79ba707d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240812173754.png",
+    "Attachments/Pasted image 20240812173730.png",
+    "Attachments/Pasted image 20240812172744.png",
+    "Attachments/Pasted image 20240812171742.png",
+    "Attachments/Pasted image 20240812171721.png",
+    "Attachments/Pasted image 20240812171512.png",
+    "Computer Science/CTF/Web/萌新Web23.md",
+    "Computer Science/CTF/Web/Web入门.md",
     "Attachments/Pasted image 20240810211637.png",
     "Computer Science/CTF/Web/Nginx.md",
-    "Computer Science/CTF/Web/萌新Web23.md",
     "Troubles and Solutions/Kali apt-get 失败问题.md",
     "Computer Science/CTF/密码.md",
     "未命名",
@@ -205,7 +212,6 @@
     "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
     "Computer Science/Network/3. 传输层/3.5 面向连接的传输TCP.md",
     "Computer Science/Network/3. 传输层/3.4 可靠数据传输的原理.md",
-    "Computer Science/Network/3. 传输层/3.3 无连接传输UDP.md",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
@@ -213,12 +219,6 @@
     "Attachments/Pasted image 20240726101130.png",
     "Attachments/Pasted image 20240726092940.png",
     "Attachments/Pasted image 20240724113537.png",
-    "Attachments/Pasted image 20240719094039.png",
-    "Attachments/Pasted image 20240717174312.png",
-    "Attachments/Pasted image 20240717174246.png",
-    "Attachments/Pasted image 20240717171554.png",
-    "Attachments/Pasted image 20240717165504.png",
-    "Attachments/Pasted image 20240717165441.png",
     "Troubles and Solutions",
     "Projects/game dev/Knowedges",
     "Projects/game dev/GAME DEV DOC",
