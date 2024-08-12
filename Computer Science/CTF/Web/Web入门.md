@@ -46,3 +46,37 @@ http://t.csdnimg.cn/2HdOt
 ![[Pasted image 20240812213911.png]]
 
 ![[Pasted image 20240812213704.png]]
+# Web 9
+![[Pasted image 20240813064803.png]]
+[[信息泄露#5. vim缓存]]
+# Web 10
+![[Pasted image 20240813065957.png]]
+本题目是让答题者了解到cookie，cookie一般用于在身份认证的过程中保存一些信息，用于服务器来验证身份,在测试中可以尝试注入等方式。可以使用burp/F12中的网络来查看
+burp-suit will tell us.
+![[Pasted image 20240813070144.png]]
+
+# Web 11
+
+![[Pasted image 20240813071532.png]]
+
+## `nslookup`
+查询域名解析地址 基本格式：`nslookup host [server]`
+
+查询域名的指定解析类型的解析记录 基本格式：`nslookup -type=type host [server]`
+
+查询全部 基本格式：`nslookup -query=any host [server]`
+
+编辑`nslookup -query=any flag.ctfshow.com`
+```Powershell
+C:\Users\xxx>nslookup -query=any flag.ctfshow.com 服务器: public-dns-a.baidu.com Address: 180.76.76.76 非权威应答: flag.ctfshow.com text = "flag{just_seesee}"
+```
+
+# Web 12
+![[Pasted image 20240813072758.png]]
+登陆位置
+![[Pasted image 20240813073113.png]]
+用户名
+admin
+密码：
+![[Pasted image 20240813073037.png]]
+# Web 13
