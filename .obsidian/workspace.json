@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Web/Web入门.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web/Web入门.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web/Web入门.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web/Web入门.md"
+                "file": "Computer Science/CTF/Web入门/爆破.md"
               }
             }
           },
@@ -178,20 +178,22 @@
   },
   "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240813073113.png",
-    "Attachments/Pasted image 20240813073037.png",
-    "Attachments/Pasted image 20240813072758.png",
-    "Attachments/Pasted image 20240813071532.png",
-    "Attachments/Pasted image 20240813070144.png",
-    "Attachments/Pasted image 20240813065957.png",
-    "Attachments/Pasted image 20240813065904.png",
-    "Attachments/Pasted image 20240813065844.png",
+    "Attachments/Pasted image 20240818084659.png",
+    "Attachments/Pasted image 20240818084557.png",
+    "Attachments/Pasted image 20240818084259.png",
+    "Attachments/Pasted image 20240818083949.png",
+    "Computer Science/CTF/Web入门/信息搜集.md",
+    "Attachments/Pasted image 20240813221152.png",
+    "Attachments/Pasted image 20240813221002.png",
+    "Attachments/Pasted image 20240813220752.png",
+    "Attachments/Pasted image 20240813220702.png",
+    "Attachments/Pasted image 20240813220253.png",
+    "Attachments/Pasted image 20240813215800.png",
+    "Attachments/Pasted image 20240813215551.png",
+    "Computer Science/CTF/Web入门/爆破.md",
+    "Computer Science/CTF/Web入门",
     "Computer Science/CTF/Web/HTTP.md",
     "Computer Science/CTF/Web/信息泄露.md",
-    "Computer Science/CTF/Web/Web入门.md",
-    "Attachments/Pasted image 20240813064803.png",
-    "Attachments/Pasted image 20240812213937.png",
-    "Attachments/Pasted image 20240812213911.png",
     "Computer Science/CTF/Web/萌新Web23.md",
     "Computer Science/CTF/Web/Nginx.md",
     "Troubles and Solutions/Kali apt-get 失败问题.md",
@@ -215,7 +217,6 @@
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
     "GoldBucket/如何快速学习一个领域.md",
     "Computer Science/Network/3. 传输层/3.7 TCP拥塞控制.md",
-    "Computer Science/Network/3. 传输层/3.6 拥塞控制原理.md",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
@@ -223,7 +224,6 @@
     "Projects/game dev/Knowedges",
     "Projects/game dev/GAME DEV DOC",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
-    "Projects/game dev/1-Build My Own Website/Resources",
     "未命名.canvas"
   ]
 }
