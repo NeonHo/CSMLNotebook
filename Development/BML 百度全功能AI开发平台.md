@@ -37,3 +37,12 @@ Add annotation
 - 批量标注按钮一定要找到
 ![[Pasted image 20240819162744.png]]
 ![[Pasted image 20240819162838.png]]
+
+Fine-tune pretrained model.
+
+If we close the validation and testing set switch, the platform will automatically split your training set.
+
+不平衡优化：imbalance adjustment.
+增量训练：continue on the existing checkpoint.
+智能归因：locate the reason for training effects.
+
