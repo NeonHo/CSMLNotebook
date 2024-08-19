@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/papers/NLP/大模型开发新范式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/papers/NLP/大模型开发新范式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/papers/NLP/大模型开发新范式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md"
+                "file": "Machine Learning/papers/NLP/大模型开发新范式.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
+    "Machine Learning/papers/NLP/token.md",
+    "Machine Learning/papers/NLP/大模型开发新范式.md",
+    "Computer Science/CTF/Web入门/爆破.md",
     "Attachments/Pasted image 20240818084659.png",
     "Attachments/Pasted image 20240818084557.png",
     "Attachments/Pasted image 20240818084259.png",
@@ -189,8 +192,6 @@
     "Attachments/Pasted image 20240813220702.png",
     "Attachments/Pasted image 20240813220253.png",
     "Attachments/Pasted image 20240813215800.png",
-    "Attachments/Pasted image 20240813215551.png",
-    "Computer Science/CTF/Web入门/爆破.md",
     "Computer Science/CTF/Web入门",
     "Computer Science/CTF/Web/HTTP.md",
     "Computer Science/CTF/Web/信息泄露.md",
@@ -216,7 +217,6 @@
     "Computer Science/Network/2. 应用层",
     "Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
     "GoldBucket/如何快速学习一个领域.md",
-    "Computer Science/Network/3. 传输层/3.7 TCP拥塞控制.md",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
