@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/CNN.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/CNN.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/CNN.md",
+                "file": "Computer Science/CTF/Web入门/爆破.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/CNN.md"
+                "file": "Computer Science/CTF/Web入门/爆破.md"
               }
             }
           },
@@ -176,10 +176,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "b869f077d9d1c09f",
   "lastOpenFiles": [
-    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
+    "Machine Learning/Deep Learning/Object Detection.md",
     "Machine Learning/Deep Learning/CNN.md",
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
     "Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
     "Machine Learning/Basic Items/Observations.md",
     "Machine Learning/Basic Items/NMS Hand writing.md",
@@ -215,7 +216,6 @@
     "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
     "Computer Science/Network/2. 应用层/2.7 CDN.md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
-    "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
