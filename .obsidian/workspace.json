@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce36d2f9f23f7a28",
+        "id": "04604ef437c80e85",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bf702b79ba707d",
+            "id": "b869f077d9d1c09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/Deep Learning/CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/Deep Learning/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Machine Learning/Deep Learning/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md"
+                "file": "Machine Learning/Deep Learning/CNN.md"
               }
             }
           },
@@ -176,8 +176,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d4bf702b79ba707d",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
+    "Machine Learning/Deep Learning/CNN.md",
+    "Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
+    "Machine Learning/Basic Items/Observations.md",
+    "Machine Learning/Basic Items/NMS Hand writing.md",
+    "Computer Science/CTF/Web入门/爆破.md",
     "Attachments/Pasted image 20240819215011.png",
     "Attachments/Pasted image 20240819214946.png",
     "Attachments/Pasted image 20240819212928.png",
@@ -190,9 +196,7 @@
     "Attachments/Pasted image 20240819162744.png",
     "Machine Learning/papers/NLP/大模型开发新范式.md",
     "Machine Learning/papers/NLP/token.md",
-    "Computer Science/CTF/Web入门/爆破.md",
     "Attachments/Pasted image 20240818084659.png",
-    "Attachments/Pasted image 20240818084557.png",
     "Computer Science/CTF/Web入门/信息搜集.md",
     "Computer Science/CTF/Web入门",
     "Computer Science/CTF/Web/HTTP.md",
@@ -212,10 +216,6 @@
     "Computer Science/Network/2. 应用层/2.7 CDN.md",
     "Computer Science/Network/2. 应用层/2.6 P2P应用.md",
     "Computer Science/Network/2. 应用层/2.5 DNS (Domain Name System).md",
-    "Computer Science/Network/2. 应用层/2.4 Email SMTP POP3 IMAP.md",
-    "Computer Science/Network/2. 应用层/2.3 FTP.md",
-    "Computer Science/Network/2. 应用层/2.2 Web & HTTP.md",
-    "Computer Science/Network/2. 应用层/2.1 应用层协议原理.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
