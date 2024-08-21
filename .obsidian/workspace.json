@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Computer Science/CTF/Web入门/命令执行.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "YOLO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Computer Science/CTF/Web入门/命令执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md",
+                "file": "Computer Science/CTF/Web入门/命令执行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web入门/爆破.md"
+                "file": "Computer Science/CTF/Web入门/命令执行.md"
               }
             }
           },
@@ -177,19 +176,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b869f077d9d1c09f",
+  "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
     "Computer Science/CTF/Web入门/爆破.md",
+    "Computer Science/CTF/Web入门/命令执行.md",
+    "Attachments/Pasted image 20240821114450.png",
+    "Attachments/Pasted image 20240821114400.png",
+    "Attachments/Pasted image 20240821114315.png",
+    "Attachments/Pasted image 20240821114248.png",
+    "Machine Learning/Deep Learning/YOLO.md",
+    "Machine Learning/Deep Learning/R-CNN.md",
+    "Machine Learning/Deep Learning/Selective Search.md",
+    "Attachments/Pasted image 20240821093552.png",
+    "Attachments/Pasted image 20240821093534.png",
+    "Attachments/Pasted image 20240821093519.png",
     "Attachments/Pasted image 20240821091228.png",
     "Attachments/Pasted image 20240821091124.png",
     "Attachments/Pasted image 20240821090832.png",
-    "Attachments/Pasted image 20240821085950.png",
-    "Attachments/Pasted image 20240821085802.png",
-    "Attachments/Pasted image 20240821085558.png",
-    "Attachments/Pasted image 20240821085334.png",
-    "Attachments/Pasted image 20240821085219.png",
-    "Attachments/Pasted image 20240821085137.png",
-    "Attachments/Pasted image 20240821085034.png",
     "Machine Learning/Deep Learning/Object Detection.md",
     "Machine Learning/Deep Learning/CNN.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
@@ -213,9 +216,6 @@
     "Computer Science/CTF/Web/密码口令.md",
     "Computer Science/CTF/Web/SQL注入.md",
     "Computer Science/Network/1. 概述/1.7 协议层次 & 服务模型.md",
-    "Computer Science/Network/2. 应用层/2.9 UDP Socket 编程.md",
-    "Computer Science/Network/2. 应用层/2.8 TCP Socket 编程.md",
-    "Computer Science/Network/2. 应用层/2.7 CDN.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
