@@ -176,10 +176,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a148b6e7d89eaf70",
+  "active": "b869f077d9d1c09f",
   "lastOpenFiles": [
-    "Computer Science/CTF/Web入门/2-爆破.md",
+    "Attachments/Pasted image 20240822092155.png",
+    "Attachments/Pasted image 20240822091817.png",
+    "Machine Learning/Deep Learning/图像分割/实例分割/实例分割.md",
+    "Machine Learning/Deep Learning/图像分割/标注形式.md",
+    "Machine Learning/Deep Learning/图像分割/语义分割/语义分割.md",
     "Computer Science/CTF/Web入门/3-命令执行.md",
+    "Machine Learning/Deep Learning/图像分割/实例分割",
+    "Machine Learning/Deep Learning/图像分割/语义分割",
+    "Machine Learning/Deep Learning/图像分割.md",
+    "Machine Learning/Deep Learning/图像分割",
+    "Computer Science/CTF/Web入门/2-爆破.md",
     "Attachments/Pasted image 20240821161455.png",
     "Attachments/Pasted image 20240821161009.png",
     "Computer Science/CTF/Web入门/1-信息搜集.md",
@@ -193,7 +202,6 @@
     "Machine Learning/Deep Learning/YOLO.md",
     "Machine Learning/Deep Learning/R-CNN.md",
     "Machine Learning/Deep Learning/Selective Search.md",
-    "Attachments/Pasted image 20240821093552.png",
     "Machine Learning/Deep Learning/Object Detection.md",
     "Machine Learning/Deep Learning/CNN.md",
     "Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
@@ -211,18 +219,11 @@
     "Troubles and Solutions/Kali apt-get 失败问题.md",
     "Computer Science/CTF/密码.md",
     "未命名",
-    "Computer Science/CTF/Exploit.md",
-    "Computer Science/CTF/工具.md",
-    "Computer Science/CTF/Web/密码口令.md",
-    "Computer Science/CTF/Web/SQL注入.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
     "Computer Science/CTF",
     "Troubles and Solutions",
-    "Projects/game dev/Knowedges",
-    "Projects/game dev/GAME DEV DOC",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL",
     "未命名.canvas"
   ]
 }
