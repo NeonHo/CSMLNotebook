@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04604ef437c80e85",
+        "id": "456cc24c86969cde",
         "type": "tabs",
         "children": [
           {
-            "id": "b869f077d9d1c09f",
+            "id": "9f3056ac65583f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "YOLO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -176,29 +178,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b869f077d9d1c09f",
+  "active": "9f3056ac65583f21",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240822092155.png",
-    "Attachments/Pasted image 20240822091817.png",
+    "Attachments/Pasted image 20240824213038.png",
+    "Attachments/Pasted image 20240824213034.png",
+    "Attachments/Pasted image 20240824212907.png",
+    "Attachments/Pasted image 20240824204216.png",
+    "Attachments/Pasted image 20240824202937.png",
+    "Attachments/Pasted image 20240824202537.png",
+    "Attachments/Pasted image 20240824202436.png",
+    "Attachments/Pasted image 20240824202246.png",
+    "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
+    "Computer Science/CTF/Web入门/3-命令执行.md",
+    "Attachments/Pasted image 20240824201251.png",
+    "Attachments/Pasted image 20240824195628.png",
+    "Attachments/Pasted image 20240824195533.png",
     "Machine Learning/Deep Learning/图像分割/实例分割/实例分割.md",
     "Machine Learning/Deep Learning/图像分割/标注形式.md",
     "Machine Learning/Deep Learning/图像分割/语义分割/语义分割.md",
-    "Computer Science/CTF/Web入门/3-命令执行.md",
     "Machine Learning/Deep Learning/图像分割/实例分割",
     "Machine Learning/Deep Learning/图像分割/语义分割",
     "Machine Learning/Deep Learning/图像分割.md",
     "Machine Learning/Deep Learning/图像分割",
     "Computer Science/CTF/Web入门/2-爆破.md",
-    "Attachments/Pasted image 20240821161455.png",
-    "Attachments/Pasted image 20240821161009.png",
     "Computer Science/CTF/Web入门/1-信息搜集.md",
-    "Attachments/Pasted image 20240821160130.png",
-    "Attachments/Pasted image 20240821155629.png",
-    "Attachments/Pasted image 20240821155539.png",
-    "Attachments/Pasted image 20240821114450.png",
-    "Attachments/Pasted image 20240821114400.png",
-    "Attachments/Pasted image 20240821114315.png",
-    "Attachments/Pasted image 20240821114248.png",
     "Machine Learning/Deep Learning/YOLO.md",
     "Machine Learning/Deep Learning/R-CNN.md",
     "Machine Learning/Deep Learning/Selective Search.md",
@@ -217,7 +220,6 @@
     "Computer Science/CTF/Web/萌新Web23.md",
     "Computer Science/CTF/Web/Nginx.md",
     "Troubles and Solutions/Kali apt-get 失败问题.md",
-    "Computer Science/CTF/密码.md",
     "未命名",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
