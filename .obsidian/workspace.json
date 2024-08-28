@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7085ed9695662744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/云平台运维/容器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/Web入门/3-命令执行.md",
+                "file": "Development/云平台运维/容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/CTF/Web入门/3-命令执行.md",
+                "file": "Development/云平台运维/容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/Web入门/3-命令执行.md"
+                "file": "Development/云平台运维/容器.md"
               }
             }
           },
@@ -178,8 +190,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9f3056ac65583f21",
+  "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240828112917.png",
+    "Attachments/Pasted image 20240828112538.png",
+    "Computer Science/CTF/Web入门/3-命令执行.md",
+    "Development/云平台运维/容器.md",
+    "Development/云平台运维",
     "Attachments/Pasted image 20240824213038.png",
     "Attachments/Pasted image 20240824213034.png",
     "Attachments/Pasted image 20240824212907.png",
@@ -189,10 +206,7 @@
     "Attachments/Pasted image 20240824202436.png",
     "Attachments/Pasted image 20240824202246.png",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
-    "Computer Science/CTF/Web入门/3-命令执行.md",
     "Attachments/Pasted image 20240824201251.png",
-    "Attachments/Pasted image 20240824195628.png",
-    "Attachments/Pasted image 20240824195533.png",
     "Machine Learning/Deep Learning/图像分割/实例分割/实例分割.md",
     "Machine Learning/Deep Learning/图像分割/标注形式.md",
     "Machine Learning/Deep Learning/图像分割/语义分割/语义分割.md",
@@ -219,8 +233,6 @@
     "Computer Science/CTF/Web/信息泄露.md",
     "Computer Science/CTF/Web/萌新Web23.md",
     "Computer Science/CTF/Web/Nginx.md",
-    "Troubles and Solutions/Kali apt-get 失败问题.md",
-    "未命名",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
