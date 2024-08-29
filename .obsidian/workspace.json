@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f3056ac65583f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/CTF/Web入门/3-命令执行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7085ed9695662744",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/云平台运维/容器.md",
+                "file": "Development/云平台运维/容器编排.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/云平台运维/容器.md",
+                "file": "Development/云平台运维/容器编排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/云平台运维/容器.md",
+                "file": "Development/云平台运维/容器编排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/云平台运维/容器.md"
+                "file": "Development/云平台运维/容器编排.md"
               }
             }
           },
@@ -192,21 +178,22 @@
   },
   "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240829173104.png",
+    "Attachments/Pasted image 20240829165150.png",
+    "Development/云平台运维/容器.md",
+    "Development/云平台运维/容器编排.md",
+    "Attachments/Pasted image 20240828165459.png",
+    "Attachments/Pasted image 20240828165442.png",
+    "Attachments/Pasted image 20240828165130.png",
+    "Computer Science/CTF/Web入门/3-命令执行.md",
+    "Attachments/Pasted image 20240828145756.png",
+    "Attachments/Pasted image 20240828144333.png",
     "Attachments/Pasted image 20240828112917.png",
     "Attachments/Pasted image 20240828112538.png",
-    "Computer Science/CTF/Web入门/3-命令执行.md",
-    "Development/云平台运维/容器.md",
     "Development/云平台运维",
     "Attachments/Pasted image 20240824213038.png",
     "Attachments/Pasted image 20240824213034.png",
-    "Attachments/Pasted image 20240824212907.png",
-    "Attachments/Pasted image 20240824204216.png",
-    "Attachments/Pasted image 20240824202937.png",
-    "Attachments/Pasted image 20240824202537.png",
-    "Attachments/Pasted image 20240824202436.png",
-    "Attachments/Pasted image 20240824202246.png",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
-    "Attachments/Pasted image 20240824201251.png",
     "Machine Learning/Deep Learning/图像分割/实例分割/实例分割.md",
     "Machine Learning/Deep Learning/图像分割/标注形式.md",
     "Machine Learning/Deep Learning/图像分割/语义分割/语义分割.md",
@@ -232,7 +219,6 @@
     "Computer Science/CTF/Web/HTTP.md",
     "Computer Science/CTF/Web/信息泄露.md",
     "Computer Science/CTF/Web/萌新Web23.md",
-    "Computer Science/CTF/Web/Nginx.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "Computer Science/CTF/Web",
