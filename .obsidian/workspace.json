@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/云平台运维/容器编排.md",
+                "file": "CTF/Web入门/3-命令执行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/云平台运维/容器编排.md",
+                "file": "CTF/Web入门/3-命令执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/云平台运维/容器编排.md",
+                "file": "CTF/Web入门/3-命令执行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/云平台运维/容器编排.md"
+                "file": "CTF/Web入门/3-命令执行.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240903105234.png",
+    "Development/云平台运维/华为CCE.md",
+    "Development/云平台运维/容器编排.md",
     "Attachments/Pasted image 20240831151155.png",
     "Attachments/Pasted image 20240831151128.png",
     "Attachments/Pasted image 20240831145403.png",
-    "Development/云平台运维/华为CCE.md",
-    "Development/云平台运维/容器编排.md",
     "Attachments/Pasted image 20240831120100.png",
     "Attachments/Pasted image 20240831115948.png",
     "Attachments/Pasted image 20240831114618.png",
@@ -190,9 +191,8 @@
     "Attachments/Pasted image 20240831113601.png",
     "Attachments/Pasted image 20240831113541.png",
     "Attachments/Pasted image 20240831113310.png",
-    "Attachments/Pasted image 20240831113136.png",
     "Development/云平台运维/容器.md",
-    "Computer Science/CTF/Web入门/3-命令执行.md",
+    "CTF/Web入门/3-命令执行.md",
     "Development/云平台运维",
     "Projects/game dev/1-Build My Own Website/Resources/Apache2.md",
     "Machine Learning/Deep Learning/图像分割/实例分割/实例分割.md",
@@ -202,8 +202,8 @@
     "Machine Learning/Deep Learning/图像分割/语义分割",
     "Machine Learning/Deep Learning/图像分割.md",
     "Machine Learning/Deep Learning/图像分割",
-    "Computer Science/CTF/Web入门/2-爆破.md",
-    "Computer Science/CTF/Web入门/1-信息搜集.md",
+    "CTF/Web入门/2-爆破.md",
+    "CTF/Web入门/1-信息搜集.md",
     "Machine Learning/Deep Learning/YOLO.md",
     "Machine Learning/Deep Learning/R-CNN.md",
     "Machine Learning/Deep Learning/Selective Search.md",
@@ -216,13 +216,13 @@
     "Development/BML 百度全功能AI开发平台.md",
     "Machine Learning/papers/NLP/大模型开发新范式.md",
     "Machine Learning/papers/NLP/token.md",
-    "Computer Science/CTF/Web入门",
-    "Computer Science/CTF/Web/HTTP.md",
-    "Computer Science/CTF/Web/信息泄露.md",
+    "CTF/Web入门",
+    "CTF/Web/HTTP.md",
+    "CTF/Web/信息泄露.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
-    "Computer Science/CTF/Web",
-    "Computer Science/CTF",
+    "CTF/Web",
+    "CTF",
     "Troubles and Solutions",
     "未命名.canvas"
   ]
