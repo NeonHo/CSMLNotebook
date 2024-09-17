@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "isset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,6 +178,9 @@
   },
   "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240918073559.png",
+    "CTF/Web入门/2-爆破.md",
+    "CTF/Web入门/3-命令执行.md",
     "Attachments/Pasted image 20240918071452.png",
     "Attachments/Pasted image 20240918070719.png",
     "Attachments/Pasted image 20240917070656.png",
@@ -186,12 +189,9 @@
     "Attachments/Pasted image 20240916233434.png",
     "Attachments/Pasted image 20240915203916.png",
     "Attachments/Pasted image 20240915203903.png",
-    "CTF/Web入门/2-爆破.md",
     "CTF/Web入门/1-信息搜集.md",
-    "CTF/Web入门/3-命令执行.md",
     "Attachments/Pasted image 20240915203404.png",
     "Attachments/Pasted image 20240915202751.png",
-    "Attachments/Pasted image 20240915115445.png",
     "Development/云平台运维/华为CCE.md",
     "Development/云平台运维/容器编排.md",
     "Development/云平台运维/容器.md",
