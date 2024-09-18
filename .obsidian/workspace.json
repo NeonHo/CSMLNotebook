@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -178,6 +179,10 @@
   },
   "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240918220651.png",
+    "Attachments/Pasted image 20240918220306.png",
+    "Attachments/Pasted image 20240918220137.png",
+    "Attachments/Pasted image 20240918215527.png",
     "Attachments/Pasted image 20240918073559.png",
     "CTF/Web入门/2-爆破.md",
     "CTF/Web入门/3-命令执行.md",
@@ -187,11 +192,7 @@
     "Attachments/Pasted image 20240917070620.png",
     "Attachments/Pasted image 20240916233650.png",
     "Attachments/Pasted image 20240916233434.png",
-    "Attachments/Pasted image 20240915203916.png",
-    "Attachments/Pasted image 20240915203903.png",
     "CTF/Web入门/1-信息搜集.md",
-    "Attachments/Pasted image 20240915203404.png",
-    "Attachments/Pasted image 20240915202751.png",
     "Development/云平台运维/华为CCE.md",
     "Development/云平台运维/容器编排.md",
     "Development/云平台运维/容器.md",
