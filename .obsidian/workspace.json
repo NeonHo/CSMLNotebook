@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -179,19 +178,19 @@
   },
   "active": "7085ed9695662744",
   "lastOpenFiles": [
+    "Projects/未命名.md",
+    "Attachments/Pasted image 20241006181708.png",
+    "Attachments/Pasted image 20241006181435.png",
+    "Attachments/Pasted image 20241004200843.png",
+    "Attachments/Pasted image 20241004200416.png",
+    "CTF/Web入门/3-命令执行.md",
     "Attachments/Pasted image 20240926193910.png",
     "Attachments/Pasted image 20240926192610.png",
     "Attachments/Pasted image 20240926192311.png",
     "Attachments/Pasted image 20240926191248.png",
     "Attachments/Pasted image 20240926191100.png",
     "Attachments/Pasted image 20240924222149.png",
-    "Attachments/Pasted image 20240924222049.png",
-    "Attachments/Pasted image 20240924221329.png",
-    "Attachments/Pasted image 20240924221102.png",
-    "Attachments/Pasted image 20240922213235.png",
-    "Attachments/Pasted image 20240922213109.png",
     "CTF/Web入门/2-爆破.md",
-    "CTF/Web入门/3-命令执行.md",
     "CTF/Web入门/1-信息搜集.md",
     "Development/云平台运维/华为CCE.md",
     "Development/云平台运维/容器编排.md",
@@ -219,7 +218,6 @@
     "Machine Learning/papers/NLP/token.md",
     "CTF/Web入门",
     "CTF/Web/HTTP.md",
-    "CTF/Web/信息泄露.md",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "CTF/Web",
