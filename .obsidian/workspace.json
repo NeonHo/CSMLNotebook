@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -215,6 +216,8 @@
   },
   "active": "4991cfcd3e820f41",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241027105738.png",
+    "Attachments/Pasted image 20241027095152.png",
     "Attachments/Pasted image 20241024123904.png",
     "Attachments/Pasted image 20241024123819.png",
     "Attachments/Pasted image 20241024123406.png",
@@ -226,8 +229,6 @@
     "Troubles and Solutions/未命名.md",
     "CTF/Web入门/3-命令执行.md",
     "Attachments/Pasted image 20241008074828.png",
-    "Attachments/Pasted image 20241008074751.png",
-    "Attachments/Pasted image 20241008074348.png",
     "Projects/未命名.md",
     "CTF/Web入门/2-爆破.md",
     "CTF/Web入门/1-信息搜集.md",
