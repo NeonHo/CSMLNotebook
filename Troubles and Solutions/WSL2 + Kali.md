@@ -5,3 +5,5 @@ Bug happens when install Kali Linux.
 username: neon
 password: hnfq150
 ```
+Graphic Frame:
+https://zhuanlan.zhihu.com/p/681824309

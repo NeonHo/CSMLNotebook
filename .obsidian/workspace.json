@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/WSL2 + Kali.md",
+                "file": "Troubles and Solutions/WSL2-Kali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WSL2 + Kali"
+              "title": "WSL2-Kali"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "XML"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "92079a7a158c4f35",
+  "active": "4e3de06f32360c68",
   "lastOpenFiles": [
-    "CTF/Web入门/4-文件包含.md",
+    "Troubles and Solutions/WSL2-Kali.md",
     "Troubles and Solutions/WSL2 + Kali.md",
+    "CTF/Web入门/4-文件包含.md",
     "Attachments/Pasted image 20241110013342.png",
     "Attachments/Pasted image 20241110013228.png",
     "Attachments/Pasted image 20241110013130.png",
