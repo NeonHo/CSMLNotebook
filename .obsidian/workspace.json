@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/WSL2-Kali.md",
+                "file": "Troubles and Solutions/WSL2 + Kali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WSL2-Kali"
+              "title": "WSL2 + Kali"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Web/XML.md",
+                "file": "CTF/Web入门/4-文件包含.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XML"
+              "title": "4-文件包含"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "access.log",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,16 +212,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "92079a7a158c4f35",
   "lastOpenFiles": [
     "Troubles and Solutions/WSL2-Kali.md",
-    "Troubles and Solutions/WSL2 + Kali.md",
     "CTF/Web入门/4-文件包含.md",
+    "Troubles and Solutions/WSL2 + Kali.md",
+    "CTF/Web/XML.md",
     "Attachments/Pasted image 20241110013342.png",
     "Attachments/Pasted image 20241110013228.png",
     "Attachments/Pasted image 20241110013130.png",
     "Attachments/Pasted image 20241110013103.png",
-    "CTF/Web/XML.md",
     "Attachments/0f851469385893.png",
     "Attachments/ffae731dd92c1675acd09c1a16b917fa.png",
     "Attachments/311933150c46bf702bdff45bcbdd16a2.png",
