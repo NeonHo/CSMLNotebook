@@ -9,3 +9,10 @@ Graphic Frame:
 https://zhuanlan.zhihu.com/p/681824309
 
 [Win-Hex](https://www.kali.org/docs/wsl/win-kex/)
+
+To start Win-KeX in Window mode with sound support, run either:
+
+- Inside of Kali WSL: `kex --win -s`
+- On Window’s command prompt: `wsl -d kali-linux kex --win -s`
+
+If it doesn't work, simply use `sudo kex` instead of `kex` seems to work well.
