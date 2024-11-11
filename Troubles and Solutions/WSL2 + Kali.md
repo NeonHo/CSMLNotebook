@@ -15,4 +15,5 @@ To start Win-KeX in Window mode with sound support, run either:
 - Inside of Kali WSL: `kex --win -s`
 - On Window’s command prompt: `wsl -d kali-linux kex --win -s`
 
-If it doesn't work, simply use `sudo kex` instead of `kex` seems to work well.
+==If it doesn't work, simply use `sudo kex` instead of `kex` seems to work well.==
+[reference](https://github.com/microsoft/WSL/discussions/6675)
