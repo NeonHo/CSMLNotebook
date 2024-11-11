@@ -1,5 +1,5 @@
 {
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "Attachments",
@@ -23,6 +23,14 @@
     "QARepVGG\n- ",
     "QARepVGG",
     "UNet",
-    "MetaGPT"
-  ]
+    "MetaGPT",
+    "XXE",
+    "CalDAV",
+    "XACML",
+    "PCDATA",
+    "CDATA",
+    "XXEs",
+    "OOB"
+  ],
+  "showLineNumber": true
 }
