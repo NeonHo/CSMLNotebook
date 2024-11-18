@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Web入门/4-文件包含.md",
+                "file": "GoldBucket/解决问题方法论——基本演绎法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-文件包含"
+              "title": "解决问题方法论——基本演绎法"
             }
           }
         ],
@@ -215,9 +215,9 @@
   },
   "active": "4e3de06f32360c68",
   "lastOpenFiles": [
+    "CTF/Web入门/4-文件包含.md",
     "GoldBucket/解决问题方法论——基本演绎法.md",
     "README.md",
-    "CTF/Web入门/4-文件包含.md",
     "Attachments/Pasted image 20241118211709.png",
     "Attachments/Pasted image 20241115182940.png",
     "Attachments/Pasted image 20241115182745.png",
