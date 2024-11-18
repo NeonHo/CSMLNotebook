@@ -30,7 +30,8 @@
     "PCDATA",
     "CDATA",
     "XXEs",
-    "OOB"
+    "OOB",
+    "Endian"
   ],
   "showLineNumber": true
 }
