@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241118222949.png",
     "Attachments/Pasted image 20241118222803.png",
