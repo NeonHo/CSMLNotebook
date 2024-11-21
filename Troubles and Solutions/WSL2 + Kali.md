@@ -17,3 +17,17 @@ To start Win-KeX in Window mode with sound support, run either:
 
 ==If it doesn't work, simply use `sudo kex` instead of `kex` seems to work well.==
 [reference](https://github.com/microsoft/WSL/discussions/6675)
+
+
+# Install Chrome
+To install Google Chrome from the terminal, get the DEB file using the wget command:
+
+```
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+```
+
+Now you can use dpkg to install Chrome from the downloaded DEB file:
+
+```
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+```

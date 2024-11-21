@@ -35,8 +35,7 @@
               "title": "4-文件包含"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +87,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,13 +212,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "92079a7a158c4f35",
   "lastOpenFiles": [
+    "CTF/Web入门/4-文件包含.md",
     "Attachments/Pasted image 20241118222949.png",
     "Attachments/Pasted image 20241118222803.png",
     "Attachments/Pasted image 20241118222131.png",
     "GoldBucket/方法论.md",
-    "CTF/Web入门/4-文件包含.md",
     "README.md",
     "Attachments/Pasted image 20241118211709.png",
     "Attachments/Pasted image 20241115182940.png",
@@ -229,7 +227,6 @@
     "Attachments/Pasted image 20241112001411.png",
     "Attachments/Pasted image 20241112001350.png",
     "Attachments/Pasted image 20241112001122.png",
-    "Attachments/Pasted image 20241112001047.png",
     "Troubles and Solutions/报销.md",
     "Troubles and Solutions/WSL2 + Kali.md",
     "Troubles and Solutions/WSL2-Kali.md",
