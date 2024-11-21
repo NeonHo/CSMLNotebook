@@ -31,3 +31,8 @@ Now you can use dpkg to install Chrome from the downloaded DEB file:
 ```
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
+
+# Launch Chrome
+```
+google-chrome --no-sandbox
+```
