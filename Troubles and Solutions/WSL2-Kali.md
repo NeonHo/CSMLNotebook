@@ -117,3 +117,12 @@ Run anything like burpsuite, firefox, maltego, zenmap and use it from Windows.
 
 
 
+# `sudo apt update`
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+```
+
+
