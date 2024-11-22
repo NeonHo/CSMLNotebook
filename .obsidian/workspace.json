@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "08548a3fd2f20b23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "4e3de06f32360c68",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "4-文件包含"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "92079a7a158c4f35",
+  "active": "08548a3fd2f20b23",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241121212633.png",
     "Attachments/Pasted image 20241121212552.png",
