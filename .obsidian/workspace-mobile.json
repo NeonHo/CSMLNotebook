@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubles and Solutions/WSL2-Kali.md",
+                "file": "Troubles and Solutions/WSL2 + Kali.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WSL2-Kali"
+              "title": "WSL2 + Kali"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "7685b0dc0a036e86",
   "lastOpenFiles": [
+    "Troubles and Solutions/WSL2-Kali.md",
     "Troubles and Solutions/ThinkPad T480.md",
     "CTF/Web入门/4-文件包含.md",
     "Attachments/Pasted image 20241111213818.png",
@@ -176,7 +177,6 @@
     "GoldBucket/方法论.md",
     "Troubles and Solutions/报销.md",
     "Troubles and Solutions/WSL2 + Kali.md",
-    "Troubles and Solutions/WSL2-Kali.md",
     "/Troubles and Solutions/WSL2 + Kali.md",
     "/Troubles and Solutions/ThinkPad T480.md",
     "/CTF/Web入门/4-文件包含.md",
