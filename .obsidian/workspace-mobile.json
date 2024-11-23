@@ -15,7 +15,7 @@
               "state": {
                 "file": "CTF/Web入门/4-文件包含.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "4-文件包含"
