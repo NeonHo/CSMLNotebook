@@ -490,7 +490,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 - What if `num` is not a string?
 	- `preg_match("/[0-9]/", $num)` will return $0$.
 - If `num` is an array:
-	- ``
+	- `intval()` will return `1` for non-empty arrays.
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
 ## Analysis

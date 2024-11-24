@@ -31,7 +31,8 @@
     "CDATA",
     "XXEs",
     "OOB",
-    "Endian"
+    "Endian",
+    "booleans"
   ],
   "showLineNumber": true
 }
