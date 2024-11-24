@@ -327,7 +327,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 // Output: Match found at position a
 ```
 
-### **Common Use Cases**
+#### **Common Use Cases**
 
 - **Email Validation**
     
@@ -370,7 +370,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
     ```
     
 
-### **Modifiers in Patterns**
+#### **Modifiers in Patterns**
 
 - **`i`**: Case-insensitive matching.
     
@@ -387,7 +387,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
     ```
     
 
-### **Best Practices**
+#### **Best Practices**
 
 - **Escape Special Characters**: Use `preg_quote()` to escape user input that will be used in patterns.
     
@@ -408,7 +408,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 - **Performance Considerations**: Complex regular expressions can be resource-intensive. Optimize patterns when possible.
     
 
-### **Common Pitfalls**
+#### **Common Pitfalls**
 
 - **Not Checking Return Value**: Always check the return value of `preg_match()` for `FALSE` to handle errors.
     
@@ -433,7 +433,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
     ```
     
 
-### **Alternatives**
+#### **Alternatives**
 
 - **`preg_match_all()`**: Returns all matches in an array.
     
@@ -454,7 +454,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
     ```
     
 
-### **Error Handling**
+#### **Error Handling**
 
 - **Preg Error Codes**: Use `preg_last_error()` to check for errors if `preg_match()` returns `FALSE`.
     
@@ -466,7 +466,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
     ```
     
 
-### **References**
+#### **References**
 
 - **PHP Manual - `preg_match()` Function**: [https://www.php.net/manual/en/function.preg-match.php](https://www.php.net/manual/en/function.preg-match.php)
 - **PHP Regular Expressions**: [https://www.php.net/manual/en/book.pcre.php](https://www.php.net/manual/en/book.pcre.php)
@@ -474,7 +474,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 
 ---
 
-### **Summary**
+#### **Summary**
 
 - **`preg_match()`** is a PHP function used to perform regular expression matching on strings.
 - It returns `1` if a match is found, `0` if not, and `FALSE` if an error occurs.
