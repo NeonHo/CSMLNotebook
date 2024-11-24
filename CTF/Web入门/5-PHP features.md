@@ -7,6 +7,8 @@
 - The number can't include `[0-9]`.
 - However, [[#`intval()`]] ensure that `num` holds an integer.
 
+## Research
+(Gather data and understand the context.)
 ### `intval()`
 **`intval()`** is a built-in **PHP function** that **converts a variable to an integer value**. It is commonly used to ensure that a variable holds an integer, especially when dealing with user input or data that might be of mixed types.
 
@@ -194,8 +196,6 @@ echo intval($var, 8);   // Outputs: 34 (interpreted as octal)
 - **`intval()`** is a PHP function used to convert variables to integer values.
 - It handles different data types (strings, floats, booleans, etc.) and provides an optional base parameter for numerical strings.
 - Useful for data validation, sanitization, and ensuring type consistency in mathematical operations.
-## Research
-(Gather data and understand the context.)
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
