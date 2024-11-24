@@ -4,7 +4,7 @@
 ## Observation
 (Identify and clearly define the problem.)
 - This code is waiting for a number, `num`.
-- The string of number held by  can't include `[0-9]`.
+- The string of number held by `num` can't include `[0-9]`.
 - However, [[#`intval()`]] ensure that `num` holds an integer.
 
 ## Research
@@ -487,6 +487,10 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 **Note**: Regular expressions can be complex and powerful. It's important to test your patterns thoroughly to ensure they work as intended and do not introduce security vulnerabilities, especially when dealing with user input.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+- What if `num` is not a string?
+	- `preg_match("/[0-9]/", $num)` will return $0$.
+- If `num` is an array:
+	- ``
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
 ## Analysis
