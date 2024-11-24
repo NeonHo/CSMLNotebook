@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92079a7a158c4f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF/Web入门/4-文件包含.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4-文件包含"
-            }
-          },
-          {
             "id": "4e3de06f32360c68",
             "type": "leaf",
             "state": {
@@ -212,14 +198,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92079a7a158c4f35",
+  "active": "4e3de06f32360c68",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241124104954.png",
+    "Attachments/271872B",
+    "CTF/Web入门/4-文件包含.md",
+    "Attachments/271872B.md",
     "Attachments/Pasted image 20241124104746.png",
     "Attachments/Pasted image 20241124104513.png",
     "Troubles and Solutions/ThinkPad T480.md",
     "Troubles and Solutions/WSL2-Kali.md",
     "Troubles and Solutions/WSL2 + Kali.md",
-    "CTF/Web入门/4-文件包含.md",
     "Attachments/Pasted image 20241121212633.png",
     "Attachments/Pasted image 20241121212552.png",
     "Attachments/Pasted image 20241121212531.png",
@@ -230,7 +219,6 @@
     "Attachments/Pasted image 20241118222131.png",
     "GoldBucket/方法论.md",
     "README.md",
-    "Attachments/Pasted image 20241118211709.png",
     "Troubles and Solutions/报销.md",
     "CTF/Web/XML.md",
     "CTF/Web/Nginx.md",
@@ -253,13 +241,11 @@
     "Machine Learning/Deep Learning/图像分割/语义分割",
     "Machine Learning/Deep Learning/图像分割.md",
     "Machine Learning/Deep Learning/图像分割",
-    "Machine Learning/Deep Learning/YOLO.md",
     "CTF/Web入门",
     "Computer Science/Network/2. 应用层",
     "Computer Science/Network/3. 传输层",
     "CTF/Web",
     "CTF",
-    "Troubles and Solutions",
     "未命名.canvas"
   ]
 }
