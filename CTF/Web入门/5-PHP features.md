@@ -493,6 +493,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 	- `intval()` will return `1` for non-empty arrays.
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+`{URL}/?num[]=7`
 ## Analysis
 (Evaluate the results and interpret the data.)
 ## Conclusion
