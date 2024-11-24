@@ -7,7 +7,6 @@
 - The number can't include `[0-9]`.
 - However, [[#`intval()`]] ensure that `num` holds an integer.
 
-
 ### `intval()`
 **`intval()`** is a built-in **PHP function** that **converts a variable to an integer value**. It is commonly used to ensure that a variable holds an integer, especially when dealing with user input or data that might be of mixed types.
 
