@@ -494,6 +494,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
 `{URL}/?num[]=7`
+![[Pasted image 20241124213252.png]]
 ## Analysis
 (Evaluate the results and interpret the data.)
 ## Conclusion
