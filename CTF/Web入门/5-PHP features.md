@@ -4,7 +4,7 @@
 ## Observation
 (Identify and clearly define the problem.)
 - This code is waiting for a number, `num`.
-- The number can't include `[0-9]`.
+- The string of number held by  can't include `[0-9]`.
 - However, [[#`intval()`]] ensure that `num` holds an integer.
 
 ## Research
