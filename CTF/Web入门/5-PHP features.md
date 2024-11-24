@@ -5,7 +5,7 @@
 (Identify and clearly define the problem.)
 - This code is waiting for a number, `num`.
 - The number can't include `[0-9]`.
-- [[#`intval()`]] ensure that `num` holds an integer.
+- However, [[#`intval()`]] ensure that `num` holds an integer.
 
 
 ### `intval()`
