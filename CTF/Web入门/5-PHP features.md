@@ -196,6 +196,295 @@ echo intval($var, 8);   // Outputs: 34 (interpreted as octal)
 - **`intval()`** is a PHP function used to convert variables to integer values.
 - It handles different data types (strings, floats, booleans, etc.) and provides an optional base parameter for numerical strings.
 - Useful for data validation, sanitization, and ensuring type consistency in mathematical operations.
+
+### `preg_match()`
+**`preg_match()`** is a built-in **PHP function** that performs a regular expression match on a given string. It searches a string for a pattern defined by a regular expression and returns whether or not a match was found, along with the matches themselves if desired.
+
+---
+
+#### **Syntax**
+
+```php
+int preg_match ( string $pattern , string $subject , array &$matches = null , int $flags = 0 , int $offset = 0 )
+```
+
+- **`$pattern`**: The regular expression pattern to search for.
+- **`$subject`**: The input string to search in.
+- **`$matches`** (optional): An array where the results of the search will be stored.
+- **`$flags`** (optional): Modifiers that change the behavior of the function.
+- **`$offset`** (optional): The position in the subject to start searching from.
+
+#### **Description**
+
+- **Purpose**: To perform pattern matching using regular expressions.
+- **Functionality**:
+    - Determines if a pattern exists within a string.
+    - Can extract parts of the string that match the pattern.
+- **Use Cases**:
+    - Validating input formats (emails, phone numbers, etc.).
+    - Extracting substrings based on patterns.
+    - Searching and replacing text.
+
+#### **Parameters**
+
+1. **`$pattern`**:
+    
+    - **Type**: String.
+        
+    - **Description**: The regular expression pattern, enclosed within delimiters (usually `/`), and optional modifiers (e.g., `i` for case-insensitive).
+        
+        ```php
+        $pattern = '/^[a-z]+$/i';
+        ```
+        
+2. **`$subject`**:
+    
+    - **Type**: String.
+    - **Description**: The input string to search for the pattern.
+3. **`&$matches`** (optional):
+    
+    - **Type**: Array.
+    - **Description**: If provided, this array will contain the results of the search.
+        - **`$matches[0]`**: The full match.
+        - **`$matches[1]`, `$matches[2]`, ...**: Subpattern matches.
+4. **`$flags`** (optional):
+    
+    - **Type**: Integer.
+    - **Description**: Flags that modify the behavior.
+        - **`PREG_OFFSET_CAPTURE`**: Returns the offset of the match.
+        - **`PREG_UNMATCHED_AS_NULL`** (PHP 7.2+): Unmatched subpatterns are reported as `null`.
+5. **`$offset`** (optional):
+    
+    - **Type**: Integer.
+    - **Description**: The starting position for the search in the subject string.
+
+#### **Return Values**
+
+- **Type**: Integer.
+- **Possible Values**:
+    - **`1`**: If the pattern matches the subject.
+    - **`0`**: If the pattern does not match.
+    - **`FALSE`**: If an error occurred.
+
+#### **Examples**
+
+##### **Example 1: Basic Usage**
+
+```php
+$pattern = '/php/i';
+$subject = 'I love PHP!';
+if (preg_match($pattern, $subject)) {
+    echo 'Match found!';
+} else {
+    echo 'No match found.';
+}
+// Output: Match found!
+```
+
+##### **Example 2: Extracting Matches**
+
+```php
+$pattern = '/(\d{4})-(\d{2})-(\d{2})/';
+$subject = 'Today is 2023-10-05.';
+if (preg_match($pattern, $subject, $matches)) {
+    echo "Year: " . $matches[1]; // Outputs: Year: 2023
+    echo "Month: " . $matches[2]; // Outputs: Month: 10
+    echo "Day: " . $matches[3];   // Outputs: Day: 05
+}
+```
+
+##### **Example 3: Using Flags**
+
+```php
+$pattern = '/world/';
+$subject = 'Hello world!';
+if (preg_match($pattern, $subject, $matches, PREG_OFFSET_CAPTURE)) {
+    print_r($matches);
+}
+/*
+Output:
+Array
+(
+    [0] => Array
+        (
+            [0] => world
+            [1] => 6
+        )
+)
+*/
+```
+
+##### **Example 4: Starting Search from an Offset**
+
+```php
+$pattern = '/a/';
+$subject = 'Banana';
+if (preg_match($pattern, $subject, $matches, 0, 3)) {
+    echo 'Match found at position ' . $matches[0];
+} else {
+    echo 'No match found.';
+}
+// Output: Match found at position a
+```
+
+### **Common Use Cases**
+
+- **Email Validation**
+    
+    ```php
+    $email = 'user@example.com';
+    if (preg_match('/^[\w\-\.]+@([\w\-]+\.)+[\w\-]{2,4}$/', $email)) {
+        echo 'Valid email address.';
+    } else {
+        echo 'Invalid email address.';
+    }
+    ```
+    
+- **Password Strength Check**
+    
+    ```php
+    $password = 'Passw0rd!';
+    if (preg_match('/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/', $password)) {
+        echo 'Strong password.';
+    } else {
+        echo 'Weak password.';
+    }
+    ```
+    
+- **Extracting URLs from Text**
+    
+    ```php
+    $text = 'Visit https://www.example.com or http://test.com.';
+    $pattern = '/https?:\/\/[\w\-\.]+\.\w+/i';
+    if (preg_match_all($pattern, $text, $matches)) {
+        print_r($matches[0]);
+    }
+    /*
+    Output:
+    Array
+    (
+        [0] => https://www.example.com
+        [1] => http://test.com
+    )
+    */
+    ```
+    
+
+### **Modifiers in Patterns**
+
+- **`i`**: Case-insensitive matching.
+    
+- **`m`**: Multiline mode.
+    
+- **`s`**: Dot matches newline.
+    
+- **`x`**: Allows whitespace and comments in the pattern for readability.
+    
+- **`u`**: Enables UTF-8 mode for Unicode matching.
+    
+    ```php
+    $pattern = '/pattern/i'; // Case-insensitive
+    ```
+    
+
+### **Best Practices**
+
+- **Escape Special Characters**: Use `preg_quote()` to escape user input that will be used in patterns.
+    
+    ```php
+    $userInput = 'Hello. How are you?';
+    $safeInput = preg_quote($userInput, '/');
+    $pattern = '/' . $safeInput . '/';
+    ```
+    
+- **Validate Patterns**: Ensure that the regular expressions are properly formed to avoid errors.
+    
+- **Use Anchors When Necessary**: Use `^` and `$` to match the beginning and end of the string.
+    
+    ```php
+    $pattern = '/^hello$/'; // Matches exact string 'hello'
+    ```
+    
+- **Performance Considerations**: Complex regular expressions can be resource-intensive. Optimize patterns when possible.
+    
+
+### **Common Pitfalls**
+
+- **Not Checking Return Value**: Always check the return value of `preg_match()` for `FALSE` to handle errors.
+    
+    ```php
+    if (preg_match($pattern, $subject) === FALSE) {
+        // Handle error
+    }
+    ```
+    
+- **Greedy vs. Lazy Matching**: Be aware of greedy (`*`, `+`) vs. lazy (`*?`, `+?`) quantifiers.
+    
+    ```php
+    $pattern = '/<.*>/';    // Greedy, matches '<tag>content</tag>'
+    $pattern = '/<.*?>/';   // Lazy, matches '<tag>'
+    ```
+    
+- **Misplaced Modifiers**: Modifiers should be placed after the delimiter, not inside the pattern.
+    
+    ```php
+    $pattern = '/pattern/i'; // Correct
+    $pattern = '/pattern/' . 'i'; // Incorrect
+    ```
+    
+
+### **Alternatives**
+
+- **`preg_match_all()`**: Returns all matches in an array.
+    
+    ```php
+    preg_match_all($pattern, $subject, $matches);
+    ```
+    
+- **`preg_replace()`**: Performs a search and replace using regular expressions.
+    
+    ```php
+    $result = preg_replace($pattern, $replacement, $subject);
+    ```
+    
+- **`preg_split()`**: Splits a string by a regular expression.
+    
+    ```php
+    $parts = preg_split($pattern, $subject);
+    ```
+    
+
+### **Error Handling**
+
+- **Preg Error Codes**: Use `preg_last_error()` to check for errors if `preg_match()` returns `FALSE`.
+    
+    ```php
+    if (preg_match($pattern, $subject) === FALSE) {
+        $error = preg_last_error();
+        // Handle error based on $error code
+    }
+    ```
+    
+
+### **References**
+
+- **PHP Manual - `preg_match()` Function**: [https://www.php.net/manual/en/function.preg-match.php](https://www.php.net/manual/en/function.preg-match.php)
+- **PHP Regular Expressions**: [https://www.php.net/manual/en/book.pcre.php](https://www.php.net/manual/en/book.pcre.php)
+- **Regular Expressions Tutorial**: [https://www.regular-expressions.info/](https://www.regular-expressions.info/)
+
+---
+
+### **Summary**
+
+- **`preg_match()`** is a PHP function used to perform regular expression matching on strings.
+- It returns `1` if a match is found, `0` if not, and `FALSE` if an error occurs.
+- The function can also return matched subpatterns if the `$matches` parameter is provided.
+- Commonly used for input validation, parsing text, and extracting information from strings.
+- Be mindful of pattern syntax, modifiers, and always handle possible errors.
+
+---
+
+**Note**: Regular expressions can be complex and powerful. It's important to test your patterns thoroughly to ensure they work as intended and do not introduce security vulnerabilities, especially when dealing with user input.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
