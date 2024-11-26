@@ -536,5 +536,5 @@ For details type `warranty'.
 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
-
+![[Pasted image 20241126204839.png]]
 ![[Pasted image 20241126204741.png]]
