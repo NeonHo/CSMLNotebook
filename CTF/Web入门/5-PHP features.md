@@ -511,6 +511,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 (Formulate a testable hypothesis or potential solution.)
 What if we give the `$num` as based-8 number, e.g. $0x$
 
-$4476=4096+360=4096+256+104=4096+256+64+32+8=4\times2^10+1\times2^$
+$4476=4096+360=4096+256+104=4096+256+64+32+8=1\times2^{12}+1\times2^8+1\times2^6+1\times2^5+1\times2^3$
+
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
