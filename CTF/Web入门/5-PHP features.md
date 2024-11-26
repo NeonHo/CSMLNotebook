@@ -90,7 +90,7 @@ int intval ( mixed $var [, int $base = 10 ] )
 ==When the `$base` is 0, the function will detect the `$var` 's base.==
 - `0x` means `$var` is 16.
 - `0` means `$var` is 8.
-- 
+-  The other means `$var` is 10.
 
 #### **Return Values**
 
