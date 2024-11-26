@@ -496,3 +496,13 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 `{URL}/?num[]=7`
 ![[Pasted image 20241124213252.png]]
 # Web 90
+![[Pasted image 20241126200147.png]]
+## Observation
+(Identify and clearly define the problem.)
+- The `num` in the `GET` method can
+## Research
+(Gather data and understand the context.)
+## Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
