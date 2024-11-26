@@ -512,6 +512,6 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 What if we give the `$num` as based-8 number, e.g. $0x$
 
 $4476=4096+360=4096+256+104=4096+256+64+32+8=1\times2^{12}+1\times2^8+1\times2^6+1\times2^5+1\times2^3$
-
+1 0001 0100 0000 + 100 0000 + 10 0000 + 1000 = 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
