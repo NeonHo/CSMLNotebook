@@ -503,10 +503,12 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 ## Observation
 (Identify and clearly define the problem.)
 - The string of `num` in the `GET` method cannot be "4476".
-- But we need to convert `num` to $4476$.
+- But we need to convert `num` to $4476$ whatever the base is. 
 ## Research
 (Gather data and understand the context.)
+![[#`intval()`#**Parameters**]]
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
