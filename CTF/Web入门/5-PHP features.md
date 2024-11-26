@@ -509,6 +509,6 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 ![[#`intval()`#**Parameters**]]
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
-
+What if we give the `$num` as based-8 number, e.g. $0x$
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
