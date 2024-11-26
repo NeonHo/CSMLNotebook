@@ -511,7 +511,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 (Formulate a testable hypothesis or potential solution.)
 What if we give the `$num` as based-8 number, e.g. $0x$
 
-We use ()
+We use (`bc` calculator)[]
 ```makefile
 [root@centos6 ~]# bc
 obase=16                                        #设置输出为16进制
@@ -519,5 +519,20 @@ ibase=2                                         #设置输入为2进制
 1111111111111100011010                          #输入2进制数
 3FFF1A                                          #转换为16进制
 ```
+
+```Makefile
+[root@centos6 ~]# bc                                  #打开bc计算器
+bc 1.06.95
+Copyright 2006 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'. 
+88*123                                                #计算 88*123
+10824                                                 #计算器输出结果
+#
+#
+123+65*2-100                                          #计算123+65*2-100
+153                                                   #计算器输出结果
+```
+
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
