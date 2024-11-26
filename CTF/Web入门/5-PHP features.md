@@ -511,7 +511,7 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 (Formulate a testable hypothesis or potential solution.)
 What if we give the `$num` as based-8 number, e.g. $0x$
 
-We use (`bc` calculator)[]
+We use `bc` (Basic  Calculator)[https://www.tecmint.com/bc-command-examples/]
 ```makefile
 [root@centos6 ~]# bc
 obase=16                                        #设置输出为16进制
@@ -536,3 +536,5 @@ For details type `warranty'.
 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+
+![[Pasted image 20241126204741.png]]
