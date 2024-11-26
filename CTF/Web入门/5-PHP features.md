@@ -511,7 +511,13 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 (Formulate a testable hypothesis or potential solution.)
 What if we give the `$num` as based-8 number, e.g. $0x$
 
-$4476=4096+360=4096+256+104=4096+256+64+32+8=1\times2^{12}+1\times2^8+1\times2^6+1\times2^5+1\times2^3$
-$1 0001 0110 1000 = 0x1168$
+We use ()
+```makefile
+[root@centos6 ~]# bc
+obase=16                                        #设置输出为16进制
+ibase=2                                         #设置输入为2进制
+1111111111111100011010                          #输入2进制数
+3FFF1A                                          #转换为16进制
+```
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
