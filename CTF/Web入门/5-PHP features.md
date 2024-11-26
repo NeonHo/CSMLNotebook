@@ -499,7 +499,8 @@ if (preg_match($pattern, $subject, $matches, 0, 3)) {
 ![[Pasted image 20241126200147.png]]
 ## Observation
 (Identify and clearly define the problem.)
-- The `num` in the `GET` method cannot be included.
+- The `num` in the `GET` method cannot be $4476$.
+- 
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
