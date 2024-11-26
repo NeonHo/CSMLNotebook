@@ -87,7 +87,10 @@ int intval ( mixed $var [, int $base = 10 ] )
     intval('1A', 16);   // Returns 26
     intval('1101', 2);  // Returns 13
     ```
-    
+==When the `$base` is 0, the function will detect the `$var` 's base.==
+- `0x` means `$var` is 16.
+- `0` means `$var` is 8.
+- 
 
 #### **Return Values**
 
