@@ -538,3 +538,16 @@ For details type `warranty'.
 (Design and conduct experiments to test the hypothesis.)
 ![[Pasted image 20241126204839.png]]
 ![[Pasted image 20241126204741.png]]
+
+# Web 91
+![[Pasted image 20241127074629.png]]
+
+## Observation
+(Identify and clearly define the problem.)
+- If the string, `cmd`, contents the string, `php`
+## Research
+(Gather data and understand the context.)
+## Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
