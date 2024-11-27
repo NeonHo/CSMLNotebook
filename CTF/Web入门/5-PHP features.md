@@ -636,3 +636,9 @@ Done! ![[Pasted image 20241127150837.png]]
 # Web 92
 Easy~ Easy~
 ![[Pasted image 20241127154528.png]]
+
+# Web 93
+- We cannot use any English Characters.
+- So binary, hex is not allowed.
+- We use octal system:
+
