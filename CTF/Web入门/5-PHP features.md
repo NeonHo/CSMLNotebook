@@ -545,7 +545,13 @@ For details type `warranty'.
 ## Observation
 (Identify and clearly define the problem.)
 - If the string, `cmd`, contents the string, `php`
-- 
+**`i` Modifier (Case-Insensitive Matching):**
+
+- **Purpose:** Makes the pattern matching **case-insensitive**.
+- **Effect:**
+    - Without the `i` modifier, the pattern `^php$` would only match the exact lowercase string `"php"`.
+    - With the `i` modifier, it will match `"php"`, `"PHP"`, `"Php"`, `"pHp"`, and any other combination of uppercase and lowercase letters.
+- **Example:**
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
