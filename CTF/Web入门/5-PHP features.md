@@ -633,4 +633,6 @@ So we need to rely on the tool: `hackbar`.
 
 Done! ![[Pasted image 20241127150837.png]]
 
-# Web 
+# Web 92
+Easy~ Easy~
+![[Pasted image 20241127154528.png]]
