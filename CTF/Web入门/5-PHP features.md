@@ -619,6 +619,10 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 (Formulate a testable hypothesis or potential solution.)
 
 - We need a return character `\n`.
-- We give the `cmd` a string `"tac flag.\n"`
+- We give the `cmd` a string `flag\nphp` to avoid it.
+
+It doesn't work.
+
+
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
