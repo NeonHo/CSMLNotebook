@@ -578,6 +578,16 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 // int(1) - Only "php is great." matches "^php$" in multi-line mode
 ```
 
+```PHP
+$pattern = "/^php$/";
+$subject = "I love PHP.\nphp is great.\nLearning php!";
+
+var_dump(preg_match_all($pattern, $subject, $matches)); 
+// int(0) - No matches because "^php$" doesn't match the entire string
+
+```
+
+
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
