@@ -575,7 +575,32 @@ var_dump(preg_match($pattern, $subject3)); // int(1)
     - Without the `m` modifier, `^php$` would only match if the entire string is exactly `"php"`.
     - With the `m` modifier, `^php$` can match `"php"` at the beginning and end of **any line** within a multi-line string.
 ```PHP
+$pattern = m￼￼ Modifier (Multi-Line Mode)
+- ￼￼Purpose:￼￼ Alters the behavior of the ￼￼^￼￼ and ￼￼$￼￼ anchors to match the ￼￼start and end of each line￼￼ within a multi-line string, rather than just the start and end of the entire string.
+    
+​￼- ￼￼Effect:￼￼
+    
+    - Without the ￼￼m￼￼ modifier, ￼￼^php$￼￼ would only match if the entire string is exactly ￼￼"php"￼￼.
+    - With the ￼￼m￼￼ modifier, ￼￼^php$￼￼ can match ￼￼"php"￼￼ at the beginning and end of ￼￼any line￼￼ within a multi-line string.
+￼￼PHP￼
 $pattern = "/^php$/m";
+$subject = "I love PHP.\nphp is great.\nLearning php!";
+
+var_dump(preg_match_all($pattern, $subject, $matches)); 
+// int(1) - Only "php is great." matches "^php$" in multi-line mode
+￼￼
+
+￼￼PHP￼
+$pattern = "/^php$/";
+$subject = "I love PHP.\nphp is great.\nLearning php!";
+
+var_dump(preg_match_all($pattern, $subject, $matches)); 
+// int(0) - No matches because "^php$" doesn't match the entire string
+
+￼￼
+​￼￼￼Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+"/^php$/m";
 $subject = "I love PHP.\nphp is great.\nLearning php!";
 
 var_dump(preg_match_all($pattern, $subject, $matches)); 
@@ -594,6 +619,6 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 (Formulate a testable hypothesis or potential solution.)
 
 - We need a return character `\n`.
-- We giv
+- We give the `cmd` a string `"tac flag.\n"`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
