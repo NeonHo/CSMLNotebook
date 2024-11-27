@@ -565,6 +565,7 @@ var_dump(preg_match($pattern, $subject3)); // int(1)
 ```
 ### `m` Modifier (Multi-Line Mode)
 
+
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
