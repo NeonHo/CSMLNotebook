@@ -544,13 +544,16 @@ For details type `warranty'.
 
 ## Observation
 (Identify and clearly define the problem.)
-- If the string, `cmd`, contents the string, `php`
+- If the string, `cmd`, can match `/`
+
+
+## Research
+(Gather data and understand the context.)
 ### `i` Modifier (Case-Insensitive Matching):
 
 - **Purpose:** Makes the pattern matching **case-insensitive**.
 - **Effect:**
-    - Without the `i` modifier, the pattern `^php$` would only match the ex
-act lowercase string `"php"`.
+    - Without the `i` modifier, the pattern `^php$` would only match the exact lowercase string `"php"`.
     - With the `i` modifier, it will match `"php"`, `"PHP"`, `"Php"`, `"pHp"`, and any other combination of uppercase and lowercase letters.
 - **Example:**
 ```PHP
@@ -586,10 +589,6 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 // int(0) - No matches because "^php$" doesn't match the entire string
 
 ```
-
-
-## Research
-(Gather data and understand the context.)
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
