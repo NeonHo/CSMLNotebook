@@ -641,4 +641,6 @@ Easy~ Easy~
 - We cannot use any English Characters.
 - So binary, hex is not allowed.
 - We use octal system:
-
+![[Pasted image 20241128075310.png]]
+Then do it.
+![[Pasted image 20241128075331.png]]
