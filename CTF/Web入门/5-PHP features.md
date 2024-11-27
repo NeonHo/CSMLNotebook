@@ -545,7 +545,7 @@ For details type `warranty'.
 ## Observation
 (Identify and clearly define the problem.)
 - If the string, `cmd`, can match `/^php$/im`, we have more chance to get our flag.
-- But the string, `cmd`, cannot match `/`
+- But the string, `cmd`, cannot match `/^php$/i`, because he will regard me as the hacker.
 
 
 ## Research
@@ -592,5 +592,8 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 ```
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+
+- We need a return character `\n`.
+- We giv
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
