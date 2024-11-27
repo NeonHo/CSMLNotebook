@@ -623,6 +623,7 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 
 It doesn't work.
 
+So we need to rely on the tool: `hackbar`.
 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
