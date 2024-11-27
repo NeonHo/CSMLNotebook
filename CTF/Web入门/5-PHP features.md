@@ -564,7 +564,19 @@ var_dump(preg_match($pattern, $subject2)); // int(1)
 var_dump(preg_match($pattern, $subject3)); // int(1)
 ```
 ### `m` Modifier (Multi-Line Mode)
+- **Purpose:** Alters the behavior of the `^` and `$` anchors to match the **start and end of each line** within a multi-line string, rather than just the start and end of the entire string.
+    
+- **Effect:**
+    
+    - Without the `m` modifier, `^php$` would only match if the entire string is exactly `"php"`.
+    - With the `m` modifier, `^php$` can match `"php"` at the beginning and end of **any line** within a multi-line string.
+```PHP
+$pattern = "/^php$/m";
+$subject = "I love PHP.\nphp is great.\nLearning php!";
 
+var_dump(preg_match_all($pattern, $subject, $matches)); 
+// int(1) - Only "php is great." matches "^php$" in multi-line mode
+```
 
 ## Research
 (Gather data and understand the context.)
