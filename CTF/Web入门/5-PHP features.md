@@ -624,6 +624,8 @@ var_dump(preg_match_all($pattern, $subject, $matches));
 It doesn't work.
 
 So we need to rely on the tool: `hackbar`.
-
+- First, ![[Pasted image 20241127150639.png]]
+- Then, ![[Pasted image 20241127150703.png]]
+- Nest, 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
