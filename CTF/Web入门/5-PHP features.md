@@ -544,7 +544,8 @@ For details type `warranty'.
 
 ## Observation
 (Identify and clearly define the problem.)
-- If the string, `cmd`, can match `/`
+- If the string, `cmd`, can match `/^php$/im`, we have more chance to get our flag.
+- But the string, `cmd`, cannot match `/`
 
 
 ## Research
