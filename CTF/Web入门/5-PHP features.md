@@ -628,9 +628,8 @@ So we need to rely on the tool: `hackbar`.
 - Then, ![[Pasted image 20241127150703.png]]
 - Next, ![[Pasted image 20241127150736.png]]
 - At last, we can get this: ![[Pasted image 20241127150806.png]]
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
 
 Done! ![[Pasted image 20241127150837.png]]
 
-
-## Experimentation
-(Design and conduct experiments to test the hypothesis.)
