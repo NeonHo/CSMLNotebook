@@ -545,6 +545,7 @@ For details type `warranty'.
 ## Observation
 (Identify and clearly define the problem.)
 - If the string, `cmd`, contents the string, `php`
+- 
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
