@@ -651,7 +651,7 @@ Then do it.
 (Identify and clearly define the problem.)
 - If `$num` is a string, `"4476"`, it won't pass.
 - If `$num` has any character in `[a-z] or [A-Z]`.
-- If ``
+- If `$num` makes the `strpos($num, "0")` to be `False`, 
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
