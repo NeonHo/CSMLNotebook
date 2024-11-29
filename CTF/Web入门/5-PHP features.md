@@ -650,7 +650,8 @@ Then do it.
 ## Observation
 (Identify and clearly define the problem.)
 - If `$num` is a string, `"4476"`, it won't pass.
-- If `$num` has any character in `[a-z]` and in 
+- If `$num` has any character in `[a-z] or [A-Z]`.
+- If ``
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
