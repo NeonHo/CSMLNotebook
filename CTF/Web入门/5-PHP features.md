@@ -650,7 +650,7 @@ Then do it.
 ## Observation
 (Identify and clearly define the problem.)
 - If `$num` is a string, `"4476"`, it won't pass.
-- If `$num` has any character in `[a-z] or [A-Z]`, it wont't pass.
+- If `$num` has any character in `[a-z] or [A-Z]`, it won't pass.
 - If `$num` makes the `strpos($num, "0")` to be `False`, it won't pass.
 - If `$num` is pass the conditions below, and the number held by `$num` is still 4476, we'll get the flag.
 ## Research
@@ -659,6 +659,6 @@ Then do it.
 **Purpose:** To find the position of the first occurrence of a substring within a string.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
-So we need 
+So we need the string in `$num` is not "4476", without `[a-z] or [A-Z]`, 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
