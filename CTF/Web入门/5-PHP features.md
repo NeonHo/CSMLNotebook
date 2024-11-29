@@ -659,6 +659,7 @@ Then do it.
 **Purpose:** To find the position of the first occurrence of a substring within a string.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
-So we need the string in `$num` is not "4476", without `[a-z] or [A-Z]`, 
+So we need the string in `$num` is not "4476", without `[a-z] or [A-Z]`, without '0'.
+We can infer that our string can't be binary, 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
