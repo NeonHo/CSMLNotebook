@@ -645,3 +645,14 @@ Easy~ Easy~
 Then do it.
 ![[Pasted image 20241128075331.png]]
 # Web 94
+![[Pasted image 20241129180701.png]]
+
+## Observation
+(Identify and clearly define the problem.)
+
+## Research
+(Gather data and understand the context.)
+## Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
