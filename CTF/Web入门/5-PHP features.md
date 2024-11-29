@@ -650,10 +650,11 @@ Then do it.
 ## Observation
 (Identify and clearly define the problem.)
 - If `$num` is a string, `"4476"`, it won't pass.
-- If `$num` has any character in `[a-z] or [A-Z]`.
-- If `$num` makes the `strpos($num, "0")` to be `False`, 
+- If `$num` has any character in `[a-z] or [A-Z]`, it wont't pass.
+- If `$num` makes the `strpos($num, "0")` to be `False`, it won't pass.
 ## Research
 (Gather data and understand the context.)
+
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
