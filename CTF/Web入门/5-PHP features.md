@@ -649,7 +649,7 @@ Then do it.
 
 ## Observation
 (Identify and clearly define the problem.)
-
+- If `$num` i
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
