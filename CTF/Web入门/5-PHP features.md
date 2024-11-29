@@ -655,8 +655,10 @@ Then do it.
 - If `$num` is pass the conditions below, and the number held by `$num` is still 4476, we'll get the flag.
 ## Research
 (Gather data and understand the context.)
-
+[`strpos()`](https://www.php.net/manual/en/function.strpos.php)
+**Purpose:** To find the position of the first occurrence of a substring within a string.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+So we need 
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
