@@ -660,6 +660,6 @@ Then do it.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 So we need the string in `$num` is not "4476", without `[a-z] or [A-Z]`, without '0'.
-We can infer that our string can't be **Base 2 (binary)**, **Base 8 (hexadecimal)**, **Base 10 (decimal)**, **Base 8 (Octal)**
+We can infer that our string can't be **Base 2 (binary)**, **Base 16 (hexadecimal)**, **Base 10 (decimal)**, **Base 8 (octal)**
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
