@@ -652,6 +652,7 @@ Then do it.
 - If `$num` is a string, `"4476"`, it won't pass.
 - If `$num` has any character in `[a-z] or [A-Z]`, it wont't pass.
 - If `$num` makes the `strpos($num, "0")` to be `False`, it won't pass.
+- If `$num` is pass the conditions below, and the 
 ## Research
 (Gather data and understand the context.)
 
