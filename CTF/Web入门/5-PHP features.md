@@ -665,6 +665,8 @@ We can infer that our string can't be
 - `0x` or `0X` for **Base 16 (hexadecimal)**
 - **Base 10 (decimal)**
 - `0` (zero) or `0o` or `0O` for **Base 8 (octal)**
-We could use float point, for example, $4476.0$, the `intval`
+We could use float point, for example, $4476.0$, the `intval()` will convert the float number to integer.
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+![[Pasted image 20241129184850.png]]
+Done!
