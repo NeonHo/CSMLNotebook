@@ -719,6 +719,38 @@ Easy!
 	2. order;
 	3. types.
 2. The function `md5()` will return `null` when fed with an array.
+
+### Construct arrays in URL payload.
+If you want to feed `a[]` with the values `2, 1` and `b[]` with the values `1, 2` in the URL, you can structure the URL as follows:
+
+```
+{URL}/?a[]=2&a[]=1&b[]=1&b[]=2
+```
+
+#### Explanation
+
+1. **`a[]=2&a[]=1`**:
+    
+    - The parameter `a[]` is being passed twice: first with `2` and then with `1`. This means the value of `a[]` will be an array with two elements: `[2, 1]`.
+2. **`b[]=1&b[]=2`**:
+    
+    - The parameter `b[]` is being passed twice: first with `1` and then with `2`. This means the value of `b[]` will be an array with two elements: `[1, 2]`.
+
+#### Result in PHP
+
+If you process this query string in PHP, for example, you would get:
+
+```php
+$_GET['a'] = [2, 1];  // The value of 'a' is an array with the elements 2 and 1.
+$_GET['b'] = [1, 2];  // The value of 'b' is an array with the elements 1 and 2.
+```
+
+#### Summary:
+
+- `a[]` will contain an array with `[2, 1]`.
+- `b[]` will contain an array with `[1, 2]`.
+
+This URL structure is commonly used to pass multiple values for the same parameter, and the server (or PHP in this case) will automatically interpret them as arrays.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 - `a=[2,1]`
