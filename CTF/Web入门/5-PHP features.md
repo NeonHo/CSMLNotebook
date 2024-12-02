@@ -699,3 +699,8 @@ intval("+010574", 0)==4476 True
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
 ![[Pasted image 20241202185729.png]]
+
+# Web 96
+![[Pasted image 20241202190149.png]]
+Easy!
+![[Pasted image 20241202190232.png]]
