@@ -726,3 +726,4 @@ Easy!
 - the payload will be `/?a=[1,2]&b=[2,1]`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+![[Pasted image 20241202214004.png]]
