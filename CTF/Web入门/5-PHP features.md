@@ -677,11 +677,12 @@ Done!
 (Identify and clearly define the problem.)
 - `$num` can't be 4476.
 - `$num` can't include `[a-z] and [A-Z]` or be float number.
-- `$num` can't include '0'.
+- `$num` must include '0'.
 - `$num` need to be equal with 4476.
 ## Research
 (Gather data and understand the context.)
-If we use `+4476`, what will happen?
+![[Pasted image 20241202185635.png]]
+If we use `+010574`, what will happen?
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
