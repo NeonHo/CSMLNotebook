@@ -718,8 +718,9 @@ Easy!
 	1. values;
 	2. order;
 	3. types.
-2. 
+2. The function `md5()` will return `null` when fed with an array.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+- `a[]=`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
