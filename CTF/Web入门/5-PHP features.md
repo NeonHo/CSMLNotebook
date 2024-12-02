@@ -675,7 +675,8 @@ Done!
 ![[Pasted image 20241202184356.png]]
 ## Observation
 (Identify and clearly define the problem.)
-
+- `$num` can't be 4476.
+- `$num` can't include `[a-z]` or be float number.
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
