@@ -709,6 +709,8 @@ Easy!
 
 ## Observation
 (Identify and clearly define the problem.)
+- The parameters, `a` and `b`, are necessary.
+- `a` can't be equal with `b`.
 - 
 ## Research
 (Gather data and understand the context.)
