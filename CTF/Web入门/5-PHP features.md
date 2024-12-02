@@ -711,9 +711,10 @@ Easy!
 (Identify and clearly define the problem.)
 - The parameters, `a` and `b`, are necessary.
 - `a` can't be equal with `b`.
-- `md5(a) === md5(b)`.
+- `md5(a) === md5(b)` need to be true.
 ## Research
 (Gather data and understand the context.)
+
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
