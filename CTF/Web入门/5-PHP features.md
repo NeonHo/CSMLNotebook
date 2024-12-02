@@ -714,7 +714,11 @@ Easy!
 - `md5(a) === md5(b)` need to be true.
 ## Research
 (Gather data and understand the context.)
-1. If we compare 
+1. If we compare 2 arrays in PHP, we truly compare:
+	1. values;
+	2. order;
+	3. types.
+2. 
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
