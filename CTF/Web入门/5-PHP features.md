@@ -670,3 +670,5 @@ We could use float point, for example, $4476.0$, the `intval()` will convert the
 (Design and conduct experiments to test the hypothesis.)
 ![[Pasted image 20241129184850.png]]
 Done!
+
+# Web 95
