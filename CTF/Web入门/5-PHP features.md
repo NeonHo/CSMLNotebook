@@ -678,6 +678,7 @@ Done!
 - `$num` can't be 4476.
 - `$num` can't include `[a-z] and [A-Z]` or be float number.
 - `$num` can't include '0'.
+- `$num` need to be equal with 4476.
 - 
 ## Research
 (Gather data and understand the context.)
