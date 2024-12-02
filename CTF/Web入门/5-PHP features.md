@@ -685,5 +685,17 @@ Done!
 If we use `+010574`, what will happen?
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
+```
+?num=+010574
+
+"+010574" === "4476" False
+
+preg_match("/[a-z]/i", "+010574") False
+
+!strpos("+010574", "0") False
+
+intval("+010574", 0)==4476 True
+```
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+![[Pasted image 20241202185729.png]]
