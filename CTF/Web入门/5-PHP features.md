@@ -711,7 +711,7 @@ Easy!
 (Identify and clearly define the problem.)
 - The parameters, `a` and `b`, are necessary.
 - `a` can't be equal with `b`.
-- 
+- `md5(a) === md5(b)`.
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
