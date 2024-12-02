@@ -672,3 +672,13 @@ We could use float point, for example, $4476.0$, the `intval()` will convert the
 Done!
 
 # Web 95
+![[Pasted image 20241202184356.png]]
+## Observation
+(Identify and clearly define the problem.)
+
+## Research
+(Gather data and understand the context.)
+## Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
