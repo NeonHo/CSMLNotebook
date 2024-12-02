@@ -704,3 +704,4 @@ intval("+010574", 0)==4476 True
 ![[Pasted image 20241202190149.png]]
 Easy!
 ![[Pasted image 20241202190232.png]]
+# Web 97
