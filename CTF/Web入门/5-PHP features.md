@@ -721,9 +721,11 @@ Easy!
 2. The function `md5()` will return `null` when fed with an array.
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
-- `a=[1,2]`
-- `b=[2,1]`
-- the payload will be `/?a=[1,2]&b=[2,1]`
+- `a=[2,1]`
+- `b=[1,2]`
+- the payload in `POST` method will be `a[]=2&a[]=1&b[]=1&b[]=2`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
 ![[Pasted image 20241202214004.png]]
+![[Pasted image 20241202214629.png]]
+
