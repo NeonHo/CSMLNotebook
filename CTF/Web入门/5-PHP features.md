@@ -722,6 +722,7 @@ Easy!
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 - `a=[1,2]`
-- `b=2`
+- `b=[2,1]`
+- the payload will be `/?a=[1,2]&b=[2,1]`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
