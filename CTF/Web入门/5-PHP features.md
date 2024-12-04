@@ -922,7 +922,8 @@ If you have a specific use case or need further assistance on handling GET and P
 (Formulate a testable hypothesis or potential solution.)
 - If we directly use `/?HTTP_FLAG=flag`, `$_GET=&$_POST` will be executed.
 	- It means that our `HTTP_FLAG` will be covered by the key-value pairs in `$_POST`.
-- As if we cannot avoid the `$_GET=&$_POST
+- As if we cannot avoid the `$_GET=&$_POST`, we can fill `$_POST` with `HTTP_FLAG=flag`.
+- 
 `{URL}/?HTTP_FLAG=whatever` and post data with `HTTP_FLAG=flag`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
