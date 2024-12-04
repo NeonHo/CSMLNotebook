@@ -766,3 +766,13 @@ This URL structure is commonly used to pass multiple values for the same paramet
 
 ## Observation
 (Identify and clearly define the problem.)
+```
+$_GET?$_GET=&$_POST:'flag';
+```
+means if `$_GET`
+## Research
+(Gather data and understand the context.)
+## Hypothesis
+(Formulate a testable hypothesis or potential solution.)
+## Experimentation
+(Design and conduct experiments to test the hypothesis.)
