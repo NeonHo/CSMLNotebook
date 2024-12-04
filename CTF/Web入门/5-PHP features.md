@@ -771,9 +771,10 @@ $_GET?$_GET=&$_POST:'flag';
 ```
 It means if `$_GET` is given, the `$_GET` will be converted to the method, `$_POST`.
 
-Only if `$_GET['HTTP_FLAG']==`
+Only if `$_GET['HTTP_FLAG']=='flag'`, we can highlight the flag.
 ## Research
 (Gather data and understand the context.)
+[php ternary operator and if](https://www.php.cn/faq/383293.html)
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
 ## Experimentation
