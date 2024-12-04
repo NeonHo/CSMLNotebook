@@ -771,7 +771,7 @@ $_GET?$_GET=&$_POST:'flag';
 ```
 It means if `$_GET` is given, the `$_GET` will be converted to the method, `$_POST`.
 
-Only if ``
+Only if `$_GET['HTTP_FLAG']==`
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
