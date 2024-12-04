@@ -769,7 +769,9 @@ This URL structure is commonly used to pass multiple values for the same paramet
 ```
 $_GET?$_GET=&$_POST:'flag';
 ```
-means if `$_GET`
+It means if `$_GET` is given, the `$_GET` will be converted to the method, `$_POST`.
+
+Only if ``
 ## Research
 (Gather data and understand the context.)
 ## Hypothesis
