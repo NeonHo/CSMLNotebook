@@ -761,3 +761,4 @@ This URL structure is commonly used to pass multiple values for the same paramet
 ![[Pasted image 20241202214004.png]]
 ![[Pasted image 20241202214629.png]]
 
+# Web 98
