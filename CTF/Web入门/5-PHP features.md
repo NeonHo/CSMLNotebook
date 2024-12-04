@@ -924,7 +924,7 @@ If you have a specific use case or need further assistance on handling GET and P
 	- It means that our `HTTP_FLAG` will be covered by the key-value pairs in `$_POST`.
 - As if we cannot avoid the `$_GET=&$_POST`, we can fill `$_POST` with `HTTP_FLAG=flag`.
 	- So that we can let `HTTP_FLAG=flag` go into `$_GET` array.
-	- Th
+	- Then `highlight_file($flag)` works.
 `{URL}/?HTTP_FLAG=whatever` and post data with `HTTP_FLAG=flag`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
