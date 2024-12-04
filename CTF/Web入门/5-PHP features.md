@@ -777,6 +777,7 @@ Only if `$_GET['HTTP_FLAG']=='flag'`, we can highlight the flag.
 [PHP ternary operator and if](https://www.php.cn/faq/383293.html)
 ## Hypothesis
 (Formulate a testable hypothesis or potential solution.)
-`{URL}/?HTTP_FLAG=flag`
+`{URL}/?HTTP_FLAG=flag` and post data with `HTTP_FLAG=flag`
 ## Experimentation
 (Design and conduct experiments to test the hypothesis.)
+![[Pasted image 20241204153449.png]]
