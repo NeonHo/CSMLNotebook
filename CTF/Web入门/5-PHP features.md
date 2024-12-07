@@ -930,3 +930,6 @@ If you have a specific use case or need further assistance on handling GET and P
 (Design and conduct experiments to test the hypothesis.)
 ![[Pasted image 20241204153449.png]]
 # Web 99
+![[Pasted image 20241207085356.png]]
+# Observation
+An array, `$allow`, 
