@@ -936,8 +936,8 @@ An array, `$allow`, pushed with $887-36=851$ random numbers.
 The parameter, `n`, is necessary.
 The parameter `n` need to be in the array, `$allow`.
 Then we can get the permission through a one-sentence ==Trojan horse==
-- Put the one-sentence Trojan horse into file, whose called `$_GET['n']`.
-- 
+- Put the one-sentence Trojan horse from `$_POST['content']` into file whose called `$_GET['n']` ins.
+- Then we can execute anything through this file.
 ## Research
 ### One-sentence Trojan Horse
 - Hackers can control the Web server with an extremely simple backdoor program on [[#WebShell]].
