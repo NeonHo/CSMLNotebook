@@ -945,7 +945,7 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 	- `eval()` of PHP;
 	- `Execute()` of ASP;
 	- `Runtime.exec()` of JSP.
-- Then we can use **parameters of URL** or **command and code of POST** to 
+- Then we can execute the command or code through **parameters of URL** or **parameters of POST**.
 ### WebShell
 - A script or program
 - allows an attacker to gain remote control of a web server.
