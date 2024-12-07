@@ -941,4 +941,4 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 ### WebShell
 - A script or program
 - allows an attacker to gain remote control of a web server.
-- 
+- It consists of a small script typically placed on a vulnerable web server.
