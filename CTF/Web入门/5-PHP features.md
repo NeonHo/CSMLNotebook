@@ -966,3 +966,4 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 We can get the Directory Structure of the Web Server!
 ![[Pasted image 20241207111238.png]]
 The flag we want is over there!
+![[Pasted image 20241207111338.png]]
