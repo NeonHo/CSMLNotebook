@@ -955,5 +955,4 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 - allows an attacker to gain remote control of a web server.
 - It consists of a small script typically placed on a vulnerable web server.
 ## Hypothesis
-- As the probability's perspective, $1$ has bigger probability than other .
-- 
+- As the probability's perspective, $1$ has bigger probability than the other numbers in `$allow`, so that we assign `1` to ``
