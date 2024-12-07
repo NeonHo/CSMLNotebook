@@ -931,8 +931,10 @@ If you have a specific use case or need further assistance on handling GET and P
 ![[Pasted image 20241204153449.png]]
 # Web 99
 ![[Pasted image 20241207085356.png]]
-# Observation
+## Observation
 An array, `$allow`, pushed with $887-36=851$ random numbers.
 The parameter, `n`, is necessary.
 The parameter `n` need to be in the array, `$allow`.
-Then we can get the permission through a one-sentence 
+Then we can get the permission through a one-sentence ==Trojan horse==
+## Research
+- Hackers can control 
