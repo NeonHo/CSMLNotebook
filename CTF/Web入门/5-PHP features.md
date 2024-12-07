@@ -933,4 +933,5 @@ If you have a specific use case or need further assistance on handling GET and P
 ![[Pasted image 20241207085356.png]]
 # Observation
 An array, `$allow`, pushed with $887-36=851$ random numbers.
-T`n` 
+The parameter, `n`, is necessary.
+The parameter `n` need to be in the array, `$allow`.
