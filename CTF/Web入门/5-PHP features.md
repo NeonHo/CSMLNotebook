@@ -937,4 +937,5 @@ The parameter, `n`, is necessary.
 The parameter `n` need to be in the array, `$allow`.
 Then we can get the permission through a one-sentence ==Trojan horse==
 ## Research
-- Hackers can control 
+- Hackers can control the Web server with an extremely simple backdoor program.
+- 
