@@ -32,7 +32,8 @@
     "XXEs",
     "OOB",
     "Endian",
-    "booleans"
+    "booleans",
+    "WebShell"
   ],
   "showLineNumber": true
 }
