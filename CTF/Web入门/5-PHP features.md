@@ -935,3 +935,4 @@ If you have a specific use case or need further assistance on handling GET and P
 An array, `$allow`, pushed with $887-36=851$ random numbers.
 The parameter, `n`, is necessary.
 The parameter `n` need to be in the array, `$allow`.
+Then we can get the permission through a one-sentence 
