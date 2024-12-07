@@ -947,7 +947,7 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 	- `Runtime.exec()` of JSP.
 - Then we can execute the command or code through **parameters of URL** or **parameters of POST**.
 - e.g. `<?php @eval($_POST['cmd']); ?>`
-	- If we 
+	- get the parameter, `cmd`, to execute the PHP code.
 ### WebShell
 - A script or program
 - allows an attacker to gain remote control of a web server.
