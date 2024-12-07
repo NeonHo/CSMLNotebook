@@ -941,7 +941,9 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 - Hackers can control the Web server with an extremely simple backdoor program on [[#WebShell]].
 - One line.
 - It can run command or code through web program executing environment such as PHP, ASP and JSP.
-- This one-sentence Trojan Horse always appears in 
+- This one-sentence Trojan Horse always appears in Web server script of dynamic language, such as PHP, ASP and JSP.
+- `eval()` of PHP;
+- `Execute()` of 
 ### WebShell
 - A script or program
 - allows an attacker to gain remote control of a web server.
