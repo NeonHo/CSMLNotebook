@@ -939,4 +939,6 @@ Then we can get the permission through a one-sentence ==Trojan horse==
 ## Research
 - Hackers can control the Web server with an extremely simple backdoor program on WebShell.
 ### WebShell
-A code executing environment, where there
+- A script or program
+- allows an attacker to gain remote control of a web server.
+- 
