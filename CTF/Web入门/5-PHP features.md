@@ -932,4 +932,5 @@ If you have a specific use case or need further assistance on handling GET and P
 # Web 99
 ![[Pasted image 20241207085356.png]]
 # Observation
-An array, `$allow`, pushed with $887- 36$ random numbers.
+An array, `$allow`, pushed with $887-36=851$ random numbers.
+T`n` 
