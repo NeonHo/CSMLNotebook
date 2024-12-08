@@ -970,10 +970,11 @@ The flag we want is over there!
 # Web 100
 ![[Pasted image 20241208100548.png]]
 ## Observation
-- The flag is in class ct
+- The flag is in class ctfshow.
 - We need 3 necessary parameters `v1, v2, v3`.
 - They are numeric.
 - If we can satisfy the conditions, we can execute PHP code: `"$v2(ctfshow)$v3"`.
 	- `$v3` has ';'.
+	- `$v2` can't include ';'.
 	- 
 ## Research
