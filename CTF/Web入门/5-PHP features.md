@@ -985,3 +985,4 @@ The assignment will be executed firstly because of the higher priority than `and
 ## Hypothesis
 We need to combine `$v2` and "`ctfshow`" and `$v3`
 So we can use `var_dump()` function to show the `flag` attribution value in `ctfshow`.
+Secondly, `$v1` need to be numeric, and the other 2 parameters can be not numeric.
