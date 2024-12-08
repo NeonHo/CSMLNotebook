@@ -988,4 +988,7 @@ The assignment will be executed firstly because of the higher priority than `and
 We need to combine `$v2` and "`ctfshow`" and `$v3`
 So we can use `var_dump()` function to show the `flag` attribution value in `ctfshow`.
 Secondly, `$v1` need to be numeric, and the other 2 parameters can be not numeric.
-Thirdly, `('ctfshow')` i
+Thirdly, `('ctfshow')` has no use, we need to command it in the line.
+So `$v2` need to be `var_dump(ctfshow) /*`, meanwhile, `$v3` need to be `*/;`.
+- We need `$v3` to include `;`.
+## Experiment
