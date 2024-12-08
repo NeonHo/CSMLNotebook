@@ -977,7 +977,10 @@ The flag we want is over there!
 	- `$v3` has ';'.
 	- `$v2` can't include ';'.
 ## Research
-### var_dump
+### assign v.s. and, which is first?
+In PHP, the expression like: `$v0=is_numeric($v1) and is_numeric($v2);`
+
+### `var_dump()`
 ![[3-命令执行#`var_dump()`]]
 ## Hypothesis
 We need to combine `$v2` and "`ctfshow`" and `$v3`
