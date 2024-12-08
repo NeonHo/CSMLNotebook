@@ -979,4 +979,5 @@ The flag we want is over there!
 ## Research
 ![[3-命令执行#`var_dump()`]]
 ## Hypothesis
-We need to combine `v2` and "`ctfshow`" and `v3`
+We need to combine `$v2` and "`ctfshow`" and `$v3`
+So we can use `var_dump()` function to show the `flag` attribution value in `ctfshow`.
