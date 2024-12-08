@@ -992,4 +992,5 @@ Thirdly, `('ctfshow')` has no use, we need to command it in the line.
 So `$v2` need to be `var_dump($ctfshow) /*`, meanwhile, `$v3` need to be `*/;`.
 - We need `$v3` to include `;`.
 ## Experiment
-![[Pasted image 20241208105829.png]]
+`{URL}/?v1=1234&v2=var_dump($ctfshow)/*&v3=*/;`
+![[Pasted image 20241208105850.png]]
