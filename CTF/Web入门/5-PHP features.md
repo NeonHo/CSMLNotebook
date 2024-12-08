@@ -977,3 +977,6 @@ The flag we want is over there!
 	- `$v3` has ';'.
 	- `$v2` can't include ';'.
 ## Research
+![[3-命令执行#`var_dump()`]]
+## Hypothesis
+We need to 

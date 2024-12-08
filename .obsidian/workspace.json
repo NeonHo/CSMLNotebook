@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "CTF/Web入门/3-命令执行.md",
+    "CTF/Web入门/5-PHP features.md",
     "Attachments/Pasted image 20241208100548.png",
     "Attachments/Pasted image 20241207111338.png",
     "Attachments/Pasted image 20241207111238.png",
@@ -212,8 +213,6 @@
     "Attachments/Pasted image 20241202214629.png",
     "Attachments/Pasted image 20241202214004.png",
     "CTF/Web入门/4-文件包含.md",
-    "CTF/Web入门/5-PHP features.md",
-    "Attachments/Pasted image 20241202205155.png",
     "GoldBucket/方法论.md",
     "Troubles and Solutions/WSL2-Kali.md",
     "Troubles and Solutions/WSL2 + Kali.md",
@@ -228,7 +227,6 @@
     "CTF/工具.md",
     "CTF/Exploit.md",
     "CTF/密码.md",
-    "CTF/Web入门/3-命令执行.md",
     "CTF/Web入门/1-信息搜集.md",
     "Projects/未命名.md",
     "CTF/Web入门/2-爆破.md",
