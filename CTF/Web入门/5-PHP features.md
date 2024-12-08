@@ -977,6 +977,8 @@ The flag we want is over there!
 	- `$v3` has ';'.
 	- `$v2` can't include ';'.
 ## Research
+### comment in PHP
+`/*xxxxxx*/`
 ### assign v.s. and, which is first?
 In PHP, the expression like: `$v0=is_numeric($v1) and is_numeric($v2);`.
 The assignment will be executed firstly because of the higher priority than `and`.
@@ -986,3 +988,4 @@ The assignment will be executed firstly because of the higher priority than `and
 We need to combine `$v2` and "`ctfshow`" and `$v3`
 So we can use `var_dump()` function to show the `flag` attribution value in `ctfshow`.
 Secondly, `$v1` need to be numeric, and the other 2 parameters can be not numeric.
+Thirdly, `('ctfshow')` i
