@@ -971,4 +971,5 @@ The flag we want is over there!
 ![[Pasted image 20241208100548.png]]
 ## Observation
 - We need 3 necessary parameters `v1, v2, v3`.
-- They are 
+- They are numeric.
+- 
