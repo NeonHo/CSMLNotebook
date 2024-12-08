@@ -979,4 +979,4 @@ The flag we want is over there!
 ## Research
 ![[3-命令执行#`var_dump()`]]
 ## Hypothesis
-We need to 
+We need to combine `v2` and "`ctfshow`" and `v3`
