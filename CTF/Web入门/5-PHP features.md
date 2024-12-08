@@ -972,4 +972,4 @@ The flag we want is over there!
 ## Observation
 - We need 3 necessary parameters `v1, v2, v3`.
 - They are numeric.
-- 
+- if we can satisfy the conditions, we can eval `"$v2(ctfshow)$v3"`
