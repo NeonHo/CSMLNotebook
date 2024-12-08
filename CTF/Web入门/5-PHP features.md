@@ -970,3 +970,5 @@ The flag we want is over there!
 # Web 100
 ![[Pasted image 20241208100548.png]]
 ## Observation
+- We need 3 necessary parameters `v1, v2, v3`.
+- 
