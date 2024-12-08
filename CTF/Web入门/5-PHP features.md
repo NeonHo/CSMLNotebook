@@ -968,3 +968,5 @@ We can get the Directory Structure of the Web Server!
 The flag we want is over there!
 ![[Pasted image 20241207111338.png]]
 # Web 100
+![[Pasted image 20241208100548.png]]
+## Observation
