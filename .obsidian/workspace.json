@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "var_dump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -73,12 +73,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -199,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241208100548.png",
     "Attachments/Pasted image 20241207111338.png",
