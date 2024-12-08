@@ -978,8 +978,8 @@ The flag we want is over there!
 	- `$v2` can't include ';'.
 ## Research
 ### assign v.s. and, which is first?
-In PHP, the expression like: `$v0=is_numeric($v1) and is_numeric($v2);`
-
+In PHP, the expression like: `$v0=is_numeric($v1) and is_numeric($v2);`.
+The assignment will be executed firstly because of the higher priority than `and`.
 ### `var_dump()`
 ![[3-命令执行#`var_dump()`]]
 ## Hypothesis
