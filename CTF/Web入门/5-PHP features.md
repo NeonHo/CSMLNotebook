@@ -994,3 +994,4 @@ So `$v2` need to be `var_dump($ctfshow) /*`, meanwhile, `$v3` need to be `*/;`.
 ## Experiment
 `{URL}/?v1=1234&v2=var_dump($ctfshow)/*&v3=*/;`
 ![[Pasted image 20241208105850.png]]
+# Web 101
