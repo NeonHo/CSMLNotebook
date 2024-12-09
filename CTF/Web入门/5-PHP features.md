@@ -1011,3 +1011,4 @@ new ReflectionClass($class) 可以获得类的反射对象（包含元数据信�
 `v2=echo new ReflectionClass`
 `v3=;`
 ## Experiment
+![[Pasted image 20241209194340.png]]
