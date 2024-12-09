@@ -997,6 +997,8 @@ So `$v2` need to be `var_dump($ctfshow) /*`, meanwhile, `$v3` need to be `*/;`.
 # Web 101
 ![[Pasted image 20241209192916.png]]
 ## Observation
+- `v1` needs to be numeric.
+- 
 
 ## Research
 ## Hypothesis
