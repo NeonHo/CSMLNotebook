@@ -998,7 +998,7 @@ So `$v2` need to be `var_dump($ctfshow) /*`, meanwhile, `$v3` need to be `*/;`.
 ![[Pasted image 20241209192916.png]]
 ## Observation
 - `v1` needs to be numeric.
-- `v2` and `v3` can't construct `\**`
+- `v2` and `v3` can't construct `/*xxx*/`
 
 ## Research
 涉及到类，可以考虑使用 ReflectionClass 建立反射类。
@@ -1007,4 +1007,7 @@ new ReflectionClass($class) 可以获得类的反射对象（包含元数据信�
 
 元数据对象（包含class的所有属性/方法的元数据信息）。
 ## Hypothesis
+`v1=1234`
+`v2=echo new ReflectionClass`
+`v3=;`
 ## Experiment
