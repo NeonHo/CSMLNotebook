@@ -9,5 +9,6 @@ $sql = "select username,password from user where username !='flag' and id = '".$
 select username,password from user where username !='flag' and id = '".$_GET['id']."' limit 1;
 ```
 ## Observation
+When we do search in this page:
 - If username is not flag, and the user ID is not what we provide, the records will be displayed.
 - Limit will be executed at last.
