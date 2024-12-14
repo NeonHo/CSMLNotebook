@@ -16,4 +16,5 @@ When we do search in this page:
 
 This is a typical string **SQL Injection**.
 - `id=-1`
-	- `' ".$_GET['id'].'' '`
+	- `'".$_GET['id']."'` needs to be `'-1'`
+	- 
