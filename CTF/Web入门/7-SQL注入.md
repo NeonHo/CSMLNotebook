@@ -5,5 +5,8 @@
 $sql = "select username,password from user where username !='flag' and id = '".$_GET['id']."' limit 1;";
 ```
 
+```SQL
+select username,password from user where username !='flag' and id = '".$_GET['id']."' limit 1;
 ```
-```
+## Observation
+- If username is not flag, and the user ID is not what we provide, 
