@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Web入门/1-信息搜集.md",
+                "file": "CTF/Web入门/7-SQL注入.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-信息搜集"
+              "title": "7-SQL注入"
             }
           }
         ]
@@ -200,10 +200,10 @@
   },
   "active": "4e3de06f32360c68",
   "lastOpenFiles": [
+    "CTF/Web入门/1-信息搜集.md",
     "CTF/Web/信息泄露.md",
     "CTF/Web/萌新Web23.md",
     "CTF/Web/HTTP.md",
-    "CTF/Web入门/1-信息搜集.md",
     "CTF/Web入门/7-SQL注入.md",
     "CTF/Web入门/5-PHP features.md",
     "Attachments/Pasted image 20241209194340.png",
