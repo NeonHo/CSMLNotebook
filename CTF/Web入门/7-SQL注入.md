@@ -10,10 +10,11 @@ select username,password from user where username !='flag' and id = '".$_GET['id
 ```
 ## Observation
 When we do search in this page:
+- PHP code is : `$sql = "xxxxx".$_GET['id']."yyyy"`
+	- `xxxxx`:
 - If username is not flag, and the user ID is not what we provide, the records will be displayed.
 - Limit will be executed at last.
 ## Research
 
 This is a typical string **SQL Injection**.
-- `$sql = "xxxxx".$_GET['id']."xxxx"`
 - 
