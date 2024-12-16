@@ -23,4 +23,4 @@ This is a typical ==string== **SQL Injection**.
 ## Experiment
 ![[Pasted image 20241216201104.png]]
 
-Why `limit 1` is invalid?
+**Why `limit 1` is invalid?**
