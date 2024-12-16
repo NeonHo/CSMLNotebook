@@ -15,5 +15,5 @@ When we do search in this page:
 ## Research
 
 This is a typical string **SQL Injection**.
-- `"xxxxx".$_GET['id']."xxxx"`
+- `$sql = "xxxxx".$_GET['id']."xxxx"`
 - 
