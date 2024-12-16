@@ -17,5 +17,5 @@ When we do search in this page:
 - Limit will be executed at last.
 ## Research
 
-This is a typical string **SQL Injection**.
+This is a typical ==string== **SQL Injection**.
 - 
