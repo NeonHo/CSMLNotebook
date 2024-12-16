@@ -20,6 +20,7 @@ When we do search in this page:
 This is a typical ==string== **SQL Injection**.
 - Try to use `'` to match the `'` in the string before `$_GET['id']`, so we use `{number}'`.
 - Then we also need to match the `'` in the string after `$_GET['id']`, so we use `or username = 'flag`
-
 ## Experiment
 ![[Pasted image 20241216201104.png]]
+
+Why `limit 1` is invalid?
