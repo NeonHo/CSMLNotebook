@@ -18,4 +18,5 @@ When we do search in this page:
 ## Research
 
 This is a typical ==string== **SQL Injection**.
-- Try to use `'` to match the `'` in the string before, so we use `{num}`
+- Try to use `'` to match the `'` in the string before$_GET['id'], so we use `{number}'`.
+- 
