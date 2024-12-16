@@ -23,5 +23,7 @@ This is a typical ==string== **SQL Injection**.
 ## Experiment
 ![[Pasted image 20241216201104.png]]
 
-**Why `limit 1` is invalid?**
-在分布式数据库（如某些 MySQL 集群版本）中，`LIMIT` 的应用可能被推迟到查询的最终合并阶段，导致在本地节点看到多条记录。
+**Why `limit 1` is invalid?** 
+Guess:
+- 在分布式数据库（如某些 MySQL 集群版本）中，`LIMIT` 的应用可能被推迟到查询的最终合并阶段，导致在本地节点看到多条记录。
+- 某些数据库引擎（如 MySQL）可能会因为缓存问题返回过多的记录。这种情况在高并发查询时容易发生。
