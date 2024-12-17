@@ -44,5 +44,8 @@ if($row->username!=='flag'){
   $ret['msg']='查询成功';
 }
 ```
+This filters the record whose username is "flag".
 ## Research
+So we need to avoid this filter by using Base64 coding.
+
 ## Experiment
