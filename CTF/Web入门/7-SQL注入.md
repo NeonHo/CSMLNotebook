@@ -47,5 +47,7 @@ if($row->username!=='flag'){
 This filters the record whose username is "flag".
 ## Research
 So we need to avoid this filter by using Base64 coding.
-
+### `TO_BASE64()` Method in MySQL
+In the standard SQL, there is no base64 encoding method.
+However, 
 ## Experiment
