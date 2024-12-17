@@ -30,4 +30,19 @@ Guess:
 
 # Web 172
 ![[Pasted image 20241218062030.png]]
-Use the same trick, the password say: `falg`
+Use the same trick, the password says: `flag_not_here`.
+![[Pasted image 20241218062133.png]]
+## Observation
+```PHP
+//拼接sql语句查找指定ID用户
+$sql = "select username,password from ctfshow_user2 where username !='flag' and id = '".$_GET['id']."' limit 1;";
+```
+But the returning logic:
+```PHP
+//检查结果是否有flag
+if($row->username!=='flag'){
+  $ret['msg']='查询成功';
+}
+```
+## Research
+## Experiment
