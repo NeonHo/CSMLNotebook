@@ -48,6 +48,9 @@ This filters the record whose username is "flag".
 ## Research
 So we need to avoid this filter by using Base64 coding.
 ### `TO_BASE64()` Method in MySQL
-In the standard SQL, there is no base64 encoding method.
-However, 
+In the standard SQL, there is no Base64 encoding method.
+However, there is `TO_BASE64()` method in MySQL and `encode()` in PostgreSQL.
+### UNION SQL Injection
+When in string SQL 
 ## Experiment
+
