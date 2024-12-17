@@ -62,3 +62,4 @@ use:
 ![[Pasted image 20241218063217.png]]
 We can decode the password.
 
+![[Pasted image 20241218064420.png]]
