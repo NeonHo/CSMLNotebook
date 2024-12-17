@@ -29,3 +29,5 @@ Guess:
 - 某些数据库引擎（如 MySQL）可能会因为缓存问题返回过多的记录。这种情况在高并发查询时容易发生。
 
 # Web 172
+![[Pasted image 20241218062030.png]]
+Use the same trick, the password say: `falg`
