@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Web入门/1-信息搜集.md"
+                "file": "CTF/Web入门/7-SQL注入.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-信息搜集"
+              "title": "Outline of 7-SQL注入"
             }
           },
           {
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "2edc79854db4ed9c",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241216201104.png",
     "Attachments/Pasted image 20241214102338.png",
