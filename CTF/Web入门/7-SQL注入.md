@@ -51,6 +51,8 @@ So we need to avoid this filter by using Base64 coding.
 In the standard SQL, there is no Base64 encoding method.
 However, there is `TO_BASE64()` method in MySQL and `encode()` in PostgreSQL.
 ### UNION SQL Injection
-When in string SQL 
+When in string SQL injection point, we also can use UNION method.
+- Close the `'` before;
+- then follow a new `SELECT` with `UNION`.
 ## Experiment
 
