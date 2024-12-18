@@ -76,3 +76,17 @@ select username, password from ctfshow_user2 where username != 'flag' and id = '
 Change username to ID, so that avoiding the condition.
 
 ![[Pasted image 20241219064028.png]]
+# Web 173
+![[Pasted image 20241219064644.png]]
+## Observation
+```PHP
+//拼接sql语句查找指定ID用户
+$sql = "select id,username,password from ctfshow_user3 where username !='flag' and id = '".$_GET['id']."' limit 1;";
+```
+The condition of returning is:
+```PHP
+//检查结果是否有flag
+if(!preg_match('/flag/i', json_encode($ret))){
+  $ret['msg']='查询成功';
+}
+```
