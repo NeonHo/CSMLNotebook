@@ -91,4 +91,8 @@ if(!preg_match('/flag/i', json_encode($ret))){
 }
 ```
 ## Analysis
-If we don't 
+If we don't show the username in the returning record, the condition can be avoided.
+[[#Another Way]]
+```SQL
+select id, username, password from ctfshow_
+```
