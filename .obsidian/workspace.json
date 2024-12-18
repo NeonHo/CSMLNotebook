@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,8 +199,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241219065623.png",
     "Attachments/Pasted image 20241219065519.png",
     "Attachments/Pasted image 20241219064644.png",
     "Attachments/Pasted image 20241219064028.png",
@@ -217,7 +218,6 @@
     "CTF/Web入门/7-SQL注入.md",
     "CTF/Web入门/5-PHP features.md",
     "Attachments/Pasted image 20241209194340.png",
-    "Attachments/Pasted image 20241209192916.png",
     "CTF/Web入门/3-命令执行.md",
     "CTF/Web入门/4-文件包含.md",
     "GoldBucket/方法论.md",
