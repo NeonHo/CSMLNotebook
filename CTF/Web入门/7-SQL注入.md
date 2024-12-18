@@ -73,6 +73,6 @@ to
 select username, password from ctfshow_user2 where username != 'flag' and id = '9999' union select id, password from ctfshow_user2 where username = 'flag' limit 1;
 ```
 
-change username to id, so tha
+Change username to ID, so that avoiding the condition.
 
 ![[Pasted image 20241219064028.png]]
