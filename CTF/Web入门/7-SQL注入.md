@@ -120,15 +120,24 @@ if(!preg_match('/flag/i', json_encode($ret))){
 }
 ```
 ## Research
-在PHP中，`json_encode()`函数的主要作用是将PHP变量转换为JSON格式的字符串，以下是具体介绍： 
+在PHP中，
+`json_encode()` 函数的主要作用是
+将PHP变量转换为JSON格式的字符串，以下是具体介绍： 
 ### 数据序列化
-将PHP中的各种数据类型，如数组、对象、字符串、数字、布尔值等转换为JSON格式的字符串，以便在不同的系统或应用之间进行数据传输或存储。例如： 
+将PHP中的各种数据类型理论，如数组、对象、字符串、数字、布尔值等
+转换为JSON格式的字符串，以便在不同的系统或应用之间进行数据传输或存储。例如： 
 ```php
 $data = array('name' => 'John', 'age' => 30, 'city' => 'New York'); $jsonData = json_encode($data); echo $jsonData; 
 ``` 
-上述代码将一个关联数组转换为JSON字符串 `{"name":"John","age":"30","city":"New York"}`，方便数据在网络中传输或存储到文件等。 
+
+上述代码将一个关联数组转换为JSON字符串 
+`{"name":"John","age":"30","city":"New York"}`
+方便数据在网络中传输或存储到文件等。 
 ### 与JavaScript交互
-由于JSON是JavaScript中处理数据的常用格式，`json_encode()`函数使得PHP能够方便地与JavaScript进行数据交互。比如，在PHP中生成数据，然后通过`json_encode()`转换为JSON格式，再传递给JavaScript进行处理。 
+由于JSON是JavaScript中处理数据的常用格式，
+`json_encode()` 函数使得PHP能够方便地与JavaScript进行数据交互。
+比如，在PHP中生成数据，然后通过`json_encode()`
+转换为JSON格式，再传递给JavaScript进行处理。 
 ```php
 <?php 
 $data = array('message' => 'Hello from PHP!'); 
