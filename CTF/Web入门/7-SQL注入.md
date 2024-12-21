@@ -146,9 +146,10 @@ console.log(data.message);
 </script> 
 ``` 
 #### API Development
-When developing Web API, we need to convert data to JSON data to return m
-在开发Web API时，通常需要将数据以JSON格式返回给客户端。`json_encode()`函数可以将PHP中的数据处理结果转换为JSON格式，方便客户端进行解析和使用。 
-#### 数据存储
+When developing Web API, we need to convert data to JSON data to return message to client.
+`json_encode()` can convert PHP data into JSON format, so that the client can analyze it and explain it.
+#### Data Storage
+JSON format strings can be stored 
 可以将JSON格式的字符串存储到数据库或文件中，以便后续读取和使用。当需要从数据库或文件中获取数据时，再使用相应的函数将JSON字符串转换回PHP数据类型进行处理。 
 #### 配置文件处理
 有时配置文件会使用JSON格式来存储数据，`json_encode()`函数可以将PHP中的配置数据转换为JSON格式并写入配置文件，方便管理和修改配置信息。
