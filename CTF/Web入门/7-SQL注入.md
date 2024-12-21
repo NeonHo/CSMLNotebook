@@ -119,14 +119,14 @@ if(!preg_match('/flag|[0-9]/i', json_encode($ret))){
   $ret['msg']='查询成功';
 }
 ```
-The return record cannot incl
+The return records cannot include numbers.
 ## Research
 ### `json_encode`
-PHP
-`json_encode()` 函数的主要作用是
-将PHP变量转换为JSON格式的字符串，以下是具体介绍： 
+In PHP
+`json_encode()` convert PHP variables to JSON strings.
 #### 数据序列化
-将PHP中的各种数据类型理论，如数组、对象、字符串、数字、布尔值等
+In PHP, the datatype, such as array, object, string, numbers, boolean, etc.
+convert JSON format strings, so that different system or apps
 转换为JSON格式的字符串，以便在不同的系统或应用之间进行数据传输或存储。例如： 
 ```php
 $data = array('name' => 'John', 'age' => 30, 'city' => 'New York'); $jsonData = json_encode($data); echo $jsonData; 
