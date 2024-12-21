@@ -161,3 +161,4 @@ When we access the strings, we can use corresponding function to convert JSON st
 ## Experiment
 ### Local Test
 #### `replace`
+![[Pasted image 20241221094901.png]]
