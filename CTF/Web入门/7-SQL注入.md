@@ -103,3 +103,8 @@ The real test:
 ![[Pasted image 20241219065623.png]]
 
 # Web 174
+## Observation
+```PHP
+//拼接sql语句查找指定ID用户
+$sql = "select id,username,password from ctfshow_user2 where username !='flag' and id = '".$_GET['id']."' limit 1;";
+```
