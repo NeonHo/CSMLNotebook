@@ -153,7 +153,7 @@ JSON format strings can be stored in Dataset or Files.
 When we access the strings, we can use corresponding function to convert JSON strings back to PHP data type.
 ## Hypothesis
 - `to_base64` may also include numbers.
-- A stupid solution is to replace the numbers with the signs in numeric area of keyboard.
+- A stupid solution is to replace the numbers with the signs in numeric area of keyboard. (A long long replace code in SQL.)
 	- `1->!`
 	- `2->@`
 	- `3->#`
