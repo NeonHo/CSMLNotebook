@@ -112,3 +112,10 @@ The SQL in it is:
 ```SQL
 select id, username, password from ctfshow_user2 where username != 'flag' and id = '???' limit 1;
 ```
+ Condition:
+```PHP
+//检查结果是否有flag
+if(!preg_match('/flag/i', json_encode($ret))){
+  $ret['msg']='查询成功';
+}
+```
