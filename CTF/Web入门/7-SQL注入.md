@@ -119,6 +119,7 @@ if(!preg_match('/flag|[0-9]/i', json_encode($ret))){
   $ret['msg']='查询成功';
 }
 ```
+The return record cannot incl
 ## Research
 ### `json_encode`
 PHP
