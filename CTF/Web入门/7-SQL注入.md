@@ -218,4 +218,7 @@ Then the flag is as follows:
 ```
 ctfshow{^df$e^^c-$$$^-$d)(-(#e^-!e!)!bd*!bc$}"}
 ```
-Then we nee
+Then we need to replace the characters:
+```
+ctfshow{6df4e66c-4446-4d09-93e6-1e101bd81bc4}
+```
