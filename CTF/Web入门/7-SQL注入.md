@@ -210,3 +210,12 @@ We can decode the URL code:
 ![[Pasted image 20241221105418.png]]
 It's not completed!!!!
 So we need BurpSuite to send the completed command.
+![[Pasted image 20241221105534.png]]
+![[Pasted image 20241221105605.png]]
+Okay, we got it!
+![[Pasted image 20241221105631.png]]
+Then the flag is as follows:
+```
+ctfshow{^df$e^^c-$$$^-$d)(-(#e^-!e!)!bd*!bc$}"}
+```
+Then we nee
