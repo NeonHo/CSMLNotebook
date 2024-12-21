@@ -133,11 +133,8 @@ $data = array('name' => 'John', 'age' => 30, 'city' => 'New York'); $jsonData = 
 ``` 
 The code above convert an array to JSON strings:
 `{"name":"John","age":"30","city":"New York"}`
-#### 与JavaScript交互
-由于JSON是JavaScript中处理数据的常用格式，
-`json_encode()` 函数使得PHP能够方便地与JavaScript进行数据交互。
-比如，在PHP中生成数据，然后通过`json_encode()`
-转换为JSON格式，再传递给JavaScript进行处理。 
+#### Interaction with JavaScript
+JSON is the common data format in JavaScript.
 ```php
 <?php 
 $data = array('message' => 'Hello from PHP!'); 
@@ -148,7 +145,8 @@ var data = <?php echo $jsonData;?>;
 console.log(data.message); 
 </script> 
 ``` 
-#### API开发
+#### API Development
+When developing Web API, we need to convert data to JSON data to return m
 在开发Web API时，通常需要将数据以JSON格式返回给客户端。`json_encode()`函数可以将PHP中的数据处理结果转换为JSON格式，方便客户端进行解析和使用。 
 #### 数据存储
 可以将JSON格式的字符串存储到数据库或文件中，以便后续读取和使用。当需要从数据库或文件中获取数据时，再使用相应的函数将JSON字符串转换回PHP数据类型进行处理。 
