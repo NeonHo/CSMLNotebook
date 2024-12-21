@@ -108,6 +108,7 @@ The real test:
 //拼接sql语句查找指定ID用户
 $sql = "select id,username,password from ctfshow_user2 where username !='flag' and id = '".$_GET['id']."' limit 1;";
 ```
+The SQL in it is:
 ```SQL
 select id, username, password from ctfshow_user2 where username != 'flag' and id = '???' limit 1;
 ```
