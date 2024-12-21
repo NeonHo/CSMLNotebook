@@ -199,3 +199,5 @@ mysql> select id, username, password from ctfshow_user4 where username != 'flag'
 
 1 row in set (0.01 sec)
 ```
+#### Try Online
+![[Pasted image 20241221103330.png]]
