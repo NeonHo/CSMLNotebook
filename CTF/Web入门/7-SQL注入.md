@@ -126,15 +126,13 @@ In PHP
 `json_encode()` convert PHP variables to JSON strings.
 #### 数据序列化
 In PHP, the datatype, such as array, object, string, numbers, boolean, etc.
-convert JSON format strings, so that different system or apps
-转换为JSON格式的字符串，以便在不同的系统或应用之间进行数据传输或存储。例如： 
+convert JSON format strings, so that the strings can transmit or store among different systems or apps.
+e.g.:
 ```php
 $data = array('name' => 'John', 'age' => 30, 'city' => 'New York'); $jsonData = json_encode($data); echo $jsonData; 
 ``` 
-
-上述代码将一个关联数组转换为JSON字符串 
+The code above convert an array to JSON strings:
 `{"name":"John","age":"30","city":"New York"}`
-方便数据在网络中传输或存储到文件等。 
 #### 与JavaScript交互
 由于JSON是JavaScript中处理数据的常用格式，
 `json_encode()` 函数使得PHP能够方便地与JavaScript进行数据交互。
