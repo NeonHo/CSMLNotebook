@@ -242,3 +242,4 @@ if(!preg_match('/[\x00-\x7f]/i', json_encode($ret))){
 }
 ```
 ## Analysis
+The returned result can't be the numbers from 0 to $7\times16^1 + 15$.
