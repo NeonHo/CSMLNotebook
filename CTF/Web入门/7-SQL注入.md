@@ -232,5 +232,5 @@ $sql = "select username,password from ctfshow_user5 where username !='flag' and 
 ```
 SQL part:
 ```SQL
-select username, password from ctfshow_user5 where username != 'flag' and id = 
+select username, password from ctfshow_user5 where username != 'flag' and id = '????' limit 1;
 ```
