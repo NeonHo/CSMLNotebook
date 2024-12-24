@@ -222,3 +222,6 @@ Then we need to replace the characters:
 ```
 ctfshow{6df4e66c-4446-4d09-93e6-1e101bd81bc4}
 ```
+# Web 175
+![[Pasted image 20241225073835.png]]
+## 
