@@ -226,7 +226,7 @@ ctfshow{6df4e66c-4446-4d09-93e6-1e101bd81bc4}
 ![[Pasted image 20241225073835.png]]
 ## Observation
 Searching Sentence:
-```
+```PHP
 //拼接sql语句查找指定ID用户
 $sql = "select username,password from ctfshow_user5 where username !='flag' and id = '".$_GET['id']."' limit 1;";
 ```
@@ -234,3 +234,11 @@ SQL part:
 ```SQL
 select username, password from ctfshow_user5 where username != 'flag' and id = '????' limit 1;
 ```
+Return Logic:
+```PHP
+//检查结果是否有flag
+if(!preg_match('/[\x00-\x7f]/i', json_encode($ret))){
+  $ret['msg']='查询成功';
+}
+```
+## Analysis
