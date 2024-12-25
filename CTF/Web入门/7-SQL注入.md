@@ -266,5 +266,6 @@ select username, password from ctfshow_user5 where username != 'flag' and id = '
 ![[Pasted image 20241225151726.png]]
 ![[Pasted image 20241225151747.png]]
 ![[Pasted image 20241225151818.png]]
-Note: I recommend that we use BurpSuite to trach what we have sent to Server.
-If we directly use the input component to input the `#` at the tai
+Note: I recommend that we use Burp Suite to track what we have sent to Server.
+If we directly use the input component to input the `#` at the tail of our command, the `%23` will be ignored in the GET request.
+
