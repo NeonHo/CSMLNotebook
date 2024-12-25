@@ -253,3 +253,4 @@ Invalid.
 ## Hypothesis
 Nothing can be returned when the PHP code uses the function `preg_match`.
 So we only can output the records to file.
+### `into outfile`
