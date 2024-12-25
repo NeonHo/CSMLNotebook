@@ -251,3 +251,4 @@ Invalid.
 - `[\x00-\x7f]` : The expression describes a set of characters. `\x00` means `NULL`, `\x7f` means `DELETE`. The set include the whole ASCII character set.
 - `/i` : this means the Regular Expression is case-insensitive.
 ## Hypothesis
+Nothing can be returned when the PHP code uses the function `preg_match`.
