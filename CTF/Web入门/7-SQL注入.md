@@ -253,4 +253,8 @@ Invalid.
 ## Hypothesis
 Nothing can be returned when the PHP code uses the function `preg_match`.
 So we only can output the records to file.
-### `into outfile`
+### `into outfile` in `MySQL`
+MySQL offers `INTO OUTFILE`, which can write the records we have researched into files in servers.
+```SQL
+SELECT * FROM your_table INTO
+```
