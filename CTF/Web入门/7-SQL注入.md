@@ -248,6 +248,7 @@ We still can use `replace`.
 ![[Pasted image 20241225075416.png]]
 Invalid.
 ## Research
+- `[\x00-\x7f]`:  The expression describes a set of characters. `\x00` means `NULL`, `\x7f` means `DELETE`
 - `[\x00-\x7f]`：这个方括号内的表达式表示一个字符集，它匹配从 `\x00` 到 `\x7f` 的任意单个字符。`\x00` 是空字符（NULL），`\x7f` 是删除字符（DEL）。这个范围覆盖了ASCII字符集中的所有字符。
     
 - `/i`：这是正则表达式的修饰符，表示不区分大小写（case-insensitive）。但是，在这个特定的字符集 `[\x00-\x7f]` 中，由于ASCII字符集中的大写和小写字母都是包含在内的，所以这个修饰符实际上对匹配结果没有影响。
