@@ -256,5 +256,6 @@ So we only can output the records to file.
 ### `into outfile` in `MySQL`
 MySQL offers `INTO OUTFILE`, which can write the records we have researched into files in servers.
 ```SQL
-SELECT * FROM your_table INTO
+SELECT * FROM your_table INTO OUTFILE '/path/to/output.txt'
 ```
+Note: If we use `INTO OUTFILE`, we need writing rights of the files firstly.
