@@ -247,3 +247,4 @@ The returned result can't be the numbers from 0 to $7\times16^1 + 15$.
 We still can use `replace`.
 ![[Pasted image 20241225075416.png]]
 Invalid.
+## Analysis
