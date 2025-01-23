@@ -269,4 +269,8 @@ select username, password from ctfshow_user5 where username != 'flag' and id = '
 Note: I recommend that we use Burp Suite to track what we have sent to Server.
 If we directly use the input component to input the `#` at the tail of our command, the `%23` will be ignored in the GET request.
 
-# Web 
+# Web 176
+```PHP
+//拼接sql语句查找指定ID用户
+$sql = "select id,username,password from ctfshow_user where username !='flag' and id = '".$_GET['id']."' limit 1;";
+```
