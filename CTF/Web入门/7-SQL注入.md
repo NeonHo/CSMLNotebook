@@ -304,3 +304,10 @@ Same as [[#Web 177]]
 	- `999'or%0busername='flag`
 	- `%0b` means new line or Enter.
 ![[Pasted image 20250124102029.png]]
+# Web 179
+The solutions of [[#Web 178]] & [[#Web 177]] do not work.
+We need to look up the [ASCII table](https://baike.baidu.com/item/ASCII/309296?fr=aladdin):
+![[Pasted image 20250124104943.png]]
+We can find that `0x0c` works well:
+![[Pasted image 20250124105018.png]]
+![[Pasted image 20250124105151.png]]

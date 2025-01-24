@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,8 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e3de06f32360c68",
+  "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250124105151.png",
+    "Attachments/Pasted image 20250124105018.png",
+    "Attachments/Pasted image 20250124104943.png",
     "Attachments/Pasted image 20250124102029.png",
     "Attachments/Pasted image 20250124093259.png",
     "Attachments/Pasted image 20250124091332.png",
@@ -208,9 +211,6 @@
     "Attachments/Pasted image 20241225151747.png",
     "Attachments/Pasted image 20241225151726.png",
     "Attachments/Pasted image 20241225075416.png",
-    "Attachments/Pasted image 20241225073835.png",
-    "Attachments/Pasted image 20241221105631.png",
-    "Attachments/Pasted image 20241221105605.png",
     "CTF/Web入门/1-信息搜集.md",
     "CTF/Web/信息泄露.md",
     "CTF/Web/萌新Web23.md",
