@@ -287,3 +287,7 @@ select id,username,password from ctfshow_user where username !='flag' and id = '
 select id, username, password from ctfshow_user where username != 'flag' and id = '999' or username = 'flag' limit 1;
 ```
 ![[Pasted image 20250124090506.png]]
+# Web 176
+```SQL
+select id,username,password from ctfshow_user where username !='flag' and id = '???' limit 1;
+```
