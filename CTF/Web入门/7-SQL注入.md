@@ -294,4 +294,8 @@ select id,username,password from ctfshow_user where username !='flag' and id = '
 But:
 ![[Pasted image 20250124091332.png]]
 The filter works.
-- Firstly, we need to 
+- Firstly, try to remove all space.
+	- `999'or%0busername='flag`
+	- `%0b` means new line or Enter.
+![[Pasted image 20250124093259.png]]
+
