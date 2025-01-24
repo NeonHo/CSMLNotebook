@@ -299,4 +299,8 @@ The filter works.
 	- `%0b` means new line or Enter.
 ![[Pasted image 20250124093259.png]]
 # Web 178
-
+Same as [[#Web 177]]
+- Firstly, try to remove all space.
+	- `999'or%0busername='flag`
+	- `%0b` means new line or Enter.
+![[Pasted image 20250124102029.png]]
