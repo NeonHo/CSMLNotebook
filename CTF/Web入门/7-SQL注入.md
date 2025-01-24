@@ -293,4 +293,5 @@ select id,username,password from ctfshow_user where username !='flag' and id = '
 ```
 But:
 ![[Pasted image 20250124091332.png]]
-The filter works:
+The filter works.
+- Firstly, we need to 
