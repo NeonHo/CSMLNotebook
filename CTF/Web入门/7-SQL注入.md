@@ -311,3 +311,4 @@ We need to look up the [ASCII table](https://baike.baidu.com/item/ASCII/309296?f
 We can find that `0x0c` works well:
 ![[Pasted image 20250124105018.png]]
 ![[Pasted image 20250124105151.png]]
+# Web 180
