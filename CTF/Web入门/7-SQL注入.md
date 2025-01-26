@@ -312,3 +312,4 @@ We can find that `0x0c` works well:
 ![[Pasted image 20250124105018.png]]
 ![[Pasted image 20250124105151.png]]
 # Web 180
+![[Pasted image 20250126085712.png]]
