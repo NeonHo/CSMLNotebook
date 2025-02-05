@@ -501,3 +501,5 @@ $user_count = 0;
 ```
 The following result indicates that the table 'ctfshow_user' exists:
 ![[Pasted image 20250205105651.png]]
+
+'
