@@ -411,3 +411,73 @@ function waf($str){
 ```
 The same SQL command, but one more filter, that is `flag`.
 So we need to use a keyword: `like`.
+```
+999' or username like '%fla%
+```
+Convert to:
+```
+999’or%0cusername%0clike'fla_
+```
+
+## 模糊匹配 in SQL
+SQL 中的模糊匹配是一种用于在数据库中查找符合特定模式的数据的技术。它通常用于 `WHERE` 子句中，结合 `LIKE` 操作符和通配符来实现。以下是模糊匹配的核心概念：
+
+---
+
+### 1. **`LIKE` 操作符**
+`LIKE` 是 SQL 中用于模糊匹配的关键字。它允许你使用通配符来匹配字符串中的部分内容。
+
+---
+
+### 2. **通配符**
+SQL 模糊匹配中常用的通配符有两个：
+- **`%`**：匹配任意长度的字符（包括零个字符）。
+  - 示例：`'a%'` 匹配以 `a` 开头的任意字符串（如 `apple`、`abc`）。
+  - 示例：`'%a'` 匹配以 `a` 结尾的任意字符串（如 `banana`、`data`）。
+  - 示例：`'%a%'` 匹配包含 `a` 的任意字符串（如 `cat`、`grape`）。
+
+- **`_`**：匹配单个字符。
+  - 示例：`'a_'` 匹配以 `a` 开头且长度为 2 的字符串（如 `at`、`an`）。
+  - 示例：`'_a'` 匹配以 `a` 结尾且长度为 2 的字符串（如 `ba`、`ma`）。
+
+---
+
+### 3. **示例**
+假设有一个表 `users`，其中有一列 `name`，数据如下：
+
+| id  | name      |
+|-----|-----------|
+| 1   | Alice     |
+| 2   | Bob       |
+| 3   | Charlie   |
+| 4   | David     |
+| 5   | Eva       |
+
+- **查找以 `A` 开头的名字**：
+  ```sql
+  SELECT * FROM users WHERE name LIKE 'A%';
+  ```
+  结果：`Alice`
+
+- **查找包含 `a` 的名字**：
+  ```sql
+  SELECT * FROM users WHERE name LIKE '%a%';
+  ```
+  结果：`Alice`、`Charlie`、`David`、`Eva`
+
+- **查找第二个字符是 `o` 的名字**：
+  ```sql
+  SELECT * FROM users WHERE name LIKE '_o%';
+  ```
+  结果：`Bob`
+
+---
+
+### 4. **注意事项**
+- 模糊匹配的性能通常比精确匹配（如 `=`）差，尤其是在大数据集上。
+- 如果需要进行更复杂的模式匹配，可以使用正则表达式（如 MySQL 中的 `REGEXP`）。
+
+---
+
+### 总结
+SQL 中的模糊匹配通过 `LIKE` 操作符和通配符（`%` 和 `_`）实现，适合查找符合特定模式的字符串。
