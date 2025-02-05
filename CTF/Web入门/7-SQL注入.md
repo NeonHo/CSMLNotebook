@@ -410,3 +410,4 @@ function waf($str){
 }
 ```
 The same SQL command, but one more filter, that is `flag`.
+So we need to use a keyword: `like`.
