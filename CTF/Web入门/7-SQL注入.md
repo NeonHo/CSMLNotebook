@@ -344,3 +344,6 @@ function waf($str){
 
 这些字符通常用于控制文本格式或表示特殊字符。
 
+```PHP
+999' or username != 'flag
+```
