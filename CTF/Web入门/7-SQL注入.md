@@ -320,5 +320,14 @@ This means `%0c` still works.
 ```
 # Web 181
 ```SQL
-
+select id,username,password from ctfshow_user where username !='flag' and id = '???' limit 1;
 ```
+
+```PHP
+//对传入的参数进行了过滤
+function waf($str){
+	return preg_match('/ |\*|\x09|\x0a|\x0b|\x0c|\x00|\x0d|\xa0|\x23|\#|file|into|select/i', $str);
+}
+```
+`\x0c` and `select` are forbidden.
+
