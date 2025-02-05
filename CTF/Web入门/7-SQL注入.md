@@ -331,3 +331,16 @@ function waf($str){
 ```
 `\x0c` and `select` are forbidden.
 
+在PHP字符串中，这些转义字符和特殊字符的含义如下：
+
+1. `\x09`：水平制表符（Tab），ASCII值为9。
+2. `\x0a`：换行符（Line Feed），ASCII值为10。
+3. `\x0b`：垂直制表符（Vertical Tab），ASCII值为11。
+4. `\x0c`：换页符（Form Feed），ASCII值为12。
+5. `\x00`：空字符（Null），ASCII值为0。
+6. `\x0d`：回车符（Carriage Return），ASCII值为13。
+7. `\xa0`：非换行空格（Non-breaking Space），ASCII值为160。
+8. `\x23`：井号（#），ASCII值为35。
+
+这些字符通常用于控制文本格式或表示特殊字符。
+
