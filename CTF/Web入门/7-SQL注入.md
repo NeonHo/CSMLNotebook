@@ -481,3 +481,21 @@ SQL 模糊匹配中常用的通配符有两个：
 
 ### 总结
 SQL 中的模糊匹配通过 `LIKE` 操作符和通配符（`%` 和 `_`）实现，适合查找符合特定模式的字符串。
+# Web 183
+SQL part:
+```PHP
+//拼接sql语句查找指定ID用户
+$sql = "select count(pass) from ".$_POST['tableName'].";";
+```
+Filters:
+```PHP
+//对传入的参数进行了过滤
+function waf($str){
+	return preg_match('/ |\*|\x09|\x0a|\x0b|\x0c|\x0d|\xa0|\x00|\#|\x23|file|\=|or|\x7c|select|and|flag|into/i', $str);
+}
+```
+SQL result:
+```PHP
+//返回用户表的记录总数
+$user_count = 0;
+```
