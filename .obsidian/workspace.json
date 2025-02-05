@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e3de06f32360c68",
+            "id": "3a1a03bca128449a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "7-SQL注入"
             }
-          },
-          {
-            "id": "3a1a03bca128449a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常用图表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常用图表"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +200,8 @@
   },
   "active": "3a1a03bca128449a",
   "lastOpenFiles": [
-    "CTF/Web入门/7-SQL注入.md",
     "常用图表.md",
+    "CTF/Web入门/7-SQL注入.md",
     "DataTech",
     "Attachments/Pasted image 20250126090551.png",
     "Attachments/Pasted image 20250126085712.png",
