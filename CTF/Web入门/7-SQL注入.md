@@ -409,3 +409,4 @@ function waf($str){
 	return preg_match('/ |\*|\x09|\x0a|\x0b|\x0c|\x00|\x0d|\xa0|\x23|\#|file|into|select|flag/i', $str);
 }
 ```
+The same SQL command, but one more filter, that is `flag`.
