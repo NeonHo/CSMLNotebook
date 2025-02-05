@@ -416,9 +416,9 @@ So we need to use a keyword: `like`.
 ```
 Convert to:
 ```
-999’or%0cusername%0clike'fla_
+999'or%0cusername%0clike'fla_
 ```
-
+![[Pasted image 20250205104020.png]]
 ## 模糊匹配 in SQL
 SQL 中的模糊匹配是一种用于在数据库中查找符合特定模式的数据的技术。它通常用于 `WHERE` 子句中，结合 `LIKE` 操作符和通配符来实现。以下是模糊匹配的核心概念：
 
