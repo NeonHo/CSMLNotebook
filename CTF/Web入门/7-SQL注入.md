@@ -403,3 +403,9 @@ if (waf($input)) {
 - 使用 `urldecode` 函数对输入字符串进行解码，然后再进行匹配即可解决问题。
 
 # Web 182
+```PHP
+//对传入的参数进行了过滤
+function waf($str){
+	return preg_match('/ |\*|\x09|\x0a|\x0b|\x0c|\x00|\x0d|\xa0|\x23|\#|file|into|select|flag/i', $str);
+}
+```
