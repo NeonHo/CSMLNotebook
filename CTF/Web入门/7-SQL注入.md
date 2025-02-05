@@ -331,6 +331,8 @@ function waf($str){
 ```
 `\x0c` and `select` are forbidden.
 
+```
+￼￼\x0c￼￼ and ￼￼select￼￼ are forbidden.
 在PHP字符串中，这些转义字符和特殊字符的含义如下：
 
 1. `\x09`：水平制表符（Tab），ASCII值为9。
@@ -349,3 +351,55 @@ But there is no restriction for `%0c` instead of `\x0c`:
 999'or%0cusername='flag
 ```
 ![[Pasted image 20250205100558.png]]
+## `%0c` is not equal with `\0xc`
+你的代码无法匹配 `%0c` 的原因是 `%0c` 是 URL 编码形式的字符，而你的正则表达式直接匹配的是字符本身（如 `\x0c`），而不是 URL 编码后的形式。
+
+### 问题分析
+1. **`%0c` 的含义**：
+   - `%0c` 是 URL 编码，对应的字符是 `\x0c`（换页符）。
+   - 如果你的输入字符串是 `%0c`，它会被 PHP 当作字面字符串 `%0c` 处理，而不是直接解析为 `\x0c` 字符。
+
+2. **正则表达式的匹配**：
+   - 你的正则表达式 `/ |\*|\x09|\x0a|\x0b|\x0c|\x00|\x0d|\xa0|\x23|\#|file|into|select/i` 直接匹配字符（如 `\x0c`），而不是 URL 编码后的形式（如 `%0c`）。
+   - 因此，如果输入是 `%0c`，正则表达式无法匹配到它。
+
+---
+
+### 解决方法
+如果你希望匹配 URL 编码形式的字符（如 `%0c`），需要对输入字符串进行 URL 解码（`urldecode`），然后再进行匹配。
+
+修改后的代码如下：
+
+```php
+function waf($str) {
+    // 先对输入字符串进行 URL 解码
+    $decodedStr = urldecode($str);
+    // 匹配特殊字符或关键词
+    return preg_match('/ |\*|\x09|\x0a|\x0b|\x0c|\x00|\x0d|\xa0|\x23|\#|file|into|select/i', $decodedStr);
+}
+```
+
+---
+
+### 测试示例
+```php
+$input = "%0c"; // 输入是 %0c
+if (waf($input)) {
+    echo "匹配成功！";
+} else {
+    echo "匹配失败！";
+}
+```
+
+**输出**：
+```
+匹配成功！
+```
+
+---
+
+### 总结
+- `%0c` 是 URL 编码形式，需要先解码为 `\x0c`，才能被正则表达式匹配。
+- 使用 `urldecode` 函数对输入字符串进行解码，然后再进行匹配即可解决问题。
+
+# Web 182
