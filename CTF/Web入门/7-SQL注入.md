@@ -344,6 +344,8 @@ function waf($str){
 
 这些字符通常用于控制文本格式或表示特殊字符。
 
+But there is no restriction for `%0c` instead of `\x0c`:
 ```PHP
-999' or username != 'flag
+999'or%0cusername='flag
 ```
+![[Pasted image 20250205100558.png]]
