@@ -548,3 +548,9 @@ Try `HAVING`:
 ![[Pasted image 20250208100645.png]]
 Try `group by` and `having`:
 ![[Pasted image 20250208101407.png]]
+
+Encode `ctfshow` into ASCII Hex to avoid use `""` or `''`:
+![[Pasted image 20250208102253.png]]
+![[Pasted image 20250208102352.png]]
+We also can use `like "ctfshow%"`after ASCII Hex encoding:
+![[Pasted image 20250208102456.png]]
