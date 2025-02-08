@@ -554,3 +554,8 @@ Encode `ctfshow` into ASCII Hex to avoid use `""` or `''`:
 ![[Pasted image 20250208102352.png]]
 We also can use `like "ctfshow%"`after ASCII Hex encoding:
 ![[Pasted image 20250208102456.png]]
+![[Pasted image 20250208103700.png]]
+The flag:
+```plaintext
+ctfshow{3e1e753c-f6ed-4b8a-aee8-085aa79ae1ae}
+```
