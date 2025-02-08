@@ -573,4 +573,7 @@ function waf($str){
 }
 ```
 So we cannot use numbers this time.
+But SQL has the syntax as follows:
+![[Pasted image 20250208110238.png]]
+![[Pasted image 20250208110349.png]]
 
