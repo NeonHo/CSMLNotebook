@@ -514,3 +514,8 @@ Then we need to try every character to
 ```plaintext
 ctfshow{0bde24ed-c281-4013-a955-12fe8c846212}
 ```
+# Web 184
+SQL part:
+```SQL
+select count(*) from ".$_POST['tableName'].";
+```
