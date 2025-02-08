@@ -519,3 +519,15 @@ SQL part:
 ```SQL
 select count(*) from ".$_POST['tableName'].";
 ```
+Filters:
+```PHP
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+we can't use:
+```
+`,',"
+```
+so [[#Web 183]] is invalid:
+And the column may be not "pass".
