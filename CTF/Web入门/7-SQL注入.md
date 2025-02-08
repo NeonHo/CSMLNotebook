@@ -1,3 +1,14 @@
+# 小皮面板
+```bash
+xp
+```
+username: `b9c3939b`
+password: `hnfq150`
+SQL 
+user: `NeonDB`
+password: `hnfq150`
+![[Pasted image 20250208095043.png]]
+
 # Web 171
 ![[Pasted image 20241214102338.png]]
 ```PHP
