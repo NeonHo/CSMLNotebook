@@ -559,3 +559,18 @@ The flag:
 ```plaintext
 ctfshow{3e1e753c-f6ed-4b8a-aee8-085aa79ae1ae}
 ```
+# Web 185
+```PHP
+//对传入的参数进行了过滤
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|[0-9]|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+[[#Web 184]]
+```php
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+So we cannot use numbers this time.
+
