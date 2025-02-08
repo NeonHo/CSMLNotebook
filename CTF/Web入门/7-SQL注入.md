@@ -542,3 +542,7 @@ we can't use:
 ```
 So [[#Web 183]] is invalid,
 And the column may be not "pass".
+Try `GROUP BY`:
+![[Pasted image 20250208100327.png]]
+Try `HAVING`:
+![[Pasted image 20250208100645.png]]
