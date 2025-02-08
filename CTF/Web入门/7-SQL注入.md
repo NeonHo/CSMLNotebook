@@ -509,3 +509,8 @@ select count(pass) from `ctfshow_user`where`pass`like'%ctfshow{%'
 - Before execute the hack bar, we need to URL encode the `'%ctfshow{%'` to `'%25ctfshow%7B%25'`.
 ![[Pasted image 20250205111501.png]]
 Yes, there is 1 pass including `ctfshow{` in its own string.
+Then we need to try every character to 
+![[Pasted image 20250208084705.png]]
+```plaintext
+ctfshow{0bde24ed-c281-4013-a955-12fe8c846212}
+```
