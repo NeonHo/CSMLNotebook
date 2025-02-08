@@ -527,7 +527,7 @@ function waf($str){
 ```
 we can't use:
 ```
-`,',"
+`,',",where
 ```
-so [[#Web 183]] is invalid:
+So [[#Web 183]] is invalid,
 And the column may be not "pass".
