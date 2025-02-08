@@ -546,3 +546,5 @@ Try `GROUP BY`:
 ![[Pasted image 20250208100327.png]]
 Try `HAVING`:
 ![[Pasted image 20250208100645.png]]
+Try `group by` and `having`:
+![[Pasted image 20250208101407.png]]
