@@ -578,3 +578,4 @@ But SQL has the syntax as follows:
 ![[Pasted image 20250208110349.png]]
 
 ![[Pasted image 20250208112225.png]]
+![[Pasted image 20250210084023.png]]
