@@ -1,3 +1,14 @@
+# 小皮面板
+```bash
+xp
+```
+username: `b9c3939b`
+password: `hnfq150`
+SQL 
+user: `NeonDB`
+password: `hnfq150`
+![[Pasted image 20250208095043.png]]
+
 # Web 171
 ![[Pasted image 20241214102338.png]]
 ```PHP
@@ -509,3 +520,62 @@ select count(pass) from `ctfshow_user`where`pass`like'%ctfshow{%'
 - Before execute the hack bar, we need to URL encode the `'%ctfshow{%'` to `'%25ctfshow%7B%25'`.
 ![[Pasted image 20250205111501.png]]
 Yes, there is 1 pass including `ctfshow{` in its own string.
+Then we need to try every character to 
+![[Pasted image 20250208084705.png]]
+```plaintext
+ctfshow{0bde24ed-c281-4013-a955-12fe8c846212}
+```
+# Web 184
+SQL part:
+```SQL
+select count(*) from ".$_POST['tableName'].";
+```
+Filters:
+```PHP
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+we can't use:
+```
+`,',",where
+```
+So [[#Web 183]] is invalid,
+And the column may be not "pass".
+Try `GROUP BY`:
+![[Pasted image 20250208100327.png]]
+Try `HAVING`:
+![[Pasted image 20250208100645.png]]
+Try `group by` and `having`:
+![[Pasted image 20250208101407.png]]
+
+Encode `ctfshow` into ASCII Hex to avoid use `""` or `''`:
+![[Pasted image 20250208102253.png]]
+![[Pasted image 20250208102352.png]]
+We also can use `like "ctfshow%"`after ASCII Hex encoding:
+![[Pasted image 20250208102456.png]]
+![[Pasted image 20250208103700.png]]
+The flag:
+```plaintext
+ctfshow{3e1e753c-f6ed-4b8a-aee8-085aa79ae1ae}
+```
+# Web 185
+```PHP
+//对传入的参数进行了过滤
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|[0-9]|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+[[#Web 184]]
+```php
+function waf($str){
+	return preg_match('/\*|\x09|\x0a|\x0b|\x0c|\0x0d|\xa0|\x00|\#|\x23|file|\=|or|\x7c|select|and|flag|into|where|\x26|\'|\"|union|\`|sleep|benchmark/i', $str);
+}
+```
+So we cannot use numbers this time.
+But SQL has the syntax as follows:
+![[Pasted image 20250208110238.png]]
+![[Pasted image 20250208110349.png]]
+
+![[Pasted image 20250208112225.png]]
+![[Pasted image 20250210084023.png]]
