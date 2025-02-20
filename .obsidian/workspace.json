@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Docker + Kali.md",
+                "file": "CTF/Kali + Docker + DVWA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker + Kali"
+              "title": "Kali + Docker + DVWA"
             }
           }
         ]
@@ -202,7 +202,7 @@
   "active": "3a1a03bca128449a",
   "lastOpenFiles": [
     "CTF/Web入门/7-SQL注入.md",
-    "CTF/Docker + Kali.md",
+    "CTF/Kali + Docker + DVWA.md",
     "Attachments/Pasted image 20250210084023.png",
     "Attachments/Pasted image 20250208112225.png",
     "Attachments/Pasted image 20250208110349.png",

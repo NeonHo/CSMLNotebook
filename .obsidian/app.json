@@ -34,7 +34,8 @@
     "Endian",
     "booleans",
     "WebShell",
-    "AntSword"
+    "AntSword",
+    "DVWA"
   ],
   "showLineNumber": true
 }
