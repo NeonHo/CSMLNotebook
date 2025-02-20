@@ -10,7 +10,10 @@ deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
 ```
 # Install Docker
 ```
-sudo apt-get install docker.io
+sudo apt update
+
+sudo apt-get install -y docker.io
+
 sudo apt-get install docker-compose
 
 
@@ -23,12 +26,19 @@ Docker change images:
 vi /etc/docker/daemon.json
 {
     "registry-mirrors": [
-		"cr.laoyou.ip-ddns.com",
-		"docker.1panel.live",
-		"image.cloudlayer.icu",
+		"https://docker.1panel.live",
+		"https://image.cloudlayer.icu"
     ]
 }
 
+```
+- These mirrors may be invalid, you need to search new ones.
+
+```Bash
+sudo systemctl daemon-reload
+sudo systemctl restart docker.service
+
+sudo docker pull sqreen/dvwa  # Try to pull an image.
 ```
 
 # Execute Docker Images
