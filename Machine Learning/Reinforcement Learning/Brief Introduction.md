@@ -23,6 +23,7 @@ sequenceDiagram
 ## 1.2. 动作空间（Action Space, A）
 ## 1.3. 奖励函数（Reward Function, R）
 ## 1.4. 环境动态（Environment Dynamics）
+状态转移概率（即 `P(s′|s,a)`），描述执行动作后环境如何变化。
 # 2. 环境交互
 ## 2.1. 生成轨迹（Trajectories）
 ## 2.2. 探索（Exploration）
