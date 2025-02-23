@@ -20,12 +20,16 @@ sequenceDiagram
 
 
 ## 1.1. 状态空间（State Space, S）
+智能体（Agent）能感知的环境信息。
 ## 1.2. 动作空间（Action Space, A）
+智能体可执行的操作集合。
 ## 1.3. 奖励函数（Reward Function, R）
+环境对智能体行为的即时反馈（如得分增加、距离目标接近的奖励）。
 ## 1.4. 环境动态（Environment Dynamics）
 状态转移概率（即 `P(s′|s,a)`），描述执行动作后环境如何变化。
 # 2. 环境交互
 ## 2.1. 生成轨迹（Trajectories）
+
 ## 2.2. 探索（Exploration）
 ## 2.3. 利用（Exploitation）
 # 3. 算法选择与策略优化
