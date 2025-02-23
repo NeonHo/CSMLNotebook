@@ -2,13 +2,16 @@
 ```mermaid
 sequenceDiagram
 	actor Agent
+	participant State_Space
+	participant Action_Space
+	participant Environment
     loop Every Iteration
 	    Agent->>+State_Space: 感知
 	    State_Space->>+Environment: 获取环境信息
-	    Environment-->>-State_Space: 提供环境信息
+	    Environment-->>State_Space: 提供环境信息
 	    State_Space-->>-Agent: 返回环境信息
 		Agent->>+Action_Space: 选择行为
-		Action_Space->>+Environment: 执行选中行为	
+		Action_Space->>-Environment: 执行选中行为	
 		Environment-->>Environment: 变化
 	    Environment-->>-Agent: Reward Function 即时反馈
     end
