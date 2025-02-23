@@ -1,20 +1,15 @@
 # 1. 问题建模
-```mermaid  
-graph TD
-	Ag((Agent)) --感知信息--> Env((环境))
-	Ag --可执行-->A(操作集合)
-	Env --及时反馈-->Ag
-	Env --根据-->A --变化-->Env
-```
-
 ```mermaid
 sequenceDiagram
 	actor Agent
-    Environment->>State_Space: 提供环境信息
     Agent->>State_Space: 感知
-	Agent->>Action_Space: 选择行为
-	Action_Space->>Environment: 执行选中行为	
-    Environment-->>Agent: Reward Function 即时反馈
+    Environment->>State_Space: 提供环境信息
+    loop Every Iteration
+		Agent->>Action_Space: 选择行为
+		Action_Space->>+Environment: 执行选中行为	
+	    Environment-->>-Agent: Reward Function 即时反馈
+	    
+    end
 ```
 
 
