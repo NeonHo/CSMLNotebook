@@ -1,4 +1,24 @@
 # 1. 问题建模
+```mermaid  
+graph TD
+	Ag((Agent)) --感知信息--> Env((环境))
+	Ag --可执行-->A(操作集合)
+	Env --及时反馈-->Ag
+	Env --根据-->A --变化-->Env
+```
+
+```mermaid
+sequenceDiagram
+	actor Agent
+    Environment->>State_Space: 提供环境信息
+    Agent->>State_Space: 感知
+	Agent->>Action_Space: 选择行为
+	Action_Space->>Environment: 执行选中行为	
+    Environment-->>Agent: Reward Function 即时反馈
+```
+
+
+
 ## 1.1. 状态空间（State Space, S）
 ## 1.2. 动作空间（Action Space, A）
 ## 1.3. 奖励函数（Reward Function, R）

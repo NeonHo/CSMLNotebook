@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -188,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2edc79854db4ed9c",
+  "active": "3a1a03bca128449a",
   "lastOpenFiles": [
     "CTF/Kali + Docker + DVWA.md",
     "Machine Learning/Reinforcement Learning/Brief Introduction.md",
