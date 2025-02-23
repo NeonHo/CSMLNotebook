@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 221.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Web入门/7-SQL注入.md"
+                "file": "Machine Learning/Reinforcement Learning/Brief Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7-SQL注入"
+              "title": "Outline of Brief Introduction"
             }
           },
           {
@@ -181,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1a03bca128449a",
+  "active": "2edc79854db4ed9c",
   "lastOpenFiles": [
     "CTF/Kali + Docker + DVWA.md",
     "Machine Learning/Reinforcement Learning/Brief Introduction.md",
