@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4f87364acc5d52",
+        "id": "bc5918392f7426aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1a03bca128449a",
+            "id": "b0916a153cef422c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Python/Bytes and String.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bytes and String"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1a03bca128449a",
+  "active": "b0916a153cef422c",
   "lastOpenFiles": [
-    "Machine Learning/Reinforcement Learning/Brief Introduction.md",
+    "Troubles and Solutions/KaLi 自动锁屏控制不了.md",
     "Languages/Python/Bytes and String.md",
+    "Machine Learning/Reinforcement Learning/Brief Introduction.md",
     "CTF/Kali + Docker + DVWA.md",
     "Machine Learning/Reinforcement Learning",
     "CTF/Web入门/7-SQL注入.md",
@@ -243,7 +240,6 @@
     "CTF/工具.md",
     "CTF/Exploit.md",
     "CTF/密码.md",
-    "Projects/未命名.md",
     "Development/云平台运维",
     "Machine Learning/Deep Learning/图像分割/实例分割",
     "Machine Learning/Deep Learning/图像分割/语义分割",
