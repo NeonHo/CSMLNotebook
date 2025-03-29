@@ -11,10 +11,14 @@
             "id": "b0916a153cef422c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Media/数据史话.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "数据史话"
             }
           }
         ]
@@ -136,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Brief Introduction.md",
+                "file": "Projects/Media/数据史话.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brief Introduction"
+              "title": "Outline of 数据史话"
             }
           },
           {
@@ -180,12 +184,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0916a153cef422c",
+  "active": "a148b6e7d89eaf70",
   "lastOpenFiles": [
+    "Projects/Untitled.md",
+    "Projects/Media/数据史话.md",
+    "Projects/Media",
     "Troubles and Solutions/KaLi 自动锁屏控制不了.md",
     "Languages/Python/Bytes and String.md",
     "Machine Learning/Reinforcement Learning/Brief Introduction.md",
@@ -238,15 +244,12 @@
     "CTF/Web/XML.md",
     "CTF/Web/Nginx.md",
     "CTF/工具.md",
-    "CTF/Exploit.md",
-    "CTF/密码.md",
     "Development/云平台运维",
     "Machine Learning/Deep Learning/图像分割/实例分割",
     "Machine Learning/Deep Learning/图像分割/语义分割",
     "Machine Learning/Deep Learning/图像分割",
     "CTF/Web入门",
     "Computer Science/Network/2. 应用层",
-    "Computer Science/Network/3. 传输层",
     "未命名.canvas"
   ]
 }
