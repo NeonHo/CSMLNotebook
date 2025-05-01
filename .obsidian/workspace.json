@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/GoldBucket/Quant.md",
+                "file": "Economics/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quant"
+              "title": "Untitled"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "ca877a42d83a1aa6",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250501091512.png",
     "Projects/GoldBucket/Quant.md",
+    "Economics/Untitled.md",
+    "Attachments/Pasted image 20250501091512.png",
     "Attachments/quant-wiki.png",
     "Attachments/1737422354226-7661075b-8ae2-4716-9569-7c8ec95323ae.png",
     "README.md",
@@ -233,7 +234,6 @@
     "Attachments/Pasted image 20250208103700.png",
     "Attachments/Pasted image 20250208102456.png",
     "Attachments/Pasted image 20250208102352.png",
-    "Attachments/Pasted image 20250208102253.png",
     "Computer Science/CTF/Web入门/5-PHP features.md",
     "DataTech",
     "Computer Science/CTF/Web入门/1-信息搜集.md",
