@@ -55,6 +55,7 @@ pd.read_excel(
 	skip_footer,
 )
 ```
+- 其余参数与 CSV 一致。
 - `skip_footer`：
 
 | 姓名                 | 年龄 | 成绩 |
