@@ -55,4 +55,22 @@ pd.read_excel(
 	skip_footer,
 )
 ```
+- `skip_footer`：
+
+| 姓名                 | 年龄 | 成绩 |
+| -------------------- | ---- | ---- |
+| 张三                 | 20   | 85   |
+| 李四                 | 22   | 90   |
+| 王五                 | 21   | 78   |
+| 总计                 | -    | -    |
+| 备注：数据截至2023年 | -    | -    |
+`skip_footer` 参数用于指定在读取Excel文件时，从文件底部开始跳过的行数。这在处理包含页脚信息（如汇总行、版权声明等）的Excel文件时非常有用。
+- 当Excel文件的底部包含一些不需要作为数据处理的行时，`skip_footer` 允许你忽略这些行，从而只将需要的数据加载到 `DataFrame` 中。这有助于确保加载的数据准确，避免将无关信息误当作数据处理。 
+-  `skip_footer` 参数跳过。 
+```python
+import pandas as pd 
+# 跳过底部2行 
+df = pd.read_excel('example.xlsx', skip_footer = 2) print(df) 
+```
+在上述代码中，`skip_footer = 2` 表示从文件底部开始跳过2行。
 # From SQL
