@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Languages/Python/Pandas/Data Load.md",
+                "file": "Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Load"
+              "title": "Data Science"
             }
           }
         ]
@@ -205,9 +205,10 @@
   },
   "active": "ca877a42d83a1aa6",
   "lastOpenFiles": [
+    "Computer Science/Languages/Python/Pandas/Data Load.md",
+    "Data Science.md",
     "Computer Science/Languages/Python/Pandas/Operations to DataFrame.md",
     "Computer Science/Languages/Python/Pandas/Three Classes.md",
-    "Computer Science/Languages/Python/Pandas/Data Load.md",
     "Computer Science/CTF/Web入门/7-SQL注入.md",
     "Computer Science/Languages/Python/Pandas",
     "Computer Science/Database/MySQL/regexp.md",
@@ -245,7 +246,6 @@
     "DataTech",
     "Computer Science/CTF/Web入门/1-信息搜集.md",
     "Computer Science/CTF/Web/信息泄露.md",
-    "Computer Science/CTF/Web/萌新Web23.md",
     "Attachments/271872B",
     "Computer Science/Development/云平台运维",
     "Machine Learning/Deep Learning/图像分割/实例分割",
