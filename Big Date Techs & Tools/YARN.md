@@ -1,0 +1,1 @@
+YARN（Yet Another Resource Negotiator）是一个**资源调度平台**，负责为运算程序提供服务器运算资源。
