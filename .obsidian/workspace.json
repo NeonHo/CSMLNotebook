@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b298a51d5a6538",
+        "id": "a26b8155095d2485",
         "type": "tabs",
         "children": [
           {
-            "id": "ca877a42d83a1aa6",
+            "id": "c774369907340e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,13 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca877a42d83a1aa6",
+  "active": "c774369907340e1d",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2025-06-12 at 9.59.11 AM.png",
+    "Data Science/2. 数据流程与方法.md",
     "Data Science/1. 数据科学概述.md",
     "Attachments/Pasted image 20250612093024.png",
     "Attachments/Pasted image 20250612092956.png",
     "Attachments/Pasted image 20250612092636.png",
-    "Data Science/2. 数据流程与方法.md",
     "Attachments/数据科学基本流程示意图.png",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
@@ -244,7 +245,6 @@
     "Machine Learning/Reinforcement Learning",
     "Attachments/Pasted image 20250210084023.png",
     "Attachments/Pasted image 20250208112225.png",
-    "Attachments/Pasted image 20250208110349.png",
     "DataTech",
     "Attachments/271872B",
     "Computer Science/Development/云平台运维",
