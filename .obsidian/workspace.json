@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/辛普森悖论、大数据偏见、幸存者偏差.md",
+                "file": "Big Date Techs & Tools/1. MapReduce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辛普森悖论、大数据偏见、幸存者偏差"
+              "title": "1. MapReduce"
             }
           }
         ],
@@ -220,8 +220,12 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
-    "Data Science/4. 大数据能力评价.md",
+    "Attachments/Pasted image 20250612191428.png",
+    "Attachments/Pasted image 20250612191239.png",
+    "Big Date Techs & Tools/2. HBase.md",
+    "Big Date Techs & Tools/1. MapReduce.md",
     "Data Science/辛普森悖论、大数据偏见、幸存者偏差.md",
+    "Data Science/4. 大数据能力评价.md",
     "Data Science/3. 数据项目管理.md",
     "Data Science/数据故事化.md",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
@@ -235,8 +239,6 @@
     "Big Date Techs & Tools/5. Spark.md",
     "Big Date Techs & Tools/4. Hive.md",
     "Big Date Techs & Tools/3. HDFS.md",
-    "Big Date Techs & Tools/2. HBase.md",
-    "Big Date Techs & Tools/1. MapReduce.md",
     "Big Date Techs & Tools",
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
@@ -244,7 +246,6 @@
     "Attachments/Pasted image 20250612105314.png",
     "Attachments/Pasted image 20250612103845.png",
     "Attachments/Pasted image 20250612103248.png",
-    "Attachments/Pasted image 20250612101712.png",
     "Data Science/1. 数据科学概述.md",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
@@ -258,7 +259,6 @@
     "Computer Science/CTF/Web入门/4-文件包含.md",
     "Economics/Untitled.md",
     "Projects/GoldBucket/Quant.md",
-    "README.md",
     "Economics",
     "Projects/Media",
     "Machine Learning/Reinforcement Learning",
