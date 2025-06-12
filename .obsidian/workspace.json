@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/3. 数据项目管理.md",
+                "file": "Data Science/4. 大数据能力评价.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 数据项目管理"
+              "title": "4. 大数据能力评价"
             }
           }
         ],
@@ -220,6 +220,8 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
+    "Data Science/3. 数据项目管理.md",
+    "Data Science/数据故事化.md",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
     "Machine Learning/回归分析.md",
     "Data Science/4. 大数据能力评价.md",
@@ -229,7 +231,6 @@
     "Data Science/2. 数据流程与方法.md",
     "数据连续性理论.md",
     "Machine Learning/面临的问题.md",
-    "Data Science/3. 数据项目管理.md",
     "Big Date Techs & Tools/5. Spark.md",
     "Big Date Techs & Tools/4. Hive.md",
     "Big Date Techs & Tools/3. HDFS.md",
@@ -243,7 +244,6 @@
     "Attachments/Pasted image 20250612103845.png",
     "Attachments/Pasted image 20250612103248.png",
     "Attachments/Pasted image 20250612101712.png",
-    "Attachments/Pasted image 20250612101706.png",
     "Data Science/1. 数据科学概述.md",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
