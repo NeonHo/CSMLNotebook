@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Date Techs & Tools/YARN.md",
+                "file": "Big Date Techs & Tools/1. MapReduce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YARN"
+              "title": "1. MapReduce"
             }
           }
         ]
@@ -205,9 +205,10 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
+    "Big Date Techs & Tools/YARN.md",
+    "Big Date Techs & Tools/MapReduce架构概述.md",
     "Attachments/Pasted image 20250612192344.png",
     "Big Date Techs & Tools/3. HDFS.md",
-    "Big Date Techs & Tools/YARN.md",
     "Big Date Techs & Tools/Hadoop.md",
     "Big Date Techs & Tools/1. MapReduce.md",
     "Data Science/4. 大数据能力评价.md",
@@ -232,7 +233,6 @@
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
     "Attachments/Pasted image 20250612105422.png",
-    "Attachments/Pasted image 20250612105314.png",
     "Data Science/1. 数据科学概述.md",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
