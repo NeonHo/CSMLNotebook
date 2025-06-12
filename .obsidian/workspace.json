@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "预处理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "062ee652a1428ff7",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Data Science/3. 数据项目管理.md",
     "Data Science/数据故事化.md",
