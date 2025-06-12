@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/2. 数据流程与方法.md",
+                "file": "Machine Learning/回归分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 数据流程与方法"
+              "title": "回归分析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -218,11 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "c774369907340e1d",
   "lastOpenFiles": [
+    "Machine Learning/回归分析.md",
+    "Machine Learning/随机变量 非随机变量 解释变量 被解释变量.md",
+    "Attachments/分享对话-豆包 (1).png",
+    "Attachments/分享对话-豆包.png",
+    "Data Science/2. 数据流程与方法.md",
     "数据连续性理论.md",
     "Machine Learning/面临的问题.md",
-    "Data Science/2. 数据流程与方法.md",
     "Data Science/3. 数据项目管理.md",
     "Data Science/4. 大数据能力评价.md",
     "Big Date Techs & Tools/5. Spark.md",
@@ -239,8 +243,6 @@
     "Attachments/Pasted image 20250612103248.png",
     "Attachments/Pasted image 20250612101712.png",
     "Attachments/Pasted image 20250612101706.png",
-    "Attachments/Pasted image 20250612101557.png",
-    "Attachments/Screenshot 2025-06-12 at 9.59.11 AM.png",
     "Data Science/1. 数据科学概述.md",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
@@ -258,8 +260,6 @@
     "Economics",
     "常用图表.md",
     "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-02 17.52.08.excalidraw.md",
-    "Computer Science/CTF/Web入门/3-命令执行.md",
     "Projects/Media",
     "Machine Learning/Reinforcement Learning",
     "DataTech",
