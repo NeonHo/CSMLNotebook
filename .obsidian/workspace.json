@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/回归分析.md",
+                "file": "Data Science/3. 数据项目管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "回归分析"
+              "title": "3. 数据项目管理"
             }
           }
         ],
@@ -220,8 +220,9 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
-    "Data Science/4. 大数据能力评价.md",
+    "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
     "Machine Learning/回归分析.md",
+    "Data Science/4. 大数据能力评价.md",
     "Machine Learning/随机变量 非随机变量 解释变量 被解释变量.md",
     "Attachments/分享对话-豆包 (1).png",
     "Attachments/分享对话-豆包.png",
@@ -259,7 +260,6 @@
     "README.md",
     "Economics",
     "常用图表.md",
-    "Excalidraw/Drawing 2023-12-03 23.48.53.excalidraw.md",
     "Projects/Media",
     "Machine Learning/Reinforcement Learning",
     "DataTech",
