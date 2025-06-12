@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据连续性理论.md",
+                "file": "Data Science/2. 数据流程与方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据连续性理论"
+              "title": "2. 数据流程与方法"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "数据加工",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,8 +221,8 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
-    "Machine Learning/面临的问题.md",
     "数据连续性理论.md",
+    "Machine Learning/面临的问题.md",
     "Data Science/2. 数据流程与方法.md",
     "Data Science/3. 数据项目管理.md",
     "Data Science/4. 大数据能力评价.md",
