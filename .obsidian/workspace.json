@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Data Science.md",
+                "file": "Data Science/数据流程与方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Science"
+              "title": "数据流程与方法"
             }
           }
         ]
@@ -203,11 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "ca877a42d83a1aa6",
   "lastOpenFiles": [
+    "Data Science/Data Science Brief Introduction.md",
+    "Data Science/数据流程与方法.md",
+    "Attachments/数据科学基本流程示意图.png",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
-    "Data Science/Data Science.md",
     "Computer Science/Languages/Python/Pandas/Data Load.md",
     "Computer Science/Languages/Python/Pandas/Operations to DataFrame.md",
     "Computer Science/Languages/Python/Pandas/Three Classes.md",
@@ -244,13 +246,11 @@
     "Attachments/Pasted image 20250208110238.png",
     "Attachments/Pasted image 20250208103700.png",
     "Attachments/Pasted image 20250208102456.png",
-    "Attachments/Pasted image 20250208102352.png",
     "DataTech",
     "Attachments/271872B",
     "Computer Science/Development/云平台运维",
     "Machine Learning/Deep Learning/图像分割/实例分割",
     "Machine Learning/Deep Learning/图像分割/语义分割",
-    "Machine Learning/Deep Learning/图像分割",
     "未命名.canvas"
   ]
 }
