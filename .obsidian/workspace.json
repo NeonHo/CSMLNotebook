@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/数据流程与方法.md",
+                "file": "Data Science/2. 数据流程与方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据流程与方法"
+              "title": "2. 数据流程与方法"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "ca877a42d83a1aa6",
   "lastOpenFiles": [
-    "Data Science/Data Science Brief Introduction.md",
-    "Data Science/数据流程与方法.md",
+    "Data Science/1. 数据科学概述.md",
+    "Data Science/2. 数据流程与方法.md",
     "Attachments/数据科学基本流程示意图.png",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
