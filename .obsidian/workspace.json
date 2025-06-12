@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Languages/Python/The operators' equal priorities.md",
+                "file": "Data Science/Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The operators' equal priorities"
+              "title": "Data Science"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca877a42d83a1aa6",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Data Science.md",
+    "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
+    "Data Science/Data Science.md",
     "Computer Science/Languages/Python/Pandas/Data Load.md",
     "Computer Science/Languages/Python/Pandas/Operations to DataFrame.md",
     "Computer Science/Languages/Python/Pandas/Three Classes.md",
@@ -245,7 +246,6 @@
     "Attachments/Pasted image 20250208102456.png",
     "Attachments/Pasted image 20250208102352.png",
     "DataTech",
-    "Computer Science/CTF/Web入门/1-信息搜集.md",
     "Attachments/271872B",
     "Computer Science/Development/云平台运维",
     "Machine Learning/Deep Learning/图像分割/实例分割",
