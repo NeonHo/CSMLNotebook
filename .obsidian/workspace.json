@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Date Techs & Tools/3. HDFS.md",
+                "file": "Big Date Techs & Tools/Hadoop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. HDFS"
+              "title": "Hadoop"
             }
           }
         ]
@@ -205,11 +205,12 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
-    "Big Date Techs & Tools/YARN.md",
+    "Big Date Techs & Tools/4. Hive.md",
     "Big Date Techs & Tools/1. MapReduce.md",
+    "Big Date Techs & Tools/3. HDFS.md",
+    "Big Date Techs & Tools/YARN.md",
     "Attachments/Pasted image 20250612193429.png",
     "Big Date Techs & Tools/Hadoop.md",
-    "Big Date Techs & Tools/3. HDFS.md",
     "Big Date Techs & Tools/MapReduce架构概述.md",
     "Attachments/Pasted image 20250612192344.png",
     "Data Science/4. 大数据能力评价.md",
@@ -229,7 +230,6 @@
     "数据连续性理论.md",
     "Machine Learning/面临的问题.md",
     "Big Date Techs & Tools/5. Spark.md",
-    "Big Date Techs & Tools/4. Hive.md",
     "Big Date Techs & Tools",
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
