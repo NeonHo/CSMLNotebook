@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数据加工",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "062ee652a1428ff7",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "数据连续性理论.md",
     "Machine Learning/面临的问题.md",
