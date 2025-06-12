@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/2. 数据流程与方法.md",
+                "file": "Data Science/3. 数据项目管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 数据流程与方法"
+              "title": "3. 数据项目管理"
             }
           }
         ]
@@ -205,12 +205,14 @@
   },
   "active": "c774369907340e1d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250612103845.png",
+    "Data Science/2. 数据流程与方法.md",
+    "Data Science/3. 数据项目管理.md",
     "Attachments/Pasted image 20250612103248.png",
     "Attachments/Pasted image 20250612101712.png",
     "Attachments/Pasted image 20250612101706.png",
     "Attachments/Pasted image 20250612101557.png",
     "Attachments/Screenshot 2025-06-12 at 9.59.11 AM.png",
-    "Data Science/2. 数据流程与方法.md",
     "Data Science/1. 数据科学概述.md",
     "Attachments/Pasted image 20250612093024.png",
     "Attachments/Pasted image 20250612092956.png",
@@ -229,7 +231,6 @@
     "Economics/Untitled.md",
     "Projects/GoldBucket/Quant.md",
     "Attachments/Pasted image 20250501091512.png",
-    "Attachments/quant-wiki.png",
     "README.md",
     "Economics",
     "常用图表.md",
@@ -244,7 +245,6 @@
     "Projects/Media",
     "Projects/Troubles and Solutions/KaLi 自动锁屏控制不了.md",
     "Computer Science/Languages/Python/Bytes and String.md",
-    "Machine Learning/Reinforcement Learning/Brief Introduction.md",
     "Machine Learning/Reinforcement Learning",
     "DataTech",
     "Attachments/271872B",
