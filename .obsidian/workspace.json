@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/1. 数据科学概述.md",
+                "file": "Data Science/2. 数据流程与方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 数据科学概述"
+              "title": "2. 数据流程与方法"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -206,10 +205,11 @@
   },
   "active": "ca877a42d83a1aa6",
   "lastOpenFiles": [
+    "Data Science/1. 数据科学概述.md",
+    "Attachments/Pasted image 20250612093024.png",
     "Attachments/Pasted image 20250612092956.png",
     "Attachments/Pasted image 20250612092636.png",
     "Data Science/2. 数据流程与方法.md",
-    "Data Science/1. 数据科学概述.md",
     "Attachments/数据科学基本流程示意图.png",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
@@ -245,8 +245,6 @@
     "Attachments/Pasted image 20250210084023.png",
     "Attachments/Pasted image 20250208112225.png",
     "Attachments/Pasted image 20250208110349.png",
-    "Attachments/Pasted image 20250208110238.png",
-    "Attachments/Pasted image 20250208103700.png",
     "DataTech",
     "Attachments/271872B",
     "Computer Science/Development/云平台运维",
