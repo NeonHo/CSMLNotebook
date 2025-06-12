@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/3. 数据项目管理.md",
+                "file": "Data Science/4. 大数据能力评价.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 数据项目管理"
+              "title": "4. 大数据能力评价"
             }
           }
         ]
@@ -205,9 +205,12 @@
   },
   "active": "c774369907340e1d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250612105422.png",
+    "Attachments/Pasted image 20250612105314.png",
+    "Data Science/3. 数据项目管理.md",
+    "Data Science/4. 大数据能力评价.md",
     "Attachments/Pasted image 20250612103845.png",
     "Data Science/2. 数据流程与方法.md",
-    "Data Science/3. 数据项目管理.md",
     "Attachments/Pasted image 20250612103248.png",
     "Attachments/Pasted image 20250612101712.png",
     "Attachments/Pasted image 20250612101706.png",
@@ -217,7 +220,6 @@
     "Attachments/Pasted image 20250612093024.png",
     "Attachments/Pasted image 20250612092956.png",
     "Attachments/Pasted image 20250612092636.png",
-    "Attachments/数据科学基本流程示意图.png",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
     "Computer Science/Languages/Python/Pandas/Data Load.md",
@@ -230,7 +232,6 @@
     "Computer Science/CTF/Web入门/4-文件包含.md",
     "Economics/Untitled.md",
     "Projects/GoldBucket/Quant.md",
-    "Attachments/Pasted image 20250501091512.png",
     "README.md",
     "Economics",
     "常用图表.md",
@@ -244,7 +245,6 @@
     "Projects/Untitled.md",
     "Projects/Media",
     "Projects/Troubles and Solutions/KaLi 自动锁屏控制不了.md",
-    "Computer Science/Languages/Python/Bytes and String.md",
     "Machine Learning/Reinforcement Learning",
     "DataTech",
     "Attachments/271872B",
