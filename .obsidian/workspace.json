@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/R-squre.md",
+                "file": "Machine Learning/SVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R-squre"
+              "title": "SVM"
             }
           }
         ]
@@ -203,12 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "663282c8d420a116",
   "lastOpenFiles": [
+    "Machine Learning/R-squre.md",
     "Machine Learning/SVM.md",
     "Machine Learning/LDA 线性判别分析 & FDA.md",
     "Machine Learning/回归模型.md",
-    "Machine Learning/R-squre.md",
     "Machine Learning/特征选择.md",
     "Machine Learning/Inductive Bias 归纳偏好.md",
     "Machine Learning/回归分析.md",
