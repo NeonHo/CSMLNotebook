@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a26b8155095d2485",
+        "id": "6f7794323d999b0a",
         "type": "tabs",
         "children": [
           {
-            "id": "062ee652a1428ff7",
+            "id": "663282c8d420a116",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "062ee652a1428ff7",
+  "active": "663282c8d420a116",
   "lastOpenFiles": [
     "Machine Learning/回归分析.md",
     "Machine Learning/回归模型.md",
