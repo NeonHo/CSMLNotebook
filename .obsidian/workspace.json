@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/SVM.md",
+                "file": "Machine Learning/LDA 线性判别分析 & FDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVM"
+              "title": "LDA 线性判别分析 & FDA"
+            }
+          },
+          {
+            "id": "007ec4ee05c56b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/R-squre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R-squre"
+            }
+          },
+          {
+            "id": "a469805abe557fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伯努利分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伯努利分布"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线性回归",
+                "query": "SSR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,16 +232,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "663282c8d420a116",
+  "active": "a469805abe557fb4",
   "lastOpenFiles": [
     "Machine Learning/R-squre.md",
+    "伯努利分布.md",
+    "Machine Learning/Ridge Regression & Lasso Regression.md",
+    "Machine Learning/Apriori算法.md",
+    "Machine Learning/距离.md",
+    "Machine Learning/Multiplication Times for CNN.md",
+    "Machine Learning/Inductive Bias 归纳偏好.md",
     "Machine Learning/SVM.md",
     "Machine Learning/LDA 线性判别分析 & FDA.md",
-    "Machine Learning/回归模型.md",
+    "贝叶斯分类.md",
+    "Machine Learning/PCA.md",
     "Machine Learning/特征选择.md",
-    "Machine Learning/Inductive Bias 归纳偏好.md",
+    "Machine Learning/多分类学习的拆分策略.md",
+    "Machine Learning/回归模型.md",
     "Machine Learning/回归分析.md",
-    "Machine Learning/Ridge Regression & Lasso Regression.md",
     "Machine Learning/模型评估方法.md",
     "Machine Learning/AUC.md",
     "Machine Learning/偏差、方差、噪声、泛化误差.md",
@@ -229,16 +265,9 @@
     "Attachments/Pasted image 20250612191941.png",
     "Attachments/Pasted image 20250612191428.png",
     "Attachments/Pasted image 20250612191239.png",
-    "Big Date Techs & Tools/2. HBase.md",
-    "Data Science/辛普森悖论、大数据偏见、幸存者偏差.md",
-    "Data Science/3. 数据项目管理.md",
-    "Data Science/数据故事化.md",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
-    "Machine Learning/随机变量 非随机变量 解释变量 被解释变量.md",
     "Attachments/分享对话-豆包 (1).png",
     "Attachments/分享对话-豆包.png",
-    "Data Science/2. 数据流程与方法.md",
-    "数据连续性理论.md",
     "Big Date Techs & Tools",
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
