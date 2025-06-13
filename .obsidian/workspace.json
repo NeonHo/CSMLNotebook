@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "交叉验证",
+                "query": "主成分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "663282c8d420a116",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Machine Learning/特征选择.md",
     "Machine Learning/LDA 线性判别分析.md",
