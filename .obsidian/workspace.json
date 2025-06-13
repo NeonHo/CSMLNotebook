@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Date Techs & Tools/Hadoop.md",
+                "file": "Machine Learning/回归分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hadoop"
+              "title": "回归分析"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "预处理",
+                "query": "交叉验证",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 413.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -205,12 +205,19 @@
   },
   "active": "062ee652a1428ff7",
   "lastOpenFiles": [
+    "Machine Learning/回归模型.md",
+    "Machine Learning/Ridge Regression & Lasso Regression.md",
+    "Machine Learning/模型评估方法.md",
+    "Machine Learning/AUC.md",
+    "Machine Learning/SVM.md",
+    "Machine Learning/偏差、方差、噪声、泛化误差.md",
+    "Machine Learning/LogLoss.md",
+    "Big Date Techs & Tools/Hadoop.md",
     "Big Date Techs & Tools/4. Hive.md",
     "Big Date Techs & Tools/1. MapReduce.md",
     "Big Date Techs & Tools/3. HDFS.md",
     "Big Date Techs & Tools/YARN.md",
     "Attachments/Pasted image 20250612193429.png",
-    "Big Date Techs & Tools/Hadoop.md",
     "Big Date Techs & Tools/MapReduce架构概述.md",
     "Attachments/Pasted image 20250612192344.png",
     "Data Science/4. 大数据能力评价.md",
@@ -236,13 +243,7 @@
     "Data Science/1. 数据科学概述.md",
     "Data Science",
     "Computer Science/Languages/Python/The operators' equal priorities.md",
-    "Computer Science/Languages/Python/Pandas/Data Load.md",
-    "Computer Science/Languages/Python/Pandas/Operations to DataFrame.md",
-    "Computer Science/Languages/Python/Pandas/Three Classes.md",
-    "Computer Science/CTF/Web入门/7-SQL注入.md",
     "Computer Science/Languages/Python/Pandas",
-    "Computer Science/Database/MySQL/regexp.md",
-    "Computer Science/CTF/Web入门/5-PHP features.md",
     "Economics",
     "Projects/Media",
     "Machine Learning/Reinforcement Learning",
