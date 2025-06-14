@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/词袋模型.md",
+                "file": "Machine Learning/滤波器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词袋模型"
+              "title": "滤波器"
             }
           }
         ],
@@ -234,10 +234,11 @@
   },
   "active": "a469805abe557fb4",
   "lastOpenFiles": [
+    "Machine Learning/词袋模型.md",
+    "Machine Learning/滤波器.md",
     "Machine Learning/图像形态学处理方法.md",
     "Data Science/2. 数据流程与方法.md",
     "Machine Learning/N-最短路径分词法.md",
-    "Machine Learning/词袋模型.md",
     "Probability/性质.md",
     "Probability/伯努利分布.md",
     "Probability",
@@ -260,7 +261,6 @@
     "Machine Learning/偏差、方差、噪声、泛化误差.md",
     "Machine Learning/LogLoss.md",
     "Big Date Techs & Tools/Hadoop.md",
-    "Big Date Techs & Tools/4. Hive.md",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
     "Attachments/Pasted image 20250612191941.png",
