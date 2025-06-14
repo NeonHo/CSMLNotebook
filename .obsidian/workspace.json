@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7794323d999b0a",
+        "id": "d4d814ad44b65945",
         "type": "tabs",
         "children": [
           {
-            "id": "663282c8d420a116",
+            "id": "50284826a75a2bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/LDA 线性判别分析 & FDA.md",
+                "file": "Machine Learning/汉语言分词方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LDA 线性判别分析 & FDA"
+              "title": "汉语言分词方法"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "n-gram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,25 +203,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "663282c8d420a116",
+  "active": "50284826a75a2bbf",
   "lastOpenFiles": [
-    "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Machine Learning/汉语言分词方法.md",
+    "Machine Learning/词袋模型.md",
+    "Machine Learning/N-最短路径分词法.md",
+    "Machine Learning/模型评估方法.md",
+    "Machine Learning/图像边缘检测算子.md",
+    "Machine Learning/LDA 线性判别分析 & FDA.md",
+    "Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Machine Learning/Deep Learning/ViT.md",
     "Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Machine Learning/Deep Learning/Stable Diffusion.md",
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
-    "Machine Learning/N-最短路径分词法.md",
     "Machine Learning/papers/NLP/Masked Language Models.md",
     "Computer Science/Development/timm/models/vision_transformer/Block.md",
     "Machine Learning/papers/NLP/Autoregressive Language Models.md",
     "Machine Learning/Deep Learning/Transformer.md",
-    "Machine Learning/词袋模型.md",
     "Machine Learning/R-squre.md",
     "Machine Learning/SVM.md",
-    "Machine Learning/模型评估方法.md",
     "Machine Learning/色彩空间.md",
-    "Machine Learning/图像边缘检测算子.md",
     "Machine Learning/滤波器.md",
     "Machine Learning/图像形态学处理方法.md",
     "Data Science/2. 数据流程与方法.md",
@@ -231,7 +232,6 @@
     "Machine Learning/Ridge Regression & Lasso Regression.md",
     "Machine Learning/Apriori算法.md",
     "Machine Learning/距离.md",
-    "Machine Learning/Multiplication Times for CNN.md",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
     "Attachments/Pasted image 20250612191941.png",
