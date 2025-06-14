@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "两词相关性度量.md",
+                "file": "Machine Learning/词向量模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "两词相关性度量"
+              "title": "词向量模型"
             }
           }
         ],
@@ -218,10 +218,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "9c2d18c9cae2767e",
   "lastOpenFiles": [
-    "Machine Learning/图像边缘检测算子.md",
     "两词相关性度量.md",
+    "Machine Learning/词向量模型.md",
+    "Untitled.md",
+    "Machine Learning/图像边缘检测算子.md",
     "Machine Learning/词袋模型.md",
     "Machine Learning/papers/NLP/大模型开发新范式.md",
     "Machine Learning/汉语言分词方法.md",
@@ -244,9 +246,7 @@
     "Machine Learning/图像形态学处理方法.md",
     "Data Science/2. 数据流程与方法.md",
     "Probability/性质.md",
-    "Probability/伯努利分布.md",
     "Probability",
-    "Machine Learning/Ridge Regression & Lasso Regression.md",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
     "Attachments/Pasted image 20250612191941.png",
