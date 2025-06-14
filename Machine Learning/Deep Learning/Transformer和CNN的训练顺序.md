@@ -1,4 +1,4 @@
-在将Transformer应用于图像任务时，常见的做法是将CNN和Transformer进行端到端的联合训练。这意味着CNN和Transformer的参数会同时进行更新，以最小化整个模型的损失函数。
+在将Transformer[[Transformer]]应用于图像任务时，常见的做法是将CNN和Transformer进行端到端的联合训练。这意味着CNN和Transformer的参数会同时进行更新，以最小化整个模型的损失函数。
 
 具体来说，整个模型可以分为两个主要组件：CNN编码器和Transformer解码器。CNN编码器负责对输入图像进行特征提取，生成一系列的特征向量。这些特征向量被送入Transformer解码器，解码器负责将这些特征向量转换为输出结果，例如图像分类、目标检测等。
 

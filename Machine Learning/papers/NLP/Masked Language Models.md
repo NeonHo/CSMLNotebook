@@ -1,7 +1,7 @@
 "Masked Language Models"（MLMs）是一类用于自然语言处理（NLP）任务的模型，其特点是在输入文本中随机地遮蔽（mask）一些单词，然后尝试预测这些被遮蔽单词。这种模型的训练有助于学习单词之间的语义关系和上下文信息。
 
 主要的 MLM 模型之一是 BERT（Bidirectional Encoder Representations from Transformers），它在训练时使用了遮蔽单词的策略。BERT 可以同时考虑上下文中的左侧和右侧信息，使得模型对整体文本的理解更为全面。
-
+[[Transformer]]
 **MLM 的主要特点和步骤：**
 
 1. **遮蔽输入：** 在训练时，随机选择输入文本中的一些单词并将它们遮蔽，或用特殊的标记（如 \[MASK\]）替换。这样模型在训练时需要预测这些被遮蔽的单词。

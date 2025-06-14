@@ -10,6 +10,6 @@
 
 4. **序列到序列模型：** 在自然语言处理中，Autoregressive 模型常用于序列到序列的任务，如机器翻译。在这种情况下，模型生成输出序列的每个元素时都依赖于其先前生成的元素。
 
-5. **例子：** Autoregressive 模型的例子包括 Autoregressive Integrated Moving Average (ARIMA) 模型和基于循环神经网络 (RNN) 或 Transformer 架构的语言模型。
+5. **例子：** Autoregressive 模型的例子包括 Autoregressive Integrated Moving Average (ARIMA) 模型和基于循环神经网络 (RNN) 或 Transformer 架构的语言模型。[[Transformer]]
 
 总体而言，Autoregressive 模型是一类灵活的模型，适用于多种领域，特别是那些涉及到序列数据生成和概率建模的任务。
