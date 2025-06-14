@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/SVM.md",
+                "file": "Machine Learning/词袋模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVM"
+              "title": "词袋模型"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,6 +234,8 @@
   },
   "active": "a469805abe557fb4",
   "lastOpenFiles": [
+    "Machine Learning/R-squre.md",
+    "Machine Learning/SVM.md",
     "Machine Learning/模型评估方法.md",
     "Machine Learning/汉语言分词方法.md",
     "Machine Learning/词袋模型.md",
@@ -247,13 +248,11 @@
     "Probability/性质.md",
     "Probability/伯努利分布.md",
     "Probability",
-    "Machine Learning/R-squre.md",
     "Machine Learning/Ridge Regression & Lasso Regression.md",
     "Machine Learning/Apriori算法.md",
     "Machine Learning/距离.md",
     "Machine Learning/Multiplication Times for CNN.md",
     "Machine Learning/Inductive Bias 归纳偏好.md",
-    "Machine Learning/SVM.md",
     "Machine Learning/LDA 线性判别分析 & FDA.md",
     "贝叶斯分类.md",
     "Machine Learning/PCA.md",
