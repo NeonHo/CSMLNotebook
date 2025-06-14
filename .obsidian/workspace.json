@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/词向量模型.md",
+                "file": "Probability/分位点函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词向量模型"
+              "title": "分位点函数"
             }
           }
         ],
@@ -220,8 +220,12 @@
   },
   "active": "9c2d18c9cae2767e",
   "lastOpenFiles": [
-    "两词相关性度量.md",
+    "Probability/分位点函数&累积分布函数.md",
+    "Probability/累积分布函数.md",
+    "Probability/性质.md",
+    "Probability/分位点函数.md",
     "Machine Learning/词向量模型.md",
+    "两词相关性度量.md",
     "Untitled.md",
     "Machine Learning/图像边缘检测算子.md",
     "Machine Learning/词袋模型.md",
@@ -242,10 +246,6 @@
     "Machine Learning/R-squre.md",
     "Machine Learning/SVM.md",
     "Machine Learning/色彩空间.md",
-    "Machine Learning/滤波器.md",
-    "Machine Learning/图像形态学处理方法.md",
-    "Data Science/2. 数据流程与方法.md",
-    "Probability/性质.md",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
