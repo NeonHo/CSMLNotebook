@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "数据库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
