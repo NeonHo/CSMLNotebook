@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/CAP理论.md",
+                "file": "Machine Learning/关键词提取法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAP理论"
+              "title": "关键词提取法"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "参数估计",
+                "query": "高斯滤波",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,8 +234,14 @@
   },
   "active": "0fce9d30e90d3994",
   "lastOpenFiles": [
-    "Probability/参数估计.md",
+    "Machine Learning/TextRank.md",
+    "Machine Learning/关键词提取法.md",
+    "Machine Learning/滤波器.md",
+    "Machine Learning/顶帽变换.md",
+    "Machine Learning/同态滤波.md",
+    "Machine Learning/词袋模型.md",
     "Data Science/CAP理论.md",
+    "Probability/参数估计.md",
     "Data Science/ETL.md",
     "Data Science/数据审计方法.md",
     "Computer Science/Database/NoSQL.md",
@@ -254,13 +260,7 @@
     "Data Visualization/Matplotlib三层结构.md",
     "Data Visualization/数据可视化.md",
     "Data Visualization/可视化的顺序模型.md",
-    "Probability/分位点函数.md",
     "Data Visualization",
-    "Probability/分位点函数&累积分布函数.md",
-    "Probability/性质.md",
-    "Machine Learning/词向量模型.md",
-    "两词相关性度量.md",
-    "Machine Learning/图像边缘检测算子.md",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
