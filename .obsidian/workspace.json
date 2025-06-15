@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/数据统计方法.md",
+                "file": "Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据统计方法"
+              "title": "特征工程分类"
             }
           },
           {
@@ -234,8 +234,9 @@
   },
   "active": "9c2d18c9cae2767e",
   "lastOpenFiles": [
-    "Machine Learning/滤波器.md",
     "Probability/数据统计方法.md",
+    "Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
+    "Machine Learning/滤波器.md",
     "Machine Learning/词袋模型.md",
     "Machine Learning/TF-IDF.md",
     "Probability/分位点函数.md",
@@ -259,7 +260,6 @@
     "Data Science/算法歧视现象.md",
     "Big Date Techs & Tools/大数据处理流程.md",
     "Data Science/4. 大数据能力评价.md",
-    "Probability/集中趋势统计量.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
