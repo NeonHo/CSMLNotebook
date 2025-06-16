@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/R-squre.md",
+                "file": "Machine Learning/F statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R-squre"
+              "title": "F statistics"
             }
           },
           {
@@ -231,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "50284826a75a2bbf",
   "lastOpenFiles": [
+    "Machine Learning/R-squre.md",
     "Machine Learning/F statistics.md",
     "Machine Learning/图像边缘检测算子.md",
     "Data Science/填补缺失值.md",
@@ -258,7 +259,6 @@
     "Untitled.md",
     "Data Visualization/可视分析学.md",
     "Data Visualization/数据可视化.md",
-    "Data Visualization/可视化的顺序模型.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
