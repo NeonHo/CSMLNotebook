@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/数据故事化.md",
+                "file": "Probability/极大似然估计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据故事化"
+              "title": "极大似然估计"
             }
           },
           {
@@ -234,6 +234,8 @@
   },
   "active": "9c2d18c9cae2767e",
   "lastOpenFiles": [
+    "Data Science/数据故事化.md",
+    "Probability/极大似然估计.md",
     "Data Science/填补缺失值.md",
     "Probability/假设检验alpha错误与beta错误.md",
     "Probability/数据统计方法.md",
@@ -258,8 +260,6 @@
     "Probability/参数估计.md",
     "Data Science/ETL.md",
     "Data Science/数据审计方法.md",
-    "Computer Science/Database/NoSQL.md",
-    "Computer Science/Database/完整性约束.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
