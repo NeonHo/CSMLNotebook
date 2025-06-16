@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/填补缺失值.md",
+                "file": "Data Science/数据故事化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "填补缺失值"
+              "title": "数据故事化"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "9c2d18c9cae2767e",
   "lastOpenFiles": [
-    "Probability/假设检验alpha错误与beta错误.md",
     "Data Science/填补缺失值.md",
+    "Probability/假设检验alpha错误与beta错误.md",
     "Probability/数据统计方法.md",
     "Probability/中心极限定理.md",
     "两词相关性度量.md",
