@@ -1,0 +1,1 @@
+Sqoop是一款开源的工具,主要用于在[[Hadoop]]([[Hive]])与传统的数据库(mysql、postgresql...)间进行数据的传递

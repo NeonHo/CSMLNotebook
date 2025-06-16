@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/图像边缘检测算子.md",
+                "file": "Machine Learning/R-squre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图像边缘检测算子"
+              "title": "R-squre"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/极大似然估计.md",
+                "file": "Data Science/填补缺失值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极大似然估计"
+              "title": "填补缺失值"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "TF-IDF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "假设检验",
+                "query": "回归平方和",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,34 +231,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c2d18c9cae2767e",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Data Science/数据故事化.md",
-    "Probability/极大似然估计.md",
+    "Machine Learning/F statistics.md",
+    "Machine Learning/图像边缘检测算子.md",
     "Data Science/填补缺失值.md",
-    "Probability/假设检验alpha错误与beta错误.md",
-    "Probability/数据统计方法.md",
-    "Probability/中心极限定理.md",
-    "两词相关性度量.md",
-    "Data Science/数据安全.md",
-    "Probability/单样本z检验.md",
-    "Probability/单样本t检验.md",
-    "Computer Science/Database/RDBMS关系型数据库管理系统.md",
-    "Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
-    "Machine Learning/滤波器.md",
-    "Machine Learning/词袋模型.md",
-    "Machine Learning/TF-IDF.md",
-    "Probability/分位点函数.md",
-    "Machine Learning/汉语言分词方法.md",
-    "Machine Learning/N-最短路径分词法.md",
-    "Machine Learning/关键词提取法.md",
-    "Machine Learning/TextRank.md",
-    "Machine Learning/顶帽变换.md",
-    "Machine Learning/同态滤波.md",
-    "Data Science/CAP理论.md",
-    "Probability/参数估计.md",
-    "Data Science/ETL.md",
-    "Data Science/数据审计方法.md",
+    "Machine Learning/PR曲线的平衡点.md",
+    "Machine Learning/Apriori算法.md",
+    "Machine Learning/Apriori算法中,候选项集划分为不同的桶存放在Hash树中.md",
+    "Machine Learning/Apriori算法中的事物和事物平均宽度.md",
+    "Machine Learning/特征选择.md",
+    "Big Date Techs & Tools/Sqoop.md",
+    "Big Date Techs & Tools/Storm.md",
+    "Big Date Techs & Tools/YARN.md",
+    "Big Date Techs & Tools/Zoopkeeper.md",
+    "Big Date Techs & Tools/Hive.md",
+    "Big Date Techs & Tools/Chubby.md",
+    "Big Date Techs & Tools/Hadoop.md",
+    "Big Date Techs & Tools/NameNode.md",
+    "Big Date Techs & Tools/HBase.md",
+    "Big Date Techs & Tools/HDFS.md",
+    "Big Date Techs & Tools/5. Spark.md",
+    "Big Date Techs & Tools/MapReduce.md",
+    "Machine Learning/密度聚类.md",
+    "Machine Learning/色彩空间.md",
+    "Untitled.md",
+    "Data Visualization/可视分析学.md",
+    "Data Visualization/数据可视化.md",
+    "Data Visualization/可视化的顺序模型.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
