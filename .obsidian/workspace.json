@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/极大似然估计.md",
+                "file": "Machine Learning/跳出局部最优.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极大似然估计"
+              "title": "跳出局部最优"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "特征选择",
+                "query": "Reli",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,6 +234,9 @@
   "active": "50284826a75a2bbf",
   "lastOpenFiles": [
     "Machine Learning/特征选择.md",
+    "Machine Learning/跳出局部最优.md",
+    "Machine Learning/LDA 线性判别分析 & FDA.md",
+    "Probability/极大似然估计.md",
     "Machine Learning/SVM.md",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Probability/极大似然估计在机器学习中的应用.md",
@@ -256,9 +259,6 @@
     "Machine Learning/R-squre.md",
     "Machine Learning/图像边缘检测算子.md",
     "Data Science/填补缺失值.md",
-    "Machine Learning/PR曲线的平衡点.md",
-    "Machine Learning/Apriori算法中,候选项集划分为不同的桶存放在Hash树中.md",
-    "Machine Learning/Apriori算法中的事物和事物平均宽度.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
