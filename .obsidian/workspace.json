@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/SVM.md",
+                "file": "Machine Learning/词向量模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVM"
+              "title": "词向量模型"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SVM",
+                "query": "f",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,14 +232,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50284826a75a2bbf",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
+    "Machine Learning/SVM.md",
     "Machine Learning/R-squre.md",
     "Machine Learning/LDA 线性判别分析 & FDA.md",
     "Machine Learning/跳出局部最优.md",
     "Machine Learning/特征选择.md",
     "Probability/极大似然估计.md",
-    "Machine Learning/SVM.md",
     "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Probability/极大似然估计在机器学习中的应用.md",
     "Excalidraw/Re-Parameterization Drawing.md",
