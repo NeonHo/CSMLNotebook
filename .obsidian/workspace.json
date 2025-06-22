@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/词向量模型.md",
+                "file": "Machine Learning/F statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词向量模型"
+              "title": "F statistics"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f",
+                "query": "F stat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,8 +232,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "50284826a75a2bbf",
   "lastOpenFiles": [
+    "Machine Learning/词向量模型.md",
     "Machine Learning/SVM.md",
     "Machine Learning/R-squre.md",
     "Machine Learning/LDA 线性判别分析 & FDA.md",
@@ -247,7 +248,6 @@
     "Machine Learning/数值优化算法——梯度下降.md",
     "Machine Learning/数值优化算法——牛顿法.md",
     "Machine Learning/Apriori算法.md",
-    "Machine Learning/词向量模型.md",
     "Machine Learning/逻辑回归是线性模型？.md",
     "Machine Learning/逻辑回归是回归模型？.md",
     "Machine Learning/对数几率回归（二分类）.md",
