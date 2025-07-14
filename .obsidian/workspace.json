@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/分类问题.md",
+                "file": "Data Science/Machine Learning/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分类问题"
+              "title": "KNN"
             }
           }
         ]
@@ -203,13 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "ac5a76f9f9f74a75",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/分类问题.md",
+    "Data Science/Machine Learning/KNN.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Data Science/Machine Learning/回归模型.md",
     "Data Science/Machine Learning/有监督 & 无监督.md",
     "Data Science/Machine Learning/LDA 线性判别分析 & FDA.md",
-    "Data Science/Machine Learning/分类问题.md",
     "Data Science/两词相关性度量.md",
     "Data Science/数据连续性理论.md",
     "Data Science/Data Visualization/常用图表.md",
@@ -246,7 +247,6 @@
     "Attachments/Pasted image 20250612191428.png",
     "Attachments/Pasted image 20250612191239.png",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
-    "Attachments/分享对话-豆包 (1).png",
     "Data Science/Big Date Techs & Tools",
     "Data Science",
     "Computer Science/Languages/Python/Pandas",
