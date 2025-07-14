@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50284826a75a2bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/泊松分布.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "泊松分布"
-            }
-          },
-          {
             "id": "ac5a76f9f9f74a75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/正态分布.md",
+                "file": "Data Science/Machine Learning/分类问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正态分布"
-            }
-          },
-          {
-            "id": "9c2d18c9cae2767e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/填补缺失值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "填补缺失值"
-            }
-          },
-          {
-            "id": "0fce9d30e90d3994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/TF-IDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TF-IDF"
+              "title": "分类问题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F stat",
+                "query": "无监督",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,10 +205,20 @@
   },
   "active": "ac5a76f9f9f74a75",
   "lastOpenFiles": [
-    "Probability/泊松分布.md",
+    "Data Science/Machine Learning/回归模型.md",
+    "Data Science/Machine Learning/有监督 & 无监督.md",
+    "Data Science/Machine Learning/LDA 线性判别分析 & FDA.md",
+    "Data Science/Machine Learning/分类问题.md",
+    "Data Science/两词相关性度量.md",
+    "Data Science/数据连续性理论.md",
+    "Data Science/Data Visualization/常用图表.md",
+    "Data Science/Machine Learning/贝叶斯分类.md",
+    "Data Science/Big Date Techs & Tools/Spark.md",
+    "Data Science/4. 大数据能力评价.md",
+    "Data Science/Probability/正态分布.md",
+    "Data Science/Probability/泊松分布.md",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
-    "Probability/伯努利分布.md",
-    "Probability/正态分布.md",
+    "Data Science/Probability/伯努利分布.md",
     "Data Science/1. 数据科学概述.md",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
     "Attachments/IMG_7876.jpg",
@@ -259,29 +226,20 @@
     "Attachments/IMG_7875 2.heic",
     "Attachments/IMG_7875 1.heic",
     "Attachments/IMG_7875.heic",
-    "Big Date Techs & Tools/云管 & 凡软.md",
-    "Machine Learning/F statistics.md",
-    "Machine Learning/词向量模型.md",
-    "Machine Learning/SVM.md",
-    "Machine Learning/R-squre.md",
-    "Machine Learning/LDA 线性判别分析 & FDA.md",
-    "Machine Learning/跳出局部最优.md",
-    "Machine Learning/特征选择.md",
-    "Probability/极大似然估计.md",
-    "Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
-    "Probability/极大似然估计在机器学习中的应用.md",
+    "Data Science/Big Date Techs & Tools/云管 & 凡软.md",
+    "Data Science/Machine Learning/F statistics.md",
+    "Data Science/Machine Learning/词向量模型.md",
+    "Data Science/Machine Learning/SVM.md",
+    "Data Science/Machine Learning/R-squre.md",
+    "Data Science/Machine Learning/跳出局部最优.md",
+    "Data Science/Machine Learning/特征选择.md",
+    "Data Science/Probability/极大似然估计.md",
+    "Data Science/Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
+    "Data Science/Probability/极大似然估计在机器学习中的应用.md",
     "Excalidraw/Re-Parameterization Drawing.md",
-    "Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
-    "Machine Learning/数值优化算法——梯度下降.md",
-    "Machine Learning/数值优化算法——牛顿法.md",
-    "Machine Learning/Apriori算法.md",
-    "Machine Learning/逻辑回归是线性模型？.md",
-    "Machine Learning/逻辑回归是回归模型？.md",
-    "Machine Learning/对数几率回归（二分类）.md",
-    "Probability/逻辑回归是线性模型？.md",
-    "Probability/逻辑回归是回归模型？.md",
-    "Data Visualization",
-    "Probability",
+    "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
+    "Data Science/Data Visualization",
+    "Data Science/Probability",
     "Attachments/Pasted image 20250612193429.png",
     "Attachments/Pasted image 20250612192344.png",
     "Attachments/Pasted image 20250612191941.png",
@@ -289,7 +247,7 @@
     "Attachments/Pasted image 20250612191239.png",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
     "Attachments/分享对话-豆包 (1).png",
-    "Big Date Techs & Tools",
+    "Data Science/Big Date Techs & Tools",
     "Data Science",
     "Computer Science/Languages/Python/Pandas",
     "Economics",
