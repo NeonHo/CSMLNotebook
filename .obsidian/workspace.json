@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无监督",
+                "query": "最近邻",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +204,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5a76f9f9f74a75",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
+    "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Data Science/Machine Learning/回归模型.md",
     "Data Science/Machine Learning/有监督 & 无监督.md",
     "Data Science/Machine Learning/LDA 线性判别分析 & FDA.md",
@@ -237,7 +239,6 @@
     "Data Science/Machine Learning/Chapter 1 Feature Engineering/Section 1 Feature Normailzation.md",
     "Data Science/Probability/极大似然估计在机器学习中的应用.md",
     "Excalidraw/Re-Parameterization Drawing.md",
-    "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Data Science/Data Visualization",
     "Data Science/Probability",
     "Attachments/Pasted image 20250612193429.png",
