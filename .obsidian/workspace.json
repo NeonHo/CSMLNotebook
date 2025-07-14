@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/泊松分布.md",
+                "file": "Probability/正态分布.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泊松分布"
+              "title": "正态分布"
             }
           },
           {
@@ -248,9 +248,10 @@
   },
   "active": "ac5a76f9f9f74a75",
   "lastOpenFiles": [
+    "Probability/泊松分布.md",
+    "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Probability/伯努利分布.md",
     "Probability/正态分布.md",
-    "Probability/泊松分布.md",
     "Data Science/1. 数据科学概述.md",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
     "Attachments/IMG_7876.jpg",
@@ -279,7 +280,6 @@
     "Machine Learning/对数几率回归（二分类）.md",
     "Probability/逻辑回归是线性模型？.md",
     "Probability/逻辑回归是回归模型？.md",
-    "Probability/对数几率回归（二分类）.md",
     "Data Visualization",
     "Probability",
     "Attachments/Pasted image 20250612193429.png",
@@ -289,7 +289,6 @@
     "Attachments/Pasted image 20250612191239.png",
     "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
     "Attachments/分享对话-豆包 (1).png",
-    "Attachments/分享对话-豆包.png",
     "Big Date Techs & Tools",
     "Data Science",
     "Computer Science/Languages/Python/Pandas",
