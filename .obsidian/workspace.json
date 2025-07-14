@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "最近邻",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Data Science/Machine Learning/回归模型.md",
