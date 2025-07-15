@@ -1,3 +1,5 @@
+[[Hadoop]] 2.0
+cluster resource management.
 YARN（Yet Another Resource Negotiator）是一个**资源调度平台**，负责为运算程序提供服务器运算资源。
 ![[Pasted image 20250612192344.png]]
 - ResourceManager（RM）：核心管理服务，负责资源的管理和分配。
