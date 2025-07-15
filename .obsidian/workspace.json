@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d814ad44b65945",
+        "id": "b7c7abec2a6bc6dc",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5a76f9f9f74a75",
+            "id": "ae8048861fa877aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/分类问题.md",
+                "file": "Data Science/Machine Learning/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分类问题"
-            }
-          },
-          {
-            "id": "3a58b772b00795b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Machine Learning/朴素贝叶斯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "朴素贝叶斯"
+              "title": "Logistic Regression"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "逻辑回归",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,12 +203,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5a76f9f9f74a75",
+  "active": "ae8048861fa877aa",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/朴素贝叶斯.md",
+    "Data Science/Machine Learning/逻辑回归是线性模型？.md",
+    "Data Science/Machine Learning/逻辑回归是回归模型？.md",
+    "Data Science/Probability/极大似然估计.md",
+    "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
+    "Data Science/Machine Learning/LogLoss.md",
+    "Data Science/Machine Learning/Logistic Regression.md",
+    "Data Science/Machine Learning/LDA 线性判别分析 & FDA.md",
+    "Data Science/Machine Learning/分类问题.md",
+    "Data Science/Machine Learning/Linear Regression.md",
+    "Data Science/Probability/二项分布.md",
+    "Data Science/Probability/泊松分布.md",
     "Data Science/Machine Learning/KNN.md",
     "Data Science/Machine Learning/半朴素贝叶斯分类.md",
-    "Data Science/Machine Learning/朴素贝叶斯.md",
-    "Data Science/Machine Learning/分类问题.md",
     "Data Science/Big Date Techs & Tools/RDD之间的依赖关系.md",
     "Data Science/Machine Learning/F statistics.md",
     "Data Science/Machine Learning/F-1 Score.md",
@@ -235,16 +231,6 @@
     "Data Science/Big Date Techs & Tools/RDD.md",
     "Data Science/Big Date Techs & Tools/Spark.md",
     "Data Science/Big Date Techs & Tools/NoSQL数据库.md",
-    "Data Science/Big Date Techs & Tools/HBase.md",
-    "Data Science/Machine Learning/AUC.md",
-    "Data Science/ETL.md",
-    "Data Science/Machine Learning/SVM.md",
-    "Data Science/Machine Learning/Recall.md",
-    "Data Science/Machine Learning/Precision.md",
-    "Data Science/Big Date Techs & Tools/YARN.md",
-    "Data Science/Machine Learning/决策树.md",
-    "Data Science/Machine Learning/关键词提取法.md",
-    "Data Science/Machine Learning/信息熵与信息增益.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",

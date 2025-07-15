@@ -27,7 +27,7 @@
 - **效果与应用**：
     
     - 岭回归通过缩小参数（coefficients），使预测**对训练数据不那么敏感**，从而**降低方差（variance）**。
-    - 它可以应用于**线性回归（linear regression）**、**逻辑回归（logistic regression）**以及更复杂的模型。
+    - 它可以应用于**线性回归（[[Linear Regression]]）**、**逻辑回归（[[Logistic Regression]]）**以及更复杂的模型。
     - 在逻辑回归中，岭回归最小化的是**似然和（sum of the likelihoods）**而不是残差平方和。
     - 通常，**除了y轴截距（y-intercept）之外的所有参数**都包含在岭回归惩罚项中。
 - **可视化理解**：
