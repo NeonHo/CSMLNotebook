@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/贝叶斯分类.md",
+                "file": "Data Science/Machine Learning/半贝叶斯分类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "贝叶斯分类"
+              "title": "半贝叶斯分类"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Big Date Techs & Tools/RDD之间的依赖关系.md",
+                "file": "Data Science/Machine Learning/分类问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDD之间的依赖关系"
+              "title": "分类问题"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5a76f9f9f74a75",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Data Science/Big Date Techs & Tools/RDD之间的依赖关系.md",
-    "Data Science/Machine Learning/贝叶斯分类.md",
+    "Data Science/Machine Learning/半贝叶斯分类.md",
     "Data Science/Machine Learning/分类问题.md",
     "Data Science/Machine Learning/F statistics.md",
     "Data Science/Machine Learning/F-1 Score.md",
