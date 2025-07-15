@@ -6,3 +6,11 @@ HDFS（Hadoop Distributed File System）是一个**分布式文件系统**，用
 
 On Windows, a File Block is 512 Bytes.
 On HDFS, a file block is 60MB / 128MB.
+
+文件和文件夹的基础操作
+- 上传
+- 下载
+- 创建
+- 合并
+- 删除
+
