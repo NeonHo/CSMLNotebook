@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/决策树.md",
+                "file": "Data Science/Machine Learning/PR曲线的平衡点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "决策树"
+              "title": "PR曲线的平衡点"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,9 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5a76f9f9f74a75",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Data Science/Machine Learning/分类问题.md",
+    "Data Science/Machine Learning/PR曲线的平衡点.md",
+    "Data Science/Machine Learning/AUC.md",
+    "Data Science/Machine Learning/F statistics.md",
     "Data Science/Machine Learning/决策树.md",
     "Data Science/Machine Learning/有监督 & 无监督.md",
     "Data Science/Machine Learning/信息熵与信息增益.md",
@@ -233,12 +237,9 @@
     "Attachments/IMG_7875 1.heic",
     "Attachments/IMG_7875.heic",
     "Data Science/Big Date Techs & Tools/云管 & 凡软.md",
-    "Data Science/Machine Learning/F statistics.md",
     "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/SVM.md",
     "Data Science/Machine Learning/R-squre.md",
-    "Data Science/Machine Learning/跳出局部最优.md",
-    "Data Science/Machine Learning/特征选择.md",
     "Data Science/Data Visualization",
     "Data Science/Probability",
     "Attachments/Pasted image 20250612193429.png",
