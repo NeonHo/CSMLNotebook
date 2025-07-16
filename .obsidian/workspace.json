@@ -203,11 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "ae8048861fa877aa",
   "lastOpenFiles": [
     "Data Science/Machine Learning/SVM松弛变量与惩罚参数解析.md",
-    "Data Science/Machine Learning/SVM.md",
     "Data Science/Machine Learning/SVM核函数选择.md",
+    "Data Science/Machine Learning/SVM高斯核参数解析.md",
+    "Data Science/Machine Learning/SVR.md",
+    "Data Science/Machine Learning/SVM.md",
     "Data Science/Machine Learning/支持向量.md",
     "Data Science/Big Date Techs & Tools/MapReduce.md",
     "Data Science/Big Date Techs & Tools/RDD之间的依赖关系.md",
@@ -229,8 +231,6 @@
     "Data Science/Machine Learning/F-1 Score.md",
     "Data Science/Machine Learning/PR曲线的平衡点.md",
     "Data Science/Big Date Techs & Tools/HDFS.md",
-    "Data Science/Big Date Techs & Tools/DAG.md",
-    "Data Science/Big Date Techs & Tools/Hadoop 冗余存储策略.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
