@@ -52,7 +52,7 @@ $$ \frac{\partial J}{\partial w_j} = \frac{1}{m} \sum_{i=1}^{m} (\hat{y}^{(i)} -
 ---
 
 ### 4. 多分类扩展：Softmax 回归
-
+[[SoftMax]]
 逻辑回归可扩展到多分类问题，称为 **Softmax 回归**。对于 $K$ 个类别，模型输出每个类别的概率：  
 $$ P(y=k|x) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}, \quad k=1,2,\dots,K $$  
 
