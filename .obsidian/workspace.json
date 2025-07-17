@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Untitled.md",
+                "file": "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "BN 正则化效果与 Dropout 的异同解析"
             }
           }
         ]
@@ -205,18 +205,19 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
+    "Data Science/Machine Learning/避免过拟合的核心策略.md",
+    "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Untitled.md",
     "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
     "Data Science/Machine Learning/Batch Normalization.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Data Science/Machine Learning/池化.md",
     "Projects/Troubles and Solutions/报销.md",
-    "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/全连接层.md",
     "Data Science/Machine Learning/MLP.md",
     "Data Science/Machine Learning/卷积.md",
     "Data Science/Machine Learning/马氏距离.md",
-    "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
     "Data Science/Machine Learning/Back Propagation.md",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Computer Science/Development/Torch/Multi GPU Training.md",
@@ -232,7 +233,6 @@
     "Data Science/Machine Learning/Logistic Regression.md",
     "Data Science/Machine Learning/Deep Learning/R-CNN.md",
     "Data Science/Machine Learning/跳出局部最优.md",
-    "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
