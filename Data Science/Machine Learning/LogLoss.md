@@ -27,7 +27,7 @@ $$
 
 #### 2. 多分类场景（Softmax输出）
 
-假设样本真实标签为 **one-hot编码** 的向量$\mathbf{y} = [y_1, y_2, \dots, y_K]$（$K$为类别数），模型预测属于第$k$类的概率为$\hat{y_k}$，则单个样本的 **LogLoss** 为：
+假设样本真实标签为 **[[One-Hot编码]]** 的向量$\mathbf{y} = [y_1, y_2, \dots, y_K]$（$K$为类别数），模型预测属于第$k$类的概率为$\hat{y_k}$，则单个样本的 **LogLoss** 为：
 
 $$
 \text{Loss} = - \sum_{k=1}^{K} y_k \cdot \log(\hat{y_k})

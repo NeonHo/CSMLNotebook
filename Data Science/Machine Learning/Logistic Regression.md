@@ -58,7 +58,7 @@ $$ P(y=k|x) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}, \quad k=1,2,\dots,
 
 损失函数为[[交叉熵损失]]：  
 $$ L(y, \hat{y}) = -\sum_{k=1}^{K} y_k \log(\hat{y}_k) $$  
-其中 $y_k$ 为 one-hot 编码标签（第 $k$ 类为 1，其余为 0）。
+其中 $y_k$ 为 [[One-Hot编码]]标签（第 $k$ 类为 1，其余为 0）。
 
 ---
 
