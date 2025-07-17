@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebda877916f406e",
+        "id": "0a0da52866ebd58a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec15969f172c2973",
+            "id": "ec8151ca28edded3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -199,8 +199,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec15969f172c2973",
+  "active": "ec8151ca28edded3",
   "lastOpenFiles": [
+    "Data Science/Probability/单样本t检验.md",
     "Data Science/Machine Learning/特征选择.md",
     "Data Science/Machine Learning/顶帽变换.md",
     "Data Science/Machine Learning/图像形态学处理方法.md",
@@ -228,7 +229,6 @@
     "Data Science/Machine Learning/卷积.md",
     "Data Science/Machine Learning/马氏距离.md",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
-    "Computer Science/Development/Torch/Multi GPU Training.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
