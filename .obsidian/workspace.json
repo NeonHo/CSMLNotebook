@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/奥卡姆剃刀.md",
+                "file": "Data Science/Machine Learning/神经元模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "奥卡姆剃刀"
+              "title": "神经元模型"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正则化",
+                "query": "Bias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,16 +203,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/Logistic Regression.md",
-    "Data Science/Machine Learning/奥卡姆剃刀.md",
-    "Data Science/Machine Learning/Deep Learning/R-CNN.md",
+    "Data Science/Machine Learning/偏差、方差、噪声、泛化误差.md",
+    "Data Science/Machine Learning/神经元模型.md",
     "Computer Science/Development/timm/models/vision_transformer/ViT Block.md",
+    "Data Science/Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
+    "Data Science/Machine Learning/MLP.md",
+    "Data Science/Machine Learning/奥卡姆剃刀.md",
+    "Data Science/Machine Learning/Logistic Regression.md",
+    "Data Science/Machine Learning/Deep Learning/R-CNN.md",
     "Data Science/Machine Learning/跳出局部最优.md",
     "Data Science/Machine Learning/Dropout.md",
     "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
-    "Data Science/Machine Learning/神经元模型.md",
     "Data Science/Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/Deep Learning/Stable Diffusion.md",
@@ -229,9 +231,6 @@
     "Data Science/Machine Learning/Linear Regression.md",
     "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Economics/Untitled.md",
-    "Data Science/Machine Learning/SVM Loss v.s. Cross-Entropy.md",
-    "Data Science/Machine Learning/One-Hot编码.md",
-    "Data Science/Machine Learning/SoftMax.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
