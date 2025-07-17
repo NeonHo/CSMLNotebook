@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Linear Regression.md",
+                "file": "Data Science/Machine Learning/神经元模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "神经元模型"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SoftMax",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,6 +205,9 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/神经元模型.md",
+    "Economics/Untitled.md",
+    "Data Science/Machine Learning/Linear Regression.md",
     "Data Science/Machine Learning/SVM Loss v.s. Cross-Entropy.md",
     "Data Science/Machine Learning/One-Hot编码.md",
     "Data Science/Machine Learning/SoftMax.md",
@@ -228,9 +231,6 @@
     "Computer Science/Development/front end/TypeScript/Basics.md",
     "Data Science/Machine Learning/DIANA.md",
     "Data Science/Machine Learning/特征选择.md",
-    "Data Science/两词相关性度量.md",
-    "Data Science/Machine Learning/距离.md",
-    "Data Science/Machine Learning/有监督 & 无监督.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
