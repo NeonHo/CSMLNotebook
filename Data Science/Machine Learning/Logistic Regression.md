@@ -56,7 +56,7 @@ $$ \frac{\partial J}{\partial w_j} = \frac{1}{m} \sum_{i=1}^{m} (\hat{y}^{(i)} -
 逻辑回归可扩展到多分类问题，称为 **Softmax 回归**。对于 $K$ 个类别，模型输出每个类别的概率：  
 $$ P(y=k|x) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}, \quad k=1,2,\dots,K $$  
 
-损失函数为交叉熵损失：  
+损失函数为[[交叉熵损失]]：  
 $$ L(y, \hat{y}) = -\sum_{k=1}^{K} y_k \log(\hat{y}_k) $$  
 其中 $y_k$ 为 one-hot 编码标签（第 $k$ 类为 1，其余为 0）。
 
