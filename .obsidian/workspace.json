@@ -11,10 +11,14 @@
             "id": "ec15969f172c2973",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/滤波器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "滤波器"
             }
           }
         ]
@@ -201,6 +205,7 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/图像边缘检测算子.md",
     "Data Science/Machine Learning/Back Propagation.md",
     "Data Science/Machine Learning/Deep Learning/YOLO.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
@@ -228,7 +233,6 @@
     "Data Science/Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Data Science/Machine Learning/神经元模型.md",
     "Data Science/Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
-    "Data Science/Machine Learning/Dropout.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
