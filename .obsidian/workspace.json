@@ -11,10 +11,14 @@
             "id": "ec15969f172c2973",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/Batch Normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batch Normalization"
             }
           }
         ]
@@ -201,9 +205,10 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/池化.md",
+    "Data Science/Machine Learning/Batch Normalization.md",
     "Projects/Troubles and Solutions/报销.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
-    "Data Science/Machine Learning/池化.md",
     "Data Science/Machine Learning/全连接层.md",
     "Data Science/Machine Learning/MLP.md",
     "Data Science/Machine Learning/卷积.md",
@@ -227,7 +232,6 @@
     "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/Deep Learning/Stable Diffusion.md",
-    "Data Science/Machine Learning/Deep Learning/Selective Search.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
