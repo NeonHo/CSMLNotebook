@@ -39,7 +39,7 @@ $$ L(y, \hat{y}) = -\bigl[ y \log(\hat{y}) + (1-y)\log(1-\hat{y}) \bigr] $$
 ---
 
 ### 3. 参数优化：梯度下降
-
+[[Section 5 Stochastic Gradient Descent#3.2. 小批量梯度下降]]
 通过最小化对数损失的平均值（经验风险）来求解参数：  
 $$ J(w, b) = -\frac{1}{m} \sum_{i=1}^{m} \Bigl[ y^{(i)} \log(\hat{y}^{(i)}) + (1-y^{(i)}) \log(1-\hat{y}^{(i)}) \Bigr] $$  
 

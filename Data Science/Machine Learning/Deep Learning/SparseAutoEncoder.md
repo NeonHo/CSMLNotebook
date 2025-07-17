@@ -1,5 +1,5 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
+[[Autoencoder]]
 # 深度学习SparseAutoEncoder
 
 稀疏自编码器（Sparse Autoencoder，SAE）是一种基于神经网络的无监督深度学习模型，属于自编码器的变体。它通过引入稀疏性约束，使隐藏层神经元在大多数时间保持不激活状态，从而学习到输入数据的稀疏表示，能够更有效地捕捉数据的关键特征。
@@ -16,7 +16,7 @@
 
 ## 训练方法
 
-- 采用反向传播算法和梯度下降优化目标函数。
+- 采用反向传播算法和梯度下降优化目标函数。[[Section 5 Stochastic Gradient Descent#3.2. 小批量梯度下降]]
 - 稀疏性惩罚项通过限制隐藏单元的平均激活率，防止所有神经元同时激活。
 - 常用激活函数包括Sigmoid、ReLU等。
 
