@@ -16,7 +16,7 @@
 
 ## 训练方法
 
-- 采用反向传播算法和梯度下降优化目标函数。[[Section 5 Stochastic Gradient Descent#3.2. 小批量梯度下降]]
+- 采用反向传播算法和梯度下降优化目标函数。[[Section 5 Stochastic Gradient Descent#3.2. 小批量梯度下降]] [[Back Propagation]]
 - 稀疏性惩罚项通过限制隐藏单元的平均激活率，防止所有神经元同时激活。
 - 常用激活函数包括Sigmoid、ReLU等。
 

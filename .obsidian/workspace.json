@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bias",
+                "query": "反向传播",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,32 +206,32 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Computer Science/Development/Torch/Multi GPU Training.md",
+    "Data Science/Machine Learning/Deep Learning/SparseAutoEncoder.md",
+    "Data Science/Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
+    "Data Science/Machine Learning/神经元模型.md",
+    "Data Science/Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
+    "Data Science/Machine Learning/MLP.md",
+    "Data Science/Machine Learning/Dropout.md",
+    "Data Science/Machine Learning/Deep Learning/Diffusion Models.md",
     "Data Science/Machine Learning/Back Propagation.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/卷积.md",
-    "Data Science/Machine Learning/神经元模型.md",
     "Data Science/Machine Learning/偏差、方差、噪声、泛化误差.md",
     "Computer Science/Development/timm/models/vision_transformer/ViT Block.md",
-    "Data Science/Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
-    "Data Science/Machine Learning/MLP.md",
     "Data Science/Machine Learning/奥卡姆剃刀.md",
     "Data Science/Machine Learning/Logistic Regression.md",
     "Data Science/Machine Learning/Deep Learning/R-CNN.md",
     "Data Science/Machine Learning/跳出局部最优.md",
-    "Data Science/Machine Learning/Dropout.md",
     "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
-    "Data Science/Machine Learning/Deep Learning/Transformer和CNN的训练顺序.md",
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/Deep Learning/Stable Diffusion.md",
     "Data Science/Machine Learning/Deep Learning/Selective Search.md",
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
-    "Data Science/Machine Learning/Deep Learning/SparseAutoEncoder.md",
     "Data Science/Probability/极大似然估计在机器学习中的应用.md",
     "Data Science/Machine Learning/对数几率回归（二分类）.md",
     "Data Science/Machine Learning/数值优化算法——牛顿法.md",
     "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
-    "Data Science/Machine Learning/LogLoss.md",
-    "Data Science/Machine Learning/Linear Regression.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",

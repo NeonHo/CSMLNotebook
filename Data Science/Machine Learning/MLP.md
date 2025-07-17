@@ -60,7 +60,7 @@ $$
 
 ### 四、训练过程：反向传播与梯度下降
 
-MLP 的训练通过**反向传播（Backpropagation）**和**梯度下降（Gradient Descent）**实现：
+MLP 的训练通过**反向传播（[[Back Propagation]]）**和**梯度下降（[[Section 5 Stochastic Gradient Descent]]）**实现：
 
 1. **前向传播**：输入数据通过网络，计算各层输出直至得到预测结果。  
 2. **损失计算**：根据预测结果和真实标签，计算损失函数（如交叉熵、MSE）。  

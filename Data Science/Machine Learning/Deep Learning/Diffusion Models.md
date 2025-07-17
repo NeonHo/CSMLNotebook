@@ -34,7 +34,7 @@ https://zhuanlan.zhihu.com/p/560603623
 			- 通过[[Reparameterization Trick]]
 			- $x_t=\sqrt{1-\beta_t}x_{t-1}+\sqrt{\beta_t}\epsilon$
 				- $\epsilon\sim N(0, I)$
-				- 用 $\epsilon$ 代替采样时没有梯度的变量$x_t$ 从而有利于反向传播
+				- 用 $\epsilon$ 代替采样时没有梯度的变量$x_t$ 从而有利于反向传播[[Back Propagation]]
 		- $x_T\rightarrow x_0$ is reverse
 			- random noise is recovered to input image.
 			- learn a denoising process.
