@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/避免过拟合的核心策略.md",
+                "file": "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "避免过拟合的核心策略"
+              "title": "反向传播算法的参数更新时机和计算图一致性的核心问题"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "避免过拟合",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,9 +205,10 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/SVM所有样本需要满足的约束条件.md",
+    "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
     "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
-    "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Untitled.md",
     "Data Science/Machine Learning/Batch Normalization.md",
@@ -233,7 +233,6 @@
     "Data Science/Machine Learning/奥卡姆剃刀.md",
     "Data Science/Machine Learning/Logistic Regression.md",
     "Data Science/Machine Learning/Deep Learning/R-CNN.md",
-    "Data Science/Machine Learning/跳出局部最优.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
