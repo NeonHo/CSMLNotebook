@@ -27,7 +27,7 @@ Paddle Paddle = PyTorch + Keras
 	- avoid the gradient vanishing caused by increasing the layers.
 	- transmit the information from the deep layer to the shallow layer.
 	- The residual connection can make the residual block into a identity mapping in properly occasions.
-[[卷积]]
+
 
 
 ### 卷积神经网络（CNN）详解
@@ -52,7 +52,7 @@ Paddle Paddle = PyTorch + Keras
 ### 二、卷积层：特征提取的核心
 
 #### 1. 卷积计算
-- **局部连接**：卷积核（滤波器）在输入上滑动，每次处理一个局部区域。  
+- **局部连接**：卷积核（滤波器）在输入上滑动，每次处理一个局部区域。  [[卷积]]
 - **权值共享**：同一卷积核在不同位置使用相同参数，提取相同类型的特征（如边缘、纹理）。  
 - **多通道**：输入通道（如 RGB 三通道）与卷积核通道对应，卷积后求和得到单通道输出。多个卷积核生成多个特征图。
 
