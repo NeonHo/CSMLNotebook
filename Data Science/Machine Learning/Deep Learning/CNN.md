@@ -27,3 +27,4 @@ Paddle Paddle = PyTorch + Keras
 	- avoid the gradient vanishing caused by increasing the layers.
 	- transmit the information from the deep layer to the shallow layer.
 	- The residual connection can make the residual block into a identity mapping in properly occasions.
+[[卷积]]
