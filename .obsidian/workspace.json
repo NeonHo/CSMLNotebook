@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
+                "file": "Data Science/Machine Learning/避免过拟合的核心策略.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BN 正则化效果与 Dropout 的异同解析"
+              "title": "避免过拟合的核心策略"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "过拟合",
+                "query": "避免过拟合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,11 +206,11 @@
   },
   "active": "ec15969f172c2973",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
     "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
     "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Untitled.md",
-    "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
     "Data Science/Machine Learning/Batch Normalization.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Data Science/Machine Learning/池化.md",
