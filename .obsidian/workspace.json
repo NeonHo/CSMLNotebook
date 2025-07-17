@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
+                "file": "Data Science/Machine Learning/Deep Learning/R-CNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 3 Classical Optimization Algorithms"
+              "title": "R-CNN"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卡方",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,11 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec15969f172c2973",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/LogLoss.md",
+    "Data Science/Machine Learning/Logistic Regression.md",
+    "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
+    "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 5 Stochastic Gradient Descent.md",
     "Data Science/Machine Learning/Chapter 9 Forward Neural Network/Section 1 Multi-layer Perceptron & Boolean Function.md",
-    "Data Science/Machine Learning/Chapter 7 Optimization Algorithms/Section 3 Classical Optimization Algorithms.md",
     "Data Science/Machine Learning/聚类算法.md",
     "Computer Science/Development/front end/TypeScript/Basics.md",
     "Data Science/Machine Learning/DIANA.md",
@@ -226,11 +229,8 @@
     "Data Science/Machine Learning/支持向量.md",
     "Data Science/Big Date Techs & Tools/MapReduce.md",
     "Data Science/Big Date Techs & Tools/RDD之间的依赖关系.md",
-    "Data Science/Machine Learning/Logistic Regression.md",
     "Data Science/Machine Learning/朴素贝叶斯.md",
     "Data Science/Machine Learning/逻辑回归是线性模型？.md",
-    "Data Science/Machine Learning/逻辑回归是回归模型？.md",
-    "Data Science/Probability/极大似然估计.md",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
