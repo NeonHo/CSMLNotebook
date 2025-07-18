@@ -97,13 +97,13 @@ model.eval()    # 推理模式（使用滑动平均）
 
 ### 五、归一化家族
 
-| 方法 | 归一化维度 | 适用场景 |
-|---|---|---|
-| **BatchNorm** | 批次维度 | 图像、大 batch |
-| **LayerNorm** | 样本维度（整层） | NLP、RNN |
-| **InstanceNorm** | 样本+通道 | 风格迁移 |
-| **GroupNorm** | 通道分组 | 小 batch |
-| **SwitchableNorm** | 学习权重融合 | 自动选择 |
+| 方法 | 归一化维度 | 适用场景        |
+| ------------------ | -------- | ----------- |
+| **BatchNorm** | 批次维度 | 图像、大 batch  |
+| **LayerNorm** | 样本维度（整层） | NLP、[[RNN]] |
+| **InstanceNorm** | 样本+通道 | 风格迁移        |
+| **GroupNorm** | 通道分组 | 小 batch     |
+| **SwitchableNorm** | 学习权重融合 | 自动选择        |
 
 ---
 
