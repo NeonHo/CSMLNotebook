@@ -11,10 +11,14 @@
             "id": "ec8151ca28edded3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RNN"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Word2vec",
+                "query": "RNN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,6 +205,11 @@
   },
   "active": "ec8151ca28edded3",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/RNN.md",
+    "Data Science/Machine Learning/特征选择.md",
+    "Data Science/Machine Learning/Linear Regression.md",
+    "Data Science/Machine Learning/分类问题.md",
+    "Data Science/Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
     "Data Science/Machine Learning/词袋模型.md",
     "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
@@ -223,11 +231,6 @@
     "Data Science/Machine Learning/Deep Learning/Variational Autoencoder.md",
     "Data Science/Machine Learning/CNN发展.md",
     "Data Science/Probability/单样本t检验.md",
-    "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/顶帽变换.md",
-    "Data Science/Machine Learning/图像形态学处理方法.md",
-    "Data Science/Machine Learning/卷积与滤波器.md",
-    "Data Science/Machine Learning/滤波器.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
