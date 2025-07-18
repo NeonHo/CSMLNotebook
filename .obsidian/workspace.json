@@ -11,14 +11,10 @@
             "id": "ec8151ca28edded3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Machine Learning/词向量模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "词向量模型"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EMbedding",
+                "query": "Word2vec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,15 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "ec8151ca28edded3",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/词袋模型.md",
+    "Data Science/Machine Learning/词向量模型.md",
+    "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
+    "Data Science/Machine Learning/Word2Vec.md",
+    "Data Science/Machine Learning/Word Embedding.md",
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/One-Hot编码.md",
     "Data Science/Machine Learning/papers/NLP/Named Entity Recognition.md",
-    "Data Science/Machine Learning/Word Embedding.md",
-    "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
-    "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/数据预处理.md",
     "Data Science/Machine Learning/papers/NLP/token.md",
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
@@ -229,8 +228,6 @@
     "Data Science/Machine Learning/图像形态学处理方法.md",
     "Data Science/Machine Learning/卷积与滤波器.md",
     "Data Science/Machine Learning/滤波器.md",
-    "Data Science/Machine Learning/图像边缘检测算子.md",
-    "Data Science/Machine Learning/Back Propagation.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",

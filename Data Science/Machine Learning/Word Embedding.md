@@ -26,7 +26,7 @@
 #### 1. 静态词嵌入（Static Word Embedding）  
 为每个词分配固定向量，不考虑词在上下文中的歧义。
 
-- **Word2Vec（2013）**  
+- **[[Word2Vec]]（2013）**  
   Google 开发的经典模型，通过预测上下文学习词向量，含两种训练模式：  
   - **CBOW（Continuous Bag-of-Words）**：用上下文词预测中心词。  
   - **Skip-gram**：用中心词预测上下文词。  
