@@ -42,7 +42,7 @@
 目前解决方案可分为三大类：**元学习、预训练与微调、数据增强**。
 
 #### 1. 元学习（Meta-Learning）：“学习如何学习”
-
+[[Meta Learning]]
 通过大量“小任务”训练模型学会通用学习策略，再快速适配新任务。
 
 - **MAML**（Model-Agnostic Meta-Learning）  
