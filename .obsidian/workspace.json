@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db1276da49feb629",
+        "id": "1bc5aeb374d289f7",
         "type": "tabs",
         "children": [
           {
-            "id": "751a64b2a32a4946",
+            "id": "b0a5b6fbe2fc4787",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RNN",
+                "query": "NoSQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,8 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "b0a5b6fbe2fc4787",
   "lastOpenFiles": [
+    "Data Science/ETL.md",
+    "Data Science/Big Date Techs & Tools/NoSQL数据库.md",
+    "Computer Science/Database/NoSQL.md",
+    "Data Science/Big Date Techs & Tools/HBase.md",
     "Data Science/Machine Learning/时序处理中 RNN vs MLP.md",
     "Data Science/Machine Learning/全连接层.md",
     "Data Science/Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
@@ -223,10 +228,6 @@
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/One-Hot编码.md",
     "Data Science/Machine Learning/papers/NLP/Named Entity Recognition.md",
-    "Data Science/Machine Learning/数据预处理.md",
-    "Data Science/Machine Learning/papers/NLP/token.md",
-    "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
-    "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
