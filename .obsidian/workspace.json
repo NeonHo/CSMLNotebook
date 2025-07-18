@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/RNN.md",
+                "file": "Data Science/Machine Learning/LSTM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RNN"
+              "title": "LSTM"
             }
           }
         ]
@@ -205,6 +205,8 @@
   },
   "active": "b0a5b6fbe2fc4787",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/RNN.md",
+    "Data Science/Machine Learning/LSTM.md",
     "Data Science/ETL.md",
     "Data Science/Big Date Techs & Tools/NoSQL数据库.md",
     "Computer Science/Database/NoSQL.md",
@@ -213,7 +215,6 @@
     "Data Science/Machine Learning/全连接层.md",
     "Data Science/Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
     "Data Science/Machine Learning/Chapter 10 RNN/Section 1 RNN v.s. CNN.md",
-    "Data Science/Machine Learning/RNN.md",
     "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/Section 1 GAN.md",
     "Data Science/Machine Learning/Dropout.md",
     "Data Science/Machine Learning/Batch Normalization.md",
@@ -230,7 +231,6 @@
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
     "Data Science/Machine Learning/Deep Learning/Transformer.md",
     "Data Science/Machine Learning/One-Hot编码.md",
-    "Data Science/Machine Learning/papers/NLP/Named Entity Recognition.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
