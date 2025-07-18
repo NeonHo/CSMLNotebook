@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
+                "file": "Data Science/Machine Learning/数据预处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autoencoder"
+              "title": "数据预处理"
             }
           }
         ]
@@ -205,6 +205,8 @@
   },
   "active": "ec8151ca28edded3",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
+    "Data Science/Machine Learning/数据预处理.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Deep Learning/Diffusion Models.md",
     "Data Science/Machine Learning/Deep Learning/Object Detection.md",
@@ -229,9 +231,7 @@
     "Data Science/Machine Learning/BN 正则化效果与 Dropout 的异同解析.md",
     "Data Science/Machine Learning/反向传播算法的参数更新时机和计算图一致性的核心问题.md",
     "Data Science/Machine Learning/SVM所有样本需要满足的约束条件.md",
-    "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
-    "Data Science/Machine Learning/池化.md",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
