@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "460dd63573347a54",
+        "id": "08c26f81031e19b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f25543b8dab12f67",
+            "id": "90995cbf5d466d9d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "90995cbf5d466d9d",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/BERT.md",
+    "Projects/game dev/GAME DEV DOC/2-Coding.md",
+    "Computer Science/Development/front end/TypeScript/Basics.md",
     "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/汉语言分词方法.md",
     "Projects/Media/数据史话.md",
@@ -227,9 +230,6 @@
     "Data Science/Machine Learning/Linear Regression.md",
     "Data Science/Machine Learning/分类问题.md",
     "Data Science/Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
-    "Data Science/Machine Learning/词袋模型.md",
-    "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
-    "Data Science/Machine Learning/Word2Vec.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
