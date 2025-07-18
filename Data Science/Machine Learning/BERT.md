@@ -16,7 +16,7 @@ BERT 的核心是**多层 Transformer 编码器**，其结构特点如下：
 
 #### 1. Transformer 编码器
 
-Transformer 是一种基于**自注意力机制（Self-Attention）**的模型架构，相比 [[RNN]]/[[LSTM]]，它能**并行处理序列**，且更擅长捕获长距离依赖关系。BERT 使用 Transformer 的编码器部分（丢弃了解码器），堆叠多层（如 12 层或 24 层），形成深度双向网络。
+Transformer 是一种基于**自注意力机制（Self-Attention）** 的模型架构，相比 [[RNN]]/[[LSTM]]，它能**并行处理序列**，且更擅长捕获长距离依赖关系。BERT 使用 Transformer 的编码器部分（丢弃了解码器），堆叠多层（如 12 层或 24 层），形成深度双向网络。
 
 #### 2. 输入表示
 
