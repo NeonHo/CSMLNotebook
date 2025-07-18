@@ -11,10 +11,14 @@
             "id": "424d7409c60aa2d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/few-shot learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "few-shot learning"
             }
           }
         ]
@@ -201,6 +205,7 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/few-shot learning.md",
     "Data Science/Machine Learning/BERT.md",
     "Data Science/Machine Learning/基于LSTM的Seq2Seq.md",
     "Data Science/Machine Learning/LSTM.md",
@@ -229,7 +234,6 @@
     "Data Science/Machine Learning/Batch Normalization.md",
     "Data Science/Machine Learning/papers/NLP/Autoregressive Language Models.md",
     "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/Linear Regression.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
