@@ -1,5 +1,5 @@
-`PatchEmbed` 模块是用于将输入图像分割成小块（patches）并进行嵌入（embedding）的模块。这是在视觉注意力模型（Vision Transformer，ViT）中使用的一种技术。
-
+`PatchEmbed` 模块是用于将输入图像分割成小块（patches）并进行嵌入（embedding）的模块。这是在视觉注意力模型（Vision Transformer，[[ViT]]）中使用的一种技术。
+[[Word Embedding]]
 在 Vision Transformer 中，输入图像被分成一系列不重叠的小块，每个小块被视为一个“patch”。然后，这些 patch 被展平并投影到一个低维空间中，形成嵌入表示，作为模型的输入。
 
 具体而言，`PatchEmbed` 模块会将输入图像分割成许多小块，并将每个小块映射到一个高维的嵌入空间。这个操作有助于捕捉图像中的局部信息，并为每个小块生成一个嵌入向量。这些嵌入向量将作为输入序列提供给后续的 Transformer 模块。[[Transformer]]

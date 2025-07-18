@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
+                "file": "Data Science/Machine Learning/词向量模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用One-Hot做文本向量化"
+              "title": "词向量模型"
             }
           }
         ]
@@ -203,10 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec8151ca28edded3",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/词向量模型.md",
+    "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
+    "Data Science/Machine Learning/Deep Learning/Transformer.md",
+    "Data Science/Machine Learning/One-Hot编码.md",
+    "Data Science/Machine Learning/papers/NLP/Named Entity Recognition.md",
+    "Data Science/Machine Learning/Word Embedding.md",
     "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
+    "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/数据预处理.md",
     "Data Science/Machine Learning/papers/NLP/token.md",
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
@@ -226,11 +231,6 @@
     "Data Science/Machine Learning/滤波器.md",
     "Data Science/Machine Learning/图像边缘检测算子.md",
     "Data Science/Machine Learning/Back Propagation.md",
-    "Data Science/Machine Learning/Deep Learning/YOLO.md",
-    "Data Science/Machine Learning/半朴素贝叶斯分类.md",
-    "Data Science/Probability/中心极限定理.md",
-    "Data Science/Probability/参数估计.md",
-    "Data Science/Machine Learning/Batch Normalization.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",

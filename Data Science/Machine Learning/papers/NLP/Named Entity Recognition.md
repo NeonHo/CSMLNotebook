@@ -12,7 +12,7 @@
 	- Conditional Random Field
 	- deep learning based NER
 		- assemble words
-			- word embedding
+			- [[Word Embedding]]
 				- semantic relationship
 				- syntactic relationship
 			- learn analyzes topic-specific
