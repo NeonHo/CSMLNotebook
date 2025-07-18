@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc5aeb374d289f7",
+        "id": "460dd63573347a54",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a5b6fbe2fc4787",
+            "id": "f25543b8dab12f67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Machine Learning/LSTM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSTM"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NoSQL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,10 +199,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0a5b6fbe2fc4787",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/RNN.md",
+    "Data Science/Machine Learning/词向量模型.md",
+    "Data Science/Machine Learning/汉语言分词方法.md",
+    "Projects/Media/数据史话.md",
     "Data Science/Machine Learning/LSTM.md",
+    "Data Science/Machine Learning/Word Embedding.md",
+    "Data Science/Machine Learning/RNN.md",
+    "Data Science/Machine Learning/N-最短路径分词法.md",
+    "Attachments/Pasted image 20250718103913.png",
+    "Attachments/LSTMUnit.webp",
+    "Attachments/Unconfirmed 377248.crdownload",
     "Data Science/ETL.md",
     "Data Science/Big Date Techs & Tools/NoSQL数据库.md",
     "Computer Science/Database/NoSQL.md",
@@ -224,13 +228,8 @@
     "Data Science/Machine Learning/分类问题.md",
     "Data Science/Machine Learning/Chapter 1 Feature Engineering/特征工程分类.md",
     "Data Science/Machine Learning/词袋模型.md",
-    "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
     "Data Science/Machine Learning/Word2Vec.md",
-    "Data Science/Machine Learning/Word Embedding.md",
-    "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
-    "Data Science/Machine Learning/Deep Learning/Transformer.md",
-    "Data Science/Machine Learning/One-Hot编码.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
@@ -247,10 +246,7 @@
     "Attachments/Pasted image 20250612192344.png",
     "Attachments/Pasted image 20250612191941.png",
     "Attachments/Pasted image 20250612191428.png",
-    "Attachments/Pasted image 20250612191239.png",
-    "Attachments/Screenshot 2025-06-12 at 4.31.47 PM.png",
     "Data Science/Big Date Techs & Tools",
-    "Data Science",
     "未命名.canvas"
   ]
 }
