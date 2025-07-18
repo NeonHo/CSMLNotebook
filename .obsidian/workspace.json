@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08c26f81031e19b5",
+        "id": "873f063deef632bb",
         "type": "tabs",
         "children": [
           {
-            "id": "90995cbf5d466d9d",
+            "id": "424d7409c60aa2d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Machine Learning/temperature in Text Generation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "temperature in Text Generation"
+              "title": "New tab"
             }
           }
         ]
@@ -203,16 +199,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90995cbf5d466d9d",
+  "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
     "Data Science/Machine Learning/BERT.md",
+    "Data Science/Machine Learning/基于LSTM的Seq2Seq.md",
+    "Data Science/Machine Learning/LSTM.md",
     "Data Science/Machine Learning/temperature in Text Generation.md",
     "Projects/game dev/GAME DEV DOC/2-Coding.md",
     "Computer Science/Development/front end/TypeScript/Basics.md",
     "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/汉语言分词方法.md",
     "Projects/Media/数据史话.md",
-    "Data Science/Machine Learning/LSTM.md",
     "Data Science/Machine Learning/Word Embedding.md",
     "Data Science/Machine Learning/RNN.md",
     "Data Science/Machine Learning/N-最短路径分词法.md",
@@ -233,7 +230,6 @@
     "Data Science/Machine Learning/papers/NLP/Autoregressive Language Models.md",
     "Data Science/Machine Learning/特征选择.md",
     "Data Science/Machine Learning/Linear Regression.md",
-    "Data Science/Machine Learning/分类问题.md",
     "Attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
     "Attachments/(99+ 封私信 _ 48 条消息) Back Propagation（梯度反向传播）实例讲解 - 知乎.pdf",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
