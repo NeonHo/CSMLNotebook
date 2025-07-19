@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/数据预处理.md",
+                "file": "Data Science/Machine Learning/Reinforce Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据预处理"
+              "title": "Reinforce Learning"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Normalization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,10 +205,11 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/数据预处理.md",
+    "Data Science/Machine Learning/Reinforce Learning.md",
     "Data Science/Machine Learning/数据不平衡处理.md",
     "Data Science/Machine Learning/时间序列数据特定处理.md",
     "Data Science/Machine Learning/Interaction and Polynomial Features.md",
-    "Data Science/Machine Learning/数据预处理.md",
     "Data Science/Machine Learning/Feature Scalling & Normalization.md",
     "Data Science/Machine Learning/Frequency Encoding.md",
     "Data Science/Machine Learning/Target Encoding.md",
@@ -230,7 +231,6 @@
     "Data Science/填补缺失值.md",
     "Data Science/Machine Learning/互信息.md",
     "Data Science/Machine Learning/Support Set.md",
-    "Data Science/Machine Learning/Meta Learning.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
