@@ -11,14 +11,10 @@
             "id": "424d7409c60aa2d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Machine Learning/LDA 线性判别分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LDA 线性判别分析"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贝叶斯",
+                "query": "交叉验证",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,15 +202,21 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/Fisher判别分析与线性判别分析解析.md",
+    "Data Science/Machine Learning/聚类算法.md",
+    "Data Science/Machine Learning/奥卡姆剃刀.md",
+    "Data Science/Machine Learning/SVM.md",
+    "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
+    "Data Science/Machine Learning/Random Forest.md",
+    "Data Science/Machine Learning/Hinge Loss.md",
+    "Data Science/Machine Learning/模型评估方法.md",
+    "Data Science/Machine Learning/Boosting.md",
     "Data Science/Machine Learning/LDA 线性判别分析.md",
+    "Data Science/Machine Learning/Fisher判别分析与线性判别分析解析.md",
     "Data Science/Machine Learning/与LDA相关的算法.md",
     "Data Science/Machine Learning/Adaboost.md",
-    "Data Science/Machine Learning/Boosting.md",
     "Data Science/Machine Learning/Bagging.md",
     "README.md",
     "Data Science/Machine Learning/半监督学习.md",
-    "Data Science/Machine Learning/聚类算法.md",
     "Data Science/Machine Learning/有监督 & 无监督 & 半监督.md",
     "Data Science/Machine Learning/XGBoost.md",
     "Data Science/Machine Learning/GBDT.md",
@@ -224,13 +227,7 @@
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
     "Data Science/Machine Learning/决策树.md",
     "Data Science/Machine Learning/决策树特征的分割点搜索.md",
-    "Data Science/Machine Learning/Random Forest.md",
     "Data Science/Machine Learning/避免过拟合的核心策略.md",
-    "Data Science/Machine Learning/Reinforce Learning.md",
-    "Data Science/Machine Learning/数据预处理.md",
-    "Data Science/Machine Learning/数据不平衡处理.md",
-    "Data Science/Machine Learning/时间序列数据特定处理.md",
-    "Data Science/Machine Learning/Interaction and Polynomial Features.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
