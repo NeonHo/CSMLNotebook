@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "gan",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 9.53938802083333,
   "linkStrength": 0.9326171875,
   "linkDistance": 128,
-  "scale": 1.589557490265054,
+  "scale": 0.8711124196092589,
   "close": true
 }

@@ -4,7 +4,7 @@ https://zhuanlan.zhihu.com/p/560603623
 
 # Background
 - 图像生成领域常见模型
-	- [[Section 1 GAN]]
+	- [[GAN]]
 	- [[Variational Autoencoder]]
 - Denoising Diffusion Probabilistic Model (DDPM)
 	- called Diffusion Models
@@ -20,7 +20,7 @@ https://zhuanlan.zhihu.com/p/560603623
 - 2 procedures (Both are [[Section 4 Markov Chain]]):
 	- forward (diffusion process)
 	- reverse
-		- to generate data samples (as the generator from [[Section 1 GAN]])
+		- to generate data samples (as the generator from [[GAN]])
 			- the generator of GAN will change the dimension.
 			- DDPM will keep the dimension
 	- ![[319a03cc4de41836a325f926f525d56.jpg]]
