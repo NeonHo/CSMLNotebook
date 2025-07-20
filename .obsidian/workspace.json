@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VAE",
+                "query": "高斯分布",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,11 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8dc6aa3c583a1f0",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
+    "Data Science/Probability/二项分布.md",
+    "Data Science/Machine Learning/伯努利分布.md",
+    "Data Science/Machine Learning/Deep Learning/Variational Auto-encoder.md",
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
     "Data Science/Machine Learning/GAN的本质是分布匹配.md",
-    "Data Science/Machine Learning/Deep Learning/Variational Auto-encoder.md",
     "Data Science/Machine Learning/图像形态学处理方法.md",
     "Data Science/Machine Learning/面临的问题.md",
     "Data Science/Machine Learning/多分类学习的拆分策略.md",
@@ -230,8 +232,6 @@
     "Data Science/Machine Learning/朴素贝叶斯.md",
     "Data Science/Machine Learning/聚类算法.md",
     "Data Science/Machine Learning/奥卡姆剃刀.md",
-    "Data Science/Machine Learning/SVM.md",
-    "Data Science/Machine Learning/Random Forest.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
