@@ -18,10 +18,17 @@ An A.I. Engineer, Neon Ho's personal Obsidian Backup Notebook based on Obsidian 
 	1. check if there are any existing token for obsidian git.
 	2. If there is, regenerate it for using a new one.
 
-# Paste
-If you want to paste some answer from Doubao AI, please use `command + shift + v`, don't simply use `command + v`.
 
-如何查看开发者控制台？
+
+# Doubao
+## Paste
+If you want to paste some answer from Doubao AI, please use `command + shift + v`, don't simply use `command + v`.
+## Prompt
+注意：
+1. 将回答内容中所有的行内公式用`$`包裹，而非`\(`和`\)`包裹。
+2. 将回答内容中所有的公式块用`$$`包裹，而非`\[`和`\]`包裹。
+
+# 如何查看开发者控制台？
 • Windows：CTRL + SHIFT + I
 • MacOS：CMD + OPTION + I
 • Linux：CTRL + SHIFT + I

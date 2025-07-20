@@ -40,7 +40,7 @@ AdaBoost 是最早的 Boosting 算法（1995年由 Freund 和 Schapire 提出）
 
 
 #### **2. GBDT（Gradient Boosting Decision Tree，梯度提升树）**
-GBDT 是 Boosting 在回归/分类任务中最广泛的应用，核心是 **“用梯度下降优化损失函数”**，用决策树作为弱学习器。
+[[GBDT]] 是 Boosting 在回归/分类任务中最广泛的应用，核心是 **“用梯度下降优化损失函数”**，用决策树作为弱学习器。
 
 - **核心逻辑**：  
   - 与 AdaBoost 不同，GBDT 不通过错误率更新样本权重，而是**通过损失函数的负梯度方向确定“残差”**（即下一个弱学习器需要拟合的目标）。  
