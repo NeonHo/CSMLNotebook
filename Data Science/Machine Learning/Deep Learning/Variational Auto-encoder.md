@@ -2,7 +2,7 @@
 
 变分自编码器（Variational Autoencoder, VAE）是一种融合**自编码器结构**与**变分推断理论**的生成模型，核心目标是学习数据的潜在概率分布，从而实现新数据的生成。与传统自编码器（AE）相比，VAE通过对潜在空间施加概率约束，解决了AE潜在空间不连续、难以采样生成新数据的问题，成为生成式建模的重要范式。
 
-
+![[Pasted image 20250720172811.png]]
 ### 一、VAE的核心动机：从“确定性编码”到“概率生成”
 传统自编码器（AE）由编码器（Encoder）和解码器（Decoder）组成：编码器将输入数据$x$映射到确定性潜在向量$z$，解码器再将$z$重构为$\hat{x}$，通过最小化重构损失（如MSE）学习数据的压缩表示。但传统AE存在一个关键缺陷：**潜在空间缺乏连续性和结构性**——编码器输出的$z$可能在潜在空间中离散分布，导致从潜在空间随机采样的向量经解码器生成的结果无意义（例如，两张人脸图像的潜在向量之间的插值可能生成扭曲的图像）。
 
@@ -12,7 +12,9 @@ VAE的创新在于：将潜在向量$z$建模为**概率分布**（而非确定�
 ### 二、VAE的结构与核心原理
 VAE的结构仍由编码器和解码器组成，但两者的功能与传统AE有本质区别：
 
-
+In VAEs, 
+the encoder still maps the input data to a lower-dimensional latent space, but instead of a single point in the latent space, the encoder generates a probability distribution over the latent space. 
+The decoder then samples from this distribution to generate a new data point. This probabilistic approach to encoding the input allows VAEs to learn a more structured and continuous latent space representation, which is useful for generative modeling and data synthesis.
 #### 1. 编码器（Inference Network）：学习潜在分布的参数
 编码器的目标不是输出确定性的$z$，而是输出**潜在分布$p(z|x)$的参数**。假设潜在分布$p(z|x)$服从高斯分布（这是变分推断中常见的简化，便于计算），则编码器对输入$x$进行编码后，输出两个向量：
 - 均值向量$\mu(x)$：表示高斯分布的均值；
