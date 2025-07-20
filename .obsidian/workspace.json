@@ -11,10 +11,14 @@
             "id": "424d7409c60aa2d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/Section 1 GAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 1 GAN"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "交叉验证",
+                "query": "贝叶斯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,6 +205,8 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/朴素贝叶斯.md",
+    "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/Section 1 GAN.md",
     "Data Science/Machine Learning/聚类算法.md",
     "Data Science/Machine Learning/奥卡姆剃刀.md",
     "Data Science/Machine Learning/SVM.md",
@@ -226,8 +231,6 @@
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
     "Data Science/Machine Learning/决策树.md",
-    "Data Science/Machine Learning/决策树特征的分割点搜索.md",
-    "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
