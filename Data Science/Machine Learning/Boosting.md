@@ -29,7 +29,7 @@ Boosting 有多个经典变种，核心差异在于**样本权重更新方式**�
 
 
 #### **1. AdaBoost（Adaptive Boosting，自适应提升）**
-AdaBoost 是最早的 Boosting 算法（1995年由 Freund 和 Schapire 提出），适用于分类任务，核心是**“自适应”调整样本权重**。
+[[Adaboost]] 是最早的 Boosting 算法（1995年由 Freund 和 Schapire 提出），适用于分类任务，核心是**“自适应”调整样本权重**。
 
 - **核心逻辑**：  
   - 损失函数：采用**指数损失（Exponential Loss）** $L(y, F(x)) = e^{-yF(x)}$（$y \in \{-1, 1\}$ 为标签）。  

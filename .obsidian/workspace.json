@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/半监督学习.md",
+                "file": "Data Science/Machine Learning/Adaboost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "半监督学习"
+              "title": "Adaboost"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "高斯混合",
+                "query": "Adaboost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -205,13 +205,14 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/聚类算法.md",
-    "Data Science/Machine Learning/半监督学习.md",
-    "Data Science/Machine Learning/有监督 & 无监督 & 半监督.md",
-    "README.md",
-    "Data Science/Machine Learning/XGBoost.md",
-    "Data Science/Machine Learning/Bagging.md",
     "Data Science/Machine Learning/Boosting.md",
+    "Data Science/Machine Learning/Bagging.md",
+    "Data Science/Machine Learning/Adaboost.md",
+    "README.md",
+    "Data Science/Machine Learning/半监督学习.md",
+    "Data Science/Machine Learning/聚类算法.md",
+    "Data Science/Machine Learning/有监督 & 无监督 & 半监督.md",
+    "Data Science/Machine Learning/XGBoost.md",
     "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/GBDT中的gamma.md",
     "Data Science/Machine Learning/LogLoss.md",
@@ -230,7 +231,6 @@
     "Data Science/Machine Learning/Feature Scalling & Normalization.md",
     "Data Science/Machine Learning/Frequency Encoding.md",
     "Data Science/Machine Learning/Target Encoding.md",
-    "Data Science/Machine Learning/Label Encoding.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
