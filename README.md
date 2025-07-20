@@ -20,3 +20,8 @@ An A.I. Engineer, Neon Ho's personal Obsidian Backup Notebook based on Obsidian 
 
 # Paste
 If you want to paste some answer from Doubao AI, please use `command + shift + v`, don't simply use `command + v`.
+
+如何查看开发者控制台？
+• Windows：CTRL + SHIFT + I
+• MacOS：CMD + OPTION + I
+• Linux：CTRL + SHIFT + I

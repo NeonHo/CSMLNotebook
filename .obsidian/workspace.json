@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bagging",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,14 +205,14 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/决策树.md",
+    "README.md",
     "Data Science/Machine Learning/Boosting.md",
+    "Data Science/Machine Learning/决策树.md",
     "Data Science/Machine Learning/决策树特征的分割点搜索.md",
     "Data Science/Machine Learning/Random Forest.md",
     "Data Science/Machine Learning/Bagging.md",
     "Data Science/Machine Learning/避免过拟合的核心策略.md",
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
-    "README.md",
     "Data Science/Machine Learning/Reinforce Learning.md",
     "Data Science/Machine Learning/数据预处理.md",
     "Data Science/Machine Learning/数据不平衡处理.md",
