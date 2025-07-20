@@ -17,3 +17,6 @@ An A.I. Engineer, Neon Ho's personal Obsidian Backup Notebook based on Obsidian 
 4. If occurs Error 403, it is possible that the access token has problems.
 	1. check if there are any existing token for obsidian git.
 	2. If there is, regenerate it for using a new one.
+
+# Paste
+If you want to paste some answer from Doubao AI, please use `command + shift + v`, don't simply use `command + v`.
