@@ -43,7 +43,7 @@ $$w_{(m+1)i} = \frac{w_{mi} \cdot \exp\left( -\alpha_m \cdot y_i \cdot h_m(x_i) 
 $$H(x) = \text{sign}\left( \sum_{m=1}^M \alpha_m \cdot h_m(x) \right)$$  
 
 其中$\text{sign}(\cdot)$为符号函数：输入为正输出$+1$，为负输出$-1$，本质是对弱分类器的“加权投票”。  
-
+注意，符号函数的目的是让输出只能为两个数：+1和-1，提取了内部强分类器输出值的符号。
 
 #### 3. 理论基础：指数损失最小化  
 AdaBoost的迭代过程可通过**指数损失函数**解释其合理性。定义损失函数为：  
