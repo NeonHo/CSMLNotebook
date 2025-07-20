@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Bagging.md",
+                "file": "Data Science/Machine Learning/决策树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bagging"
+              "title": "决策树"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,8 +205,10 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
+    "Data Science/Machine Learning/Random Forest.md",
     "Data Science/Machine Learning/Bagging.md",
+    "Data Science/Machine Learning/避免过拟合的核心策略.md",
+    "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
     "README.md",
     "Data Science/Machine Learning/Reinforce Learning.md",
     "Data Science/Machine Learning/数据预处理.md",
@@ -230,8 +231,6 @@
     "Data Science/Probability/分位点函数&累积分布函数.md",
     "Data Science/Machine Learning/SVR.md",
     "Data Science/Machine Learning/MLP.md",
-    "Data Science/Machine Learning/Apriori算法.md",
-    "Data Science/1. 数据科学概述.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
