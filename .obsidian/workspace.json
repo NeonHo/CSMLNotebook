@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Reinforcement Learning/Brief Introduction.md",
+                "file": "Data Science/Machine Learning/GAN的本质是分布匹配.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brief Introduction"
+              "title": "GAN的本质是分布匹配"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "过拟合",
+                "query": "OvR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,15 +205,21 @@
   },
   "active": "c8dc6aa3c583a1f0",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/顶帽变换.md",
+    "Data Science/Machine Learning/Deep Learning/Variational Auto-encoder.md",
+    "Data Science/Machine Learning/GAN的本质是分布匹配.md",
+    "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
+    "Data Science/Machine Learning/图像形态学处理方法.md",
     "Data Science/Machine Learning/面临的问题.md",
+    "Data Science/Machine Learning/多分类学习的拆分策略.md",
+    "Data Science/Machine Learning/AUC.md",
+    "Data Science/Machine Learning/Reinforcement Learning/强化学习过程梳理.md",
+    "Data Science/Machine Learning/顶帽变换.md",
     "Data Science/Machine Learning/SVM所有样本需要满足的约束条件.md",
     "Data Science/Machine Learning/Inductive Bias 归纳偏好.md",
     "Data Science/Machine Learning/卷积与滤波器.md",
     "Data Science/Machine Learning/Meta Learning.md",
     "Data Science/Machine Learning/Multiplication Times for CNN.md",
     "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
-    "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
     "Data Science/Machine Learning/交叉熵损失&KL散度.md",
     "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/GAN.md",
     "Data Science/Machine Learning/Deep Learning/Diffusion Models.md",
@@ -225,12 +231,6 @@
     "Data Science/Machine Learning/奥卡姆剃刀.md",
     "Data Science/Machine Learning/SVM.md",
     "Data Science/Machine Learning/Random Forest.md",
-    "Data Science/Machine Learning/Hinge Loss.md",
-    "Data Science/Machine Learning/模型评估方法.md",
-    "Data Science/Machine Learning/Boosting.md",
-    "Data Science/Machine Learning/LDA 线性判别分析.md",
-    "Data Science/Machine Learning/Fisher判别分析与线性判别分析解析.md",
-    "Data Science/Machine Learning/与LDA相关的算法.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
