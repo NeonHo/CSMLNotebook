@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "对数损失",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,11 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "424d7409c60aa2d4",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/LogLoss.md",
+    "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/Hash Encoding.md",
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
-    "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/Boosting.md",
     "README.md",
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models.md",
@@ -230,7 +231,6 @@
     "Data Science/Machine Learning/长尾分布检测.md",
     "Data Science/Machine Learning/异常样本处理.md",
     "Data Science/Machine Learning/异常样本点检测.md",
-    "Data Science/Machine Learning/特征选择.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
