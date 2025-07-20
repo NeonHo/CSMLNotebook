@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/GAN.md",
+                "file": "Data Science/Machine Learning/Reinforcement Learning/Brief Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GAN"
+              "title": "Brief Introduction"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "过拟合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,16 +205,25 @@
   },
   "active": "c8dc6aa3c583a1f0",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/顶帽变换.md",
+    "Data Science/Machine Learning/面临的问题.md",
+    "Data Science/Machine Learning/SVM所有样本需要满足的约束条件.md",
+    "Data Science/Machine Learning/Inductive Bias 归纳偏好.md",
+    "Data Science/Machine Learning/卷积与滤波器.md",
+    "Data Science/Machine Learning/Meta Learning.md",
+    "Data Science/Machine Learning/Multiplication Times for CNN.md",
+    "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
+    "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
+    "Data Science/Machine Learning/交叉熵损失&KL散度.md",
+    "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/GAN.md",
     "Data Science/Machine Learning/Deep Learning/Diffusion Models.md",
     "Data Science/Machine Learning/卷积.md",
     "Data Science/Machine Learning/few-shot learning.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
-    "Data Science/Machine Learning/Chapter 13 Generative Adversarial Network/GAN.md",
     "Data Science/Machine Learning/朴素贝叶斯.md",
     "Data Science/Machine Learning/聚类算法.md",
     "Data Science/Machine Learning/奥卡姆剃刀.md",
     "Data Science/Machine Learning/SVM.md",
-    "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
     "Data Science/Machine Learning/Random Forest.md",
     "Data Science/Machine Learning/Hinge Loss.md",
     "Data Science/Machine Learning/模型评估方法.md",
@@ -222,15 +231,6 @@
     "Data Science/Machine Learning/LDA 线性判别分析.md",
     "Data Science/Machine Learning/Fisher判别分析与线性判别分析解析.md",
     "Data Science/Machine Learning/与LDA相关的算法.md",
-    "Data Science/Machine Learning/Adaboost.md",
-    "Data Science/Machine Learning/Bagging.md",
-    "README.md",
-    "Data Science/Machine Learning/半监督学习.md",
-    "Data Science/Machine Learning/有监督 & 无监督 & 半监督.md",
-    "Data Science/Machine Learning/XGBoost.md",
-    "Data Science/Machine Learning/GBDT.md",
-    "Data Science/Machine Learning/GBDT中的gamma.md",
-    "Data Science/Machine Learning/LogLoss.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",

@@ -5,7 +5,7 @@ https://zhuanlan.zhihu.com/p/560603623
 # Background
 - 图像生成领域常见模型
 	- [[GAN]]
-	- [[Variational Autoencoder]]
+	- [[Variational Auto-encoder]]
 - Denoising Diffusion Probabilistic Model (DDPM)
 	- called Diffusion Models
 	- for image synthesis

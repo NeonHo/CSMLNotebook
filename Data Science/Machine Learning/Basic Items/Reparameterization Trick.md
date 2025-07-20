@@ -3,7 +3,7 @@
 
 ![[Pasted image 20240120130141.png]]
 
-[[Variational Autoencoder]]
+[[Variational Auto-encoder]]
 ![[Pasted image 20240120125452.png]]
 ![[Pasted image 20240120125934.png]]
 
