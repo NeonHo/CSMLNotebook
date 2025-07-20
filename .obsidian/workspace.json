@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/GBDT.md",
-                "mode": "source",
+                "file": "Data Science/Machine Learning/GBDT中的gamma.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GBDT"
+              "title": "GBDT中的gamma"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
-    "Data Science/Machine Learning/LogLoss.md",
     "Data Science/Machine Learning/GBDT.md",
+    "Data Science/Machine Learning/GBDT中的gamma.md",
+    "Data Science/Machine Learning/LogLoss.md",
     "Data Science/Machine Learning/Hash Encoding.md",
     "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
     "Data Science/Machine Learning/Boosting.md",
@@ -230,7 +231,6 @@
     "Data Science/Machine Learning/长尾分布处理.md",
     "Data Science/Machine Learning/长尾分布检测.md",
     "Data Science/Machine Learning/异常样本处理.md",
-    "Data Science/Machine Learning/异常样本点检测.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
