@@ -132,5 +132,5 @@ The reason of sampling over features is as follows:
 
 ## 2.2. Boosting
 
-Boosting is the most famous ensemble method that can make the model less biased than the weak learners in it.
+[[Boosting]] is the most famous ensemble method that can make the model less biased than the weak learners in it.
 
