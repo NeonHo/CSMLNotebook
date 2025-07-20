@@ -11,10 +11,14 @@
             "id": "424d7409c60aa2d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/GBDT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GBDT"
             }
           }
         ]
@@ -201,6 +205,8 @@
   },
   "active": "424d7409c60aa2d4",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/Hash Encoding.md",
+    "Computer Science/Development/timm/models/vision_transformer/PatchEmbed.md",
     "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/Boosting.md",
     "README.md",
@@ -218,7 +224,6 @@
     "Data Science/Machine Learning/Feature Scalling & Normalization.md",
     "Data Science/Machine Learning/Frequency Encoding.md",
     "Data Science/Machine Learning/Target Encoding.md",
-    "Data Science/Machine Learning/Hash Encoding.md",
     "Data Science/Machine Learning/Label Encoding.md",
     "Data Science/Machine Learning/缺失值填充.md",
     "Data Science/Machine Learning/长尾分布处理.md",
@@ -226,7 +231,6 @@
     "Data Science/Machine Learning/异常样本处理.md",
     "Data Science/Machine Learning/异常样本点检测.md",
     "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/特征重要性分析与选择方法.md",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
     "Attachments/Unconfirmed 377248.crdownload",
