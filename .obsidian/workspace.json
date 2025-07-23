@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/残差.md",
+                "file": "Data Science/Machine Learning/Apriori算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "残差"
+              "title": "Apriori算法"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "残差",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,17 +203,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8dc6aa3c583a1f0",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/FP-Growth.md",
+    "README.md",
+    "Data Science/Machine Learning/Apriori算法.md",
+    "Data Science/Machine Learning/特征选择.md",
+    "Data Science/Machine Learning/Apriori算法中,候选项集划分为不同的桶存放在Hash树中.md",
+    "Data Science/Machine Learning/残差.md",
     "Data Science/2. 数据流程与方法.md",
     "Data Science/Machine Learning/聚类算法.md",
     "Data Science/Machine Learning/互信息.md",
-    "Data Science/Machine Learning/特征选择.md",
     "Data Science/两词相关性度量.md",
     "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Boosting.md",
-    "Data Science/Machine Learning/残差.md",
     "Data Science/Machine Learning/分类问题.md",
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
     "Data Science/Machine Learning/BERT.md",
@@ -229,10 +232,6 @@
     "Data Science/Machine Learning/F statistics.md",
     "Data Science/Machine Learning/R-squre.md",
     "Data Science/Machine Learning/PCA.md",
-    "Data Science/Machine Learning/Fisher判别分析与线性判别分析解析.md",
-    "Data Science/Machine Learning/协方差矩阵.md",
-    "Data Science/Untitled.md",
-    "Data Science/Machine Learning/决策树特征的分割点搜索.md",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
