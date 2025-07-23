@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K-Means",
+                "query": "时序",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +199,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8da606b3123ff42e",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/时序处理中 RNN vs MLP.md",
+    "Data Science/Machine Learning/RNN.md",
+    "Data Science/Machine Learning/ARIMA.md",
+    "README.md",
+    "Data Science/Machine Learning/Prophet.md",
+    "Data Science/Machine Learning/时间序列预测.md",
     "Data Science/Machine Learning/Kernel PCA.md",
     "Data Science/Probability/分位点函数.md",
     "Data Science/Machine Learning/半朴素贝叶斯分类.md",
@@ -220,13 +226,7 @@
     "Data Science/Machine Learning/Deep Learning/Object Detection.md",
     "Data Science/Machine Learning/ICA.md",
     "Data Science/Machine Learning/FP-Growth.md",
-    "README.md",
     "Data Science/Machine Learning/Apriori算法.md",
-    "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/Apriori算法中,候选项集划分为不同的桶存放在Hash树中.md",
-    "Data Science/Machine Learning/残差.md",
-    "Data Science/2. 数据流程与方法.md",
-    "Data Science/Machine Learning/聚类算法.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
