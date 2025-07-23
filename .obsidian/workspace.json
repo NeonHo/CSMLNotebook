@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/t-SNE.md",
-                "mode": "preview",
+                "file": "Data Science/Machine Learning/Factor Analysis.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "t-SNE"
+              "title": "Factor Analysis"
             }
           }
         ]
@@ -206,6 +206,12 @@
   "active": "c8dc6aa3c583a1f0",
   "lastOpenFiles": [
     "Data Science/Machine Learning/t-SNE.md",
+    "Data Science/Machine Learning/Factor Analysis.md",
+    "Data Science/Probability/t分布.md",
+    "Data Science/Probability/单样本t检验.md",
+    "Data Science/Probability/单样本z检验.md",
+    "Data Science/Probability/伯努利分布.md",
+    "Data Science/Probability/假设检验alpha错误与beta错误.md",
     "Data Science/Machine Learning/Deep Learning/Object Detection.md",
     "Data Science/Machine Learning/ICA.md",
     "Data Science/Machine Learning/FP-Growth.md",
@@ -225,13 +231,7 @@
     "Data Science/Machine Learning/Deep Learning/Autoencoder.md",
     "Data Science/Machine Learning/BERT.md",
     "Data Science/Machine Learning/Linear Regression.md",
-    "Projects/Troubles and Solutions/Pandas/fillna(mode())无效的原因.md",
     "Projects/Troubles and Solutions/Pandas",
-    "Data Science/Machine Learning/特异度.md",
-    "Data Science/Machine Learning/F measure.md",
-    "Data Science/Machine Learning/Precision.md",
-    "Data Science/Machine Learning/Recall.md",
-    "Data Science/Machine Learning/F-1 Score.md",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
