@@ -11,10 +11,10 @@
             "id": "8da606b3123ff42e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "8da606b3123ff42e",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/Kernel PCA.md",
     "Data Science/Machine Learning/CGAN.md",
     "Data Science/Machine Learning/UMAP.md",
     "Data Science/Machine Learning/t-SNE.md",
@@ -226,7 +227,6 @@
     "Data Science/Machine Learning/GBDT.md",
     "Data Science/Machine Learning/Deep Learning/CNN.md",
     "Data Science/Machine Learning/Boosting.md",
-    "Data Science/Machine Learning/分类问题.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
