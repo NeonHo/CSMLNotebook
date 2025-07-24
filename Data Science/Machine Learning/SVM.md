@@ -48,6 +48,7 @@ $$
 - **多项式核**：$K(x_i, x_j) = (\gamma x_i^T x_j + r)^d$（$\gamma, r, d$ 是超参数）  
 - **高斯核（RBF）**：$K(x_i, x_j) = \exp(-\gamma \|x_i - x_j\|^2)$（$\gamma$ 控制核宽度）  
 - **Sigmoid 核**：$K(x_i, x_j) = \tanh(\gamma x_i^T x_j + r)$
+[[Kernel PCA#二、核技巧（Kernel Trick）：核心理论基础]]
 
 ---
 
