@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Data Science/Machine Learning/马尔可夫随机场.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "马尔可夫随机场"
             }
           }
         ]
@@ -205,11 +205,12 @@
   },
   "active": "8da606b3123ff42e",
   "lastOpenFiles": [
+    "README.md",
+    "Data Science/Machine Learning/马尔可夫随机场.md",
     "Data Science/Machine Learning/隐马尔可夫模型.md",
     "Data Science/Machine Learning/Chapter 6 Probabilistic Graphical Model/Section 4 Markov Chain.md",
     "Data Science/Machine Learning/Chapter 6 Probabilistic Graphical Model/Hidden Markov Model.md",
     "Data Science/Machine Learning/N-最短路径分词法.md",
-    "README.md",
     "Data Science/Machine Learning/时间序列预测基本概念.md",
     "Data Science/Machine Learning/AR自回归.md",
     "Data Science/Machine Learning/ARIMA.md",
@@ -230,7 +231,6 @@
     "Data Science/Machine Learning/MA.md",
     "Data Science/Machine Learning/集成学习Stacking策略.md",
     "Data Science/Machine Learning/集成学习的结合策略.md",
-    "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models 集成学习.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
