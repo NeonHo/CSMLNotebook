@@ -1,3 +1,4 @@
+[[集成学习的结合策略]]
 # 1. Why we need ensemble models?
 Maybe, the single model in the Machine Learning can not performance ideally.
 For example, only one model may not predict the result accurately or may only performance accurately in an small subset.
