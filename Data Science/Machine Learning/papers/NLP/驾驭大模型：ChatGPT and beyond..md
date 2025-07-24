@@ -1,5 +1,5 @@
 # Abstract
-- brief introduction of ChatGPT and Bert
+- brief introduction of ChatGPT and [[BERT]]
 - data's influence
 - The use and non-use cases of LLM
 	- acknowledge intensive
