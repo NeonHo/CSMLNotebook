@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/时间序列预测基本概念.md",
+                "file": "Data Science/Machine Learning/ARIMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时间序列预测基本概念"
+              "title": "ARIMA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "交叉验证",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,17 +205,20 @@
   },
   "active": "8da606b3123ff42e",
   "lastOpenFiles": [
+    "README.md",
+    "Data Science/Machine Learning/ARIMA.md",
+    "Data Science/Machine Learning/ACF自相关性.md",
     "Data Science/Machine Learning/时间序列预测基本概念.md",
+    "Data Science/Machine Learning/MA.md",
+    "Data Science/Machine Learning/AR自回归.md",
     "Data Science/Machine Learning/集成学习Stacking策略.md",
     "Data Science/Machine Learning/集成学习的结合策略.md",
-    "README.md",
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models 集成学习.md",
     "Data Science/Machine Learning/多分类学习的拆分策略.md",
     "Data Science/Machine Learning/KNN.md",
     "Data Science/Machine Learning/XGBoost.md",
     "Data Science/Machine Learning/时序处理中 RNN vs MLP.md",
     "Data Science/Machine Learning/RNN.md",
-    "Data Science/Machine Learning/ARIMA.md",
     "Data Science/Machine Learning/Prophet.md",
     "Data Science/Machine Learning/时间序列预测.md",
     "Data Science/Machine Learning/Kernel PCA.md",
@@ -228,9 +231,6 @@
     "Data Science/Machine Learning/UMAP.md",
     "Data Science/Machine Learning/t-SNE.md",
     "Data Science/Machine Learning/Factor Analysis.md",
-    "Data Science/Probability/t分布.md",
-    "Data Science/Probability/单样本t检验.md",
-    "Data Science/Probability/单样本z检验.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
