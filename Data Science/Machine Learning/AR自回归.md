@@ -49,7 +49,7 @@ AR模型的有效性依赖于时序数据满足**平稳性**和**弱相关性**�
    - $AR(1)$的PACF在$k=1$时显著不为0，$k \geq 2$时接近0；
    - $AR(2)$的PACF在$k=1,2$时显著不为0，$k \geq 3$时接近0。
 
-2. **信息准则法**  
+2. **信息准则法**  [[AIC & BIC]]
    通过最小化信息准则（如AIC、BIC）选择最优$p$：
    - AIC（Akaike Information Criterion）：$AIC = 2p - 2\ln(L)$，$L$为似然函数值；
    - BIC（Bayesian Information Criterion）：$BIC = p\ln(n) - 2\ln(L)$，$n$为样本量。  
