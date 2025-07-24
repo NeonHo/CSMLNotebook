@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AIC",
+                "query": "t检验",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,13 +206,14 @@
   },
   "active": "8da606b3123ff42e",
   "lastOpenFiles": [
-    "README.md",
-    "Data Science/Machine Learning/ADF检验.md",
-    "Data Science/Machine Learning/AR自回归.md",
-    "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/ARIMA.md",
-    "Data Science/Machine Learning/ACF自相关性.md",
+    "Data Science/Probability/t检验.md",
     "Data Science/Machine Learning/时间序列预测基本概念.md",
+    "Data Science/Machine Learning/AR自回归.md",
+    "Data Science/Machine Learning/ARIMA.md",
+    "Data Science/Machine Learning/ADF检验.md",
+    "README.md",
+    "Data Science/Machine Learning/特征选择.md",
+    "Data Science/Machine Learning/ACF自相关性.md",
     "Data Science/Machine Learning/MA.md",
     "Data Science/Machine Learning/集成学习Stacking策略.md",
     "Data Science/Machine Learning/集成学习的结合策略.md",
@@ -230,7 +232,6 @@
     "Data Science/Probability/参数估计.md",
     "Data Science/Machine Learning/Ridge Regression & Lasso Regression.md",
     "Data Science/Machine Learning/CGAN.md",
-    "Data Science/Machine Learning/UMAP.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
