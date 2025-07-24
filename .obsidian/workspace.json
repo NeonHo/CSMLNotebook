@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/集成学习的结合策略.md",
+                "file": "Data Science/Machine Learning/集成学习Stacking策略.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集成学习的结合策略"
+              "title": "集成学习Stacking策略"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "8da606b3123ff42e",
   "lastOpenFiles": [
-    "README.md",
     "Data Science/Machine Learning/集成学习的结合策略.md",
+    "Data Science/Machine Learning/集成学习Stacking策略.md",
+    "README.md",
     "Data Science/Machine Learning/Chapter 12 Ensemble Models/Ensemble Models 集成学习.md",
     "Data Science/Machine Learning/多分类学习的拆分策略.md",
     "Data Science/Machine Learning/KNN.md",
@@ -230,7 +231,6 @@
     "Data Science/Probability/单样本t检验.md",
     "Data Science/Probability/单样本z检验.md",
     "Data Science/Probability/伯努利分布.md",
-    "Data Science/Probability/假设检验alpha错误与beta错误.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
