@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8da606b3123ff42e",
+  "active": "d66304850955c4af",
   "lastOpenFiles": [
     "Data Science/Machine Learning/汉语言分词方法.md",
     "Projects/Media/数据史话.md",
