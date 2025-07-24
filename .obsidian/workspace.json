@@ -11,10 +11,14 @@
             "id": "8da606b3123ff42e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning/XGBoost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XGBoost"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Data Science/Machine Learning/时序处理中 RNN vs MLP.md",
     "Data Science/Machine Learning/RNN.md",
