@@ -59,3 +59,21 @@ $$
 
 ### 总结
 对月份做 `cos` 和 `sin` 转换的核心是**保留其周期性**，避免整数编码引入的虚假数值关系。这种编码方式能让模型更准确地理解“月份的邻近性”和“季节规律”，尤其在时间序列相关任务中效果显著。实现时只需通过三角函数公式将月份映射到单位圆上的坐标即可。
+
+```Python
+import pandas as pd
+import numpy as np
+
+# 示例数据：包含多年的月份（1-12）
+data = pd.DataFrame({
+    'year': [2021, 2021, 2021, 2022, 2022, 2022],
+    'month': [1, 6, 12, 1, 6, 12]  # 1月、6月、12月
+})
+
+# 转换公式：将月份（1-12）映射到0-1区间，再计算cos和sin
+data['month_cos'] = np.cos(2 * np.pi * data['month'] / 12)
+data['month_sin'] = np.sin(2 * np.pi * data['month'] / 12)
+
+print(data)
+
+```
