@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Grid Defect Dection/Grid Defect Detecion.md",
+                "file": "Data Science/Machine Learning/F statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grid Defect Detecion"
+              "title": "F statistics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p-va",
+                "query": "F-s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,11 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "8da606b3123ff42e",
   "lastOpenFiles": [
+    "Projects/Grid Defect Dection/Grid Defect Detecion.md",
     "Projects/Grid Defect Dection/先验知识清单.md",
     "Projects/Grid Defect Dection/数据清单.md",
-    "Projects/Grid Defect Dection/Grid Defect Detecion.md",
     "Projects/Grid Defect Dection",
     "Data Science/Machine Learning/plot_acf如何找P.md",
     "README.md",
