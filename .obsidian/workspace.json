@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F-s",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d66304850955c4af",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Projects/Grid Defect Dection/Grid Defect Detecion.md",
     "Projects/Grid Defect Dection/先验知识清单.md",
