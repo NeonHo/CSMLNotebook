@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Machine Learning/词袋模型.md",
+                "file": "Data Science/Machine Learning/卷积.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词袋模型"
+              "title": "卷积"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "juan ji",
+                "query": "卷积",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +204,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "439d1401596d07e6",
+  "active": "8da606b3123ff42e",
   "lastOpenFiles": [
+    "Data Science/Machine Learning/Multiplication Times for CNN.md",
+    "Data Science/Machine Learning/词袋模型.md",
     "Data Science/Machine Learning/词向量模型.md",
     "Data Science/Machine Learning/F statistics.md",
     "Projects/Grid Defect Dection/Grid Defect Detecion.md",
@@ -232,8 +234,6 @@
     "Data Science/Machine Learning/papers/NLP/驾驭大模型：ChatGPT and beyond..md",
     "Data Science/Machine Learning/汉语言分词方法.md",
     "Projects/Media/数据史话.md",
-    "Data Science/Machine Learning/使用One-Hot做文本向量化.md",
-    "Data Science/Machine Learning/交叉熵损失.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
