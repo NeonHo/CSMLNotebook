@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卷积",
+                "query": "bao guo f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8da606b3123ff42e",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Data Science/Machine Learning/Multiplication Times for CNN.md",
     "Data Science/Machine Learning/词袋模型.md",
