@@ -25,12 +25,14 @@
             "id": "ac51718b729bc77e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Trade/投资笔记2025-09-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "投资笔记2025-09-16"
             }
           }
         ],
@@ -219,6 +221,8 @@
   },
   "active": "ac51718b729bc77e",
   "lastOpenFiles": [
+    "Trade/投资笔记2025-09-16.md",
+    "Trade",
     "images/DJI.md",
     "images",
     "Projects/Grid Defect Dection/images/DJI_20250901174946_0002_V.jpg",
@@ -249,7 +253,6 @@
     "Computer Science/Database/PostgresSQL/自增属性.md",
     "Computer Science/Database/PostgresSQL/流程语句.md",
     "Computer Science/Database/PostgresSQL/单引号别乱用.md",
-    "Data Science/Machine Learning/核技巧可确定超平面的原因.md",
     "Computer Science/Database/PostgresSQL",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
@@ -263,7 +266,6 @@
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
     "Attachments/IMG_7876.jpg",
     "Attachments/IMG_7875.HEIC",
-    "Attachments/IMG_7875 2.heic",
     "Attachments/Pasted image 20250612193429.png",
     "未命名.canvas"
   ]
