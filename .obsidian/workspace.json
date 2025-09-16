@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "大批量拍摄前的建议"
             }
+          },
+          {
+            "id": "ac51718b729bc77e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8da606b3123ff42e",
+  "active": "ac51718b729bc77e",
   "lastOpenFiles": [
     "images/DJI.md",
     "images",
