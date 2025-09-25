@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "范式",
+                "query": "recall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,9 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac51718b729bc77e",
+  "active": "439d1401596d07e6",
   "lastOpenFiles": [
     "Data Science/2. 数据流程与方法.md",
+    "Data Science/Probability/数据统计方法.md",
+    "Projects/GoldBucket/方法论.md",
+    "Data Science/1. 数据科学概述.md",
     "Computer Science/Languages/Python/什么是组合数据类型？.md",
     "Trade/投资笔记2025-09-25.md",
     "Trade/投资笔记2025-09-17.md",
@@ -251,9 +254,6 @@
     "Data Science/Machine Learning/滞后与差分的异同.md",
     "Data Science/Machine Learning/ADF, ACF, PACF在时序预测中的作用.md",
     "Data Science/Machine Learning/为什么需要对月份做 cos sin 转换.md",
-    "Data Science/Machine Learning/Target Encoding.md",
-    "Data Science/Machine Learning/数据预处理.md",
-    "Data Science/Machine Learning/Label Encoding.md",
     "Computer Science/Database/PostgresSQL",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
