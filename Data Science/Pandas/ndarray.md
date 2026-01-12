@@ -1,0 +1,1 @@
+an efficient multidimensional array providing fast array-oriented arithmetic operations and flexible _broadcasting_ capabilities

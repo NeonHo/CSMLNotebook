@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zheng/江苏营销部的课题相关内容.md",
+                "file": "Data Science/Pandas/ndarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "江苏营销部的课题相关内容"
+              "title": "ndarray"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -169,8 +169,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -179,8 +179,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -193,21 +193,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "cf52aa6a60340e6f",
   "lastOpenFiles": [
-    "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
+    "Data Science/Pandas/ndarray.md",
+    "Data Science/Pandas",
+    "Data Science/未命名.md",
+    "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
     "Projects/Media/数据史话.md",
     "Projects/Grid Defect Dection/大批量拍摄前的建议.md",
     "Projects/Grid Defect Dection/2025-10-10.md",
@@ -238,15 +241,12 @@
     "Data Science/Machine Learning/马尔可夫随机场.md",
     "Data Science/Machine Learning/DIANA.md",
     "Data Science/Machine Learning/特征选择.md",
-    "Data Science/Machine Learning/卷积.md",
-    "Data Science/Machine Learning/Multiplication Times for CNN.md",
     "Projects/Grid Defect Dection",
     "Computer Science/Database/PostgresSQL",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/Pasted image 20250720172811.png",
     "Attachments/Pasted image 20250718103913.png",
     "Attachments/LSTMUnit.webp",
-    "Attachments/Unconfirmed 377248.crdownload",
     "Attachments/JPEG图像-46B6-84A3-23-0.jpeg",
     "Attachments/JPEG图像-4253-9185-E8-0.jpeg",
     "Attachments/JPEG图像-438F-BDEF-94-0.jpeg",
