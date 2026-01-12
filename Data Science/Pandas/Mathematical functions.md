@@ -1,0 +1,1 @@
+fast operations on entire arrays of data without having to write loops
