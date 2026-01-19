@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c2528a257456ad",
+        "id": "e9b4a2bd1b1073b8",
         "type": "tabs",
         "children": [
           {
-            "id": "cf52aa6a60340e6f",
+            "id": "78b4338b84ce465a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Market"
             }
-          },
-          {
-            "id": "9ad142cb5094618f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI投资私教.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI投资私教"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ad142cb5094618f",
+  "active": "78b4338b84ce465a",
   "lastOpenFiles": [
-    "Economics/Market.md",
     "AI投资私教.md",
+    "Untitled.base",
+    "README.md",
+    "Economics/Market.md",
     "Economics",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
     "images/DJI.md",
@@ -230,7 +218,6 @@
     "Trade/投资笔记2025-09-17.md",
     "Trade/投资笔记2025-09-16.md",
     "Trade",
-    "README.md",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
     "Projects/game dev/1-Build My Own Website/Resources/MySQL",
@@ -256,8 +243,6 @@
     "Projects/Troubles and Solutions/Troubles and Solutions.md",
     "Projects/Troubles and Solutions/ThinkPad T480.md",
     "Projects/Troubles and Solutions/Pandas",
-    "Projects/Troubles and Solutions/Mac 系统GitHub 仓库同步.md",
-    "Projects/Grid Defect Dection/images",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
     "Attachments/分享对话-豆包.png",
     "Attachments/e6541d259be4430a834bfe81174dd58.jpg",
