@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/税收.md",
+                "file": "Trade/AO史密斯.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "税收"
+              "title": "AO史密斯"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "78b4338b84ce465a",
   "lastOpenFiles": [
-    "Economics/边际定价.md",
     "Economics/税收.md",
+    "Trade/AO史密斯.md",
+    "Economics/边际定价.md",
     "Economics/Market.md",
     "AI投资私教.md",
     "Untitled.base",
@@ -242,7 +243,6 @@
     "Projects/Troubles and Solutions/WSL2-Kali.md",
     "Projects/Troubles and Solutions/WSL2 + Kali.md",
     "Projects/Troubles and Solutions/Ubuntu系统装Windows10.md",
-    "Projects/Troubles and Solutions/Troubles and Solutions.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
     "Attachments/分享对话-豆包.png",
