@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trade/AO史密斯.md",
+                "file": "Trade/prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AO史密斯"
+              "title": "prompts"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "78b4338b84ce465a",
   "lastOpenFiles": [
-    "Economics/税收.md",
     "Trade/AO史密斯.md",
+    "Trade/prompts.md",
+    "Economics/税收.md",
     "Economics/边际定价.md",
     "Economics/Market.md",
     "AI投资私教.md",
@@ -242,7 +243,6 @@
     "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
     "Projects/Troubles and Solutions/WSL2-Kali.md",
     "Projects/Troubles and Solutions/WSL2 + Kali.md",
-    "Projects/Troubles and Solutions/Ubuntu系统装Windows10.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
     "Attachments/分享对话-豆包.png",
