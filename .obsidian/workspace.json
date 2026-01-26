@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trade/prompts.md",
+                "file": "Economics/供需模型图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompts"
+              "title": "供需模型图"
             }
           }
         ]
@@ -206,12 +206,17 @@
   },
   "active": "78b4338b84ce465a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260126212901.png",
+    "Economics/Market.md",
+    "Economics/供需模型图.md",
+    "Attachments/Pasted image 20260126211434.png",
+    "Economics/金融.md",
+    "Economics/税收.md",
+    "Economics/外部成本.md",
+    "Trade/prompts.md",
     "Trade/NIKE.md",
     "Trade/AO史密斯.md",
-    "Trade/prompts.md",
-    "Economics/税收.md",
     "Economics/边际定价.md",
-    "Economics/Market.md",
     "AI投资私教.md",
     "Untitled.base",
     "README.md",
@@ -234,15 +239,11 @@
     "Projects/game dev/GAME DEV DOC/0-Game Design Document.md",
     "Projects/game dev/1-Build My Own Website/Resources",
     "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
-    "Projects/Troubles and Solutions/Pandas/fillna(mode())无效的原因.md",
     "Projects/Grid Defect Dection/images/DJI_20250901174946_0002_V.jpg",
     "Projects/Grid Defect Dection/images/DJI_20250901174940_0001_V.jpg",
     "Projects/game dev/Knowedges",
     "Projects/game dev/GAME DEV DOC",
     "Projects/game dev/1-Build My Own Website",
-    "Projects/game dev/0-Journey to Full time Game Dev Land.md",
-    "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
-    "Projects/Troubles and Solutions/WSL2-Kali.md",
     "Projects/Troubles and Solutions/Pandas",
     "Attachments/截屏2024-07-19 上午9.15.38.png",
     "Attachments/分享对话-豆包.png",
@@ -251,7 +252,6 @@
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
     "Attachments/Pasted image 20250612105422.png",
-    "Attachments/Pasted image 20250612101557.png",
     "未命名.canvas"
   ]
 }
