@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "供需模型图"
             }
+          },
+          {
+            "id": "5d3b9ae704d733f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78b4338b84ce465a",
+  "active": "5d3b9ae704d733f6",
   "lastOpenFiles": [
     "Attachments/Pasted image 20260126212901.png",
     "Economics/Market.md",
