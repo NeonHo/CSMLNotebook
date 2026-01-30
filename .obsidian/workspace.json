@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/供需模型图.md",
+                "file": "Economics/市场是实现社会福利的.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "供需模型图"
+              "title": "市场是实现社会福利的"
             }
           }
         ]
@@ -207,9 +207,11 @@
   },
   "active": "78b4338b84ce465a",
   "lastOpenFiles": [
+    "Economics/供需模型图.md",
+    "Economics/市场是实现社会福利的.md",
+    "Untitled.base",
     "Attachments/Pasted image 20260126212901.png",
     "Economics/Market.md",
-    "Economics/供需模型图.md",
     "Attachments/Pasted image 20260126211434.png",
     "Economics/金融.md",
     "Economics/税收.md",
@@ -219,7 +221,6 @@
     "Trade/AO史密斯.md",
     "Economics/边际定价.md",
     "AI投资私教.md",
-    "Untitled.base",
     "README.md",
     "Economics",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
@@ -239,7 +240,6 @@
     "Projects/game dev/GAME DEV DOC/1-Resources.md",
     "Projects/game dev/GAME DEV DOC/0-Game Design Document.md",
     "Projects/game dev/1-Build My Own Website/Resources",
-    "Projects/game dev/1-Build My Own Website/0-Install and configure WordPress.md",
     "Projects/Grid Defect Dection/images/DJI_20250901174946_0002_V.jpg",
     "Projects/Grid Defect Dection/images/DJI_20250901174940_0001_V.jpg",
     "Projects/game dev/Knowedges",
@@ -252,7 +252,6 @@
     "Attachments/ca36c32534e11bc59dce51096efde6d.jpg",
     "Attachments/Pasted image 20250612111321.png",
     "Attachments/Pasted image 20250612110110.png",
-    "Attachments/Pasted image 20250612105422.png",
     "未命名.canvas"
   ]
 }
