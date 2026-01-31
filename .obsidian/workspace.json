@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
@@ -207,15 +206,15 @@
   },
   "active": "78b4338b84ce465a",
   "lastOpenFiles": [
-    "Economics/供需模型图.md",
+    "Economics/外部成本.md",
     "Economics/市场是实现社会福利的.md",
+    "Economics/供需模型图.md",
     "Untitled.base",
     "Attachments/Pasted image 20260126212901.png",
     "Economics/Market.md",
     "Attachments/Pasted image 20260126211434.png",
     "Economics/金融.md",
     "Economics/税收.md",
-    "Economics/外部成本.md",
     "Trade/prompts.md",
     "Trade/NIKE.md",
     "Trade/AO史密斯.md",
