@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"dd4f111c7f966a88","type":"text","text":"# 题目名\nIgniteMe\n中文是点燃我","x":-580,"y":-380,"width":250,"height":110},
+		{"id":"7926c757465502fe","type":"file","file":"Attachments/MISC-IgniteMe附件exe执行.png","x":-160,"y":-389,"width":400,"height":128},
+		{"id":"3bcd3091cde42db3","type":"text","text":"只要输入任何东西，Enter后直接关闭","x":-85,"y":-140,"width":250,"height":60},
+		{"id":"fb45d8f6eab2fd0c","type":"file","file":"Attachments/MISC-IgniteMe-Main函数的伪代码.png","x":500,"y":-372,"width":779,"height":524},
+		{"id":"7cab4c3815daac4b","type":"text","text":"`Str`的长度必须在4个字符和30（`0x1E`）个字符之间","x":1440,"y":-372,"width":440,"height":60},
+		{"id":"68b1e364beeb0e43","type":"text","text":"`Str`的开头必须是`EIS{`","x":1440,"y":-260,"width":250,"height":60},
+		{"id":"e23533440ad0ac20","type":"file","file":"Attachments/ASCII码对照表.png","x":1440,"y":-110,"width":400,"height":357},
+		{"id":"2451f9ab499f035d","type":"text","text":"`Str`的第29个字符必然是`}`","x":1940,"y":39,"width":250,"height":60},
+		{"id":"dadaeb8bcca19dc0","type":"text","text":"```C++\nif ( (unsigned __int8)sub_4011C0(Str) )\n      sub_402B30(&unk_446360, \"Congratulations! \");\n    else\n      sub_402B30(&unk_446360, \"Sorry, keep trying! \");\n```","x":1440,"y":300,"width":545,"height":180},
+		{"id":"7d1e3bcb5a706bda","type":"text","text":"```C++\nbool __cdecl sub_4011C0(char *Str)\n{\n  int v2; // [esp+50h] [ebp-B0h]\n  char Str2[32]; // [esp+54h] [ebp-ACh] BYREF\n  int v4; // [esp+74h] [ebp-8Ch]\n  int v5; // [esp+78h] [ebp-88h]\n  size_t i; // [esp+7Ch] [ebp-84h]\n  char v7[128]; // [esp+80h] [ebp-80h] BYREF\n\n  if ( strlen(Str) <= 4 )\n    return 0;\n  i = 4;\n  v5 = 0;\n  while ( i < strlen(Str) - 1 )\n    v7[v5++] = Str[i++];\n  v7[v5] = 0;\n  v4 = 0;\n  v2 = 0;\n  memset(Str2, 0, sizeof(Str2));\n  for ( i = 0; i < strlen(v7); ++i )\n  {\n    if ( v7[i] >= 97 && v7[i] <= 122 )\n    {\n      v7[i] -= 32;\n      v2 = 1;\n    }\n    if ( !v2 && v7[i] >= 65 && v7[i] <= 90 )\n      v7[i] += 32;\n    Str2[i] = byte_4420B0[i] ^ sub_4013C0(v7[i]);\n    v2 = 0;\n  }\n  return strcmp(\"GONDPHyGjPEKruv{{pj]X@rF\", Str2) == 0;\n}\n```","x":2500,"y":99,"width":558,"height":961},
+		{"id":"e8d45db6f5044eb3","type":"text","text":"# 代码逻辑如下\n检查输入字符串Str的长度是否大于4，否则返回0。\n从Str的第5个字符开始（索引4），复制到v7，直到倒数第二个字符。\n对v7中的字符进行处理：\n如果字符是小写字母（a-z），则转换为大写字母，并设置v2为1。\n如果字符是大写字母（A-Z）且v2为0，则转换为小写字母。\n用处理后的v7和一个神秘的byte_4420B0数组以及sub_4013C0函数生成Str2。\n最后，检查生成的Str2是否等于\"GONDPHyGjPEKruv{{pj]X@rF\"。\n目标是找到一个Str，使得生成的Str2等于\"GONDPHyGjPEKruv{{pj]X@rF\"。","x":3280,"y":360,"width":660,"height":280},
+		{"id":"4b117a30cfa86cb4","type":"text","text":"```C++\nint __cdecl sub_4013C0(int a1)\n{\n  return (a1 ^ 0x55) + 72;\n}\n```","x":4120,"y":640,"width":350,"height":180},
+		{"id":"4ffa478586a21c69","type":"file","file":"Attachments/MISC-byte_4420B0.png","x":4120,"y":99,"width":400,"height":306},
+		{"id":"fac890ba1d348a67","type":"text","text":"```\n0Dh, 13h, 17h, 11h, 2, 1, 20h, 1Dh, 0Ch, 2, 19h, 2Fh, 17h, 2Bh, 24h, 1Fh, 1Eh, 16h, 9, 0Fh, 15h, 27h, 13h, 26h, 0Ah, 2Fh, 1Eh, 1Ah, 2Dh, 0Ch, 22h, 4\n```","x":4660,"y":193,"width":756,"height":118},
+		{"id":"0abb2593a6d19dde","type":"file","file":"Attachments/MISC 点燃我 Qwen Reverse.png","x":5580,"y":90,"width":1100,"height":893},
+		{"id":"6adb7634983157b0","type":"text","text":"# 最终结果应该是\n```\nEIS{WADX_TDGK_AIHC_IHKN_PJLM}\n```\n\n```\nEIS{wadx_tdgk_aihc_ihkn_pjlm}\n```","x":3000,"y":-409,"width":438,"height":195}
+	],
+	"edges":[
+		{"id":"98c81c2ec77738c4","fromNode":"7926c757465502fe","fromSide":"bottom","toNode":"3bcd3091cde42db3","toSide":"top"},
+		{"id":"a64e2294a0f7939f","fromNode":"3bcd3091cde42db3","fromSide":"right","toNode":"fb45d8f6eab2fd0c","toSide":"left","label":"用IDA看看它到底要什么"},
+		{"id":"abf7a42647f1b70b","fromNode":"fb45d8f6eab2fd0c","fromSide":"right","toNode":"68b1e364beeb0e43","toSide":"left"},
+		{"id":"8ad95cc7bf129daf","fromNode":"fb45d8f6eab2fd0c","fromSide":"right","toNode":"7cab4c3815daac4b","toSide":"left"},
+		{"id":"9f1b0b8c53280652","fromNode":"fb45d8f6eab2fd0c","fromSide":"right","toNode":"e23533440ad0ac20","toSide":"left"},
+		{"id":"f0d8d35f4968e612","fromNode":"e23533440ad0ac20","fromSide":"right","toNode":"2451f9ab499f035d","toSide":"left"},
+		{"id":"4d55800a505c3435","fromNode":"fb45d8f6eab2fd0c","fromSide":"right","toNode":"dadaeb8bcca19dc0","toSide":"left"},
+		{"id":"0e405318f0bd112d","fromNode":"dadaeb8bcca19dc0","fromSide":"right","toNode":"7d1e3bcb5a706bda","toSide":"left","label":"IDA下钻进入sub_4011C0函数"},
+		{"id":"e2a87c86d336946c","fromNode":"7d1e3bcb5a706bda","fromSide":"right","toNode":"e8d45db6f5044eb3","toSide":"left"},
+		{"id":"774ab98864a370b2","fromNode":"e8d45db6f5044eb3","fromSide":"right","toNode":"4b117a30cfa86cb4","toSide":"left"},
+		{"id":"6574593e3fafa158","fromNode":"e8d45db6f5044eb3","fromSide":"right","toNode":"4ffa478586a21c69","toSide":"left"},
+		{"id":"f01067d00f9fe7ba","fromNode":"4ffa478586a21c69","fromSide":"right","toNode":"fac890ba1d348a67","toSide":"left"},
+		{"id":"fcbef35080465312","fromNode":"fac890ba1d348a67","fromSide":"right","toNode":"0abb2593a6d19dde","toSide":"left"},
+		{"id":"0c57d8e395173995","fromNode":"4b117a30cfa86cb4","fromSide":"right","toNode":"0abb2593a6d19dde","toSide":"left"},
+		{"id":"da9e009e8cde19c5","fromNode":"68b1e364beeb0e43","fromSide":"right","toNode":"6adb7634983157b0","toSide":"left"},
+		{"id":"b122844680417aba","fromNode":"2451f9ab499f035d","fromSide":"right","toNode":"6adb7634983157b0","toSide":"bottom"},
+		{"id":"4d650ed85bb2141d","fromNode":"0abb2593a6d19dde","fromSide":"top","toNode":"6adb7634983157b0","toSide":"right"},
+		{"id":"99b51abc4bef0c5e","fromNode":"e8d45db6f5044eb3","fromSide":"top","toNode":"6adb7634983157b0","toSide":"bottom","label":"所有大写字母转换为小写字母\n\n"}
+	]
+}
