@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"aea0fb8a6262fac4","x":-460,"y":-220,"width":585,"height":50,"type":"text","text":"  小宁听说php是最好的语言,于是她简单学习之后写了几行php代码。"},
+		{"id":"62bdd071efc9ff20","x":-367,"y":-80,"width":400,"height":293,"type":"file","file":"Attachments/Pasted image 20260305190723.png"}
+	],
+	"edges":[
+		{"id":"b62fa93e8c996c04","fromNode":"aea0fb8a6262fac4","fromSide":"bottom","toNode":"62bdd071efc9ff20","toSide":"top"}
+	]
+}
