@@ -4,11 +4,13 @@
 		{"id":"3755af02edef57c0","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"ccf5305bf1c513ae","type":"text","text":"`X-Forwarded-For` (XFF) 和 `Referer` 都是 HTTP 请求中的头部字段（Header），但它们的作用完全不同。\n\n### 🆔 X-Forwarded-For (XFF)\n\n**作用：** 用于获取用户的真实 IP 地址。\n\n- **工作场景：** 当用户和服务器之间存在代理服务器（如负载均衡器、CDN）时，服务器直接获取到的 IP 地址是代理服务器的 IP，而不是用户自己的 IP。\n- **工作原理：** 代理服务器在将请求转发给后端服务器时，会在请求头中添加 `X-Forwarded-For` 字段，并附上用户的原始 IP 地址。格式通常为 `X-Forwarded-For: 用户IP, 代理1IP, 代理2IP`。\n- **安全性：** 这个字段**可以被伪造**。因为它是由客户端或中间代理添加的，攻击者可以轻易修改它来隐藏自己的真实 IP 地址。\n\n### 🔗 Referer\n\n**作用：** 用于标识当前请求是从哪个页面链接过来的，即告知服务器访问来源。\n\n- **工作场景：** 当你从一个网页 A 点击链接跳转到网页 B 时，浏览器在向网页 B 的服务器发起请求时，会自动在请求头中带上 `Referer` 字段，其值就是网页 A 的 URL。\n- **主要用途：**\n    1. **来源追踪：** 服务器可以分析用户是从搜索引擎、外部链接还是直接访问的。\n    2. **防盗链：** 网站可以设置只允许特定来源的页面引用本站的资源（如图片、视频），防止其他网站直接盗用链接消耗带宽。\n- **拼写趣闻：** 这个单词的正确拼写本应是 `Referrer`，但因早期的 HTTP 规范拼写错误，为了保持兼容性，这个错误的拼写 `Referer` 就一直沿用至今。","x":-360,"y":-100,"width":625,"height":780},
 		{"id":"72fb3038d0147c4e","type":"file","file":"Attachments/Pasted image 20260305193744.png","x":380,"y":-200,"width":400,"height":191},
-		{"id":"f91caea596f2d205","x":380,"y":220,"width":1215,"height":267,"type":"file","file":"Attachments/Pasted image 20260305194628.png"}
+		{"id":"f91caea596f2d205","x":380,"y":220,"width":2102,"height":461,"type":"file","file":"Attachments/Pasted image 20260305194628.png"},
+		{"id":"6ff3b547f67c0fc8","x":380,"y":760,"width":2102,"height":410,"type":"file","file":"Attachments/Pasted image 20260305194931.png"}
 	],
 	"edges":[
 		{"id":"45b19d05bbe2ebf7","fromNode":"0efdd497b0874950","fromSide":"bottom","toNode":"ccf5305bf1c513ae","toSide":"top"},
 		{"id":"8afa634a63b0419e","fromNode":"0efdd497b0874950","fromSide":"right","toNode":"72fb3038d0147c4e","toSide":"left"},
-		{"id":"e67c3db59a258d07","fromNode":"72fb3038d0147c4e","fromSide":"right","toNode":"f91caea596f2d205","toSide":"top","label":"用BurpSuite重放，加一个XFF字段（X-Forwarded-For: 123.123.123.123）"}
+		{"id":"e67c3db59a258d07","fromNode":"72fb3038d0147c4e","fromSide":"right","toNode":"f91caea596f2d205","toSide":"top","label":"用BurpSuite重放，加一个XFF字段（X-Forwarded-For: 123.123.123.123）"},
+		{"id":"ab5b2e50e068480c","fromNode":"f91caea596f2d205","fromSide":"bottom","toNode":"6ff3b547f67c0fc8","toSide":"top"}
 	]
 }

@@ -15,7 +15,7 @@
               "state": {
                 "file": "Hello-CTF/WEB/xff_referer.canvas",
                 "viewState": {
-                  "x": 617.5,
+                  "x": 1466.7045428832114,
                   "y": 210,
                   "zoom": -0.8868210344714312
                 }
@@ -207,6 +207,7 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260305194931.png",
     "Attachments/Pasted image 20260305194628.png",
     "Attachments/Pasted image 20260305193823.png",
     "Attachments/Pasted image 20260305193744.png",
@@ -220,7 +221,6 @@
     "Attachments/Pasted image 20260305192100.png",
     "Hello-CTF/WEB/simple_php.canvas",
     "Attachments/Pasted image 20260305191724.png",
-    "Attachments/Pasted image 20260305190723.png",
     "Hello-CTF/WEB/weak_auth.canvas",
     "Hello-CTF/WEB/未命名.md",
     "Hello-CTF/WEB/disabled_button.canvas",
