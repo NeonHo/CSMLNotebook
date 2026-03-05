@@ -16,7 +16,7 @@
                 "file": "Hello-CTF/WEB/command_execution.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 394.796875,
                   "zoom": 0
                 }
               },
@@ -207,6 +207,8 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260305192501.png",
+    "Attachments/Pasted image 20260305192358.png",
     "Attachments/Pasted image 20260305192100.png",
     "Hello-CTF/WEB/simple_php.canvas",
     "Hello-CTF/WEB/command_execution.canvas",
@@ -222,8 +224,6 @@
     "Attachments/Pasted image 20260305185457.png",
     "Hello-CTF/WEB/cookie.canvas",
     "Attachments/Pasted image 20260305185205.png",
-    "Attachments/Pasted image 20260305185113.png",
-    "Attachments/Pasted image 20260305184956.png",
     "Hello-CTF/WEB/backup.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
