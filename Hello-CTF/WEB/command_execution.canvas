@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c3147614d03a04d4","x":-460,"y":-200,"width":640,"height":60,"type":"text","text":"小宁写了个ping功能,但没有写waf,X老师告诉她这是非常危险的，你知道为什么吗。"},
+		{"id":"1c1eaf44cfe73887","x":-452,"y":-40,"width":625,"height":60,"type":"text","text":"初步猜测，能执行ping就能执行其他command，找找输入指令的入口"},
+		{"id":"0862ce52f8fbf6c3","x":260,"y":-60,"width":400,"height":319,"type":"file","file":"Attachments/Pasted image 20260305192100.png"}
+	],
+	"edges":[
+		{"id":"d947fa854c4fc323","fromNode":"c3147614d03a04d4","fromSide":"bottom","toNode":"1c1eaf44cfe73887","toSide":"top"},
+		{"id":"b1987c2a091ecd8f","fromNode":"c3147614d03a04d4","fromSide":"right","toNode":"0862ce52f8fbf6c3","toSide":"top","label":"试试ping百度"}
+	]
+}
