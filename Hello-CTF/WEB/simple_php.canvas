@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"aea0fb8a6262fac4","x":-460,"y":-220,"width":585,"height":50,"type":"text","text":"  小宁听说php是最好的语言,于是她简单学习之后写了几行php代码。"},
-		{"id":"62bdd071efc9ff20","x":-367,"y":-80,"width":400,"height":293,"type":"file","file":"Attachments/Pasted image 20260305190723.png"}
+		{"id":"62bdd071efc9ff20","x":-367,"y":-80,"width":400,"height":293,"type":"file","file":"Attachments/Pasted image 20260305190723.png"},
+		{"id":"3e38a6f05ee36963","x":-340,"y":320,"width":705,"height":550,"type":"text","text":"这个问题利用了 PHP 弱类型和 `is_numeric()` 函数的特性。满足条件的 `b` 的取值是 **一个以大于 1234 的数字开头，后面紧跟任意字母的字符串**。\n\n例如：`b=1235a`、`b=2000xyz`。\n\n### 💡 原理详解\n\n这个技巧的核心在于理解 PHP 如何处理不同类型数据的比较和函数判断。\n\n1. **绕过 `is_numeric()` 检查**\n    \n    - PHP 的 `is_numeric()` 函数用于判断一个变量是否为数字或数字字符串。\n    - 当你传入 `1235a` 时，这个值是一个字符串，并且包含了非数字字符（字母 `a`），因此 `is_numeric('1235a')` 会返回 `false`，成功绕过检查并避免程序退出。\n2. **实现数值比较**\n    \n    - PHP 在进行数值比较（如 `>`）时，如果遇到字符串，会尝试将其转换为数字。\n    - 转换规则是：从字符串的开头开始读取，直到遇到第一个非数字字符为止。例如，字符串 `'1235a'` 在比较时会被转换为数字 `1235`。\n    - 因此，`'1235a' > 1234` 在 PHP 看来等同于 `1235 > 1234`，这个条件为真。\n\n综上所述，通过构造 `数字 + 字母` 的字符串，可以同时满足“不是纯数字”和“数值大于 1234”这两个看似矛盾的条件。"}
 	],
 	"edges":[
-		{"id":"b62fa93e8c996c04","fromNode":"aea0fb8a6262fac4","fromSide":"bottom","toNode":"62bdd071efc9ff20","toSide":"top"}
+		{"id":"b62fa93e8c996c04","fromNode":"aea0fb8a6262fac4","fromSide":"bottom","toNode":"62bdd071efc9ff20","toSide":"top"},
+		{"id":"64245af8aff28f0b","fromNode":"62bdd071efc9ff20","fromSide":"bottom","toNode":"3e38a6f05ee36963","toSide":"top","label":"b不能是数字，但是还要比1234大"}
 	]
 }
