@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"13320334f1ed9957","x":-380,"y":-260,"width":465,"height":60,"type":"text","text":"小宁写了一个登陆验证页面，随手就设了一个密码。"},
+		{"id":"15b2c9b277923d9c","x":-519,"y":-20,"width":744,"height":140,"type":"file","file":"Attachments/Pasted image 20260305190027.png"},
+		{"id":"9606eab1417f0167","x":60,"y":-160,"width":505,"height":90,"type":"text","text":"# 常用爆破密码本\nhttps://github.com/rootphantomer/Blasting_dictionary"}
+	],
+	"edges":[
+		{"id":"725e6566d68af4a4","fromNode":"13320334f1ed9957","fromSide":"bottom","toNode":"15b2c9b277923d9c","toSide":"top","label":"我也是随手试了一下"},
+		{"id":"8af82be2964e2d1f","fromNode":"9606eab1417f0167","fromSide":"bottom","toNode":"15b2c9b277923d9c","toSide":"right"}
+	]
+}

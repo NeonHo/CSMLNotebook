@@ -1,7 +1,12 @@
 {
 	"nodes":[
 		{"id":"e202ece64f576df0","type":"text","text":"X老师忘记删除备份文件，他派小宁同学去把备份文件找出来,一起来帮小宁同学吧！","x":-125,"y":-30,"width":345,"height":60},
-		{"id":"2a28406675aa9db4","type":"file","file":"Attachments/WEB-backup.png","x":-152,"y":160,"width":400,"height":156}
+		{"id":"2a28406675aa9db4","type":"file","file":"Attachments/WEB-backup.png","x":-152,"y":160,"width":400,"height":156},
+		{"id":"7ca951bd23a3e8e4","type":"text","text":"以下是一些在实际开发和 CTF 题目中非常常见的 PHP 备份文件命名方式：\n.bak: 最通用的备份后缀，许多文本编辑器和数据库工具会自动使用。\n示例：index.php.bak\n.backup: 与 .bak 类似，通常由一些自定义备份脚本生成。\n示例：index.php.backup\n.old: 通常用于表示旧版本的文件。\n示例：index.php.old\n.copy: 有时也会用作副本或备份。\n示例：index.php.copy","x":380,"y":0,"width":672,"height":238},
+		{"id":"198441acc9f973b1","type":"text","text":"果然是index.php.bak","x":400,"y":380,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"330ce18c665ed9b3","fromNode":"2a28406675aa9db4","fromSide":"right","toNode":"7ca951bd23a3e8e4","toSide":"left"},
+		{"id":"5c7fb57ff5c89e12","fromNode":"7ca951bd23a3e8e4","fromSide":"bottom","toNode":"198441acc9f973b1","toSide":"right"}
+	]
 }

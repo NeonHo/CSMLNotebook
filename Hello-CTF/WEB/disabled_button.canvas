@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"d532ad468cbc0f19","type":"text","text":"X老师今天上课讲了前端知识，然后给了大家一个不能按的按钮，小宁惊奇地发现这个按钮按不下去，到底怎么才能按下去呢？","x":-480,"y":-220,"width":505,"height":70},
+		{"id":"eabac927b05a3769","type":"file","file":"Attachments/Pasted image 20260305185457.png","x":-427,"y":-60,"width":400,"height":255},
+		{"id":"1914906ae99d108e","type":"file","file":"Attachments/Pasted image 20260305185630.png","x":25,"y":68,"width":987,"height":152},
+		{"id":"5d8dc6752e0ead01","type":"file","file":"Attachments/Pasted image 20260305185723.png","x":-480,"y":280,"width":810,"height":120},
+		{"id":"ae91b9083b8c8a81","type":"file","file":"Attachments/Pasted image 20260305185812.png","x":-275,"y":580,"width":400,"height":131}
+	],
+	"edges":[
+		{"id":"d18b42896d449c7b","fromNode":"eabac927b05a3769","fromSide":"right","toNode":"1914906ae99d108e","toSide":"left"},
+		{"id":"24ff997bb01af478","fromNode":"1914906ae99d108e","fromSide":"bottom","toNode":"5d8dc6752e0ead01","toSide":"right","label":"把disabled删掉就可以"},
+		{"id":"6a696718d540024d","fromNode":"5d8dc6752e0ead01","fromSide":"bottom","toNode":"ae91b9083b8c8a81","toSide":"top"}
+	]
+}
