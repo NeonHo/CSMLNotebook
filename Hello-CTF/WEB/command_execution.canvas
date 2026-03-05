@@ -4,12 +4,17 @@
 		{"id":"1c1eaf44cfe73887","x":-452,"y":-40,"width":625,"height":60,"type":"text","text":"初步猜测，能执行ping就能执行其他command，找找输入指令的入口"},
 		{"id":"0862ce52f8fbf6c3","x":260,"y":-60,"width":400,"height":319,"type":"file","file":"Attachments/Pasted image 20260305192100.png"},
 		{"id":"00c3a13e0e466d10","x":260,"y":491,"width":400,"height":318,"type":"file","file":"Attachments/Pasted image 20260305192358.png"},
-		{"id":"174fb79c577bdfe4","x":-480,"y":480,"width":400,"height":340,"type":"file","file":"Attachments/Pasted image 20260305192501.png"}
+		{"id":"174fb79c577bdfe4","x":-480,"y":480,"width":400,"height":340,"type":"file","file":"Attachments/Pasted image 20260305192501.png"},
+		{"id":"111700da778d4dfe","x":-920,"y":100,"width":400,"height":319,"type":"file","file":"Attachments/Pasted image 20260305192853.png"},
+		{"id":"faba8e2fd5d64afd","x":-1140,"y":540,"width":400,"height":329,"type":"file","file":"Attachments/Pasted image 20260305193209.png"}
 	],
 	"edges":[
 		{"id":"d947fa854c4fc323","fromNode":"c3147614d03a04d4","fromSide":"bottom","toNode":"1c1eaf44cfe73887","toSide":"top"},
 		{"id":"b1987c2a091ecd8f","fromNode":"c3147614d03a04d4","fromSide":"right","toNode":"0862ce52f8fbf6c3","toSide":"top","label":"试试ping百度"},
 		{"id":"0bbf9a215c9fed8f","fromNode":"0862ce52f8fbf6c3","fromSide":"bottom","toNode":"00c3a13e0e466d10","toSide":"top","label":"没有回显，试试ping自己呢？"},
-		{"id":"4b95eafa63a68cc1","fromNode":"00c3a13e0e466d10","fromSide":"left","toNode":"174fb79c577bdfe4","toSide":"right","label":"加个ls可以显示index.php"}
+		{"id":"4b95eafa63a68cc1","fromNode":"00c3a13e0e466d10","fromSide":"left","toNode":"174fb79c577bdfe4","toSide":"right","label":"加个ls可以显示index.php"},
+		{"id":"6af474b2c55496bc","fromNode":"1c1eaf44cfe73887","fromSide":"bottom","toNode":"174fb79c577bdfe4","toSide":"right"},
+		{"id":"3d3a4bae4ee4a053","fromNode":"174fb79c577bdfe4","fromSide":"top","toNode":"111700da778d4dfe","toSide":"right","label":"先ls根目录，从home开始找\n\n进去就能看到"},
+		{"id":"894533d9cd8fd383","fromNode":"111700da778d4dfe","fromSide":"left","toNode":"faba8e2fd5d64afd","toSide":"top"}
 	]
 }
