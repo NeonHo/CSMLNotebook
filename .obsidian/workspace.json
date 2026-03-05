@@ -15,9 +15,9 @@
               "state": {
                 "file": "Hello-CTF/WEB/xff_referer.canvas",
                 "viewState": {
-                  "x": 224.75,
-                  "y": 225.390625,
-                  "zoom": 0
+                  "x": 617.5,
+                  "y": 210,
+                  "zoom": -0.8868210344714312
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,6 +207,7 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260305194628.png",
     "Attachments/Pasted image 20260305193823.png",
     "Attachments/Pasted image 20260305193744.png",
     "Hello-CTF/WEB/command_execution.canvas",
@@ -221,7 +222,6 @@
     "Attachments/Pasted image 20260305191724.png",
     "Attachments/Pasted image 20260305190723.png",
     "Hello-CTF/WEB/weak_auth.canvas",
-    "Attachments/Pasted image 20260305190027.png",
     "Hello-CTF/WEB/未命名.md",
     "Hello-CTF/WEB/disabled_button.canvas",
     "Hello-CTF/WEB/cookie.canvas",
