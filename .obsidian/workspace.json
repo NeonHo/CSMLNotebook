@@ -11,10 +11,17 @@
             "id": "c1606a94eefc8b8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "Hello-CTF/WEB/backup.canvas",
+                "viewState": {
+                  "x": 193,
+                  "y": 297,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "backup"
             }
           }
         ]
@@ -200,6 +207,10 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/WEB-backup.png",
+    "Hello-CTF/WEB/backup.canvas",
+    "images/DJI.md",
+    "Hello-CTF/WEB",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Attachments/MISC 点燃我 Qwen Reverse.png",
     "Attachments/MISC-byte_4420B0.png",
@@ -227,7 +238,6 @@
     "README.md",
     "Economics",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
-    "images/DJI.md",
     "images",
     "Trade/投资笔记2025-09-25.md",
     "Trade/投资笔记2025-09-17.md",
@@ -244,8 +254,6 @@
     "Projects/Grid Defect Dection/images/DJI_20250901174946_0002_V.jpg",
     "Projects/Grid Defect Dection/images/DJI_20250901174940_0001_V.jpg",
     "Projects/game dev/Knowedges",
-    "Projects/game dev/GAME DEV DOC",
-    "Attachments/截屏2024-07-19 上午9.15.38.png",
     "未命名.canvas"
   ]
 }

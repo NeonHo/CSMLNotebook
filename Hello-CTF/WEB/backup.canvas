@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e202ece64f576df0","type":"text","text":"X老师忘记删除备份文件，他派小宁同学去把备份文件找出来,一起来帮小宁同学吧！","x":-125,"y":-30,"width":345,"height":60},
+		{"id":"2a28406675aa9db4","type":"file","file":"Attachments/WEB-backup.png","x":-152,"y":160,"width":400,"height":156}
+	],
+	"edges":[]
+}
