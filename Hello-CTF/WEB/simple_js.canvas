@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"41f450a5b00494c6","x":-360,"y":-280,"width":380,"height":60,"type":"text","text":"小宁发现了一个网页，但却一直输不对密码。\n(Flag格式为 Cyberpeace{xxxxxxxxx} )"}
+	],
+	"edges":[]
+}
