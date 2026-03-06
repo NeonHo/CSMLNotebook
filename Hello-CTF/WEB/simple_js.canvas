@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"41f450a5b00494c6","x":-360,"y":-280,"width":380,"height":60,"type":"text","text":"小宁发现了一个网页，但却一直输不对密码。\n(Flag格式为 Cyberpeace{xxxxxxxxx} )"}
+		{"id":"41f450a5b00494c6","x":-360,"y":-280,"width":380,"height":60,"type":"text","text":"小宁发现了一个网页，但却一直输不对密码。\n(Flag格式为 Cyberpeace{xxxxxxxxx} )"},
+		{"id":"6f711e29b3cdbd4a","x":140,"y":-374,"width":631,"height":249,"type":"file","file":"Attachments/Pasted image 20260306085408.png"},
+		{"id":"3456dac2b8ad4709","x":19,"y":60,"width":874,"height":645,"type":"file","file":"Attachments/Pasted image 20260306085341.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8ecbf4d8a3d82637","fromNode":"41f450a5b00494c6","fromSide":"right","toNode":"6f711e29b3cdbd4a","toSide":"left"},
+		{"id":"f5a85a5c938004a1","fromNode":"6f711e29b3cdbd4a","fromSide":"bottom","toNode":"3456dac2b8ad4709","toSide":"top","label":"通过BurpSuite看看Response中是不是有底层JS代码"}
+	]
 }
