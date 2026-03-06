@@ -5,13 +5,17 @@
 		{"id":"18340d3878a6cc22","type":"text","text":"描述：文件里有flag，找到它。","x":160,"y":-170,"width":326,"height":50},
 		{"id":"7ddac512e1f82ad4","x":-600,"y":20,"width":1491,"height":563,"type":"file","file":"Attachments/Pasted image 20260306105514.png"},
 		{"id":"d856143239424ff4","x":-574,"y":700,"width":1440,"height":300,"type":"file","file":"Attachments/Pasted image 20260306105749.png"},
-		{"id":"9ade78b0dfe94ecd","x":-87,"y":1120,"width":466,"height":80,"type":"text","text":"说明文件中有隐藏pdf，因此自然想到了文件分离\nforemost文件分离"}
+		{"id":"9ade78b0dfe94ecd","x":-87,"y":1120,"width":466,"height":80,"type":"text","text":"说明文件中有隐藏pdf，因此自然想到了文件分离\nforemost文件分离"},
+		{"id":"b3d8aa340e9682df","x":-310,"y":1300,"width":913,"height":188,"type":"file","file":"Attachments/Pasted image 20260306110630.png"},
+		{"id":"51ead1c0341c2fdf","x":-304,"y":1620,"width":901,"height":404,"type":"file","file":"Attachments/Pasted image 20260306110747.png"}
 	],
 	"edges":[
 		{"id":"2fed787ffdc4c5a6","fromNode":"343fafbfae247380","fromSide":"bottom","toNode":"7c7f968f513e0572","toSide":"top"},
 		{"id":"e20b3f74e07c7974","fromNode":"7c7f968f513e0572","fromSide":"bottom","toNode":"7ddac512e1f82ad4","toSide":"top"},
 		{"id":"883129e5e4e336d3","fromNode":"18340d3878a6cc22","fromSide":"bottom","toNode":"7ddac512e1f82ad4","toSide":"top"},
 		{"id":"e582ad5491c7c8b7","fromNode":"7ddac512e1f82ad4","fromSide":"bottom","toNode":"d856143239424ff4","toSide":"top"},
-		{"id":"cb77a64b535ecefa","fromNode":"d856143239424ff4","fromSide":"bottom","toNode":"9ade78b0dfe94ecd","toSide":"top"}
+		{"id":"cb77a64b535ecefa","fromNode":"d856143239424ff4","fromSide":"bottom","toNode":"9ade78b0dfe94ecd","toSide":"top"},
+		{"id":"737114e5ac1c72ff","fromNode":"9ade78b0dfe94ecd","fromSide":"bottom","toNode":"b3d8aa340e9682df","toSide":"top"},
+		{"id":"7dfbe8470526e2f7","fromNode":"b3d8aa340e9682df","fromSide":"bottom","toNode":"51ead1c0341c2fdf","toSide":"top"}
 	]
 }
