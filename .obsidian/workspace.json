@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/simple_transfer.canvas",
                 "viewState": {
-                  "x": 63,
-                  "y": -230,
+                  "x": 221,
+                  "y": 277,
                   "zoom": 0
                 }
               },
@@ -207,6 +207,7 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260306105514.png",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/MISC/未命名.md",
