@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/simple_transfer.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 63,
+                  "y": -230,
                   "zoom": 0
                 }
               },
@@ -207,8 +207,9 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
-    "Hello-CTF/MISC/未命名.md",
+    "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
+    "Hello-CTF/MISC/未命名.md",
     "Hello-CTF/WEB/simple_js.canvas",
     "Attachments/Pasted image 20260306085408.png",
     "Attachments/Pasted image 20260306085341.png",
@@ -230,7 +231,6 @@
     "Hello-CTF/WEB/backup.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
-    "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/MISC",
     "Hello-CTF/以一个侦探的视角去玩CTF.md",
     "Excalidraw/Drawing 2026-03-05 16.30.26.excalidraw.md",
