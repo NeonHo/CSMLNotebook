@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"8215c1323c3c2da2","type":"file","file":"Attachments/附件.bmp","x":-260,"y":-300,"width":333,"height":400}
+		{"id":"8215c1323c3c2da2","type":"file","file":"Attachments/附件.bmp","x":-260,"y":-300,"width":333,"height":400},
+		{"id":"f3b9a88b08be76b9","x":-440,"y":160,"width":380,"height":50,"type":"text","text":"题目名称叫做low，合理推测是LSB"}
 	],
 	"edges":[]
 }
