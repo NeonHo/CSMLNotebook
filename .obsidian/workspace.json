@@ -11,14 +11,17 @@
             "id": "c1606a94eefc8b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "Hello-CTF/MISC/low.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "low"
             }
           }
         ]
@@ -204,8 +207,10 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
-    "Hello-CTF/Crypto/base64.canvas",
+    "Attachments/附件.bmp",
     "Hello-CTF/MISC/未命名.md",
+    "Hello-CTF/MISC/low.canvas",
+    "Hello-CTF/Crypto/base64.canvas",
     "Attachments/Pasted image 20260306111416.png",
     "Attachments/Pasted image 20260306111316.png",
     "Hello-CTF/MISC/simple_transfer.canvas",
@@ -227,7 +232,6 @@
     "Hello-CTF/WEB/simple_php.canvas",
     "Hello-CTF/WEB/weak_auth.canvas",
     "Hello-CTF/WEB/disabled_button.canvas",
-    "Hello-CTF/WEB/cookie.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
     "Hello-CTF/MISC",
