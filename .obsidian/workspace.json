@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zheng/AI团队搭建.md",
+                "file": "Projects/My Team/AI团队长期Stanby.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI团队搭建"
+              "title": "AI团队长期Stanby"
             }
           }
         ]
@@ -205,8 +205,11 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "AI投资私教.md",
+    "Projects/My Team/AI团队搭建.md",
+    "Projects/My Team/AI团队长期Stanby.md",
+    "Projects/My Team",
     "Hello-CTF/MISC/can_has_stdio.canvas",
-    "Projects/Zheng/AI团队搭建.md",
     "Projects/Zheng/Untitled",
     "Attachments/Pasted image 20260310173932.png",
     "Hello-CTF/MISC/misc1.canvas",
@@ -250,15 +253,12 @@
     "Trade/NIKE.md",
     "Trade/AO史密斯.md",
     "Economics/边际定价.md",
-    "AI投资私教.md",
     "README.md",
     "Economics",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
     "images",
     "Trade/投资笔记2025-09-25.md",
     "Trade/投资笔记2025-09-17.md",
-    "Trade/投资笔记2025-09-16.md",
-    "Trade",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md"
+    "Trade/投资笔记2025-09-16.md"
   ]
 }
