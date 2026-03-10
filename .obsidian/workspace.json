@@ -11,17 +11,14 @@
             "id": "c1606a94eefc8b8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hello-CTF/MISC/can_has_stdio.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -40,
-                  "zoom": -0.2191172893035869
-                }
+                "file": "Projects/Zheng/AI团队搭建.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "can_has_stdio"
+              "icon": "lucide-file",
+              "title": "AI团队搭建"
             }
           }
         ]
@@ -208,9 +205,11 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Hello-CTF/MISC/can_has_stdio.canvas",
+    "Projects/Zheng/AI团队搭建.md",
+    "Projects/Zheng/Untitled",
     "Attachments/Pasted image 20260310173932.png",
     "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/can_has_stdio.canvas",
     "Hello-CTF/MISC/未命名.md",
     "Hello-CTF/MISC/low.canvas",
     "Attachments/Pasted image 20260310095857.png",
@@ -228,7 +227,6 @@
     "Attachments/Pasted image 20260306110630.png",
     "Attachments/Pasted image 20260306110443.png",
     "Attachments/Pasted image 20260306105749.png",
-    "Attachments/Pasted image 20260306105514.png",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
@@ -261,8 +259,6 @@
     "Trade/投资笔记2025-09-17.md",
     "Trade/投资笔记2025-09-16.md",
     "Trade",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL"
+    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md"
   ]
 }
