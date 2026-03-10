@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI团队长期Stanby"
             }
+          },
+          {
+            "id": "4577afa175ee0f4a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1606a94eefc8b8a",
+  "active": "4577afa175ee0f4a",
   "lastOpenFiles": [
     "AI投资私教.md",
     "Projects/My Team/AI团队搭建.md",
