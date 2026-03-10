@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"168e61ef57e7f6ea","x":-500,"y":-480,"width":600,"height":625,"type":"file","file":"Attachments/Pasted image 20260310173932.png"},
-		{"id":"05cbce83e5356b9c","x":-421,"y":260,"width":442,"height":140,"type":"text","text":"题目：can_has_stdio?\n这个名字的意义在于标准输出后得到五角星。\n"}
+		{"id":"168e61ef57e7f6ea","type":"file","file":"Attachments/Pasted image 20260310173932.png","x":-500,"y":-480,"width":600,"height":625},
+		{"id":"05cbce83e5356b9c","type":"text","text":"题目：can_has_stdio?\n这个名字的意义在于标准输出后得到五角星。\n","x":-421,"y":260,"width":442,"height":140}
 	],
 	"edges":[
 		{"id":"eb83433d1172bad2","fromNode":"168e61ef57e7f6ea","fromSide":"bottom","toNode":"05cbce83e5356b9c","toSide":"top"}
