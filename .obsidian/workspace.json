@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/misc1.canvas",
                 "viewState": {
-                  "x": -394.75,
-                  "y": 137,
+                  "x": 941.25,
+                  "y": 618,
                   "zoom": 0
                 }
               },
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LSTM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -77,12 +77,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "d46c5e7d922a10f8",
