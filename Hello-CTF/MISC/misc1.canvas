@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"30ea4ea4f347cf51","x":-740,"y":-30,"width":520,"height":130,"type":"text","text":"题目描述:\nd4e8e1f4a0f7e1f3a0e6e1f3f4a1a0d4e8e5a0e6ece1e7a0e9f3baa0c4c4c3d4c6fbb9e1e6b3e3b9e4b3b7b7e2b6b1e4b2b6b9e2b1b1b3b3b7e6b3b3b0e3b9b3b5e6fd"}
+		{"id":"470e56009b911250","x":-280,"y":-180,"width":250,"height":60,"type":"text","text":"一组范围在0-9，A-F的文本"},
+		{"id":"766812fa2194b655","x":-120,"y":100,"width":293,"height":60,"type":"text","text":"某种形式的的十六进制数"},
+		{"id":"30ea4ea4f347cf51","x":-740,"y":35,"width":520,"height":130,"type":"text","text":"题目描述:\nd4e8e1f4a0f7e1f3a0e6e1f3f4a1a0d4e8e5a0e6ece1e7a0e9f3baa0c4c4c3d4c6fbb9e1e6b3e3b9e4b3b7b7e2b6b1e4b2b6b9e2b1b1b3b3b7e6b3b3b0e3b9b3b5e6fd"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"48c1ff4c7076d97f","fromNode":"30ea4ea4f347cf51","fromSide":"right","toNode":"470e56009b911250","toSide":"bottom"},
+		{"id":"72d81e4632449de0","fromNode":"470e56009b911250","fromSide":"right","toNode":"766812fa2194b655","toSide":"top"}
+	]
 }
