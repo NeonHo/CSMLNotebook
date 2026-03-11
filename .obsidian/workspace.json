@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "AI团队长期Stanby"
             }
+          },
+          {
+            "id": "2f6accd42d11c9cf",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Erik-Baleog-and-Olaf.canvas)"
+            }
+          },
+          {
+            "id": "c377fd04e3d81400",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Erik-Baleog-and-Olaf.canvas)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,13 +229,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1606a94eefc8b8a",
+  "active": "c377fd04e3d81400",
   "lastOpenFiles": [
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
+    "conflict-files-obsidian-git.md",
+    "Projects/My Team/AI团队长期Stanby.md",
+    "Attachments/stego100.png",
+    "Attachments/Pasted image 20260311111012.png",
+    "Attachments/Pasted image 20260311110529.png",
+    "Attachments/Pasted image 20260311105935.png",
     "Attachments/Pasted image 20260311094838.png",
     "AI投资私教.md",
     "Projects/My Team/AI团队搭建.md",
-    "Projects/My Team/AI团队长期Stanby.md",
     "Projects/My Team",
     "Hello-CTF/MISC/can_has_stdio.canvas",
     "Projects/Zheng/Untitled",
@@ -223,19 +255,14 @@
     "Attachments/附件.bmp",
     "Hello-CTF/Crypto/base64.canvas",
     "Attachments/Pasted image 20260306111416.png",
-    "Attachments/Pasted image 20260306111316.png",
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/Crypto/未命名.md",
     "Hello-CTF/Crypto",
-    "Attachments/Pasted image 20260306110747.png",
-    "Attachments/Pasted image 20260306110630.png",
-    "Attachments/Pasted image 20260306110443.png",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
     "Hello-CTF/WEB/xff_referer.canvas",
     "Hello-CTF/WEB/command_execution.canvas",
-    "Hello-CTF/WEB/simple_php.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
     "Hello-CTF/MISC",
@@ -258,7 +285,6 @@
     "Projects/Zheng/江苏营销部的课题相关内容.md",
     "images",
     "Trade/投资笔记2025-09-25.md",
-    "Trade/投资笔记2025-09-17.md",
-    "Trade/投资笔记2025-09-16.md"
+    "Trade/投资笔记2025-09-17.md"
   ]
 }
