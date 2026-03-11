@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/can_has_stdio.canvas",
                 "viewState": {
-                  "x": 13.740976645435268,
-                  "y": -3.0063694267515473,
+                  "x": 222.3639180548484,
+                  "y": 288.8322717622081,
                   "zoom": -0.03927998766181144
                 }
               },
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +207,13 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Hello-CTF/MISC/can_has_stdio.canvas",
+    "Projects/My Team/AI团队长期Stanby.md",
+    "Projects/My Team/AI团队搭建.md",
+    "Projects/My Team",
     "Attachments/Pasted image 20260310173932.png",
     "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/can_has_stdio.canvas",
     "Hello-CTF/MISC/未命名.md",
     "Hello-CTF/MISC/low.canvas",
     "Attachments/Pasted image 20260310095857.png",
@@ -228,7 +231,6 @@
     "Attachments/Pasted image 20260306110630.png",
     "Attachments/Pasted image 20260306110443.png",
     "Attachments/Pasted image 20260306105749.png",
-    "Attachments/Pasted image 20260306105514.png",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
@@ -259,10 +261,6 @@
     "images",
     "Trade/投资笔记2025-09-25.md",
     "Trade/投资笔记2025-09-17.md",
-    "Trade/投资笔记2025-09-16.md",
-    "Trade",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/MySQL Brief Introduction.md",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL/Create Database for wordpress.md",
-    "Projects/game dev/1-Build My Own Website/Resources/MySQL"
+    "Trade"
   ]
 }
