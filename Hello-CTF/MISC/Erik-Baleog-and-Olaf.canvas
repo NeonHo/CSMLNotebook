@@ -5,7 +5,8 @@
 		{"id":"7e7f987c4f5ed65b","x":-280,"y":80,"width":400,"height":74,"type":"file","file":"Attachments/Pasted image 20260311105935.png"},
 		{"id":"736f7a7f500a3b83","x":-679,"y":380,"width":1198,"height":50,"type":"file","file":"Attachments/Pasted image 20260311110529.png"},
 		{"id":"3a0ea2c0ed6f7083","x":820,"y":255,"width":400,"height":300,"type":"file","file":"Attachments/stego100.png"},
-		{"id":"09b26c4c10bd5d99","x":-240,"y":640,"width":713,"height":700,"type":"file","file":"Attachments/Pasted image 20260311111012.png"}
+		{"id":"09b26c4c10bd5d99","x":-240,"y":640,"width":713,"height":700,"type":"file","file":"Attachments/Pasted image 20260311111012.png"},
+		{"id":"4c628c97496eff05","x":650,"y":1280,"width":340,"height":60,"type":"text","text":"但是二维码右下角不全，无法识别。"}
 	],
 	"edges":[
 		{"id":"aeb1fd2e4bb4533c","fromNode":"7e7f987c4f5ed65b","fromSide":"bottom","toNode":"70d00ed263701e6a","toSide":"top"},
@@ -13,6 +14,7 @@
 		{"id":"92420f078b39db89","fromNode":"736f7a7f500a3b83","fromSide":"right","toNode":"3a0ea2c0ed6f7083","toSide":"left","label":"加个拓展名就能看到了"},
 		{"id":"1108bb3b2d68c5a5","fromNode":"db4cd92e1ca9f9c6","fromSide":"right","toNode":"3a0ea2c0ed6f7083","toSide":"top"},
 		{"id":"0dfb4822178eef12","fromNode":"70d00ed263701e6a","fromSide":"right","toNode":"3a0ea2c0ed6f7083","toSide":"top"},
-		{"id":"2f5d54c0e681c51c","fromNode":"3a0ea2c0ed6f7083","fromSide":"bottom","toNode":"09b26c4c10bd5d99","toSide":"right","label":"名字为啥是stego100?不会是暗示我工具吧？"}
+		{"id":"2f5d54c0e681c51c","fromNode":"3a0ea2c0ed6f7083","fromSide":"bottom","toNode":"09b26c4c10bd5d99","toSide":"right","label":"名字为啥是stego100?不会是暗示我工具吧？"},
+		{"id":"c26ac42eb1532442","fromNode":"09b26c4c10bd5d99","fromSide":"bottom","toNode":"4c628c97496eff05","toSide":"bottom"}
 	]
 }
