@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
                 "viewState": {
-                  "x": 595.3928205939329,
-                  "y": 287.26199937603104,
+                  "x": 291.7518475692686,
+                  "y": 915.9626032735728,
                   "zoom": -0.3333333333333333
                 }
               },
@@ -207,6 +207,7 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260311111012.png",
     "Attachments/stego100.png",
     "Attachments/Pasted image 20260311110529.png",
     "Attachments/Pasted image 20260311105935.png",
@@ -232,7 +233,6 @@
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/Crypto/未命名.md",
     "Hello-CTF/Crypto",
-    "Attachments/Pasted image 20260306110747.png",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
