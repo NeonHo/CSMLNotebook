@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/can_has_stdio.canvas",
                 "viewState": {
-                  "x": 222.3639180548484,
-                  "y": 288.8322717622081,
+                  "x": 346.70362081493334,
+                  "y": 488.18683651804685,
                   "zoom": -0.03927998766181144
                 }
               },
@@ -207,6 +207,7 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260311094838.png",
     "conflict-files-obsidian-git.md",
     "Hello-CTF/MISC/can_has_stdio.canvas",
     "Projects/My Team/AI团队长期Stanby.md",
