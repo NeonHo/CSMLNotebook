@@ -11,10 +11,14 @@
             "id": "f5678f6a48db9abf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/My Team/AI团队工期.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AI团队工期"
             }
           }
         ]
@@ -200,6 +204,7 @@
   },
   "active": "f5678f6a48db9abf",
   "lastOpenFiles": [
+    "Projects/My Team/AI团队工期.md",
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
     "Projects/My Team/AI团队长期Stanby.md",
     "conflict-files-obsidian-git.md",
