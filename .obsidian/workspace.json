@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f08992eeae87f497",
+        "id": "cbb0fbe5d095266e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1606a94eefc8b8a",
+            "id": "f5678f6a48db9abf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/My Team/AI团队长期Stanby.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI团队长期Stanby"
-            }
-          },
-          {
-            "id": "2f6accd42d11c9cf",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Erik-Baleog-and-Olaf.canvas)"
-            }
-          },
-          {
-            "id": "c377fd04e3d81400",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Erik-Baleog-and-Olaf.canvas)"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,11 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c377fd04e3d81400",
+  "active": "f5678f6a48db9abf",
   "lastOpenFiles": [
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
-    "conflict-files-obsidian-git.md",
     "Projects/My Team/AI团队长期Stanby.md",
+    "conflict-files-obsidian-git.md",
     "Attachments/stego100.png",
     "Attachments/Pasted image 20260311111012.png",
     "Attachments/Pasted image 20260311110529.png",
