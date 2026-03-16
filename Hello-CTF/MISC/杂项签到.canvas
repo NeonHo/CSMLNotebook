@@ -1,9 +1,15 @@
 {
 	"nodes":[
 		{"id":"07ac033cac189a45","x":-300,"y":-340,"width":397,"height":400,"type":"file","file":"Attachments/misc1.png"},
-		{"id":"13ce51568f895eab","x":-341,"y":120,"width":480,"height":60,"type":"text","text":"看起来，这张图片应该是不完整的，用010 Editor试一下"}
+		{"id":"13ce51568f895eab","x":-341,"y":120,"width":480,"height":60,"type":"text","text":"看起来，这张图片应该是不完整的，用010 Editor试一下"},
+		{"id":"e31c014872c4fa20","x":260,"y":120,"width":250,"height":60,"type":"text","text":"随波逐流直接解决了"},
+		{"id":"b63eb8d35b614f0d","x":680,"y":-238,"width":740,"height":777,"type":"file","file":"Attachments/Pasted image 20260316152026.png"},
+		{"id":"8c74d075c29d2633","x":-300,"y":280,"width":400,"height":274,"type":"file","file":"Attachments/Pasted image 20260316152141.png"}
 	],
 	"edges":[
-		{"id":"7f935f96cef01d6d","fromNode":"07ac033cac189a45","fromSide":"bottom","toNode":"13ce51568f895eab","toSide":"top"}
+		{"id":"7f935f96cef01d6d","fromNode":"07ac033cac189a45","fromSide":"bottom","toNode":"13ce51568f895eab","toSide":"top"},
+		{"id":"1d36b854d594abbc","fromNode":"07ac033cac189a45","fromSide":"right","toNode":"e31c014872c4fa20","toSide":"top"},
+		{"id":"39547c6550cc4352","fromNode":"e31c014872c4fa20","fromSide":"right","toNode":"b63eb8d35b614f0d","toSide":"left"},
+		{"id":"2c6c0d34de512258","fromNode":"13ce51568f895eab","fromSide":"bottom","toNode":"8c74d075c29d2633","toSide":"top"}
 	]
 }
