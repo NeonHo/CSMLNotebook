@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -443,
+                  "y": 1746.1796875,
                   "zoom": 0
                 }
               },
@@ -207,6 +207,10 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260316175859.png",
+    "Attachments/Pasted image 20260316175048.png",
+    "Attachments/Pasted image 20260316175012.png",
+    "Attachments/Pasted image 20260316174941.png",
     "Hello-CTF/MISC/杂项签到.canvas",
     "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
     "Hello-CTF/MISC/can_has_stdio.canvas",
@@ -224,12 +228,9 @@
     "Hello-CTF/MISC/zip伪加密.md",
     "Attachments/Pasted image 20260316152141.png",
     "Attachments/Pasted image 20260316152026.png",
-    "Attachments/misc1.png",
     "Projects/My Team/AI团队搭建.md",
     "Projects/My Team/AI团队工期.md",
     "conflict-files-obsidian-git.md",
-    "Attachments/Pasted image 20260311111012.png",
-    "Attachments/stego100.png",
     "Projects/My Team/AI团队长期Stanby.md",
     "Projects/My Team",
     "Projects/BoBo/智元机器人.md",
@@ -237,7 +238,6 @@
     "Hello-CTF/Crypto/base64.canvas",
     "Hello-CTF/Crypto/未命名.md",
     "Hello-CTF/Crypto",
-    "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
     "images/DJI.md",
     "Hello-CTF/WEB",
