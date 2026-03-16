@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"07ac033cac189a45","x":-300,"y":-340,"width":397,"height":400,"type":"file","file":"Attachments/misc1.png"},
+		{"id":"13ce51568f895eab","x":-341,"y":120,"width":480,"height":60,"type":"text","text":"看起来，这张图片应该是不完整的，用010 Editor试一下"}
+	],
+	"edges":[
+		{"id":"7f935f96cef01d6d","fromNode":"07ac033cac189a45","fromSide":"bottom","toNode":"13ce51568f895eab","toSide":"top"}
+	]
+}

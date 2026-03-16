@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/未命名.canvas",
+                "file": "Hello-CTF/MISC/杂项签到.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "杂项签到"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/misc1.png",
     "Hello-CTF/MISC/simple_transfer.canvas",
-    "Hello-CTF/MISC/未命名.canvas",
+    "Hello-CTF/MISC/杂项签到.canvas",
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
     "Projects/My Team/AI团队搭建.md",
     "Projects/My Team/AI团队工期.md",
@@ -238,7 +239,6 @@
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
     "Hello-CTF/WEB/xff_referer.canvas",
-    "Hello-CTF/WEB/command_execution.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
     "Hello-CTF/MISC",
