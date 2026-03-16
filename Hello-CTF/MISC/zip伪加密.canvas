@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"33cecff4bd543cff","x":-100,"y":-420,"width":400,"height":229,"type":"file","file":"Attachments/Pasted image 20260316153029.png"},
+		{"id":"5ad18e0c3c8187ce","type":"text","text":"zip 伪加密是在文件头的加密标志位做修改，进而再打开文件时使其被识别为加密压缩包。","x":-200,"y":-60,"width":740,"height":60}
+	],
+	"edges":[]
+}

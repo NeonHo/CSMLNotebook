@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/杂项签到.canvas",
+                "file": "Hello-CTF/MISC/zip伪加密.canvas",
                 "viewState": {
-                  "x": 186.5,
-                  "y": 407,
+                  "x": 116.5,
+                  "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "杂项签到"
+              "title": "zip伪加密"
             }
           }
         ]
@@ -207,11 +207,14 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260316153029.png",
+    "Hello-CTF/MISC/zip伪加密.md",
+    "Hello-CTF/MISC/zip伪加密.canvas",
+    "Hello-CTF/MISC/杂项签到.canvas",
     "Attachments/Pasted image 20260316152141.png",
     "Attachments/Pasted image 20260316152026.png",
     "Attachments/misc1.png",
     "Hello-CTF/MISC/simple_transfer.canvas",
-    "Hello-CTF/MISC/杂项签到.canvas",
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
     "Projects/My Team/AI团队搭建.md",
     "Projects/My Team/AI团队工期.md",
@@ -226,10 +229,8 @@
     "Projects/My Team",
     "Attachments/Pasted image 20260310173932.png",
     "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/未命名.md",
     "Hello-CTF/MISC/low.canvas",
     "Attachments/Pasted image 20260310095857.png",
-    "Attachments/Pasted image 20260310095637.png",
     "Projects/BoBo/智元机器人.md",
     "Projects/BoBo",
     "Hello-CTF/Crypto/base64.canvas",
@@ -238,7 +239,6 @@
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/未命名.md",
-    "Hello-CTF/WEB/xff_referer.canvas",
     "images/DJI.md",
     "Hello-CTF/WEB",
     "Hello-CTF/MISC",
