@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"33cecff4bd543cff","x":-100,"y":-420,"width":400,"height":229,"type":"file","file":"Attachments/Pasted image 20260316153029.png"},
+		{"id":"33cecff4bd543cff","type":"file","file":"Attachments/Pasted image 20260316153029.png","x":-100,"y":-420,"width":400,"height":229},
 		{"id":"5ad18e0c3c8187ce","type":"text","text":"zip 伪加密是在文件头的加密标志位做修改，进而再打开文件时使其被识别为加密压缩包。","x":-200,"y":-60,"width":740,"height":60},
-		{"id":"68e1fef7ab4f6caf","x":-200,"y":80,"width":720,"height":90,"type":"text","text":"当我们遇到一个被加密了的压缩包，需要判断是否是伪加密时，一个简单的方法就是，我们可以先尝试将 deFlags 和 frFlags 的最低有效位全部改成 0，之后保存并尝试解压。"},
-		{"id":"a21e6a51ba536ee3","x":-110,"y":300,"width":560,"height":589,"type":"file","file":"Attachments/Pasted image 20260316153734.png"},
-		{"id":"1b33e0fb0a706b0a","x":720,"y":-162,"width":600,"height":574,"type":"file","file":"Attachments/Pasted image 20260316154005.png"},
-		{"id":"e21f6b3491050a65","x":820,"y":560,"width":400,"height":134,"type":"file","file":"Attachments/Pasted image 20260316153852.png"}
+		{"id":"68e1fef7ab4f6caf","type":"text","text":"当我们遇到一个被加密了的压缩包，需要判断是否是伪加密时，一个简单的方法就是，我们可以先尝试将 deFlags 和 frFlags 的最低有效位全部改成 0，之后保存并尝试解压。","x":-200,"y":80,"width":720,"height":90},
+		{"id":"a21e6a51ba536ee3","type":"file","file":"Attachments/Pasted image 20260316153734.png","x":-110,"y":300,"width":560,"height":589},
+		{"id":"1b33e0fb0a706b0a","type":"file","file":"Attachments/Pasted image 20260316154005.png","x":720,"y":-162,"width":600,"height":574},
+		{"id":"e21f6b3491050a65","type":"file","file":"Attachments/Pasted image 20260316153852.png","x":820,"y":560,"width":399,"height":134}
 	],
 	"edges":[
 		{"id":"d73c4cb7d2dca523","fromNode":"68e1fef7ab4f6caf","fromSide":"right","toNode":"1b33e0fb0a706b0a","toSide":"left"},
