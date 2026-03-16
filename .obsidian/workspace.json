@@ -15,9 +15,9 @@
               "state": {
                 "file": "Hello-CTF/MISC/zip伪加密.canvas",
                 "viewState": {
-                  "x": 116.5,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 604.5,
+                  "y": 478,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,6 +207,10 @@
   },
   "active": "c1606a94eefc8b8a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260316154005.png",
+    "Attachments/Pasted image 20260316153852.png",
+    "Attachments/Pasted image 20260316153734.png",
+    "Attachments/Pasted image 20260316153634.png",
     "Attachments/Pasted image 20260316153029.png",
     "Hello-CTF/MISC/zip伪加密.md",
     "Hello-CTF/MISC/zip伪加密.canvas",
@@ -222,15 +226,11 @@
     "Attachments/Pasted image 20260311111012.png",
     "Attachments/stego100.png",
     "Attachments/Pasted image 20260311110529.png",
-    "Attachments/Pasted image 20260311105935.png",
     "Hello-CTF/MISC/can_has_stdio.canvas",
-    "Attachments/Pasted image 20260311094838.png",
     "Projects/My Team/AI团队长期Stanby.md",
     "Projects/My Team",
-    "Attachments/Pasted image 20260310173932.png",
     "Hello-CTF/MISC/misc1.canvas",
     "Hello-CTF/MISC/low.canvas",
-    "Attachments/Pasted image 20260310095857.png",
     "Projects/BoBo/智元机器人.md",
     "Projects/BoBo",
     "Hello-CTF/Crypto/base64.canvas",
