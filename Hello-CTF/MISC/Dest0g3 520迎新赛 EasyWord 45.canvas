@@ -20,7 +20,9 @@
 		{"id":"f87c16411c0f3a7f","x":-906,"y":3440,"width":660,"height":493,"type":"file","file":"Attachments/Pasted image 20260317113628.png"},
 		{"id":"2f2bfe2aa72b5319","x":375,"y":3685,"width":345,"height":50,"type":"text","text":"没有出现宏运行说明WPS宏被禁用了。"},
 		{"id":"749599f54df5f84d","x":-956,"y":4160,"width":760,"height":387,"type":"file","file":"Attachments/Pasted image 20260317114141.png"},
-		{"id":"1b19c74fa3fa289e","x":329,"y":4321,"width":438,"height":65,"type":"text","text":"更新VB环境后，重新打开启用宏即可"}
+		{"id":"1b19c74fa3fa289e","x":329,"y":4321,"width":438,"height":65,"type":"text","text":"更新VB环境后，重新打开启用宏即可"},
+		{"id":"a46eca9acd487c08","x":-1121,"y":4760,"width":1001,"height":282,"type":"text","text":"拥有过docm文件的密码后，运行宏后出现要求填入新的密码的界面，只有填入这密码才能得到进一步的线索。\nwriteup上说：\n现在要破解宏，将 word 文件用压缩包方式打开，找到 vbaProject.bin 文件以十六进制方式查看，将 DBP 改为 DBX 并保存。\n问题：\n我通过将其解压缩，得到的文件中，没有vbaProject.bin这个文件，而是：\n─[6]DataSpaces\n    ├─DataSpaceInfo\n    └─TransformInfo\n        └─StrongEncryptionTransform"},
+		{"id":"6f37103cc65daba3","x":200,"y":4760,"width":1365,"height":1655,"type":"text","text":"你看到这些文件夹（`DataSpaces`、`TransformInfo` 等）是一个非常关键的信号：**说明这个 `.docm` 文件目前仍然处于“加密状态”。**\n\n虽然你已经通过破解得到了“打开文档”的密码，但如果你直接用解压软件（如 7-Zip 或 WinRAR）去打开一个**有密码保护**的 Office 文件，你看到的并不是文档的真实结构，而是 Office 的**加密外壳（OLE 容器）**。\n\n---\n\n### 1. 为什么找不到 `vbaProject.bin`？\n\n`.docm` 文件本质上是一个 ZIP 压缩包，但当它被设置了“打开密码”时，整个 ZIP 包会被封装进一个符合 **中等/强加密标准（Agile Encryption）** 的二进制文件中。\n\n* **你目前看到的：** 是加密文件的元数据（用于告诉 Office 如何解密）。\n* **你需要看到的：** 是解密后的 OOXML 结构。在解密后的结构中，`vbaProject.bin` 位于 `word/` 目录下。\n\n\n\n---\n\n### 2. 解决办法：如何获取解密后的文件？\n\n你有两种方式可以获取能看到 `vbaProject.bin` 的解压包：\n\n#### 方法 A：使用 Word 另存为（最简单）\n1.  用你破解出的密码**正常打开**这个 `.docm` 文件。\n2.  进入 **文件 (File) -> 信息 (Info) -> 保护文档 (Protect Document)**。\n3.  点击 **用密码进行加密 (Encrypt with Password)**。\n4.  在弹出的对话框中，**把密码删掉（留空）**，点击确定。\n5.  **保存**文档。\n6.  现在，这个 `.docm` 变成了一个普通的、无加密的 ZIP 包。你再用解压软件打开它，就能看到 `word/vbaProject.bin` 了。\n\n#### 方法 B：使用命令行工具（更具 CTF 范儿）\n如果你在 Linux 环境下，或者不想打开 Word，可以使用 `msoffcrypto-tool`。\n```bash\n# 安装工具\npip install msoffcrypto-tool\n\n# 解密文件 (假设密码是 123456)\nmsoffcrypto-tool input.docm decrypted.docm -p 123456\n\n# 然后直接解压解密后的文件\nunzip decrypted.docm -d ./extracted_files\n```\n\n---\n\n### 3. 接下来的关键步骤：修改 DBP\n\n当你进入 `word/` 文件夹并找到 `vbaProject.bin` 后，请按以下步骤操作：\n\n1.  **十六进制编辑：** 使用 `hexedit`、`010 Editor` 或 `HxD` 打开 `vbaProject.bin`。\n2.  **查找字符串：** 搜索 `DPB=`（注意是 **DPB**，不是 DBP，这是 Writeup 常见的笔误）。\n3.  **替换：** 将其修改为 `DPX=`。\n4.  **保存并替换：** 将修改后的 `.bin` 文件放回压缩包原位。\n5.  **绕过密码：** 再次用 Word 打开文件，进入 VBA 编辑器（Alt + F11）。此时可能会弹出一个错误提示（提示工程损坏或无效字符），**直接点确定**。\n6.  **重新设置：** 进入 **工具 (Tools) -> VBAProject 属性 -> 保护**。你会发现现在可以重新设置密码，或者直接取消勾选“查看时锁定工程”。\n\n---\n\n### 进阶思考\n这个 `DPB -> DPX` 的原理是故意破坏 VBA 工程的保护标志位，让 Office 在验证密码时因为找不到合法的标志而跳过验证逻辑。\n\n**你现在是否已经成功解密出不带 `DataSpaces` 文件夹的文档结构了？如果解压后看到了 `word/` 目录，我们可以继续下一步对宏代码进行静态分析。**"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -47,6 +49,8 @@
 		{"id":"f8da98fae061cfa8","fromNode":"f87c16411c0f3a7f","fromSide":"right","toNode":"2f2bfe2aa72b5319","toSide":"left"},
 		{"id":"a91ed3cd78465f13","fromNode":"2f2bfe2aa72b5319","fromSide":"bottom","toNode":"1b19c74fa3fa289e","toSide":"top"},
 		{"id":"96e899f58eea99a8","fromNode":"1b19c74fa3fa289e","fromSide":"left","toNode":"749599f54df5f84d","toSide":"right"},
-		{"id":"74e27989bc5be08e","fromNode":"f87c16411c0f3a7f","fromSide":"bottom","toNode":"749599f54df5f84d","toSide":"top"}
+		{"id":"74e27989bc5be08e","fromNode":"f87c16411c0f3a7f","fromSide":"bottom","toNode":"749599f54df5f84d","toSide":"top"},
+		{"id":"be25b55a8f63f065","fromNode":"749599f54df5f84d","fromSide":"bottom","toNode":"a46eca9acd487c08","toSide":"top"},
+		{"id":"66c7e510b7aa18a3","fromNode":"a46eca9acd487c08","fromSide":"right","toNode":"6f37103cc65daba3","toSide":"left"}
 	]
 }
