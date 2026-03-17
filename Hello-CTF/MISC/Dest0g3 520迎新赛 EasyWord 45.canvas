@@ -7,7 +7,8 @@
 		{"id":"23ddc116cf63ab23","type":"text","text":"`.docm` 是一种由 Microsoft Word 使用的文件格式，其核心特点是**支持宏（Macro）**。\n\n简单来说，宏是一系列预先录制或编写的指令（通常使用 Visual Basic for Applications, VBA 编写），可以自动执行在 Word 文档中重复出现的任务。\n\n为了帮助你更好地理解，我们可以将 `.docm` 与常见的 `.docx` 格式进行对比：\n\n### 📄 .docm 与 .docx 的区别\n\n*   **.docx**: 这是 Word 2007 及之后版本的**默认**文件格式。它是一种基于 Open XML 标准的压缩文件，用于存储普通的文本文档。**`.docx` 文件不能包含宏**。\n*   **.docm**: 这是一种**启用宏的文档**格式。当你在一个 Word 文档中创建或添加了宏，并将其保存时，Word 会自动将文件格式从 `.docx` 转换为 `.docm`，以确保宏代码能被保存下来。\n\n你可以通过下表一目了然地看到它们的差异：\n\n| 文件扩展名 | 全称 | 核心特点 |\n| :--- | :--- | :--- |\n| **.docx** | Word 文档 | 普通文档，**不支持**存储宏 |\n| **.docm** | Word 启用宏的文档 | **支持**存储 VBA 宏代码 |\n\n### ⚠️ 安全提示\n\n由于宏可以运行为代码，它们在方便自动化工作的同时，也可能被病毒利用（即宏病毒）来破坏计算机或窃取信息。\n\n因此，当你打开一个 `.docm` 文件时，Word 通常会显示一个黄色的安全警告栏，提示“已禁用宏”或“启用内容”。\n\n*   **切勿随意点击“启用内容”**，除非你**完全信任**该文件的来源，并且明确知道其中宏的作用。\n*   对于来自互联网或不熟悉发件人的 `.docm` 文件，应保持高度警惕。\n\n### 📂 如何打开 .docm 文件\n\n打开 `.docm` 文件与打开普通 `.docx` 文件的方法基本相同：\n\n1.  **使用 Microsoft Word**: 最直接的方法。只需双击文件，它就会在 Word 中打开。\n2.  **使用免费办公软件**: LibreOffice 或 OpenOffice 等免费办公套件也可以打开和编辑 `.docm` 文件。\n3.  **使用在线工具**: 也可以使用在线文档转换工具将其转换为 PDF 或 `.docx` 格式，以便在没有安装办公软件的情况下查看内容。\n","x":140,"y":600,"width":938,"height":1053},
 		{"id":"084533153de65c52","type":"text","text":"# 宏破解\n当你打开一个带有VBA宏的Excel（.xlsm）或Word（.docm）文件时，如果作者设置了密码保护，你无法查看或修改宏代码。**“宏破解”在这里指绕过或解除这个密码保护**。","x":-440,"y":1127,"width":460,"height":177},
 		{"id":"857d374f0498d8fd","type":"text","text":"将 Office 文档中的哈希提取出来，保存为 hash.txt","x":-858,"y":1000,"width":418,"height":60},
-		{"id":"9fdf99a1922c85b9","type":"file","file":"Attachments/Pasted image 20260316175859.png","x":-1000,"y":1440,"width":847,"height":493}
+		{"id":"9fdf99a1922c85b9","type":"file","file":"Attachments/Pasted image 20260316175859.png","x":-1000,"y":1440,"width":847,"height":493},
+		{"id":"1d73fdf33c9aba7f","x":-1132,"y":2120,"width":1111,"height":80,"type":"file","file":"Attachments/Pasted image 20260317092611.png"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -16,6 +17,7 @@
 		{"id":"4baded5cc82f6f46","fromNode":"03e3fc2b06ceae05","fromSide":"bottom","toNode":"3a2a48bb6d077fb2","toSide":"top"},
 		{"id":"a2a95b095234dbd7","fromNode":"23ddc116cf63ab23","fromSide":"left","toNode":"084533153de65c52","toSide":"right"},
 		{"id":"3ff803693e2a9e4a","fromNode":"084533153de65c52","fromSide":"left","toNode":"857d374f0498d8fd","toSide":"bottom"},
-		{"id":"b684f3cb13207f86","fromNode":"857d374f0498d8fd","fromSide":"left","toNode":"9fdf99a1922c85b9","toSide":"top"}
+		{"id":"b684f3cb13207f86","fromNode":"857d374f0498d8fd","fromSide":"left","toNode":"9fdf99a1922c85b9","toSide":"top"},
+		{"id":"e8fc6280c46b1429","fromNode":"9fdf99a1922c85b9","fromSide":"bottom","toNode":"1d73fdf33c9aba7f","toSide":"top"}
 	]
 }
