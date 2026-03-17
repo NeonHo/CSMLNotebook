@@ -9,17 +9,22 @@
 		{"id":"857d374f0498d8fd","type":"text","text":"将 Office 文档中的哈希提取出来，保存为 hash.txt","x":-858,"y":1000,"width":418,"height":60},
 		{"id":"9fdf99a1922c85b9","type":"file","file":"Attachments/Pasted image 20260316175859.png","x":-1000,"y":1440,"width":847,"height":493},
 		{"id":"1d73fdf33c9aba7f","x":-1132,"y":2120,"width":1111,"height":80,"type":"file","file":"Attachments/Pasted image 20260317092611.png"},
-		{"id":"2c4b6a46f67af8fc","x":-384,"y":876,"width":404,"height":124,"type":"text","text":"`.docm` 密码破解问题，\n我们可以把这个过程看作是“从锁里取模，\n再照模子复刻钥匙”的过程。"}
+		{"id":"45233898af7a0633","x":409,"y":116,"width":400,"height":219,"type":"file","file":"Attachments/Pasted image 20260317104557.png"},
+		{"id":"2c4b6a46f67af8fc","x":60,"y":1933,"width":404,"height":124,"type":"text","text":"`.docm` 密码破解问题，\n我们可以把这个过程看作是“从锁里取模，\n再照模子复刻钥匙”的过程。"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
-		{"id":"d083afa99c9f16fb","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"03e3fc2b06ceae05","toSide":"top"},
+		{"id":"d083afa99c9f16fb","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"03e3fc2b06ceae05","toSide":"top","label":"rar文件是加密的"},
 		{"id":"c070e1fb62a402f1","fromNode":"8fd23a30f1b208e1","fromSide":"bottom","toNode":"3a2a48bb6d077fb2","toSide":"top"},
 		{"id":"4baded5cc82f6f46","fromNode":"03e3fc2b06ceae05","fromSide":"bottom","toNode":"3a2a48bb6d077fb2","toSide":"top"},
 		{"id":"a2a95b095234dbd7","fromNode":"23ddc116cf63ab23","fromSide":"left","toNode":"084533153de65c52","toSide":"right"},
 		{"id":"3ff803693e2a9e4a","fromNode":"084533153de65c52","fromSide":"left","toNode":"857d374f0498d8fd","toSide":"bottom"},
 		{"id":"b684f3cb13207f86","fromNode":"857d374f0498d8fd","fromSide":"left","toNode":"9fdf99a1922c85b9","toSide":"top"},
 		{"id":"e8fc6280c46b1429","fromNode":"9fdf99a1922c85b9","fromSide":"bottom","toNode":"1d73fdf33c9aba7f","toSide":"top"},
-		{"id":"9e26aff248de3e98","fromNode":"084533153de65c52","fromSide":"top","toNode":"2c4b6a46f67af8fc","toSide":"bottom"}
+		{"id":"c68f04cd9cc18ad5","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"45233898af7a0633","toSide":"top","label":"docm文件也有密码"},
+		{"id":"50bc44447f1c15f8","fromNode":"45233898af7a0633","fromSide":"bottom","toNode":"3a2a48bb6d077fb2","toSide":"top"},
+		{"id":"430806a6e310b559","fromNode":"084533153de65c52","fromSide":"bottom","toNode":"2c4b6a46f67af8fc","toSide":"top"},
+		{"id":"b99a7dd29c9ce990","fromNode":"45233898af7a0633","fromSide":"bottom","toNode":"23ddc116cf63ab23","toSide":"top"},
+		{"id":"84290e830222b8a3","fromNode":"3a2a48bb6d077fb2","fromSide":"bottom","toNode":"084533153de65c52","toSide":"top"}
 	]
 }
