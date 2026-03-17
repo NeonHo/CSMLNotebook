@@ -25,7 +25,8 @@
 		{"id":"6f37103cc65daba3","x":200,"y":4760,"width":1365,"height":1655,"type":"text","text":"你看到这些文件夹（`DataSpaces`、`TransformInfo` 等）是一个非常关键的信号：**说明这个 `.docm` 文件目前仍然处于“加密状态”。**\n\n虽然你已经通过破解得到了“打开文档”的密码，但如果你直接用解压软件（如 7-Zip 或 WinRAR）去打开一个**有密码保护**的 Office 文件，你看到的并不是文档的真实结构，而是 Office 的**加密外壳（OLE 容器）**。\n\n---\n\n### 1. 为什么找不到 `vbaProject.bin`？\n\n`.docm` 文件本质上是一个 ZIP 压缩包，但当它被设置了“打开密码”时，整个 ZIP 包会被封装进一个符合 **中等/强加密标准（Agile Encryption）** 的二进制文件中。\n\n* **你目前看到的：** 是加密文件的元数据（用于告诉 Office 如何解密）。\n* **你需要看到的：** 是解密后的 OOXML 结构。在解密后的结构中，`vbaProject.bin` 位于 `word/` 目录下。\n\n\n\n---\n\n### 2. 解决办法：如何获取解密后的文件？\n\n你有两种方式可以获取能看到 `vbaProject.bin` 的解压包：\n\n#### 方法 A：使用 Word 另存为（最简单）\n1.  用你破解出的密码**正常打开**这个 `.docm` 文件。\n2.  进入 **文件 (File) -> 信息 (Info) -> 保护文档 (Protect Document)**。\n3.  点击 **用密码进行加密 (Encrypt with Password)**。\n4.  在弹出的对话框中，**把密码删掉（留空）**，点击确定。\n5.  **保存**文档。\n6.  现在，这个 `.docm` 变成了一个普通的、无加密的 ZIP 包。你再用解压软件打开它，就能看到 `word/vbaProject.bin` 了。\n\n#### 方法 B：使用命令行工具（更具 CTF 范儿）\n如果你在 Linux 环境下，或者不想打开 Word，可以使用 `msoffcrypto-tool`。\n```bash\n# 安装工具\npip install msoffcrypto-tool\n\n# 解密文件 (假设密码是 123456)\nmsoffcrypto-tool input.docm decrypted.docm -p 123456\n\n# 然后直接解压解密后的文件\nunzip decrypted.docm -d ./extracted_files\n```\n\n---\n\n### 3. 接下来的关键步骤：修改 DBP\n\n当你进入 `word/` 文件夹并找到 `vbaProject.bin` 后，请按以下步骤操作：\n\n1.  **十六进制编辑：** 使用 `hexedit`、`010 Editor` 或 `HxD` 打开 `vbaProject.bin`。\n2.  **查找字符串：** 搜索 `DPB=`（注意是 **DPB**，不是 DBP，这是 Writeup 常见的笔误）。\n3.  **替换：** 将其修改为 `DPX=`。\n4.  **保存并替换：** 将修改后的 `.bin` 文件放回压缩包原位。\n5.  **绕过密码：** 再次用 Word 打开文件，进入 VBA 编辑器（Alt + F11）。此时可能会弹出一个错误提示（提示工程损坏或无效字符），**直接点确定**。\n6.  **重新设置：** 进入 **工具 (Tools) -> VBAProject 属性 -> 保护**。你会发现现在可以重新设置密码，或者直接取消勾选“查看时锁定工程”。\n\n---\n\n### 进阶思考\n这个 `DPB -> DPX` 的原理是故意破坏 VBA 工程的保护标志位，让 Office 在验证密码时因为找不到合法的标志而跳过验证逻辑。\n\n**你现在是否已经成功解密出不带 `DataSpaces` 文件夹的文档结构了？如果解压后看到了 `word/` 目录，我们可以继续下一步对宏代码进行静态分析。**"},
 		{"id":"2eca981adf1e51e1","x":-1240,"y":5534,"width":1081,"height":108,"type":"file","file":"Attachments/Pasted image 20260317153005.png"},
 		{"id":"98966d80942de47d","x":-1006,"y":6080,"width":613,"height":280,"type":"file","file":"Attachments/Pasted image 20260317153057.png"},
-		{"id":"1aea930e7f084d25","x":-1219,"y":6600,"width":1039,"height":560,"type":"file","file":"Attachments/Pasted image 20260317153139.png"}
+		{"id":"1aea930e7f084d25","x":-1219,"y":6600,"width":1039,"height":560,"type":"file","file":"Attachments/Pasted image 20260317153139.png"},
+		{"id":"802c2da2f4cd64a9","x":-1169,"y":7320,"width":939,"height":780,"type":"file","file":"Attachments/Pasted image 20260317153620.png"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -57,6 +58,7 @@
 		{"id":"66c7e510b7aa18a3","fromNode":"a46eca9acd487c08","fromSide":"right","toNode":"6f37103cc65daba3","toSide":"left"},
 		{"id":"0dd48423e7ae8258","fromNode":"6f37103cc65daba3","fromSide":"left","toNode":"2eca981adf1e51e1","toSide":"right"},
 		{"id":"8c5a0d376c7e4af6","fromNode":"2eca981adf1e51e1","fromSide":"bottom","toNode":"98966d80942de47d","toSide":"top","label":"用7z解压后得到"},
-		{"id":"ae88111142b4109e","fromNode":"98966d80942de47d","fromSide":"bottom","toNode":"1aea930e7f084d25","toSide":"top"}
+		{"id":"ae88111142b4109e","fromNode":"98966d80942de47d","fromSide":"bottom","toNode":"1aea930e7f084d25","toSide":"top"},
+		{"id":"1775c114beafdaad","fromNode":"1aea930e7f084d25","fromSide":"bottom","toNode":"802c2da2f4cd64a9","toSide":"top"}
 	]
 }
