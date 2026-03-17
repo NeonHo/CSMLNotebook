@@ -26,7 +26,10 @@
 		{"id":"2eca981adf1e51e1","x":-1240,"y":5534,"width":1081,"height":108,"type":"file","file":"Attachments/Pasted image 20260317153005.png"},
 		{"id":"98966d80942de47d","x":-1006,"y":6080,"width":613,"height":280,"type":"file","file":"Attachments/Pasted image 20260317153057.png"},
 		{"id":"1aea930e7f084d25","x":-1219,"y":6600,"width":1039,"height":560,"type":"file","file":"Attachments/Pasted image 20260317153139.png"},
-		{"id":"802c2da2f4cd64a9","x":-1169,"y":7320,"width":939,"height":780,"type":"file","file":"Attachments/Pasted image 20260317153620.png"}
+		{"id":"802c2da2f4cd64a9","x":-1169,"y":7320,"width":939,"height":780,"type":"file","file":"Attachments/Pasted image 20260317153620.png"},
+		{"id":"6ce9ccf1ce06f59e","x":-1104,"y":8240,"width":809,"height":50,"type":"text","text":"修改： 使用你最顺手的十六进制编辑器（如 Hex Fiend 或 010 Editor）执行 DPB -> DPX 的操作。"},
+		{"id":"88d216b77574ad06","x":-79,"y":8260,"width":1699,"height":1100,"type":"text","text":"从底层逻辑上来说，这像是一种**“降级攻击”或“容错触发”**。\n\n---\n\n### 1. 核心原理：让 Office 认为“锁坏了”\n\n在 `vbaProject.bin` 这个二进制文件中，`DPB` 是 **Document Project Binary**（或者 Project Password）的标识符。它后面跟着的是一串加密后的 Hash 值。\n\n* **正常情况：** 当 Word 读取到 `DPB` 时，它知道后面是一段密码。它会弹窗让你输密码，并把你输入的密码与这串 Hash 进行校验。\n* **修改为 `DPX` 后：** `DPX` 对 Office 来说是一个**无法识别**的标识符。\n* **Office 的逻辑漏洞：** 当 Office 解析 VBA 工程时，它发现原本该出现 `DPB` 的地方变成了 `DPX`。由于 Office 的设计初衷是“尽量保证文档可用”，它不会直接崩溃，而是会认为：**“这个 VBA 工程的保护信息损坏了。”**\n\n\n\n---\n\n### 2. 为什么这样就能设置新密码？\n\n这其实是利用了 Office 处理“损坏工程”的**降级逻辑**：\n\n1.  **加载失败：** 因为 `DPB` 变成了 `DPX`，Office 找不到有效的密码 Hash。\n2.  **触发报错：** 当你打开 VBA 编辑器（Alt+F11）时，它通常会弹出一个错误提示（如“工程损坏”或“无效字符”）。\n3.  **重置状态：** 报错之后，Office 为了让你能“修复”这个工程，往往会**临时忽略**原有的保护机制，允许你进入属性界面。\n4.  **覆盖写入：** 此时你进入“工程属性”，重新设置一个新的密码并保存。这时，Office 会在 `vbaProject.bin` 中重新生成一个**合法且正确的 `DPB` 字段**，把之前的 `DPX` 覆盖掉。\n\n**所以，你不是在欺骗它“没设密码”，而是通过“弄坏锁”逼迫它让你换一把“新锁”。**\n\n---\n\n### 3. 操作中的“坑”\n\n既然你在学习 CTF，这一步有几个细节需要注意：\n\n* **长度对齐：** 修改时一定要确保是 **替换（Overwrite）** 而不是 **插入（Insert）**。要把 `B` 改成 `X`，不能多出一个字符，否则会导致整个二进制文件偏移，工程就彻底打不开了。\n* **字段对：** 通常除了 `DPB`，Writeup 还会建议你修改 `CMG` 和 `GC`。它们分别代表不同的保护维度，全部改掉（比如把首字母都改成 `X`）能确保绕过得更彻底。\n\n| 原始字段 | 修改建议 | 含义 |\n| :--- | :--- | :--- |\n| **DPB** | **DPX** | 项目密码 (Project Password) |\n| **CMG** | **CMX** | 项目权限/属性 (Project Cookie) |\n| **GC** | **GX** | 项目 ID 缓存 (Project ID) |\n\n---\n\n### 4. 下一步：获取 Flag\n\n一旦你成功进入了 VBA 代码界面，真正的 CTF 挑战才开始。你通常会看到一段混乱的代码（混淆过的宏）。"},
+		{"id":"027cfeebf41fd91a","x":-1147,"y":8540,"width":896,"height":100,"type":"file","file":"Attachments/Pasted image 20260317154548.png"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -59,6 +62,9 @@
 		{"id":"0dd48423e7ae8258","fromNode":"6f37103cc65daba3","fromSide":"left","toNode":"2eca981adf1e51e1","toSide":"right"},
 		{"id":"8c5a0d376c7e4af6","fromNode":"2eca981adf1e51e1","fromSide":"bottom","toNode":"98966d80942de47d","toSide":"top","label":"用7z解压后得到"},
 		{"id":"ae88111142b4109e","fromNode":"98966d80942de47d","fromSide":"bottom","toNode":"1aea930e7f084d25","toSide":"top"},
-		{"id":"1775c114beafdaad","fromNode":"1aea930e7f084d25","fromSide":"bottom","toNode":"802c2da2f4cd64a9","toSide":"top"}
+		{"id":"1775c114beafdaad","fromNode":"1aea930e7f084d25","fromSide":"bottom","toNode":"802c2da2f4cd64a9","toSide":"top"},
+		{"id":"731d58d918ba6504","fromNode":"802c2da2f4cd64a9","fromSide":"bottom","toNode":"6ce9ccf1ce06f59e","toSide":"top"},
+		{"id":"74399095358acf74","fromNode":"6ce9ccf1ce06f59e","fromSide":"right","toNode":"88d216b77574ad06","toSide":"left"},
+		{"id":"b4513826009e101b","fromNode":"6ce9ccf1ce06f59e","fromSide":"bottom","toNode":"027cfeebf41fd91a","toSide":"top"}
 	]
 }
