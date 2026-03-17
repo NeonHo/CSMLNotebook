@@ -14,7 +14,8 @@
 		{"id":"52d9d6c65d2d501d","x":582,"y":2500,"width":660,"height":123,"type":"text","text":"Hash 的本质： 提取出来的这一串字符串（Hash）就是密码的“数字指纹”。\n破解工具（如 John the Ripper 或 Hashcat）只需要不断计算各种可能的密码，\n看看哪个密码生成的指纹能跟这个 Hash 对上即可。\n这样做无需反复读取文件，效率提升万倍。"},
 		{"id":"9fdf99a1922c85b9","type":"file","file":"Attachments/Pasted image 20260316175859.png","x":-1620,"y":1480,"width":847,"height":493},
 		{"id":"857d374f0498d8fd","type":"text","text":"将 Office 文档中的哈希提取出来，保存为 hash.txt","x":-149,"y":2440,"width":418,"height":60},
-		{"id":"13cad0f667b8fd94","x":592,"y":2760,"width":641,"height":158,"type":"text","text":"# 密码破解工具John the Ripper 增强版\nJohn the Ripper Jumbo\nhttps://github.com/openwall/john-packages/releases"}
+		{"id":"13cad0f667b8fd94","x":592,"y":2760,"width":641,"height":158,"type":"text","text":"# 密码破解工具John the Ripper 增强版\nJohn the Ripper Jumbo\nhttps://github.com/openwall/john-packages/releases"},
+		{"id":"81954242f508715b","x":558,"y":3060,"width":709,"height":184,"type":"file","file":"Attachments/Pasted image 20260317112934.png"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -33,6 +34,7 @@
 		{"id":"3a50e1cabf3bcfab","fromNode":"902b0f54580aebd3","fromSide":"bottom","toNode":"52d9d6c65d2d501d","toSide":"top"},
 		{"id":"2a2c164493522b75","fromNode":"902b0f54580aebd3","fromSide":"left","toNode":"857d374f0498d8fd","toSide":"right"},
 		{"id":"501986bbd1b20a43","fromNode":"857d374f0498d8fd","fromSide":"top","toNode":"1d73fdf33c9aba7f","toSide":"right"},
-		{"id":"f1f01f2755adc2fe","fromNode":"52d9d6c65d2d501d","fromSide":"bottom","toNode":"13cad0f667b8fd94","toSide":"top"}
+		{"id":"f1f01f2755adc2fe","fromNode":"52d9d6c65d2d501d","fromSide":"bottom","toNode":"13cad0f667b8fd94","toSide":"top"},
+		{"id":"f57f08defd3c109b","fromNode":"13cad0f667b8fd94","fromSide":"bottom","toNode":"81954242f508715b","toSide":"top"}
 	]
 }
