@@ -54,7 +54,8 @@
 		{"id":"2af61562d1cbfa1b","x":6150,"y":9620,"width":400,"height":216,"type":"file","file":"Attachments/Pasted image 20260318103735.png"},
 		{"id":"414e8c9d8b5e794c","x":6213,"y":9980,"width":275,"height":400,"type":"file","file":"Attachments/Pasted image 20260318103822.png"},
 		{"id":"1ec42adfaf5007dd","x":6151,"y":10660,"width":400,"height":286,"type":"file","file":"Attachments/Pasted image 20260318104014.png"},
-		{"id":"c07b4b300cf16f65","x":5617,"y":11200,"width":1468,"height":780,"type":"file","file":"Attachments/Pasted image 20260318104311.png"}
+		{"id":"c07b4b300cf16f65","x":5617,"y":11200,"width":1468,"height":780,"type":"file","file":"Attachments/Pasted image 20260318104311.png"},
+		{"id":"99c778fcc3550950","x":6061,"y":12140,"width":580,"height":139,"type":"text","text":"这个过程意味着：\n`strusrinput`先与`t`进行编码得到`strusout`。\n现在我们在第一个判断条件中又执行：\n`strusout`再与`t`进行解码得到应该输入的`strusrinput`到底是什么\n"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -115,6 +116,7 @@
 		{"id":"4a38cead25b36275","fromNode":"a3d36d81e93554d7","fromSide":"bottom","toNode":"2af61562d1cbfa1b","toSide":"top","label":"进去正文不是乱码，是乱码就说明还不对，用VB编译器打开"},
 		{"id":"40abae6a022d319e","fromNode":"2af61562d1cbfa1b","fromSide":"bottom","toNode":"414e8c9d8b5e794c","toSide":"top"},
 		{"id":"0944e15b509bad0c","fromNode":"414e8c9d8b5e794c","fromSide":"bottom","toNode":"1ec42adfaf5007dd","toSide":"top","label":"找到Dialog，右键点击确定按钮，查看代码就能看到了"},
-		{"id":"1f55372c45c5169b","fromNode":"1ec42adfaf5007dd","fromSide":"bottom","toNode":"c07b4b300cf16f65","toSide":"top","label":"让第一个if设为1，必然进入到执行语句，再将执行语句改成下面断点中那样，就能让输出出现在界面上。"}
+		{"id":"1f55372c45c5169b","fromNode":"1ec42adfaf5007dd","fromSide":"bottom","toNode":"c07b4b300cf16f65","toSide":"top","label":"让第一个if设为1，必然进入到执行语句，再将执行语句改成下面断点中那样，就能让输出出现在界面上。"},
+		{"id":"52a31a2527dafb81","fromNode":"c07b4b300cf16f65","fromSide":"bottom","toNode":"99c778fcc3550950","toSide":"top"}
 	]
 }
