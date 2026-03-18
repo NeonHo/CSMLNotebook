@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "256344353992e165",
+    "id": "d3bd1e72558bb221",
     "type": "split",
     "children": [
       {
-        "id": "cbb0fbe5d095266e",
+        "id": "143a1b92842141b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f5678f6a48db9abf",
+            "id": "c3549ef32586bc93",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "viewState": {
-                  "x": 3204.351590051463,
-                  "y": 9462.773606399156,
-                  "zoom": -0.6851409698995043
+                  "x": 1490.547028706541,
+                  "y": 8353.782545572285,
+                  "zoom": -1.3525179193894532
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3f2246b9cdf50b1c",
+    "id": "7cdad5ca5b029493",
     "type": "split",
     "children": [
       {
-        "id": "3083374e79c2785c",
+        "id": "7ad14d9e10bc4dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "d66304850955c4af",
+            "id": "231771eda369fdf1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "439d1401596d07e6",
+            "id": "8bc7bc3e76c56f61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,36 +68,36 @@
             }
           },
           {
-            "id": "ef31d3b21d508004",
+            "id": "d24dedaca02207bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 300
   },
   "right": {
-    "id": "d46c5e7d922a10f8",
+    "id": "7a3ff472052a8653",
     "type": "split",
     "children": [
       {
-        "id": "34132cb7150b26d6",
+        "id": "1e4f79a41f19b989",
         "type": "tabs",
         "children": [
           {
-            "id": "03397531007fe768",
+            "id": "b33945264aefc4df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Web入门/3-命令执行.md",
+                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,53 +107,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3-命令执行 的反向链接列表"
+              "title": "Dest0g3 520迎新赛 EasyWord 45 的反向链接列表"
             }
           },
           {
-            "id": "17b95ea6834a6540",
+            "id": "5b1a0c004d61cf14",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Web入门/3-命令执行.md",
+                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3-命令执行 的出链列表"
+              "title": "Dest0g3 520迎新赛 EasyWord 45 的出链列表"
             }
           },
           {
-            "id": "8cd845c56e897718",
+            "id": "8bea794d55099830",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "2edc79854db4ed9c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Projects/Media/数据史话.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 数据史话"
-            }
-          },
-          {
-            "id": "d1a2c0a48ed19f36",
+            "id": "194eecc45e1d469b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,31 +154,26 @@
             }
           },
           {
-            "id": "a148b6e7d89eaf70",
+            "id": "7997e97635e5824b",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9cdb1ba7b9f66f7c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "type": "outline",
+              "state": {
+                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Dest0g3 520迎新赛 EasyWord 45 的大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,63 +187,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5678f6a48db9abf",
-  "lastOpenFiles": [
-    "Attachments/Pasted image 20260317170244.png",
-    "Attachments/Pasted image 20260317170124.png",
-    "Attachments/Pasted image 20260317155030.png",
-    "Attachments/Pasted image 20260317154916.png",
-    "Attachments/Pasted image 20260317154548.png",
-    "Attachments/Pasted image 20260317153620.png",
-    "Attachments/Pasted image 20260317153139.png",
-    "Attachments/Pasted image 20260317153057.png",
-    "Attachments/Pasted image 20260317153005.png",
-    "Attachments/Pasted image 20260317114141.png",
-    "Attachments/Pasted image 20260317113628.png",
-    "Projects/My Team/AI团队搭建.md",
-    "Projects/My Team/AI团队工期.md",
-    "Hello-CTF/MISC/杂项签到.canvas",
-    "Hello-CTF/MISC/zip伪加密.canvas",
-    "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
-    "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
-    "Projects/My Team/AI团队长期Stanby.md",
-    "conflict-files-obsidian-git.md",
-    "AI投资私教.md",
-    "Projects/My Team",
-    "Hello-CTF/MISC/can_has_stdio.canvas",
-    "Projects/Zheng/Untitled",
-    "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/未命名.md",
-    "Hello-CTF/MISC/low.canvas",
-    "Projects/BoBo/智元机器人.md",
-    "Projects/BoBo",
-    "Hello-CTF/Crypto/base64.canvas",
-    "Hello-CTF/MISC/simple_transfer.canvas",
-    "Hello-CTF/Crypto/未命名.md",
-    "Hello-CTF/Crypto",
-    "Hello-CTF/MISC/IgniteMe.canvas",
-    "Hello-CTF/WEB/未命名.md",
-    "images/DJI.md",
-    "Hello-CTF/WEB",
-    "Hello-CTF/MISC",
-    "Hello-CTF/以一个侦探的视角去玩CTF.md",
-    "Excalidraw/Drawing 2026-03-05 16.30.26.excalidraw.md",
-    "Economics/市场是实现社会福利的.md",
-    "Hello-CTF",
-    "Economics/外部成本.md",
-    "Economics/供需模型图.md",
-    "Untitled.base",
-    "Economics/Market.md",
-    "Economics/金融.md",
-    "Economics/税收.md",
-    "Trade/prompts.md",
-    "Trade/NIKE.md",
-    "Trade/AO史密斯.md",
-    "Economics/边际定价.md",
-    "README.md",
-    "Economics",
-    "Projects/Zheng/江苏营销部的课题相关内容.md",
-    "images",
-    "Trade/投资笔记2025-09-25.md"
-  ]
+  "active": "c3549ef32586bc93",
+  "lastOpenFiles": []
 }
