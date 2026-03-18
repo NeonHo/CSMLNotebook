@@ -47,8 +47,13 @@
 		{"id":"d62e3cd88c61f413","x":2213,"y":9560,"width":494,"height":62,"color":"1","type":"text","text":"但是这个VB编译器中Decode函数报错，Len(s)永远为0"},
 		{"id":"fb393a34eb726546","x":3836,"y":7840,"width":869,"height":440,"type":"file","file":"Attachments/Pasted image 20260318100139.png"},
 		{"id":"80c17cbb33f121c4","x":4820,"y":7974,"width":400,"height":86,"type":"file","file":"Attachments/Pasted image 20260318100606.png"},
-		{"id":"bb3f5c14c532e0d3","x":5500,"y":7895,"width":678,"height":244,"type":"file","file":"Attachments/Pasted image 20260318100659.png"},
-		{"id":"9026100973f1626c","x":5478,"y":8400,"width":700,"height":359,"type":"file","file":"Attachments/Pasted image 20260318100738.png"}
+		{"id":"5418ee0f6bf67cfa","x":5140,"y":8200,"width":661,"height":240,"type":"text","text":"直接用十六进制编辑器修改（不改后缀）\n直接打开： 用 010 Editor 或 HxD 直接打开那个wps 文件。\n\n搜索： 在十六进制视图中直接搜索字符串 DPB。\n\n修改： 将找到的 DPB= 修改为 DPX=。\n\n保存： 直接保存文件。\n\n运行： 用 WPS 打开，无视弹出的错误提示，进入宏编辑器。"},
+		{"id":"3e61d525063f245e","x":5940,"y":7658,"width":720,"height":719,"type":"file","file":"Attachments/Pasted image 20260318103542.png"},
+		{"id":"ec7dd428d4663396","x":5980,"y":8620,"width":740,"height":393,"type":"file","file":"Attachments/Pasted image 20260318103622.png"},
+		{"id":"a3d36d81e93554d7","x":6150,"y":9220,"width":400,"height":140,"type":"file","file":"Attachments/Pasted image 20260318103658.png"},
+		{"id":"2af61562d1cbfa1b","x":6150,"y":9620,"width":400,"height":216,"type":"file","file":"Attachments/Pasted image 20260318103735.png"},
+		{"id":"414e8c9d8b5e794c","x":6213,"y":9980,"width":275,"height":400,"type":"file","file":"Attachments/Pasted image 20260318103822.png"},
+		{"id":"1ec42adfaf5007dd","x":6151,"y":10660,"width":400,"height":286,"type":"file","file":"Attachments/Pasted image 20260318104014.png"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -102,7 +107,12 @@
 		{"id":"493d1cdf78ae9130","fromNode":"9568cccafb747599","fromSide":"bottom","toNode":"d62e3cd88c61f413","toSide":"top"},
 		{"id":"fec0bf4f1f12b32c","fromNode":"2183127924835498","fromSide":"right","toNode":"fb393a34eb726546","toSide":"top","label":"这个就要密码了"},
 		{"id":"ec5afbda899db0d7","fromNode":"2183127924835498","fromSide":"right","toNode":"80c17cbb33f121c4","toSide":"top","label":"另存为wps文件"},
-		{"id":"90df35e7fba22d5a","fromNode":"80c17cbb33f121c4","fromSide":"right","toNode":"bb3f5c14c532e0d3","toSide":"left","label":"用7zip提取"},
-		{"id":"1757c9435d4b9ef0","fromNode":"bb3f5c14c532e0d3","fromSide":"bottom","toNode":"9026100973f1626c","toSide":"top","label":"010Editor打开里面的PROJECT文件，修改DPB为DPX"}
+		{"id":"6d7a8dc927e35f8a","fromNode":"80c17cbb33f121c4","fromSide":"bottom","toNode":"5418ee0f6bf67cfa","toSide":"left"},
+		{"id":"6f2e3a6f25b4c24c","fromNode":"5418ee0f6bf67cfa","fromSide":"right","toNode":"3e61d525063f245e","toSide":"left"},
+		{"id":"fd68bf6fd329eea8","fromNode":"3e61d525063f245e","fromSide":"bottom","toNode":"ec7dd428d4663396","toSide":"top","label":"保存后直接用WPS打开"},
+		{"id":"e4cdf86eabd0a272","fromNode":"ec7dd428d4663396","fromSide":"bottom","toNode":"a3d36d81e93554d7","toSide":"top","label":"启用宏后会有提示框"},
+		{"id":"4a38cead25b36275","fromNode":"a3d36d81e93554d7","fromSide":"bottom","toNode":"2af61562d1cbfa1b","toSide":"top","label":"进去正文不是乱码，是乱码就说明还不对，用VB编译器打开"},
+		{"id":"40abae6a022d319e","fromNode":"2af61562d1cbfa1b","fromSide":"bottom","toNode":"414e8c9d8b5e794c","toSide":"top"},
+		{"id":"0944e15b509bad0c","fromNode":"414e8c9d8b5e794c","fromSide":"bottom","toNode":"1ec42adfaf5007dd","toSide":"top","label":"找到Dialog，右键点击确定按钮，查看代码就能看到了"}
 	]
 }
