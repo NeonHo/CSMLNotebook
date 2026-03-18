@@ -60,7 +60,10 @@
 		{"id":"89189533706d63cc","x":6885,"y":12392,"width":400,"height":297,"type":"file","file":"Attachments/Pasted image 20260318110520.png"},
 		{"id":"c8892ee6af276562","x":6885,"y":12780,"width":400,"height":297,"type":"file","file":"Attachments/Pasted image 20260318110615.png"},
 		{"id":"cc5b4335c3bab5d9","x":6885,"y":13200,"width":400,"height":297,"type":"file","file":"Attachments/Pasted image 20260318110746.png"},
-		{"id":"bd0110560a73e16e","x":5979,"y":12740,"width":744,"height":511,"type":"file","file":"Attachments/Pasted image 20260318110819.png"}
+		{"id":"bd0110560a73e16e","x":5979,"y":12740,"width":744,"height":511,"type":"file","file":"Attachments/Pasted image 20260318110819.png"},
+		{"id":"80fa6aacb8911343","x":5300,"y":12847,"width":400,"height":297,"type":"file","file":"Attachments/Pasted image 20260318111731.png"},
+		{"id":"87fd63b23ba7de2b","x":5275,"y":13420,"width":450,"height":113,"type":"text","text":"尽管我们得到了解压密码，但是真实的密码居然是：\n```\n2zhlmcl,1hblsqt.\n```"},
+		{"id":"e8d5bf9d6cd250ee","x":5240,"y":13700,"width":520,"height":100,"color":"4","type":"text","text":"Dest0g3{VBScr1pt_And_Hashc4t_1s_g00d}\n终于可以结案了，问候出题人全家！"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
@@ -127,6 +130,9 @@
 		{"id":"452983d901448740","fromNode":"99c778fcc3550950","fromSide":"right","toNode":"89189533706d63cc","toSide":"left"},
 		{"id":"a83f441756279dcc","fromNode":"99c778fcc3550950","fromSide":"right","toNode":"c8892ee6af276562","toSide":"left"},
 		{"id":"31bd836da44f1b3c","fromNode":"99c778fcc3550950","fromSide":"right","toNode":"cc5b4335c3bab5d9","toSide":"left"},
-		{"id":"22da88edab9ba940","fromNode":"99c778fcc3550950","fromSide":"bottom","toNode":"bd0110560a73e16e","toSide":"top","label":"最后的代码状态"}
+		{"id":"22da88edab9ba940","fromNode":"99c778fcc3550950","fromSide":"bottom","toNode":"bd0110560a73e16e","toSide":"top","label":"最后的代码状态"},
+		{"id":"bf50c715e07721c7","fromNode":"99c778fcc3550950","fromSide":"left","toNode":"80fa6aacb8911343","toSide":"top","label":"恢复到原来的代码状态，然后一个一个试这些输入，最后发现第4个输入能得到解压密码"},
+		{"id":"aa057c26bbe7f594","fromNode":"80fa6aacb8911343","fromSide":"bottom","toNode":"87fd63b23ba7de2b","toSide":"top"},
+		{"id":"35c8c7b125c7ec90","fromNode":"87fd63b23ba7de2b","fromSide":"bottom","toNode":"e8d5bf9d6cd250ee","toSide":"top"}
 	]
 }
