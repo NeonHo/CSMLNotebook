@@ -1,27 +1,20 @@
 {
   "main": {
-    "id": "d3bd1e72558bb221",
+    "id": "8121beaf11023ed4",
     "type": "split",
     "children": [
       {
-        "id": "143a1b92842141b6",
+        "id": "47db6c6853e65af5",
         "type": "tabs",
         "children": [
           {
-            "id": "c3549ef32586bc93",
+            "id": "0040ed14a039766d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
-                "viewState": {
-                  "x": 6434.024267276577,
-                  "y": 9511.139923066186,
-                  "zoom": -0.6858512527227867
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dest0g3 520迎新赛 EasyWord 45"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -30,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7cdad5ca5b029493",
+    "id": "0109a4c4cc102936",
     "type": "split",
     "children": [
       {
-        "id": "7ad14d9e10bc4dfb",
+        "id": "9034532e013fcdb3",
         "type": "tabs",
         "children": [
           {
-            "id": "231771eda369fdf1",
+            "id": "c0b5c49ffc3e4047",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +44,7 @@
             }
           },
           {
-            "id": "8bc7bc3e76c56f61",
+            "id": "a8c7d229d3b07c19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +61,7 @@
             }
           },
           {
-            "id": "d24dedaca02207bb",
+            "id": "a22291d6a3499e6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "7a3ff472052a8653",
+    "id": "ccae19b421ec20dd",
     "type": "split",
     "children": [
       {
-        "id": "1e4f79a41f19b989",
+        "id": "92f0cc05d802b874",
         "type": "tabs",
         "children": [
           {
-            "id": "b33945264aefc4df",
+            "id": "977a0b330e1d4abd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dest0g3 520迎新赛 EasyWord 45 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "5b1a0c004d61cf14",
+            "id": "33450a40fb882510",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Dest0g3 520迎新赛 EasyWord 45 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "8bea794d55099830",
+            "id": "7f95247a4fa19310",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +131,7 @@
             }
           },
           {
-            "id": "194eecc45e1d469b",
+            "id": "9c909d612392b961",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,18 +145,17 @@
             }
           },
           {
-            "id": "7997e97635e5824b",
+            "id": "55b046a5be1604d5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dest0g3 520迎新赛 EasyWord 45 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -187,18 +177,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3549ef32586bc93",
-  "lastOpenFiles": [
-    "Attachments/Pasted image 20260318112021.png",
-    "Attachments/Pasted image 20260318111731.png",
-    "Attachments/Pasted image 20260318110819.png",
-    "Attachments/Pasted image 20260318110746.png",
-    "Attachments/Pasted image 20260318110615.png",
-    "Attachments/Pasted image 20260318110520.png",
-    "Attachments/Pasted image 20260318110515.png",
-    "Attachments/Pasted image 20260318110413.png",
-    "Attachments/Pasted image 20260318104311.png",
-    "Attachments/Pasted image 20260318104014.png",
-    "Attachments/Pasted image 20260318103822.png"
-  ]
+  "active": "0040ed14a039766d",
+  "lastOpenFiles": []
 }
