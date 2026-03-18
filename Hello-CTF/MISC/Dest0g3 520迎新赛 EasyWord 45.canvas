@@ -64,7 +64,7 @@
 		{"id":"80fa6aacb8911343","x":5300,"y":12847,"width":400,"height":297,"type":"file","file":"Attachments/Pasted image 20260318111731.png"},
 		{"id":"87fd63b23ba7de2b","x":5275,"y":13420,"width":450,"height":113,"type":"text","text":"尽管我们得到了解压密码，但是真实的密码居然是：\n```\n2zhlmcl,1hblsqt.\n```"},
 		{"id":"e8d5bf9d6cd250ee","x":5240,"y":13700,"width":520,"height":100,"color":"4","type":"text","text":"Dest0g3{VBScr1pt_And_Hashc4t_1s_g00d}\n终于可以结案了，问候出题人全家！"},
-		{"id":"9f6856f66872bead","x":2934,"y":9785,"width":626,"height":75,"type":"text","text":"这是因为这个s字符串的编码有问题，VB版本不同，能否解码的情况也不同。"}
+		{"id":"9f6856f66872bead","x":2934,"y":9785,"width":706,"height":475,"type":"text","text":"这是因为这个s字符串的编码有问题，VB版本不同，能否解码的情况也不同。\n1. 核心差异：BSTR（长度前缀）与 C-String（终止符）\nMicrosoft Office 和 WPS 的 VBA 引擎在处理字符串时使用的是 BSTR 结构。这是 COM 组件中定义的字符串格式。\n\nBSTR 的逻辑： 在字符串数据的头部存储一个 4 字节的整数来表示长度，而不是靠末尾的 \\0。这意味着字符串中间可以包含任何二进制数据，甚至是 00 00。\n\nLibreOffice 的逻辑： 虽然它努力兼容 VBA，但其底层（StarBasic）在解析二进制流并将其转换成内部字符串对象时，可能使用了类似于 C++ std::string 或传统的 C-style 字符串加载器。\n\n陷阱所在：\n如果 s 字符串中包含了一些特殊的 Unicode 编码，其字节序列中恰好出现了 00 00。\n\nWPS/MS Office： 根据头部的长度信息，老老实实地读完 256 个字符，哪怕中间有“零”。\n\nLibreOffice： 加载器读取到一半，看到一个字节序列被误判为“字符串结束”，于是它认为 s 到此为止，甚至在某些严重的解析错误下，直接将其初始化为 Null 或空字符串。"}
 	],
 	"edges":[
 		{"id":"9746fd10874428b4","fromNode":"cb4f33fa10ca5831","fromSide":"bottom","toNode":"8fd23a30f1b208e1","toSide":"top"},
