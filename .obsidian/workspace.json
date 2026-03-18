@@ -15,9 +15,9 @@
               "state": {
                 "file": "Hello-CTF/MISC/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
                 "viewState": {
-                  "x": -1368.7086456514946,
-                  "y": 5375.761839474868,
-                  "zoom": -0.07888297091746599
+                  "x": -1613.904163183021,
+                  "y": 6156.993991059545,
+                  "zoom": 0.2544503624158673
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,7 @@
   },
   "active": "0040ed14a039766d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260318171132.png",
     "Attachments/Pasted image 20260318164736.png",
     "Attachments/Pasted image 20260318162655.png",
     "Attachments/Pasted image 20260318162630.png",
@@ -208,7 +209,6 @@
     "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
     "Hello-CTF/MISC/can_has_stdio.canvas",
     "Hello-CTF/MISC/杂项签到.canvas",
-    "Attachments/Pasted image 20260318151706.png",
-    "Attachments/Pasted image 20260318151449.png"
+    "Attachments/Pasted image 20260318151706.png"
   ]
 }
