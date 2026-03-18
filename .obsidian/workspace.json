@@ -15,9 +15,9 @@
               "state": {
                 "file": "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
                 "viewState": {
-                  "x": 1219.8681749717534,
-                  "y": 7855.83559766395,
-                  "zoom": -1.3525179193894532
+                  "x": 4595.913814375627,
+                  "y": 7998.5734534803005,
+                  "zoom": -0.35251791938945337
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -188,5 +188,8 @@
     }
   },
   "active": "c3549ef32586bc93",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20260318100139.png",
+    "Attachments/Pasted image 20260318095950.png"
+  ]
 }
