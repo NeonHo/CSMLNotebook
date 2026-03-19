@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/神秘的文件.canvas",
                 "viewState": {
-                  "x": 886.6724436741769,
-                  "y": 567.1386481802426,
+                  "x": 1755.0814558058928,
+                  "y": 2551.6759098786833,
                   "zoom": -0.4768286688718323
                 }
               },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "977a0b330e1d4abd",
+  "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319095612.png",
+    "Attachments/Pasted image 20260319095503.png",
+    "Attachments/Pasted image 20260319095420.png",
+    "Attachments/Pasted image 20260319095252.png",
+    "Attachments/Pasted image 20260319095151.png",
     "Attachments/Pasted image 20260319094829.png",
     "conflict-files-obsidian-git.md",
     "Hello-CTF/MISC/神秘的文件.canvas",
@@ -198,11 +204,6 @@
     "Attachments/Pasted image 20260318173420.png",
     "Attachments/Pasted image 20260318173355.png",
     "Attachments/Pasted image 20260318173206.png",
-    "Attachments/Pasted image 20260318172855.png",
-    "Attachments/Pasted image 20260318172816.png",
-    "Attachments/Pasted image 20260318172335.png",
-    "Attachments/Pasted image 20260318171132.png",
-    "Attachments/Pasted image 20260318164736.png",
     "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
     "Hello-CTF/MISC/zip伪加密.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
