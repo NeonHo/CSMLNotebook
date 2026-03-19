@@ -1,14 +1,16 @@
 {
 	"nodes":[
-		{"id":"591135d28863c25d","type":"file","file":"Attachments/Pasted image 20260319101638.png","x":-500,"y":-260,"width":580,"height":362},
+		{"id":"591135d28863c25d","type":"file","file":"Attachments/Pasted image 20260319101638.png","x":-500,"y":-260,"width":579,"height":362},
 		{"id":"f2f0836acf4a4cd4","type":"file","file":"Attachments/Pasted image 20260319101940.png","x":-410,"y":380,"width":400,"height":257},
 		{"id":"768a4515f3ccac83","type":"file","file":"Attachments/Pasted image 20260319102242.png","x":340,"y":469,"width":776,"height":80},
 		{"id":"97a44fdd4b62d8b0","type":"text","text":"江湖上有一种方式：\n我们知道压缩包里是什么格式的文件，\n只需要用同样的方式压缩一个同样格式的文件，那么就可以基于文件头破译压缩密码","x":273,"y":810,"width":507,"height":130},
 		{"id":"66e7b8de6bf6288c","type":"text","text":"这就是 CTF 中非常经典且高级的**“已知文件头明文攻击”**（Known Plaintext Attack on File Headers）。\n\n你之前的题目是手里已经有了一个完整的明文文件 `key`，但在这道题里，你手里虽然没有 `flag.png`，但你拥有一个作为计算机本科生最强大的武器：**协议标准知识**。\n\n---\n\n### 1. 核心原理：PNG 的“出生证明”\n\n所有的 PNG 图片，无论内容是什么，其二进制开头的字节序列都是**固定死**的。这就是所谓的 **File Signature（文件签名/魔数）**。\n\n一个标准的 PNG 文件开头必然包含以下信息：\n1. **PNG 署名：** `89 50 4E 47 0D 0A 1A 0A` (8 字节)\n2. **IHDR 数据块长度：** `00 00 00 0D` (4 字节，固定为 13)\n3. **IHDR 标识：** `49 48 44 52` (4 字节)\n\n**加起来一共 16 个字节。** \n\n还记得 `bkcrack` 的破解条件吗？**只要有 12 个及以上的已知明文字节，就能破译 ZipCrypto 的密钥。** 这 16 个字节已经绰绰有余了！\n\n---\n\n### 2. 为什么 Writeup 要用 WinHex 创造图片？\n\nWriteup 的作者并不是要画出一张图片，他只是在**“伪造”一个明文证据**。\n\n1. **精确控制：** 在 WinHex（或 010 Editor）中手动输入这 16 个字节，可以确保生成的二进制文件 `plain.png` 没有任何多余的空格或换行，它是纯净的 16 字节数据。\n2. **作为攻击源：** 这个只有 16 字节的 `plain.png` 就是传给 `bkcrack` 的 `-p`（明文）参数。\n\n---\n\n### 3. 具体的破解逻辑\n\n虽然 `flag.zip` 里的 `flag.png` 可能有几百 KB，但 `bkcrack` 只需要对齐开头的那一小块：\n\n```bash\n# 假设伪造的 16 字节文件叫 head.bin\nbkcrack.exe -C flag.zip -c flag.png -p head.bin\n```\n\n**发生了什么？**\n* `bkcrack` 把 `head.bin` 的前 16 字节和 `flag.zip` 中 `flag.png` 数据流的前 16 字节进行异或运算。\n* 因为 PNG 头是标准的，所以这 16 字节的明文是**绝对正确**的。\n* 只要这 16 字节对上了，`bkcrack` 就能算出那三个 32 位的内部 Keys。\n\n---\n\n### 4. 这种套路还能用在哪些地方？\n\n这就是 CTF 选手的“经验值”所在。当你看到加密压缩包里有以下后缀的文件，即使没有明文，你也可以尝试“盲拆”：\n\n* **XML / HTML：** 开头通常是 `<?xml version=\"1.0\"`。\n* **PDF：** 开头固定是 `%PDF-1.`。\n* **GIF：** 开头固定是 `GIF89a`。\n* **ZIP 嵌套 ZIP：** 如果加密包里还有一个加密包，内部包的开头一定是 `50 4B 03 04`。\n\n---\n\n### 5. 为什么在 WinHex 里操作？\n\n作为 CS 本科生，你一定知道文本编辑器（如记事本）会尝试根据编码（UTF-8/GBK）去解释字节。如果你在记事本里输入这些魔数，它可能会插入 BOM 头，或者把 `0D 0A` 强行转换成系统的换行符，导致数据偏移。\n\n**WinHex 是“字节级”的绝对精准。** 在安全领域，差一个比特位，解密就会彻底失败。\n\n---\n\n### 总结\n\n这道题的意义在于教会你：**不要只盯着题目给你的附件，要盯着“标准”。** 只要是标准格式，它的开头就是泄露的明文。\n\n**你现在是在尝试用 WinHex 写那 16 个字节吗？写完之后，你可以直接尝试用 `bkcrack` 跑一下。如果跑出了 Keys，记得用我们之前说过的 `-U` 参数重设密码，然后你就能看到那张隐藏着 Flag 的 `flag.png` 了。**\n\n要我帮你确认一下那 16 个字节的具体十六进制序列吗？","x":10,"y":1020,"width":1034,"height":1755},
 		{"id":"0f194c9c12c9423a","type":"file","file":"Attachments/Pasted image 20260319105627.png","x":-1120,"y":1580,"width":1006,"height":120},
 		{"id":"2c5c6c21713e51b8","type":"text","text":"```PowerShell\nC:\\Users\\HelloCTF_OS\\Documents\\bkcrack-1.8.1-win64\\bkcrack.exe -C flag.zip -c flag.png -p plaintext.png -o 0 > 1.log\n```\n要等很久。","x":-1680,"y":1920,"width":1040,"height":120},
-		{"id":"90093bfe721016fa","x":-1380,"y":2180,"width":440,"height":515,"type":"file","file":"Attachments/Pasted image 20260319152956.png"},
-		{"id":"161ca4533826b792","x":-1383,"y":2800,"width":446,"height":180,"type":"text","text":"# Keys\n```\nab7d8bcd 6ce75578 4de51c12\n```\n既然已经有了三个key，那么我们就能crack it!"}
+		{"id":"90093bfe721016fa","type":"file","file":"Attachments/Pasted image 20260319152956.png","x":-1380,"y":2180,"width":440,"height":515},
+		{"id":"161ca4533826b792","type":"text","text":"# Keys\n```\nab7d8bcd 6ce75578 4de51c12\n```\n既然已经有了三个key，那么我们就能crack it!","x":-1383,"y":2800,"width":446,"height":180},
+		{"id":"e9d2ae2a09ba5c8d","x":-1340,"y":3100,"width":1466,"height":80,"type":"file","file":"Attachments/Pasted image 20260319153401.png"},
+		{"id":"55ae3bde9d3afdc7","x":-878,"y":3300,"width":543,"height":280,"type":"file","file":"Attachments/Pasted image 20260319153436.png"}
 	],
 	"edges":[
 		{"id":"692448eeeaeef156","fromNode":"591135d28863c25d","fromSide":"bottom","toNode":"f2f0836acf4a4cd4","toSide":"top","label":"隔空取物.zip直接可以打开，但"},
@@ -18,6 +20,8 @@
 		{"id":"0e8a5f786691bcb1","fromNode":"66e7b8de6bf6288c","fromSide":"left","toNode":"0f194c9c12c9423a","toSide":"bottom"},
 		{"id":"447159d36751db06","fromNode":"0f194c9c12c9423a","fromSide":"left","toNode":"2c5c6c21713e51b8","toSide":"top"},
 		{"id":"82c2d057231dfbd5","fromNode":"2c5c6c21713e51b8","fromSide":"bottom","toNode":"90093bfe721016fa","toSide":"top"},
-		{"id":"a2ba9297fb548eec","fromNode":"90093bfe721016fa","fromSide":"bottom","toNode":"161ca4533826b792","toSide":"top"}
+		{"id":"a2ba9297fb548eec","fromNode":"90093bfe721016fa","fromSide":"bottom","toNode":"161ca4533826b792","toSide":"top"},
+		{"id":"03c5423981038a6c","fromNode":"161ca4533826b792","fromSide":"right","toNode":"e9d2ae2a09ba5c8d","toSide":"top"},
+		{"id":"68c6386dd9da7250","fromNode":"e9d2ae2a09ba5c8d","fromSide":"bottom","toNode":"55ae3bde9d3afdc7","toSide":"top"}
 	]
 }

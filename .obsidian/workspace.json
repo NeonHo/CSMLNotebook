@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
+                "file": "Hello-CTF/MISC/压缩包/隔空取物.canvas",
                 "viewState": {
-                  "x": -1588.1536776560179,
-                  "y": 2284.432171899836,
-                  "zoom": -0.4468662945871868
+                  "x": -811.719031218667,
+                  "y": 3474.6281131308892,
+                  "zoom": 0.4573791972306031
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DASCTF X CBCTF 2023 无畏者先行 SecretZip"
+              "title": "隔空取物"
             }
           }
         ],
@@ -207,6 +207,9 @@
   },
   "active": "72a6f1428159ec46",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319153436.png",
+    "Attachments/Pasted image 20260319153401.png",
+    "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
     "Hello-CTF/MISC/压缩包/隔空取物.canvas",
     "Attachments/Pasted image 20260319152956.png",
     "Attachments/Pasted image 20260319105627.png",
@@ -221,13 +224,11 @@
     "Hello-CTF/MISC/can_has_stdio.canvas",
     "Hello-CTF/MISC/杂项签到.canvas",
     "Hello-CTF/MISC/压缩包/zip伪加密.canvas",
-    "Hello-CTF/MISC/压缩包/神秘的文件.canvas",
     "Hello-CTF/MISC/压缩包",
     "Attachments/Pasted image 20260319100733.png",
     "Attachments/Pasted image 20260319100409.png",
     "Attachments/Pasted image 20260319100341.png",
     "Attachments/Pasted image 20260319095612.png",
-    "Attachments/Pasted image 20260319095503.png",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
   ]
