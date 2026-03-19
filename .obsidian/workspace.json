@@ -32,8 +32,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
                 "viewState": {
-                  "x": 218.9911414458706,
-                  "y": 105.47240675941092,
+                  "x": 235.9911414458706,
+                  "y": 375.4724067594109,
                   "zoom": 0
                 }
               },
@@ -207,6 +207,7 @@
   },
   "active": "72a6f1428159ec46",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319160511.png",
     "Attachments/Pasted image 20260319155623.png",
     "Hello-CTF/MISC/压缩包/隔空取物.canvas",
     "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
@@ -228,7 +229,6 @@
     "Hello-CTF/MISC/can_has_stdio.canvas",
     "Hello-CTF/MISC/杂项签到.canvas",
     "Hello-CTF/MISC/压缩包",
-    "Attachments/Pasted image 20260319100733.png",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
   ]
