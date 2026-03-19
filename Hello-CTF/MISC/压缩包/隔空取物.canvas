@@ -2,9 +2,12 @@
 	"nodes":[
 		{"id":"591135d28863c25d","x":-500,"y":-260,"width":580,"height":362,"type":"file","file":"Attachments/Pasted image 20260319101638.png"},
 		{"id":"f2f0836acf4a4cd4","x":-410,"y":380,"width":400,"height":257,"type":"file","file":"Attachments/Pasted image 20260319101940.png"},
-		{"id":"768a4515f3ccac83","x":-210,"y":760,"width":400,"height":41,"type":"file","file":"Attachments/Pasted image 20260319102242.png"}
+		{"id":"768a4515f3ccac83","x":340,"y":469,"width":776,"height":80,"type":"file","file":"Attachments/Pasted image 20260319102242.png"},
+		{"id":"97a44fdd4b62d8b0","x":273,"y":810,"width":507,"height":130,"type":"text","text":"江湖上有一种方式：\n我们知道压缩包里是什么格式的文件，\n只需要用同样的方式压缩一个同样格式的文件，那么就可以基于文件头破译压缩密码"}
 	],
 	"edges":[
-		{"id":"692448eeeaeef156","fromNode":"591135d28863c25d","fromSide":"bottom","toNode":"f2f0836acf4a4cd4","toSide":"top","label":"隔空取物.zip直接可以打开，但"}
+		{"id":"692448eeeaeef156","fromNode":"591135d28863c25d","fromSide":"bottom","toNode":"f2f0836acf4a4cd4","toSide":"top","label":"隔空取物.zip直接可以打开，但"},
+		{"id":"a3eaf00fdceceea3","fromNode":"f2f0836acf4a4cd4","fromSide":"right","toNode":"768a4515f3ccac83","toSide":"left","label":"即使有密码\n仍然要看flag.zip里面有什么\n这个是肌肉记忆"},
+		{"id":"11f0c73b0066dd90","fromNode":"768a4515f3ccac83","fromSide":"bottom","toNode":"97a44fdd4b62d8b0","toSide":"top"}
 	]
 }
