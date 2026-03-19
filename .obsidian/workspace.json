@@ -13,18 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/神秘的文件.canvas",
+                "file": "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
                 "viewState": {
-                  "x": 1497.6204506065858,
-                  "y": 4927.275563258234,
-                  "zoom": -0.4768286688718323
+                  "x": -900,
+                  "y": 2515.0854788877446,
+                  "zoom": -3.1135329612538536
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "神秘的文件"
+              "title": "DASCTF X CBCTF 2023 无畏者先行 SecretZip"
+            }
+          },
+          {
+            "id": "72a6f1428159ec46",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Hello-CTF/MISC/压缩包/隔空取物.canvas",
+                "viewState": {
+                  "x": -75,
+                  "y": 116,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "隔空取物"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello-CTF/MISC/神秘的文件.canvas",
+                "file": "Hello-CTF/MISC/压缩包/隔空取物.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "神秘的文件 的反向链接列表"
+              "title": "隔空取物 的反向链接列表"
             }
           },
           {
@@ -187,8 +205,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf92f784b9cd143f",
+  "active": "72a6f1428159ec46",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319101638.png",
+    "Hello-CTF/MISC/simple_transfer.canvas",
+    "Hello-CTF/MISC/压缩包/隔空取物.canvas",
+    "Hello-CTF/MISC/misc1.canvas",
+    "Hello-CTF/MISC/low.canvas",
+    "Hello-CTF/MISC/IgniteMe.canvas",
+    "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
+    "Hello-CTF/MISC/can_has_stdio.canvas",
+    "Hello-CTF/MISC/杂项签到.canvas",
+    "Hello-CTF/MISC/压缩包/zip伪加密.canvas",
+    "Hello-CTF/MISC/压缩包/神秘的文件.canvas",
+    "Hello-CTF/MISC/压缩包",
     "Attachments/Pasted image 20260319100733.png",
     "Attachments/Pasted image 20260319100409.png",
     "Attachments/Pasted image 20260319100341.png",
@@ -199,18 +229,7 @@
     "Attachments/Pasted image 20260319095151.png",
     "Attachments/Pasted image 20260319094829.png",
     "conflict-files-obsidian-git.md",
-    "Hello-CTF/MISC/神秘的文件.canvas",
     "Projects/My Team/SQLite持久化存储.md",
-    "Attachments/Pasted image 20260318175401.png",
-    "Attachments/Pasted image 20260318175055.png",
-    "Hello-CTF/MISC/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
-    "Hello-CTF/MISC/Dest0g3 520迎新赛 EasyWord 45.canvas",
-    "Hello-CTF/MISC/zip伪加密.canvas",
-    "Hello-CTF/MISC/simple_transfer.canvas",
-    "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/low.canvas",
-    "Hello-CTF/MISC/IgniteMe.canvas",
-    "Hello-CTF/MISC/Erik-Baleog-and-Olaf.canvas",
-    "Hello-CTF/MISC/can_has_stdio.canvas"
+    "Attachments/Pasted image 20260318175401.png"
   ]
 }
