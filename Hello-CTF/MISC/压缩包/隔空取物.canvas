@@ -10,7 +10,10 @@
 		{"id":"90093bfe721016fa","type":"file","file":"Attachments/Pasted image 20260319152956.png","x":-1380,"y":2180,"width":440,"height":515},
 		{"id":"161ca4533826b792","type":"text","text":"# Keys\n```\nab7d8bcd 6ce75578 4de51c12\n```\n既然已经有了三个key，那么我们就能crack it!","x":-1383,"y":2800,"width":446,"height":180},
 		{"id":"e9d2ae2a09ba5c8d","x":-1340,"y":3100,"width":1466,"height":80,"type":"file","file":"Attachments/Pasted image 20260319153401.png"},
-		{"id":"55ae3bde9d3afdc7","x":-878,"y":3300,"width":543,"height":280,"type":"file","file":"Attachments/Pasted image 20260319153436.png"}
+		{"id":"55ae3bde9d3afdc7","x":-878,"y":3300,"width":543,"height":280,"type":"file","file":"Attachments/Pasted image 20260319153436.png"},
+		{"id":"6cc4c83d3ca89de8","x":-880,"y":3680,"width":557,"height":585,"type":"file","file":"Attachments/Pasted image 20260319154001.png"},
+		{"id":"4aa7e21638da6da7","x":-200,"y":3948,"width":455,"height":50,"type":"text","text":"说明高宽和CRC校验的不一致，已经被随波逐流修复了"},
+		{"id":"009c13e3fabab49a","x":340,"y":3732,"width":936,"height":483,"type":"file","file":"Attachments/Pasted image 20260319154108.png"}
 	],
 	"edges":[
 		{"id":"692448eeeaeef156","fromNode":"591135d28863c25d","fromSide":"bottom","toNode":"f2f0836acf4a4cd4","toSide":"top","label":"隔空取物.zip直接可以打开，但"},
@@ -22,6 +25,9 @@
 		{"id":"82c2d057231dfbd5","fromNode":"2c5c6c21713e51b8","fromSide":"bottom","toNode":"90093bfe721016fa","toSide":"top"},
 		{"id":"a2ba9297fb548eec","fromNode":"90093bfe721016fa","fromSide":"bottom","toNode":"161ca4533826b792","toSide":"top"},
 		{"id":"03c5423981038a6c","fromNode":"161ca4533826b792","fromSide":"right","toNode":"e9d2ae2a09ba5c8d","toSide":"top"},
-		{"id":"68c6386dd9da7250","fromNode":"e9d2ae2a09ba5c8d","fromSide":"bottom","toNode":"55ae3bde9d3afdc7","toSide":"top"}
+		{"id":"68c6386dd9da7250","fromNode":"e9d2ae2a09ba5c8d","fromSide":"bottom","toNode":"55ae3bde9d3afdc7","toSide":"top"},
+		{"id":"0e5404b1622d47fc","fromNode":"55ae3bde9d3afdc7","fromSide":"bottom","toNode":"6cc4c83d3ca89de8","toSide":"top"},
+		{"id":"04ec233a00e0d109","fromNode":"6cc4c83d3ca89de8","fromSide":"right","toNode":"4aa7e21638da6da7","toSide":"left"},
+		{"id":"d74c2b6398888720","fromNode":"4aa7e21638da6da7","fromSide":"right","toNode":"009c13e3fabab49a","toSide":"left"}
 	]
 }

@@ -32,9 +32,9 @@
               "state": {
                 "file": "Hello-CTF/MISC/压缩包/隔空取物.canvas",
                 "viewState": {
-                  "x": -811.719031218667,
-                  "y": 3474.6281131308892,
-                  "zoom": 0.4573791972306031
+                  "x": 713.8063057352823,
+                  "y": 3996.8590792779596,
+                  "zoom": -0.20928746943606352
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccae19b421ec20dd",
@@ -207,6 +208,8 @@
   },
   "active": "72a6f1428159ec46",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319154108.png",
+    "Attachments/Pasted image 20260319154001.png",
     "Attachments/Pasted image 20260319153436.png",
     "Attachments/Pasted image 20260319153401.png",
     "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
@@ -227,8 +230,6 @@
     "Hello-CTF/MISC/压缩包",
     "Attachments/Pasted image 20260319100733.png",
     "Attachments/Pasted image 20260319100409.png",
-    "Attachments/Pasted image 20260319100341.png",
-    "Attachments/Pasted image 20260319095612.png",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
   ]
