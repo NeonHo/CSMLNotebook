@@ -11,7 +11,8 @@
 		{"id":"48b89922b5d0c9ca","x":-840,"y":1320,"width":1400,"height":50,"type":"file","file":"Attachments/Pasted image 20260319095252.png"},
 		{"id":"2be93cf6f6aee891","x":460,"y":1480,"width":1049,"height":460,"type":"file","file":"Attachments/Pasted image 20260319095612.png"},
 		{"id":"4db4439e983db549","x":438,"y":2140,"width":1094,"height":598,"type":"file","file":"Attachments/Pasted image 20260319095503.png"},
-		{"id":"634def71f5cfa841","x":2104,"y":2459,"width":376,"height":61,"type":"text","text":"这个文档肯定有点搞头，用010Editor打开看看"}
+		{"id":"634def71f5cfa841","x":2104,"y":2459,"width":376,"height":50,"type":"text","text":"这个文档肯定有点搞头，用010Editor打开看看"},
+		{"id":"5f362fe7ec3890e9","x":1912,"y":3030,"width":400,"height":342,"type":"file","file":"Attachments/Pasted image 20260319100341.png"}
 	],
 	"edges":[
 		{"id":"479c2cb74537b416","fromNode":"97c4e89f5bb5565e","fromSide":"right","toNode":"a027067d6a2c7eb6","toSide":"left","label":"第一层"},
