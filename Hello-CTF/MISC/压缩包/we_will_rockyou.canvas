@@ -6,7 +6,8 @@
 		{"id":"5a6317fa3a0660e5","x":-169,"y":460,"width":399,"height":60,"type":"text","text":"既然是简单的密码，肯定是直接字典爆破。"},
 		{"id":"22b3e7ac293919e2","x":-230,"y":760,"width":521,"height":77,"type":"file","file":"Attachments/Pasted image 20260319163021.png"},
 		{"id":"d0d31d10ee45f6d2","x":400,"y":490,"width":588,"height":298,"type":"file","file":"Attachments/Pasted image 20260319163002.png"},
-		{"id":"ed4559dfc748227c","x":494,"y":920,"width":400,"height":124,"type":"file","file":"Attachments/Pasted image 20260319163258.png"}
+		{"id":"ed4559dfc748227c","x":494,"y":920,"width":400,"height":124,"type":"file","file":"Attachments/Pasted image 20260319163258.png"},
+		{"id":"9fe9f00cd784ac0f","x":374,"y":1140,"width":640,"height":334,"type":"file","file":"Attachments/Pasted image 20260319163623.png"}
 	],
 	"edges":[
 		{"id":"77c2a84f8beedfd1","fromNode":"fbf26741ef4414f9","fromSide":"bottom","toNode":"47bb78847c97ddf0","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"def5b38a712623cc","fromNode":"47bb78847c97ddf0","fromSide":"bottom","toNode":"5a6317fa3a0660e5","toSide":"top"},
 		{"id":"4ffc942fc397e8c8","fromNode":"5a6317fa3a0660e5","fromSide":"bottom","toNode":"d0d31d10ee45f6d2","toSide":"left"},
 		{"id":"06a87d7134f5832c","fromNode":"22b3e7ac293919e2","fromSide":"top","toNode":"d0d31d10ee45f6d2","toSide":"left"},
-		{"id":"8230f5664c49e8d2","fromNode":"d0d31d10ee45f6d2","fromSide":"bottom","toNode":"ed4559dfc748227c","toSide":"top"}
+		{"id":"8230f5664c49e8d2","fromNode":"d0d31d10ee45f6d2","fromSide":"bottom","toNode":"ed4559dfc748227c","toSide":"top"},
+		{"id":"42529e035bf3b9c1","fromNode":"ed4559dfc748227c","fromSide":"bottom","toNode":"9fe9f00cd784ac0f","toSide":"top"}
 	]
 }
