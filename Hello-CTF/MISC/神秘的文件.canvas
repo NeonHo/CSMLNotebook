@@ -13,7 +13,10 @@
 		{"id":"4db4439e983db549","x":438,"y":2140,"width":1094,"height":598,"type":"file","file":"Attachments/Pasted image 20260319095503.png"},
 		{"id":"634def71f5cfa841","x":2104,"y":2459,"width":376,"height":50,"type":"text","text":"这个文档肯定有点搞头，用010Editor打开看看"},
 		{"id":"87a6c0a2630b63d1","x":760,"y":3060,"width":832,"height":563,"type":"file","file":"Attachments/Pasted image 20260319100409.png"},
-		{"id":"5f362fe7ec3890e9","x":1900,"y":2960,"width":892,"height":763,"type":"file","file":"Attachments/Pasted image 20260319100341.png"}
+		{"id":"5f362fe7ec3890e9","x":1900,"y":2960,"width":892,"height":763,"type":"file","file":"Attachments/Pasted image 20260319100341.png"},
+		{"id":"61dde5580f158976","x":1176,"y":3980,"width":250,"height":120,"type":"text","text":"应该是个ZIP文件\n直接用7zip打开压缩包，\n找到flag.txt"},
+		{"id":"126f5ca30bba2f32","x":901,"y":4300,"width":800,"height":617,"type":"file","file":"Attachments/Pasted image 20260319100733.png"},
+		{"id":"6f94f19bb57e4b08","x":1167,"y":5140,"width":313,"height":77,"type":"text","text":"Base64解码\nflag{d0cX_1s_ziP_file}"}
 	],
 	"edges":[
 		{"id":"479c2cb74537b416","fromNode":"97c4e89f5bb5565e","fromSide":"right","toNode":"a027067d6a2c7eb6","toSide":"left","label":"第一层"},
@@ -29,6 +32,10 @@
 		{"id":"1d37dc543b25eb40","fromNode":"2be93cf6f6aee891","fromSide":"bottom","toNode":"4db4439e983db549","toSide":"top","label":"解压出来的文档居然是这么个玩意儿"},
 		{"id":"13c2a306600a9787","fromNode":"4db4439e983db549","fromSide":"right","toNode":"634def71f5cfa841","toSide":"left"},
 		{"id":"78568e2b8d754b4f","fromNode":"634def71f5cfa841","fromSide":"bottom","toNode":"87a6c0a2630b63d1","toSide":"top"},
-		{"id":"bbb3a9ab0bfddfdc","fromNode":"87a6c0a2630b63d1","fromSide":"right","toNode":"5f362fe7ec3890e9","toSide":"left"}
+		{"id":"bbb3a9ab0bfddfdc","fromNode":"87a6c0a2630b63d1","fromSide":"right","toNode":"5f362fe7ec3890e9","toSide":"left"},
+		{"id":"32fc8f0af2043229","fromNode":"87a6c0a2630b63d1","fromSide":"bottom","toNode":"61dde5580f158976","toSide":"top"},
+		{"id":"7a332aadae5c4c22","fromNode":"5f362fe7ec3890e9","fromSide":"bottom","toNode":"61dde5580f158976","toSide":"top"},
+		{"id":"1bf3605ae6a22b37","fromNode":"61dde5580f158976","fromSide":"bottom","toNode":"126f5ca30bba2f32","toSide":"top"},
+		{"id":"ad0df0d63383d479","fromNode":"126f5ca30bba2f32","fromSide":"bottom","toNode":"6f94f19bb57e4b08","toSide":"top"}
 	]
 }
