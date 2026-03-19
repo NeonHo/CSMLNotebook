@@ -3,11 +3,17 @@
 		{"id":"fbf26741ef4414f9","x":-260,"y":-320,"width":580,"height":371,"type":"file","file":"Attachments/Pasted image 20260319155623.png"},
 		{"id":"47bb78847c97ddf0","x":-242,"y":180,"width":545,"height":85,"type":"text","text":"zip文件的密码丢了，但密码应该很简单\n里面是摇滚现场的票编码"},
 		{"id":"65047f705b318db3","x":440,"y":51,"width":578,"height":341,"type":"file","file":"Attachments/Pasted image 20260319160511.png"},
-		{"id":"5a6317fa3a0660e5","x":-169,"y":460,"width":399,"height":60,"type":"text","text":"既然是简单的密码，肯定是直接爆破。"}
+		{"id":"5a6317fa3a0660e5","x":-169,"y":460,"width":399,"height":60,"type":"text","text":"既然是简单的密码，肯定是直接字典爆破。"},
+		{"id":"22b3e7ac293919e2","x":-230,"y":760,"width":521,"height":77,"type":"file","file":"Attachments/Pasted image 20260319163021.png"},
+		{"id":"d0d31d10ee45f6d2","x":400,"y":490,"width":588,"height":298,"type":"file","file":"Attachments/Pasted image 20260319163002.png"},
+		{"id":"ed4559dfc748227c","x":494,"y":920,"width":400,"height":124,"type":"file","file":"Attachments/Pasted image 20260319163258.png"}
 	],
 	"edges":[
 		{"id":"77c2a84f8beedfd1","fromNode":"fbf26741ef4414f9","fromSide":"bottom","toNode":"47bb78847c97ddf0","toSide":"top"},
 		{"id":"1fa66826178d9680","fromNode":"47bb78847c97ddf0","fromSide":"right","toNode":"65047f705b318db3","toSide":"left"},
-		{"id":"def5b38a712623cc","fromNode":"47bb78847c97ddf0","fromSide":"bottom","toNode":"5a6317fa3a0660e5","toSide":"top"}
+		{"id":"def5b38a712623cc","fromNode":"47bb78847c97ddf0","fromSide":"bottom","toNode":"5a6317fa3a0660e5","toSide":"top"},
+		{"id":"4ffc942fc397e8c8","fromNode":"5a6317fa3a0660e5","fromSide":"bottom","toNode":"d0d31d10ee45f6d2","toSide":"left"},
+		{"id":"06a87d7134f5832c","fromNode":"22b3e7ac293919e2","fromSide":"top","toNode":"d0d31d10ee45f6d2","toSide":"left"},
+		{"id":"8230f5664c49e8d2","fromNode":"d0d31d10ee45f6d2","fromSide":"bottom","toNode":"ed4559dfc748227c","toSide":"top"}
 	]
 }
