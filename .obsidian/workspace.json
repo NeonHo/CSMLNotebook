@@ -32,8 +32,8 @@
               "state": {
                 "file": "Hello-CTF/MISC/压缩包/隔空取物.canvas",
                 "viewState": {
-                  "x": -75,
-                  "y": 116,
+                  "x": -77,
+                  "y": 635,
                   "zoom": 0
                 }
               },
@@ -207,6 +207,8 @@
   },
   "active": "72a6f1428159ec46",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260319102242.png",
+    "Attachments/Pasted image 20260319101940.png",
     "Attachments/Pasted image 20260319101638.png",
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/MISC/压缩包/隔空取物.canvas",
@@ -227,9 +229,7 @@
     "Attachments/Pasted image 20260319095420.png",
     "Attachments/Pasted image 20260319095252.png",
     "Attachments/Pasted image 20260319095151.png",
-    "Attachments/Pasted image 20260319094829.png",
     "conflict-files-obsidian-git.md",
-    "Projects/My Team/SQLite持久化存储.md",
-    "Attachments/Pasted image 20260318175401.png"
+    "Projects/My Team/SQLite持久化存储.md"
   ]
 }

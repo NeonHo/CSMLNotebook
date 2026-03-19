@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"591135d28863c25d","x":-500,"y":-260,"width":580,"height":362,"type":"file","file":"Attachments/Pasted image 20260319101638.png"}
+		{"id":"591135d28863c25d","x":-500,"y":-260,"width":580,"height":362,"type":"file","file":"Attachments/Pasted image 20260319101638.png"},
+		{"id":"f2f0836acf4a4cd4","x":-410,"y":380,"width":400,"height":257,"type":"file","file":"Attachments/Pasted image 20260319101940.png"},
+		{"id":"768a4515f3ccac83","x":-210,"y":760,"width":400,"height":41,"type":"file","file":"Attachments/Pasted image 20260319102242.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"692448eeeaeef156","fromNode":"591135d28863c25d","fromSide":"bottom","toNode":"f2f0836acf4a4cd4","toSide":"top","label":"隔空取物.zip直接可以打开，但"}
+	]
 }
