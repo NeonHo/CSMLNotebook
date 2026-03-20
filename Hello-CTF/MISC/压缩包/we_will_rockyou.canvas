@@ -19,7 +19,8 @@
 		{"id":"35b3dcaaa86bfebb","x":760,"y":4900,"width":250,"height":60,"type":"text","text":"_CRC32_i5_n0t_s4f3"},
 		{"id":"8a8b829e0b89c3b2","x":610,"y":5260,"width":550,"height":195,"type":"text","text":"链接: http://pan.baidu.com/s/1i4TQoz7 密码: w65m 提示：\n第一层：CRC32 碰撞 \n第二层：维吉尼亚密码 \n第三层：sha1 碰撞 \n第四层：md5 相同文件不同 \n第五层：RSA"},
 		{"id":"17757857be09dda7","x":1360,"y":5480,"width":675,"height":207,"type":"file","file":"Attachments/Pasted image 20260320111035.png"},
-		{"id":"12e1b7bd76a48ea9","x":780,"y":5687,"width":451,"height":461,"type":"file","file":"Attachments/Pasted image 20260320111120.png"}
+		{"id":"12e1b7bd76a48ea9","x":780,"y":5687,"width":451,"height":461,"type":"file","file":"Attachments/Pasted image 20260320111120.png"},
+		{"id":"f14e28acaafeea3c","x":1320,"y":5992,"width":1160,"height":156,"type":"text","text":"THE VIGENERE CIPHER IS A METHOD OFEN CRYPTING ALPHABETIC TEXT BY USING ASERIES OF DIFFER ENTCAESAR CIPHERS BASE DONTHELETTERSOFA KEYWORD ITISASIMPLEFORMOFPOLYALPHABETICSUBSTITUTIONSOPASSWORDISVIGENERECIPHERFUNNY"}
 	],
 	"edges":[
 		{"id":"77c2a84f8beedfd1","fromNode":"fbf26741ef4414f9","fromSide":"bottom","toNode":"47bb78847c97ddf0","toSide":"top"},
