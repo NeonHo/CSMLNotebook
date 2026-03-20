@@ -14,7 +14,9 @@
 		{"id":"d4cc7682422395f9","x":-120,"y":2300,"width":738,"height":1893,"type":"text","text":"你抓住了问题的核心。作为一个 CS 专业人士，你应该对这种**“非唯一性”**保持高度警惕。\n\n简单来说：**是的，CRC32 并不是强加密哈希，它的碰撞概率比 MD5 或 SHA-1 高得多。** 你爆破出来的结果，在数学上只是众多“候选者”中的一个。\n\n但为什么我们在 CTF 中依然能用这种方法拿到 Flag？这背后有三个关键的“过滤机制”：\n\n---\n\n### 1. 字符集过滤（The Charset Filter）\n\n虽然 $2^{32}$ 的空间很大，但我们在爆破时通常会限定**字符集**（例如：仅限大写字母、小写字母、数字和下划线）。\n\n* **全空间：** 如果 4 字节文件允许任意字节（0x00 - 0xFF），那么 $256^4$ 刚好等于 $2^{32}$。这意味着**每一个 CRC32 值都对应且仅对应一个 4 字节的二进制序列**。这种情况下没有碰撞，结果是唯一的。\n* **可见字符空间：** 如果我们限定只搜可见字符（约 95 个），$95^4 \\approx 8.1 \\times 10^7$。这个数字远小于 $2^{32}$（约 4.2 \\times 10^9$）。\n    * 这意味着：对于一个 4 字节的可见字符串，它撞出重复 CRC32 的概率极低。\n    * **结论：** 在短字节（4-5字节）且限定字符集的情况下，你拿到的结果几乎 **99% 就是原本的内容**。\n\n---\n\n### 2. 语义过滤（The Human Semantic Filter）\n\n当你尝试爆破一个 6 字节的文件时，$95^6 \\approx 7.3 \\times 10^{11}$。这个数字已经是 $2^{32}$ 的 **170 多倍**了。\n这就意味着，针对同一个 CRC32 值，你的脚本可能会跑出 100 多个不同的 6 字节字符串。\n\n这时候，你的“人类大脑”就开始发挥作用了：\n* **结果 A：** `a7_Gq9`（看起来像随机乱码）\n* **结果 B：** `_easy_`（看起来像英语单词）\n* **结果 C：** `1f#K@m`（看起来像随机乱码）\n\n在 CTF 语境下，**语义化**的代码块几乎总是正确答案。\n\n---\n\n### 3. 上下文关联（The Context Linkage）\n\n这是最强的过滤手段。通常题目会把 Flag 拆成很多块：\n* 文件 1 (CRC: 0xAAAA)：爆破出 `flag{c`\n* 文件 2 (CRC: 0xBBBB)：爆破出 `rc_is_`\n* 文件 3 (CRC: 0xCCCC)：爆破出 `cool!}`\n\n即使文件 2 产生了一个毫无意义的碰撞结果（比如 `x8*2!q`），当你把它们串起来看时，只有 `rc_is_` 能让整句话通顺。\n\n---\n\n### 4. 数学上的“抽屉原理” (Pigeonhole Principle)\n\n假设文件长度为 $n$ 字节，字符集大小为 $k$。\n* 当 $k^n < 2^{32}$ 时，结果极大概率是唯一的。\n* 当 $k^n > 2^{32}$ 时，必然出现大量碰撞。\n\n\n\n$$P(Collision) \\approx 1 - e^{-\\frac{H^2}{2 \\cdot 2^{32}}}$$\n（其中 $H$ 是你尝试爆破的次数）。\n\n---\n\n### 💡 职业级操作：如何处理多个结果？\n\n如果你运行脚本发现一个 CRC32 撞出了好几个结果，别慌：\n\n1.  **增加约束：** 如果你知道 Flag 格式，可以限定首尾字符。\n2.  **交叉比对：** 看看这几个结果里，哪个包含常用单词或 `_`。\n3.  **多块拼接：** 把所有文件的所有可能结果列出来，像玩拼图一样看哪组能拼成一句话。\n\n### 总结\n\nCRC32 碰撞得到的确只是**一种可能**，但在 **“短长度 + 特定字符集 + CTF 语义”** 这三重枷锁下，这种“可能”往往就是唯一的“真相”。\n\n**你现在是遇到了一个 CRC32 撞出了一堆乱码的情况吗？如果有，可以把那几个 CRC32 数值和文件大小发给我，我帮你分析一下这些“候选者”里谁最像真正的 Flag 片段。**"},
 		{"id":"d2a6aaea37091447","x":648,"y":4100,"width":964,"height":435,"type":"file","file":"Attachments/Pasted image 20260320103825.png"},
 		{"id":"dba70f8bc04d0bed","x":1700,"y":4140,"width":570,"height":276,"type":"file","file":"Attachments/Pasted image 20260320104006.png"},
-		{"id":"36bd1d78a87edf93","x":1700,"y":4460,"width":804,"height":326,"type":"file","file":"Attachments/Pasted image 20260320104401.png"}
+		{"id":"36bd1d78a87edf93","x":1700,"y":4460,"width":804,"height":326,"type":"file","file":"Attachments/Pasted image 20260320104401.png"},
+		{"id":"1d8202a4dba17b10","x":1176,"y":4900,"width":926,"height":293,"type":"file","file":"Attachments/Pasted image 20260320104728.png"},
+		{"id":"35b3dcaaa86bfebb","x":760,"y":4900,"width":250,"height":60,"type":"text","text":"_CRC32_i5_n0t_s4f3"}
 	],
 	"edges":[
 		{"id":"77c2a84f8beedfd1","fromNode":"fbf26741ef4414f9","fromSide":"bottom","toNode":"47bb78847c97ddf0","toSide":"top"},
@@ -30,6 +32,8 @@
 		{"id":"18b8abaff40394f2","fromNode":"cb0635375d923b9a","fromSide":"left","toNode":"d4cc7682422395f9","toSide":"right"},
 		{"id":"e77152f93e2f21bf","fromNode":"d2a6aaea37091447","fromSide":"right","toNode":"dba70f8bc04d0bed","toSide":"left"},
 		{"id":"e1e4e01d26d11d22","fromNode":"d4cc7682422395f9","fromSide":"bottom","toNode":"d2a6aaea37091447","toSide":"left"},
-		{"id":"ea512a5056ebea9a","fromNode":"d2a6aaea37091447","fromSide":"right","toNode":"36bd1d78a87edf93","toSide":"left"}
+		{"id":"ea512a5056ebea9a","fromNode":"d2a6aaea37091447","fromSide":"right","toNode":"36bd1d78a87edf93","toSide":"left"},
+		{"id":"a182226a7ce8ea4f","fromNode":"d2a6aaea37091447","fromSide":"right","toNode":"1d8202a4dba17b10","toSide":"top"},
+		{"id":"1d185f5d1281676a","fromNode":"d2a6aaea37091447","fromSide":"bottom","toNode":"35b3dcaaa86bfebb","toSide":"top"}
 	]
 }
