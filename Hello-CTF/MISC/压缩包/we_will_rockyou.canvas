@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"fbf26741ef4414f9","x":-260,"y":-320,"width":580,"height":371,"type":"file","file":"Attachments/Pasted image 20260319155623.png"},
-		{"id":"47bb78847c97ddf0","x":-242,"y":180,"width":545,"height":85,"type":"text","text":"zip文件的密码丢了，但密码应该很简单\n里面是摇滚现场的票编码"},
-		{"id":"65047f705b318db3","x":440,"y":51,"width":578,"height":341,"type":"file","file":"Attachments/Pasted image 20260319160511.png"},
-		{"id":"5a6317fa3a0660e5","x":-169,"y":460,"width":399,"height":60,"type":"text","text":"既然是简单的密码，肯定是直接字典爆破。"},
-		{"id":"22b3e7ac293919e2","x":-230,"y":760,"width":521,"height":77,"type":"file","file":"Attachments/Pasted image 20260319163021.png"},
-		{"id":"d0d31d10ee45f6d2","x":400,"y":490,"width":588,"height":298,"type":"file","file":"Attachments/Pasted image 20260319163002.png"},
-		{"id":"ed4559dfc748227c","x":494,"y":920,"width":400,"height":124,"type":"file","file":"Attachments/Pasted image 20260319163258.png"},
-		{"id":"9fe9f00cd784ac0f","x":374,"y":1140,"width":640,"height":334,"type":"file","file":"Attachments/Pasted image 20260319163623.png"},
-		{"id":"86f86740cf758deb","x":264,"y":1600,"width":861,"height":300,"type":"file","file":"Attachments/Pasted image 20260319164047.png"},
-		{"id":"b9fca4aacd95eeae","x":338,"y":2000,"width":713,"height":60,"type":"text","text":"打开文件需要密码，但是发现了三个大小相同的文件，多个相同大小文件可以确定为 CRC 碰撞"}
+		{"id":"fbf26741ef4414f9","type":"file","file":"Attachments/Pasted image 20260319155623.png","x":-260,"y":-320,"width":580,"height":371},
+		{"id":"47bb78847c97ddf0","type":"text","text":"zip文件的密码丢了，但密码应该很简单\n里面是摇滚现场的票编码","x":-242,"y":180,"width":545,"height":85},
+		{"id":"65047f705b318db3","type":"file","file":"Attachments/Pasted image 20260319160511.png","x":440,"y":51,"width":578,"height":341},
+		{"id":"5a6317fa3a0660e5","type":"text","text":"既然是简单的密码，肯定是直接字典爆破。","x":-169,"y":460,"width":399,"height":60},
+		{"id":"22b3e7ac293919e2","type":"file","file":"Attachments/Pasted image 20260319163021.png","x":-230,"y":760,"width":521,"height":77},
+		{"id":"d0d31d10ee45f6d2","type":"file","file":"Attachments/Pasted image 20260319163002.png","x":400,"y":490,"width":588,"height":298},
+		{"id":"ed4559dfc748227c","type":"file","file":"Attachments/Pasted image 20260319163258.png","x":494,"y":920,"width":400,"height":124},
+		{"id":"9fe9f00cd784ac0f","type":"file","file":"Attachments/Pasted image 20260319163623.png","x":374,"y":1140,"width":639,"height":334},
+		{"id":"86f86740cf758deb","type":"file","file":"Attachments/Pasted image 20260319164047.png","x":264,"y":1600,"width":861,"height":300},
+		{"id":"b9fca4aacd95eeae","type":"text","text":"打开文件需要密码，但是发现了三个大小相同的文件，多个相同大小文件可以确定为 CRC 碰撞","x":338,"y":2000,"width":713,"height":60}
 	],
 	"edges":[
 		{"id":"77c2a84f8beedfd1","fromNode":"fbf26741ef4414f9","fromSide":"bottom","toNode":"47bb78847c97ddf0","toSide":"top"},
