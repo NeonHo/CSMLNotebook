@@ -3,11 +3,15 @@
 		{"id":"7253c09dec30ba5c","x":320,"y":-100,"width":1316,"height":280,"type":"file","file":"Attachments/Pasted image 20260323095141.png"},
 		{"id":"bd1bb3c1f0535b8f","x":-340,"y":-600,"width":400,"height":258,"type":"file","file":"Attachments/Pasted image 20260323102404.png"},
 		{"id":"0d80922ad9c1f333","x":-680,"y":-180,"width":700,"height":550,"type":"file","file":"Attachments/Pasted image 20260323093246.png"},
-		{"id":"5856544af0f20ee5","x":-455,"y":480,"width":250,"height":60,"type":"text","text":"那么，中文呢？"}
+		{"id":"5856544af0f20ee5","x":-455,"y":480,"width":250,"height":60,"type":"text","text":"那么，中文呢？"},
+		{"id":"f442450faaa96462","x":20,"y":1160,"width":1457,"height":380,"type":"file","file":"Attachments/Pasted image 20260323105949.png"},
+		{"id":"ae932be1b71dc972","x":160,"y":480,"width":960,"height":522,"type":"file","file":"Attachments/Pasted image 20260323110116.png"}
 	],
 	"edges":[
 		{"id":"a437e4463cbf232e","fromNode":"0d80922ad9c1f333","fromSide":"right","toNode":"7253c09dec30ba5c","toSide":"left"},
 		{"id":"19d6c7af7d602357","fromNode":"bd1bb3c1f0535b8f","fromSide":"right","toNode":"7253c09dec30ba5c","toSide":"left"},
-		{"id":"c03b8eb9a7e1733e","fromNode":"0d80922ad9c1f333","fromSide":"bottom","toNode":"5856544af0f20ee5","toSide":"top"}
+		{"id":"c03b8eb9a7e1733e","fromNode":"0d80922ad9c1f333","fromSide":"bottom","toNode":"5856544af0f20ee5","toSide":"top"},
+		{"id":"f6747b097e21e839","fromNode":"5856544af0f20ee5","fromSide":"right","toNode":"ae932be1b71dc972","toSide":"left","label":"先用Cyber编码为十六进制编码"},
+		{"id":"b192cd39007e0dcf","fromNode":"ae932be1b71dc972","fromSide":"bottom","toNode":"f442450faaa96462","toSide":"top"}
 	]
 }
