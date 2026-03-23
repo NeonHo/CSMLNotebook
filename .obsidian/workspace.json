@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/WEB/simple_php.canvas",
+                "file": "Hello-CTF/WEB/GET-POST基础.canvas",
                 "viewState": {
-                  "x": 304.5,
-                  "y": 325.5,
-                  "zoom": -0.6032300670090771
+                  "x": 92,
+                  "y": -13,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "simple_php"
+              "title": "GET-POST基础"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260323093407.png",
+    "Attachments/Pasted image 20260323093246.png",
+    "Hello-CTF/WEB/未命名.base",
+    "Hello-CTF/WEB/GET-POST基础.canvas",
+    "Hello-CTF/WEB/simple_php.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/WEB/cookie.canvas",
     "Hello-CTF/WEB/command_execution.canvas",
@@ -204,12 +209,8 @@
     "Attachments/Pasted image 20260320102943.png",
     "Attachments/Pasted image 20260320102804.png",
     "Attachments/Pasted image 20260319164047.png",
-    "Attachments/Pasted image 20260319163623.png",
     "Hello-CTF/MISC/压缩包/隔空取物.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
-    "Hello-CTF/MISC/misc1.canvas",
-    "Hello-CTF/MISC/low.canvas",
-    "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/MISC/压缩包",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
