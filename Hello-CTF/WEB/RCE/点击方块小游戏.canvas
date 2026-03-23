@@ -4,12 +4,18 @@
 		{"id":"c0b2892180955fba","x":180,"y":-320,"width":720,"height":947,"type":"file","file":"Attachments/Pasted image 20260323170853.png"},
 		{"id":"788ff57e61d0b39f","x":440,"y":860,"width":250,"height":60,"type":"text","text":"提示：爬虫协议\n应该就是robots.txt"},
 		{"id":"178d83941aa1ef06","x":-384,"y":860,"width":504,"height":240,"type":"file","file":"Attachments/Pasted image 20260323170939.png"},
-		{"id":"56c02fa0c7fa80cc","x":-554,"y":1240,"width":845,"height":320,"type":"file","file":"Attachments/Pasted image 20260323171003.png"}
+		{"id":"56c02fa0c7fa80cc","x":-554,"y":1240,"width":845,"height":320,"type":"file","file":"Attachments/Pasted image 20260323171003.png"},
+		{"id":"2f0092383331758b","x":-880,"y":1740,"width":885,"height":255,"type":"file","file":"Attachments/Pasted image 20260323172404.png"},
+		{"id":"dfc28e9352e7cfb9","x":-1545,"y":2160,"width":1481,"height":320,"type":"file","file":"Attachments/Pasted image 20260323172505.png"},
+		{"id":"004fde645ece2ca5","x":-1545,"y":2680,"width":1286,"height":237,"type":"file","file":"Attachments/Pasted image 20260323172539.png"}
 	],
 	"edges":[
 		{"id":"b3f001ed764b980b","fromNode":"46e49d42d78fa68d","fromSide":"bottom","toNode":"c0b2892180955fba","toSide":"left","label":"直接看源码逻辑"},
 		{"id":"bb996e35a0807e22","fromNode":"c0b2892180955fba","fromSide":"bottom","toNode":"788ff57e61d0b39f","toSide":"top"},
 		{"id":"fe7c97388e5c0ad9","fromNode":"788ff57e61d0b39f","fromSide":"left","toNode":"178d83941aa1ef06","toSide":"right"},
-		{"id":"9773b9dccf8348b7","fromNode":"178d83941aa1ef06","fromSide":"bottom","toNode":"56c02fa0c7fa80cc","toSide":"top"}
+		{"id":"9773b9dccf8348b7","fromNode":"178d83941aa1ef06","fromSide":"bottom","toNode":"56c02fa0c7fa80cc","toSide":"top"},
+		{"id":"16025de7379b89af","fromNode":"56c02fa0c7fa80cc","fromSide":"bottom","toNode":"2f0092383331758b","toSide":"top"},
+		{"id":"ae6b8c7528ef0bf9","fromNode":"2f0092383331758b","fromSide":"bottom","toNode":"dfc28e9352e7cfb9","toSide":"top"},
+		{"id":"5aaaf6fdb8fe326e","fromNode":"dfc28e9352e7cfb9","fromSide":"bottom","toNode":"004fde645ece2ca5","toSide":"top"}
 	]
 }

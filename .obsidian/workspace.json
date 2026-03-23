@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
                 "viewState": {
-                  "x": -280,
-                  "y": 1379.90625,
+                  "x": -988,
+                  "y": 2782.90625,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,10 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260323172539.png",
+    "Attachments/Pasted image 20260323172505.png",
+    "Attachments/Pasted image 20260323172442.png",
+    "Attachments/Pasted image 20260323172404.png",
     "Attachments/Pasted image 20260323171003.png",
     "Attachments/Pasted image 20260323170939.png",
     "Attachments/Pasted image 20260323170853.png",
@@ -201,10 +205,6 @@
     "Attachments/Pasted image 20260323114553.png",
     "Hello-CTF/WEB/GET-POST基础.canvas",
     "Hello-CTF/WEB/敏感信息泄露",
-    "Attachments/Pasted image 20260323110116.png",
-    "Attachments/Pasted image 20260323105949.png",
-    "Attachments/Pasted image 20260323105859.png",
-    "Attachments/Pasted image 20260323102404.png",
     "Hello-CTF/WEB/未命名.base",
     "Hello-CTF/WEB/simple_php.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
