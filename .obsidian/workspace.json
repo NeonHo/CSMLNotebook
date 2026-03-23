@@ -15,34 +15,16 @@
               "state": {
                 "file": "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
                 "viewState": {
-                  "x": -900,
-                  "y": 2515.0854788877446,
-                  "zoom": -3.1135329612538536
+                  "x": -1725.5632710393063,
+                  "y": 1157.482071600809,
+                  "zoom": 0.2198003720794799
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "DASCTF X CBCTF 2023 无畏者先行 SecretZip"
             }
-          },
-          {
-            "id": "72a6f1428159ec46",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
-                "viewState": {
-                  "x": 1652.4911414458707,
-                  "y": 5986.331781759411,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "we_will_rockyou"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +187,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72a6f1428159ec46",
+  "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
     "Attachments/Pasted image 20260320111120.png",
     "Attachments/Pasted image 20260320111035.png",
     "Attachments/Pasted image 20260320104728.png",
@@ -217,9 +200,7 @@
     "Attachments/Pasted image 20260320102804.png",
     "Attachments/Pasted image 20260319164047.png",
     "Attachments/Pasted image 20260319163623.png",
-    "Attachments/Pasted image 20260319163258.png",
     "Hello-CTF/MISC/压缩包/隔空取物.canvas",
-    "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
     "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/MISC/misc1.canvas",
