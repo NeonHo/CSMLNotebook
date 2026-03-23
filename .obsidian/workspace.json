@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/WEB/敏感信息泄露/滑稽.canvas",
+                "file": "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
                 "viewState": {
-                  "x": 136.5,
-                  "y": 710.5,
+                  "x": -280,
+                  "y": 1379.90625,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "滑稽"
+              "title": "点击方块小游戏"
             }
           }
         ]
@@ -189,19 +189,22 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260323171003.png",
+    "Attachments/Pasted image 20260323170939.png",
+    "Attachments/Pasted image 20260323170853.png",
+    "Attachments/Pasted image 20260323170826.png",
+    "Hello-CTF/WEB/敏感信息泄露/滑稽.canvas",
+    "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
+    "Hello-CTF/WEB/RCE",
     "Attachments/Pasted image 20260323114637.png",
     "Attachments/Pasted image 20260323114610.png",
     "Attachments/Pasted image 20260323114553.png",
     "Hello-CTF/WEB/GET-POST基础.canvas",
-    "Hello-CTF/WEB/敏感信息泄露/滑稽.canvas",
     "Hello-CTF/WEB/敏感信息泄露",
     "Attachments/Pasted image 20260323110116.png",
     "Attachments/Pasted image 20260323105949.png",
     "Attachments/Pasted image 20260323105859.png",
     "Attachments/Pasted image 20260323102404.png",
-    "Attachments/Pasted image 20260323095141.png",
-    "Attachments/Pasted image 20260323093407.png",
-    "Attachments/Pasted image 20260323093246.png",
     "Hello-CTF/WEB/未命名.base",
     "Hello-CTF/WEB/simple_php.canvas",
     "Hello-CTF/WEB/simple_js.canvas",
@@ -210,8 +213,6 @@
     "Hello-CTF/WEB/backup.canvas",
     "Hello-CTF/MISC/压缩包/DASCTF X CBCTF 2023 无畏者先行 SecretZip.canvas",
     "Hello-CTF/MISC/压缩包/we_will_rockyou.canvas",
-    "Attachments/Pasted image 20260320111120.png",
-    "Hello-CTF/MISC/压缩包/隔空取物.canvas",
     "Hello-CTF/MISC/压缩包",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
