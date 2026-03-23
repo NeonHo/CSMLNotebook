@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"41f450a5b00494c6","x":-360,"y":-280,"width":380,"height":60,"type":"text","text":"小宁发现了一个网页，但却一直输不对密码。\n(Flag格式为 Cyberpeace{xxxxxxxxx} )"},
-		{"id":"6f711e29b3cdbd4a","x":140,"y":-374,"width":631,"height":249,"type":"file","file":"Attachments/Pasted image 20260306085408.png"},
-		{"id":"3456dac2b8ad4709","x":19,"y":60,"width":874,"height":645,"type":"file","file":"Attachments/Pasted image 20260306085341.png"},
-		{"id":"6c75e56b6d3b6f1b","x":118,"y":820,"width":676,"height":160,"type":"text","text":"我发现，我们输入的pass_enc并不重要，因为最后都是pass最开始的赋值\n```\n\"70,65,85,88,32,80,65,83,83,87,79,82,68,32,72,65,72,65\"\n```\n其实是十进制转ASCII码：`FAUX PASSWORD HAHA`"},
-		{"id":"91c3ed5982606121","x":118,"y":1080,"width":676,"height":100,"type":"text","text":"我尝试将这句嘲讽包裹在花括号内输入提交，发现不是正确的flag\n结论是： 这根本就没有密码，flag肯定不在这里"},
-		{"id":"54f4c1f533367921","x":-1060,"y":520,"width":860,"height":500,"type":"text","text":"反而是第31行：\n```JavaScript\nString[\"fromCharCode\"](dechiffre(\"\\x35\\x35\\x2c\\x35\\x36\\x2c\\x35\\x34\\x2c\\x37\\x39\\x2c\\x31\\x31\\x35\\x2c\\x36\\x39\\x2c\\x31\\x31\\x34\\x2c\\x31\\x31\\x36\\x2c\\x31\\x30\\x37\\x2c\\x34\\x39\\x2c\\x35\\x30\"));\n```\n中是十六进制表示的 ASCII 字符:\n```\n'55,56,54,79,115,69,114,116,107,49,50'\n```\n这其实是: **一个或多个数字，代表 UTF-16 码元（即字符的 Unicode 编码值）**:\n```\n786OsErtk12\n```\n因此flag其实是:\n```\nCyberpeace{786OsErtk12}\n```"}
+		{"id":"41f450a5b00494c6","type":"text","text":"小宁发现了一个网页，但却一直输不对密码。\n(Flag格式为 Cyberpeace{xxxxxxxxx} )","x":-360,"y":-280,"width":380,"height":60},
+		{"id":"6f711e29b3cdbd4a","type":"file","file":"Attachments/Pasted image 20260306085408.png","x":140,"y":-374,"width":631,"height":249},
+		{"id":"3456dac2b8ad4709","type":"file","file":"Attachments/Pasted image 20260306085341.png","x":19,"y":60,"width":874,"height":645},
+		{"id":"6c75e56b6d3b6f1b","type":"text","text":"我发现，我们输入的pass_enc并不重要，因为最后都是pass最开始的赋值\n```\n\"70,65,85,88,32,80,65,83,83,87,79,82,68,32,72,65,72,65\"\n```\n其实是十进制转ASCII码：`FAUX PASSWORD HAHA`","x":118,"y":820,"width":676,"height":160},
+		{"id":"91c3ed5982606121","type":"text","text":"我尝试将这句嘲讽包裹在花括号内输入提交，发现不是正确的flag\n结论是： 这根本就没有密码，flag肯定不在这里","x":118,"y":1080,"width":676,"height":100},
+		{"id":"54f4c1f533367921","type":"text","text":"反而是第31行：\n```JavaScript\nString[\"fromCharCode\"](dechiffre(\"\\x35\\x35\\x2c\\x35\\x36\\x2c\\x35\\x34\\x2c\\x37\\x39\\x2c\\x31\\x31\\x35\\x2c\\x36\\x39\\x2c\\x31\\x31\\x34\\x2c\\x31\\x31\\x36\\x2c\\x31\\x30\\x37\\x2c\\x34\\x39\\x2c\\x35\\x30\"));\n```\n中是十六进制表示的 ASCII 字符:\n```\n'55,56,54,79,115,69,114,116,107,49,50'\n```\n这其实是: **一个或多个数字，代表 UTF-16 码元（即字符的 Unicode 编码值）**:\n```\n786OsErtk12\n```\n因此flag其实是:\n```\nCyberpeace{786OsErtk12}\n```","x":-1060,"y":520,"width":860,"height":500}
 	],
 	"edges":[
 		{"id":"8ecbf4d8a3d82637","fromNode":"41f450a5b00494c6","fromSide":"right","toNode":"6f711e29b3cdbd4a","toSide":"left"},

@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"c3147614d03a04d4","x":-460,"y":-200,"width":640,"height":60,"type":"text","text":"小宁写了个ping功能,但没有写waf,X老师告诉她这是非常危险的，你知道为什么吗。"},
-		{"id":"1c1eaf44cfe73887","x":-452,"y":-40,"width":625,"height":60,"type":"text","text":"初步猜测，能执行ping就能执行其他command，找找输入指令的入口"},
-		{"id":"0862ce52f8fbf6c3","x":260,"y":-60,"width":400,"height":319,"type":"file","file":"Attachments/Pasted image 20260305192100.png"},
-		{"id":"00c3a13e0e466d10","x":260,"y":491,"width":400,"height":318,"type":"file","file":"Attachments/Pasted image 20260305192358.png"},
-		{"id":"174fb79c577bdfe4","x":-480,"y":480,"width":400,"height":340,"type":"file","file":"Attachments/Pasted image 20260305192501.png"},
-		{"id":"111700da778d4dfe","x":-920,"y":100,"width":400,"height":319,"type":"file","file":"Attachments/Pasted image 20260305192853.png"},
-		{"id":"faba8e2fd5d64afd","x":-1140,"y":540,"width":400,"height":329,"type":"file","file":"Attachments/Pasted image 20260305193209.png"}
+		{"id":"c3147614d03a04d4","type":"text","text":"小宁写了个ping功能,但没有写waf,X老师告诉她这是非常危险的，你知道为什么吗。","x":-460,"y":-200,"width":640,"height":60},
+		{"id":"1c1eaf44cfe73887","type":"text","text":"初步猜测，能执行ping就能执行其他command，找找输入指令的入口","x":-452,"y":-40,"width":625,"height":60},
+		{"id":"0862ce52f8fbf6c3","type":"file","file":"Attachments/Pasted image 20260305192100.png","x":260,"y":-60,"width":399,"height":319},
+		{"id":"00c3a13e0e466d10","type":"file","file":"Attachments/Pasted image 20260305192358.png","x":260,"y":491,"width":400,"height":318},
+		{"id":"174fb79c577bdfe4","type":"file","file":"Attachments/Pasted image 20260305192501.png","x":-480,"y":480,"width":400,"height":340},
+		{"id":"111700da778d4dfe","type":"file","file":"Attachments/Pasted image 20260305192853.png","x":-920,"y":100,"width":400,"height":319},
+		{"id":"faba8e2fd5d64afd","type":"file","file":"Attachments/Pasted image 20260305193209.png","x":-1140,"y":540,"width":399,"height":329}
 	],
 	"edges":[
 		{"id":"d947fa854c4fc323","fromNode":"c3147614d03a04d4","fromSide":"bottom","toNode":"1c1eaf44cfe73887","toSide":"top"},
