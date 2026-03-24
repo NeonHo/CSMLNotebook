@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/培训 HTTP Header 练习题.canvas",
                 "viewState": {
-                  "x": 413,
-                  "y": 99.21875,
+                  "x": 153,
+                  "y": 641.21875,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,7 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324144809.png",
     "Attachments/Pasted image 20260324144421.png",
     "Attachments/Pasted image 20260324144344.png",
     "Hello-CTF/WEB/RCE/LitCTF 2023 Ping.canvas",
@@ -201,7 +202,6 @@
     "Attachments/Pasted image 20260324113111.png",
     "Attachments/Pasted image 20260324112642.png",
     "Attachments/Pasted image 20260324112514.png",
-    "Attachments/Pasted image 20260324112421.png",
     "Hello-CTF/WEB/PHP基础/培训MD5.canvas",
     "Hello-CTF/WEB/PHP基础/MD5.canvas",
     "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
