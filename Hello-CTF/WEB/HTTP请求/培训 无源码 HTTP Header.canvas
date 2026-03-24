@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"cd65f1a1a90dc163","type":"file","file":"Attachments/Pasted image 20260324145453.png","x":-620,"y":-320,"width":834,"height":360},
+		{"id":"92dfc6a40293b981","type":"file","file":"Attachments/Pasted image 20260324151107.png","x":-980,"y":180,"width":1501,"height":641},
+		{"id":"894640bb3b1a0a0b","type":"file","file":"Attachments/Pasted image 20260324151151.png","x":-940,"y":890,"width":1360,"height":638},
+		{"id":"693714e3a246d520","type":"file","file":"Attachments/Pasted image 20260324151225.png","x":-900,"y":1720,"width":1160,"height":517},
+		{"id":"72efee5f6dcdd46c","type":"file","file":"Attachments/Pasted image 20260324151317.png","x":-920,"y":2400,"width":1160,"height":541},
+		{"id":"4fbc5b3875b64c63","type":"file","file":"Attachments/Pasted image 20260324151658.png","x":-140,"y":3060,"width":968,"height":50},
+		{"id":"7bb7689d3568a5e1","type":"file","file":"Attachments/Pasted image 20260324151745.png","x":-940,"y":3240,"width":1220,"height":403},
+		{"id":"1440eac0810098c9","type":"text","text":"https://blog.csdn.net/weixin_51735061/article/details/123647266","x":-1950,"y":2853,"width":590,"height":67}
+	],
+	"edges":[
+		{"id":"097b28015470ba6c","fromNode":"cd65f1a1a90dc163","fromSide":"bottom","toNode":"92dfc6a40293b981","toSide":"top"},
+		{"id":"63c5d342459885b2","fromNode":"92dfc6a40293b981","fromSide":"bottom","toNode":"894640bb3b1a0a0b","toSide":"top"},
+		{"id":"b0d9d7e3cd00df76","fromNode":"894640bb3b1a0a0b","fromSide":"bottom","toNode":"693714e3a246d520","toSide":"top"},
+		{"id":"c4b6d5263bc58bd6","fromNode":"693714e3a246d520","fromSide":"bottom","toNode":"72efee5f6dcdd46c","toSide":"top"},
+		{"id":"62a7bac7da824e38","fromNode":"72efee5f6dcdd46c","fromSide":"bottom","toNode":"4fbc5b3875b64c63","toSide":"top"},
+		{"id":"0e151db4a2299c08","fromNode":"4fbc5b3875b64c63","fromSide":"bottom","toNode":"7bb7689d3568a5e1","toSide":"top"},
+		{"id":"567680485886fb55","fromNode":"1440eac0810098c9","fromSide":"right","toNode":"4fbc5b3875b64c63","toSide":"left"}
+	]
+}

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/WEB/培训 无源码 HTTP Header.canvas",
+                "file": "Hello-CTF/WEB/HTTP请求/HNCTF 2022 Week1 Interesting_http.canvas",
                 "viewState": {
-                  "x": -1071,
-                  "y": 3742.9375,
-                  "zoom": 0
+                  "x": -467.3474768280125,
+                  "y": 1200.5224510813596,
+                  "zoom": -0.4150746433691869
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "培训 无源码 HTTP Header"
+              "title": "HNCTF 2022 Week1 Interesting_http"
             }
           }
         ]
@@ -189,6 +189,14 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324152634.png",
+    "Hello-CTF/WEB/HTTP请求/培训 无源码 HTTP Header.canvas",
+    "Hello-CTF/WEB/HTTP请求/培训 HTTP Header 练习题.canvas",
+    "Hello-CTF/WEB/HTTP请求/HNCTF 2022 Week1 Interesting_http.canvas",
+    "Hello-CTF/WEB/HTTP请求",
+    "Attachments/Pasted image 20260324152514.png",
+    "Attachments/Pasted image 20260324152449.png",
+    "Attachments/Pasted image 20260324152300.png",
     "Attachments/Pasted image 20260324151818.png",
     "Attachments/Pasted image 20260324151745.png",
     "Attachments/Pasted image 20260324151658.png",
@@ -196,12 +204,6 @@
     "Attachments/Pasted image 20260324151225.png",
     "Attachments/Pasted image 20260324151151.png",
     "Attachments/Pasted image 20260324151107.png",
-    "Attachments/Pasted image 20260324145453.png",
-    "Hello-CTF/WEB/培训 HTTP Header 练习题.canvas",
-    "Hello-CTF/WEB/培训 无源码 HTTP Header.canvas",
-    "Attachments/Pasted image 20260324144809.png",
-    "Attachments/Pasted image 20260324144421.png",
-    "Attachments/Pasted image 20260324144344.png",
     "Hello-CTF/WEB/RCE/LitCTF 2023 Ping.canvas",
     "Hello-CTF/WEB/PHP基础/培训MD5.canvas",
     "Hello-CTF/WEB/PHP基础/MD5.canvas",
@@ -213,7 +215,6 @@
     "Hello-CTF/WEB/敏感信息泄露",
     "Hello-CTF/WEB/未命名.base",
     "Hello-CTF/WEB/simple_php.canvas",
-    "Hello-CTF/WEB/simple_js.canvas",
     "Hello-CTF/MISC/压缩包",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
