@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"20844c2c2625407f","x":-560,"y":-360,"width":740,"height":466,"type":"file","file":"Attachments/Pasted image 20260324112421.png"},
+		{"id":"8410ffaf5899a4db","x":280,"y":-267,"width":625,"height":280,"type":"file","file":"Attachments/Pasted image 20260324112514.png"},
+		{"id":"a8817251fcec449d","x":-580,"y":400,"width":1420,"height":692,"type":"file","file":"Attachments/Pasted image 20260324112642.png"}
+	],
+	"edges":[
+		{"id":"9a848de381b96310","fromNode":"20844c2c2625407f","fromSide":"right","toNode":"8410ffaf5899a4db","toSide":"left"},
+		{"id":"b72ed9b7ede3cbd8","fromNode":"8410ffaf5899a4db","fromSide":"bottom","toNode":"a8817251fcec449d","toSide":"top","label":"试着ping百度的IP地址"}
+	]
+}
