@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"2aa116fe68ba7932","x":-600,"y":-360,"width":813,"height":400,"type":"file","file":"Attachments/Pasted image 20260324101430.png"}
+		{"id":"2aa116fe68ba7932","type":"file","file":"Attachments/Pasted image 20260324101430.png","x":-600,"y":-360,"width":813,"height":400},
+		{"id":"d33aa7b906ecbe46","type":"file","file":"Attachments/Pasted image 20260324101916.png","x":-1280,"y":440,"width":1707,"height":482}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1576d8fcc0353a03","fromNode":"2aa116fe68ba7932","fromSide":"bottom","toNode":"d33aa7b906ecbe46","toSide":"top","label":"dozer参数的比较是弱类型比较，直接用0e绕过即可"},
+		{"id":"06870c8275c4c83d","fromNode":"2aa116fe68ba7932","fromSide":"right","toNode":"d33aa7b906ecbe46","toSide":"right","label":" a和b参数比较是强类型比较。\n0e 方法自然是不可行的（注意：===），\n这时候就得使用数组来绕过了，如果传入一个数组的值，会报出错误（md5 只能使用字符串），\n报错后就相当于绕过===这个条件了"}
+	]
 }
