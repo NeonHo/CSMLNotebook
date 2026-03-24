@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/培训 无源码 HTTP Header.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -481,
+                  "y": 2479,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,10 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324151317.png",
+    "Attachments/Pasted image 20260324151225.png",
+    "Attachments/Pasted image 20260324151151.png",
+    "Attachments/Pasted image 20260324151107.png",
     "Attachments/Pasted image 20260324145453.png",
     "Hello-CTF/WEB/培训 HTTP Header 练习题.canvas",
     "Hello-CTF/WEB/培训 无源码 HTTP Header.canvas",
@@ -199,10 +203,6 @@
     "Attachments/Pasted image 20260324115251.png",
     "Attachments/Pasted image 20260324115041.png",
     "Attachments/Pasted image 20260324114848.png",
-    "Attachments/Pasted image 20260324114103.png",
-    "Attachments/Pasted image 20260324113607.png",
-    "Attachments/Pasted image 20260324113111.png",
-    "Attachments/Pasted image 20260324112642.png",
     "Hello-CTF/WEB/PHP基础/培训MD5.canvas",
     "Hello-CTF/WEB/PHP基础/MD5.canvas",
     "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
