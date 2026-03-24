@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/SSTI/Jinja2 SSTI 练习题.canvas",
                 "viewState": {
-                  "x": -370,
-                  "y": 1109,
+                  "x": -394,
+                  "y": 2111,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,8 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324174444.png",
+    "Attachments/Pasted image 20260324174403.png",
     "Attachments/Pasted image 20260324173151.png",
     "Attachments/Pasted image 20260324172857.png",
     "Attachments/Pasted image 20260324172736.png",
@@ -201,9 +203,7 @@
     "Attachments/Pasted image 20260324154106.png",
     "Attachments/Pasted image 20260324153954.png",
     "Attachments/Pasted image 20260324153921.png",
-    "Attachments/Pasted image 20260324153838.png",
     "Hello-CTF/WEB/HTTP请求/HNCTF 2022 Week1 Interesting_http.canvas",
-    "Attachments/Pasted image 20260324153548.png",
     "Hello-CTF/WEB/HTTP请求/培训 无源码 HTTP Header.canvas",
     "Hello-CTF/WEB/HTTP请求/培训 HTTP Header 练习题.canvas",
     "Hello-CTF/WEB/HTTP请求",
