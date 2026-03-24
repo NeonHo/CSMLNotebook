@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"20844c2c2625407f","x":-560,"y":-360,"width":740,"height":466,"type":"file","file":"Attachments/Pasted image 20260324112421.png"},
 		{"id":"8410ffaf5899a4db","x":280,"y":-267,"width":625,"height":280,"type":"file","file":"Attachments/Pasted image 20260324112514.png"},
-		{"id":"a8817251fcec449d","x":-580,"y":400,"width":1420,"height":692,"type":"file","file":"Attachments/Pasted image 20260324112642.png"}
+		{"id":"a8817251fcec449d","x":-580,"y":400,"width":1420,"height":692,"type":"file","file":"Attachments/Pasted image 20260324112642.png"},
+		{"id":"5b1a67ccfbfa34d4","x":-640,"y":1320,"width":1295,"height":333,"type":"file","file":"Attachments/Pasted image 20260324113111.png"}
 	],
 	"edges":[
 		{"id":"9a848de381b96310","fromNode":"20844c2c2625407f","fromSide":"right","toNode":"8410ffaf5899a4db","toSide":"left"},
-		{"id":"b72ed9b7ede3cbd8","fromNode":"8410ffaf5899a4db","fromSide":"bottom","toNode":"a8817251fcec449d","toSide":"top","label":"试着ping百度的IP地址"}
+		{"id":"b72ed9b7ede3cbd8","fromNode":"8410ffaf5899a4db","fromSide":"bottom","toNode":"a8817251fcec449d","toSide":"top","label":"试着ping百度的IP地址"},
+		{"id":"47afda82a4e81645","fromNode":"a8817251fcec449d","fromSide":"bottom","toNode":"5b1a67ccfbfa34d4","toSide":"top","label":"这个过程在BP上非常清楚，IP和命令都在"}
 	]
 }
