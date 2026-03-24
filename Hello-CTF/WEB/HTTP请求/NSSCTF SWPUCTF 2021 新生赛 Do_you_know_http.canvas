@@ -3,11 +3,15 @@
 		{"id":"2425f0c31a70a727","x":-520,"y":-240,"width":916,"height":248,"type":"file","file":"Attachments/Pasted image 20260324153838.png"},
 		{"id":"8ceb876d872f4d0e","x":-700,"y":120,"width":1425,"height":306,"type":"file","file":"Attachments/Pasted image 20260324153921.png"},
 		{"id":"6cc1e22315510f48","x":-187,"y":680,"width":400,"height":136,"type":"file","file":"Attachments/Pasted image 20260324153954.png"},
-		{"id":"b14758482904c29e","x":360,"y":718,"width":1056,"height":60,"type":"file","file":"Attachments/Pasted image 20260324154106.png"}
+		{"id":"b14758482904c29e","x":360,"y":718,"width":1056,"height":60,"type":"file","file":"Attachments/Pasted image 20260324154106.png"},
+		{"id":"04375ee148d55b48","x":-996,"y":920,"width":2019,"height":476,"type":"file","file":"Attachments/Pasted image 20260324154505.png"},
+		{"id":"c3ece172372f17de","x":-240,"y":1600,"width":720,"height":180,"type":"file","file":"Attachments/Pasted image 20260324154623.png"}
 	],
 	"edges":[
 		{"id":"4158bf0c5caccf0f","fromNode":"2425f0c31a70a727","fromSide":"bottom","toNode":"8ceb876d872f4d0e","toSide":"top"},
 		{"id":"813cd672ccd14a41","fromNode":"8ceb876d872f4d0e","fromSide":"bottom","toNode":"6cc1e22315510f48","toSide":"top","label":"response中告诉我们Location是`./a.php`"},
-		{"id":"cc517e86442c5414","fromNode":"8ceb876d872f4d0e","fromSide":"right","toNode":"b14758482904c29e","toSide":"top"}
+		{"id":"cc517e86442c5414","fromNode":"8ceb876d872f4d0e","fromSide":"right","toNode":"b14758482904c29e","toSide":"top","label":"302状态码意味着重定向"},
+		{"id":"e10f3baebd24ed89","fromNode":"6cc1e22315510f48","fromSide":"bottom","toNode":"04375ee148d55b48","toSide":"top"},
+		{"id":"6bf719bd07de2952","fromNode":"04375ee148d55b48","fromSide":"bottom","toNode":"c3ece172372f17de","toSide":"top","label":"302和Location意味着继续重定向"}
 	]
 }

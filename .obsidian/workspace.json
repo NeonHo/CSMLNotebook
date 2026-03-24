@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/HTTP请求/NSSCTF SWPUCTF 2021 新生赛 Do_you_know_http.canvas",
                 "viewState": {
-                  "x": 185,
-                  "y": 817,
+                  "x": 139,
+                  "y": 1486,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,8 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324154623.png",
+    "Attachments/Pasted image 20260324154505.png",
     "Attachments/Pasted image 20260324154106.png",
     "Attachments/Pasted image 20260324153954.png",
     "Attachments/Pasted image 20260324153921.png",
@@ -203,8 +205,6 @@
     "Hello-CTF/WEB/HTTP请求/培训 HTTP Header 练习题.canvas",
     "Hello-CTF/WEB/HTTP请求",
     "Attachments/Pasted image 20260324152514.png",
-    "Attachments/Pasted image 20260324152449.png",
-    "Attachments/Pasted image 20260324152300.png",
     "Hello-CTF/WEB/RCE/LitCTF 2023 Ping.canvas",
     "Hello-CTF/WEB/PHP基础/培训MD5.canvas",
     "Hello-CTF/WEB/PHP基础/MD5.canvas",
