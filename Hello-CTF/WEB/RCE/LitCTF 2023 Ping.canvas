@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"20844c2c2625407f","x":-560,"y":-360,"width":740,"height":466,"type":"file","file":"Attachments/Pasted image 20260324112421.png"},
-		{"id":"8410ffaf5899a4db","x":280,"y":-267,"width":625,"height":280,"type":"file","file":"Attachments/Pasted image 20260324112514.png"},
-		{"id":"a8817251fcec449d","x":-1341,"y":360,"width":1420,"height":692,"type":"file","file":"Attachments/Pasted image 20260324112642.png"},
-		{"id":"5b1a67ccfbfa34d4","x":-1760,"y":1240,"width":1295,"height":333,"type":"file","file":"Attachments/Pasted image 20260324113111.png"},
-		{"id":"d0af2bbe12e44652","x":-680,"y":1920,"width":1398,"height":661,"type":"file","file":"Attachments/Pasted image 20260324113607.png"},
-		{"id":"1fe117f7fd6488e5","x":-1400,"y":2800,"width":2662,"height":840,"type":"file","file":"Attachments/Pasted image 20260324114103.png"},
-		{"id":"b78265acb7afea92","x":-3080,"y":4051,"width":2729,"height":1069,"type":"file","file":"Attachments/Pasted image 20260324115041.png"},
-		{"id":"8144f59eb8a40578","x":-240,"y":4051,"width":2762,"height":1069,"type":"file","file":"Attachments/Pasted image 20260324115251.png"}
+		{"id":"20844c2c2625407f","type":"file","file":"Attachments/Pasted image 20260324112421.png","x":-560,"y":-360,"width":740,"height":466},
+		{"id":"8410ffaf5899a4db","type":"file","file":"Attachments/Pasted image 20260324112514.png","x":280,"y":-267,"width":625,"height":280},
+		{"id":"a8817251fcec449d","type":"file","file":"Attachments/Pasted image 20260324112642.png","x":-1341,"y":360,"width":1420,"height":692},
+		{"id":"5b1a67ccfbfa34d4","type":"file","file":"Attachments/Pasted image 20260324113111.png","x":-1760,"y":1240,"width":1295,"height":333},
+		{"id":"d0af2bbe12e44652","type":"file","file":"Attachments/Pasted image 20260324113607.png","x":-680,"y":1920,"width":1398,"height":661},
+		{"id":"1fe117f7fd6488e5","type":"file","file":"Attachments/Pasted image 20260324114103.png","x":-1400,"y":2800,"width":2662,"height":840},
+		{"id":"b78265acb7afea92","type":"file","file":"Attachments/Pasted image 20260324115041.png","x":-3080,"y":4051,"width":2729,"height":1069},
+		{"id":"8144f59eb8a40578","type":"file","file":"Attachments/Pasted image 20260324115251.png","x":-240,"y":4051,"width":2762,"height":1069}
 	],
 	"edges":[
 		{"id":"9a848de381b96310","fromNode":"20844c2c2625407f","fromSide":"right","toNode":"8410ffaf5899a4db","toSide":"left"},
