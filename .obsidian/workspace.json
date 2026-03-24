@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/WEB/RCE/LitCTF 2023 Ping.canvas",
                 "viewState": {
-                  "x": -171.92704613663832,
-                  "y": 1366.8981605391116,
+                  "x": -20.33024567367528,
+                  "y": 1896.4387255021318,
                   "zoom": 0.3333333333333333
                 }
               },
@@ -189,6 +189,7 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260324113607.png",
     "Attachments/Pasted image 20260324113111.png",
     "Attachments/Pasted image 20260324112642.png",
     "Attachments/Pasted image 20260324112514.png",
@@ -202,7 +203,6 @@
     "Attachments/Pasted image 20260324101252.png",
     "Attachments/Pasted image 20260324101236.png",
     "Attachments/Pasted image 20260324101216.png",
-    "Attachments/Pasted image 20260324101139.png",
     "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
     "Hello-CTF/WEB/PHP基础",
     "Hello-CTF/WEB/敏感信息泄露/滑稽.canvas",
