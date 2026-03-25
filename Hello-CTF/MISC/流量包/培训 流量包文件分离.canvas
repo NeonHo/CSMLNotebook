@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"1ce7a4e254970155","x":-640,"y":-320,"width":1146,"height":491,"type":"file","file":"Attachments/Pasted image 20260325170715.png"},
+		{"id":"a5a32d3d706bfcf7","x":-380,"y":320,"width":250,"height":60,"type":"text","text":"太多了，找不过来"},
+		{"id":"e2bc119c4a1fa4b8","x":-1380,"y":-17,"width":700,"height":735,"type":"file","file":"Attachments/Pasted image 20260325170827.png"},
+		{"id":"f4f18c2bbb22b2ee","x":-1200,"y":840,"width":340,"height":60,"type":"text","text":"发现有压缩包，里面还有flag.txt"},
+		{"id":"467761f8a96db850","x":-1350,"y":1000,"width":640,"height":672,"type":"file","file":"Attachments/Pasted image 20260325171005.png"},
+		{"id":"f2b18132b458547a","x":-480,"y":1133,"width":1082,"height":539,"type":"file","file":"Attachments/Pasted image 20260325171022.png"},
+		{"id":"fc6993d9c330e538","x":-1405,"y":1840,"width":750,"height":541,"type":"file","file":"Attachments/Pasted image 20260325171134.png"}
+	],
+	"edges":[
+		{"id":"4d3fc85941355563","fromNode":"1ce7a4e254970155","fromSide":"bottom","toNode":"a5a32d3d706bfcf7","toSide":"top"},
+		{"id":"d65d0ce99b8e9c94","fromNode":"a5a32d3d706bfcf7","fromSide":"left","toNode":"e2bc119c4a1fa4b8","toSide":"right"},
+		{"id":"e8e3230b4457d2c1","fromNode":"e2bc119c4a1fa4b8","fromSide":"bottom","toNode":"f4f18c2bbb22b2ee","toSide":"top"},
+		{"id":"d9928da698faa627","fromNode":"f4f18c2bbb22b2ee","fromSide":"bottom","toNode":"467761f8a96db850","toSide":"top"},
+		{"id":"1525a258377f56a5","fromNode":"467761f8a96db850","fromSide":"right","toNode":"f2b18132b458547a","toSide":"left"},
+		{"id":"a96084ac9a95d206","fromNode":"467761f8a96db850","fromSide":"bottom","toNode":"fc6993d9c330e538","toSide":"top","label":"压缩包解压需要密码"}
+	]
+}
