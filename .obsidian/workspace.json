@@ -11,17 +11,14 @@
             "id": "bf92f784b9cd143f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hello-CTF/MISC/杂项签到.canvas",
-                "viewState": {
-                  "x": 539.5,
-                  "y": 107,
-                  "zoom": -0.29763089812476706
-                }
+                "file": "Projects/My Team/AI团队MVP落地.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "杂项签到"
+              "icon": "lucide-file",
+              "title": "AI团队MVP落地"
             }
           }
         ]
@@ -189,6 +186,8 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Hello-CTF/MISC/杂项签到.canvas",
+    "Projects/My Team/AI团队MVP落地.md",
     "Hello-CTF/MISC/图片定位.canvas",
     "Hello-CTF/MISC/simple_transfer.canvas",
     "Hello-CTF/MISC/misc1.canvas",
@@ -213,7 +212,6 @@
     "Attachments/Pasted image 20260324154623.png",
     "Attachments/Pasted image 20260324154505.png",
     "Hello-CTF/WEB/HTTP请求/HNCTF 2022 Week1 Interesting_http.canvas",
-    "Hello-CTF/WEB/HTTP请求/培训 无源码 HTTP Header.canvas",
     "Hello-CTF/WEB/HTTP请求",
     "Hello-CTF/WEB/PHP基础",
     "Hello-CTF/WEB/RCE",
