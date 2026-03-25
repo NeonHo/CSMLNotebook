@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/My Team/AI团队搭建.md",
+                "file": "Projects/My Team/知识库与交互历史技术路径.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI团队搭建"
+              "title": "知识库与交互历史技术路径"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
-    "Projects/My Team/AI团队工期.md",
     "Projects/My Team/AI团队搭建.md",
+    "Projects/My Team/知识库与交互历史技术路径.md",
+    "Projects/My Team/AI团队工期.md",
     "Hello-CTF/MISC/图片定位.canvas",
     "Attachments/osint.jpg",
     "Attachments/Pasted image 20260325084626.png",
