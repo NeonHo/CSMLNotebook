@@ -11,17 +11,14 @@
             "id": "bf92f784b9cd143f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hello-CTF/MISC/图片定位.canvas",
-                "viewState": {
-                  "x": -98,
-                  "y": 25,
-                  "zoom": 0
-                }
+                "file": "Projects/My Team/AI团队搭建.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "图片定位"
+              "icon": "lucide-file",
+              "title": "AI团队搭建"
             }
           }
         ]
@@ -189,10 +186,12 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Projects/My Team/AI团队工期.md",
+    "Projects/My Team/AI团队搭建.md",
+    "Hello-CTF/MISC/图片定位.canvas",
     "Attachments/osint.jpg",
     "Attachments/Pasted image 20260325084626.png",
     "Hello-CTF/WEB/SSTI/Jinja2 SSTI 练习题.canvas",
-    "Hello-CTF/MISC/图片定位.canvas",
     "Attachments/Pasted image 20260324174444.png",
     "Attachments/Pasted image 20260324174403.png",
     "Attachments/Pasted image 20260324173151.png",
@@ -203,7 +202,6 @@
     "Hello-CTF/WEB/SSTI",
     "Attachments/Pasted image 20260324154623.png",
     "Attachments/Pasted image 20260324154505.png",
-    "Attachments/Pasted image 20260324154106.png",
     "Hello-CTF/WEB/HTTP请求/HNCTF 2022 Week1 Interesting_http.canvas",
     "Hello-CTF/WEB/HTTP请求/培训 无源码 HTTP Header.canvas",
     "Hello-CTF/WEB/HTTP请求/培训 HTTP Header 练习题.canvas",
