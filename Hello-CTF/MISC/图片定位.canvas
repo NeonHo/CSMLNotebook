@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f1b7415e1d455f9b","x":-200,"y":-320,"width":691,"height":571,"type":"file","file":"Attachments/Pasted image 20260325084626.png"},
+		{"id":"3ccf7c0f4909b847","x":-800,"y":-222,"width":501,"height":376,"type":"file","file":"Attachments/osint.jpg"}
+	],
+	"edges":[
+		{"id":"4799ae6b971d5bd3","fromNode":"3ccf7c0f4909b847","fromSide":"right","toNode":"f1b7415e1d455f9b","toSide":"left"}
+	]
+}
