@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/音频隐写/拨号提取.canvas",
+                "file": "Hello-CTF/MISC/文件隐写/培训 word隐写1.canvas",
                 "viewState": {
-                  "x": 601.2996052494743,
-                  "y": -367.38272998948736,
-                  "zoom": -0.3333333333333333
+                  "x": 88,
+                  "y": 447,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "拨号提取"
+              "title": "培训 word隐写1"
             }
           }
         ]
@@ -189,10 +189,15 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260325152100.png",
+    "Attachments/Pasted image 20260325152031.png",
+    "Attachments/Pasted image 20260325152015.png",
+    "Hello-CTF/MISC/音频隐写/拨号提取.canvas",
+    "Hello-CTF/MISC/文件隐写/培训 word隐写1.canvas",
+    "Hello-CTF/MISC/文件隐写",
     "Attachments/Pasted image 20260325151358.png",
     "Attachments/Pasted image 20260325151120.png",
     "Hello-CTF/MISC/音频隐写/频谱图.canvas",
-    "Hello-CTF/MISC/音频隐写/拨号提取.canvas",
     "Attachments/nahamcon-beep-boop-flag.wav",
     "Attachments/Pasted image 20260325150302.png",
     "Attachments/Pasted image 20260325150233.png",
@@ -204,15 +209,11 @@
     "Attachments/Pasted image 20260325144513.png",
     "Hello-CTF/MISC/压缩包/zip伪加密.canvas",
     "Hello-CTF/MISC/压缩包/培训 压缩包掩码爆破.canvas",
-    "Attachments/Pasted image 20260325112321.png",
-    "Attachments/Pasted image 20260325112111.png",
     "Hello-CTF/MISC/压缩包/培训 压缩包暴力.canvas",
-    "Attachments/Pasted image 20260325111635.png",
     "Hello-CTF/MISC/编码/培训 Base100.canvas",
     "Hello-CTF/MISC/编码/培训 Base64.canvas",
     "Hello-CTF/MISC/IgniteMe.canvas",
     "Hello-CTF/MISC/编码",
-    "Hello-CTF/MISC/can_has_stdio.canvas",
     "Projects/My Team/AI团队MVP落地.md",
     "Hello-CTF/MISC/图片隐写",
     "Projects/My Team/知识库与交互历史技术路径.md",
@@ -223,7 +224,6 @@
     "Hello-CTF/WEB/PHP基础",
     "Hello-CTF/WEB/RCE",
     "Hello-CTF/WEB/敏感信息泄露",
-    "Hello-CTF/WEB/未命名.base",
     "conflict-files-obsidian-git.md",
     "Projects/My Team/SQLite持久化存储.md"
   ]
