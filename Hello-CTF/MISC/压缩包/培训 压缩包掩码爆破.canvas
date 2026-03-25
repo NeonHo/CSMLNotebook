@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b9259b0c128ecd8e","x":-222,"y":-290,"width":422,"height":60,"type":"text","text":"7-zip->打开压缩包->属性->注释"},
+		{"id":"55c9e84dd0249892","x":-520,"y":-140,"width":747,"height":440,"type":"file","file":"Attachments/Pasted image 20260325112111.png"},
+		{"id":"8b3b82f05e72e8f2","x":-513,"y":460,"width":740,"height":362,"type":"file","file":"Attachments/Pasted image 20260325112321.png"}
+	],
+	"edges":[
+		{"id":"78f16d1cddc5ca27","fromNode":"b9259b0c128ecd8e","fromSide":"right","toNode":"55c9e84dd0249892","toSide":"right"},
+		{"id":"f91976a3aeac60ec","fromNode":"55c9e84dd0249892","fromSide":"bottom","toNode":"8b3b82f05e72e8f2","toSide":"top","label":"掩码的格式就是注释那个样子"}
+	]
+}
