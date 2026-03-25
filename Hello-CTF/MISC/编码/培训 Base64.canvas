@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"5ba24bbffd113d9b","type":"file","file":"Attachments/Pasted image 20260325103619.png","x":-540,"y":-340,"width":931,"height":491},
 		{"id":"44158161eeed71b5","type":"text","text":"文件夹是46esaB，其实就是反转的Base64","x":-280,"y":260,"width":250,"height":60},
-		{"id":"8093438ad3fff09a","type":"file","file":"Attachments/Pasted image 20260325103700.png","x":640,"y":105,"width":400,"height":93},
-		{"id":"94fbd9ab74bff358","x":640,"y":420,"width":989,"height":538,"type":"file","file":"Attachments/Pasted image 20260325103808.png"}
+		{"id":"8093438ad3fff09a","type":"file","file":"Attachments/Pasted image 20260325103700.png","x":640,"y":105,"width":398,"height":93},
+		{"id":"94fbd9ab74bff358","type":"file","file":"Attachments/Pasted image 20260325103808.png","x":640,"y":420,"width":989,"height":538}
 	],
 	"edges":[
 		{"id":"f721244d79c7835b","fromNode":"5ba24bbffd113d9b","fromSide":"bottom","toNode":"44158161eeed71b5","toSide":"top"},

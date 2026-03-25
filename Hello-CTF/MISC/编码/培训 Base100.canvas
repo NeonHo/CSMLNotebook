@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bdb728e12238bea2","x":-560,"y":-200,"width":1432,"height":100,"type":"file","file":"Attachments/Pasted image 20260325104059.png"},
+		{"id":"4a11a80e84ba3ba8","x":-301,"y":80,"width":914,"height":960,"type":"file","file":"Attachments/Pasted image 20260325104258.png"}
+	],
+	"edges":[
+		{"id":"d92d1ffc6f9165e3","fromNode":"bdb728e12238bea2","fromSide":"bottom","toNode":"4a11a80e84ba3ba8","toSide":"top"}
+	]
+}
