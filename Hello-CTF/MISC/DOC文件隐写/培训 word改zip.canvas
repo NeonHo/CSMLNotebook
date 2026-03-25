@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"77bae366e792f8de","x":-700,"y":-240,"width":2210,"height":50,"type":"file","file":"Attachments/Pasted image 20260325154831.png"},
+		{"id":"f5144174bb8856a1","x":-404,"y":-60,"width":809,"height":50,"type":"file","file":"Attachments/Pasted image 20260325154851.png"},
+		{"id":"796f51e9ee93f0ba","x":-394,"y":120,"width":789,"height":203,"type":"file","file":"Attachments/Pasted image 20260325154917.png"},
+		{"id":"84dd482ec171fdd0","x":-560,"y":440,"width":1186,"height":388,"type":"file","file":"Attachments/Pasted image 20260325155003.png"}
+	],
+	"edges":[
+		{"id":"22470c1cc3d79929","fromNode":"77bae366e792f8de","fromSide":"bottom","toNode":"f5144174bb8856a1","toSide":"top","label":"直接改后缀名并解压"},
+		{"id":"d3ea32cf4ae2e9eb","fromNode":"f5144174bb8856a1","fromSide":"bottom","toNode":"796f51e9ee93f0ba","toSide":"top"},
+		{"id":"d8727e2ddc79cbee","fromNode":"796f51e9ee93f0ba","fromSide":"bottom","toNode":"84dd482ec171fdd0","toSide":"top","label":"看到可疑的gfxdata.zip"}
+	]
+}
