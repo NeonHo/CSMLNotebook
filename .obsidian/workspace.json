@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/MISC/DOC文件隐写/培训 word改zip.canvas",
+                "file": "Hello-CTF/MISC/培训 流量包.canvas",
                 "viewState": {
-                  "x": -225.92478825311346,
-                  "y": 679.7673910488195,
-                  "zoom": 0.6666666666666666
+                  "x": -947,
+                  "y": 1934.34375,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "培训 word改zip"
+              "title": "培训 流量包"
             }
           }
         ]
@@ -189,30 +189,30 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260325170018.png",
+    "Attachments/Pasted image 20260325165838.png",
+    "Attachments/Pasted image 20260325165750.png",
+    "Attachments/Pasted image 20260325165700.png",
+    "Attachments/Pasted image 20260325165539.png",
+    "Attachments/Pasted image 20260325165506.png",
+    "Attachments/Pasted image 20260325165335.png",
+    "Hello-CTF/MISC/DOC文件隐写/培训 word改zip.canvas",
+    "Hello-CTF/MISC/培训 流量包.canvas",
     "Attachments/Pasted image 20260325155003.png",
     "Attachments/Pasted image 20260325154917.png",
     "Attachments/Pasted image 20260325154851.png",
     "Attachments/Pasted image 20260325154831.png",
     "Hello-CTF/MISC/压缩包/Dest0g3 520迎新赛 EasyWord 45.canvas",
-    "Hello-CTF/MISC/DOC文件隐写/培训 word改zip.canvas",
     "Hello-CTF/MISC/压缩包/神秘的文件.canvas",
     "Hello-CTF/MISC/DOC文件隐写/培训 word隐写1.canvas",
-    "Attachments/Pasted image 20260325152100.png",
-    "Attachments/Pasted image 20260325152031.png",
-    "Attachments/Pasted image 20260325152015.png",
     "Hello-CTF/MISC/音频隐写/拨号提取.canvas",
     "Hello-CTF/MISC/DOC文件隐写",
-    "Attachments/Pasted image 20260325151358.png",
-    "Attachments/Pasted image 20260325151120.png",
     "Hello-CTF/MISC/音频隐写/频谱图.canvas",
     "Attachments/nahamcon-beep-boop-flag.wav",
-    "Attachments/Pasted image 20260325150302.png",
-    "Attachments/Pasted image 20260325150233.png",
     "Hello-CTF/MISC/图片隐写/培训 LSB 2.canvas",
     "Hello-CTF/MISC/音频隐写",
     "Hello-CTF/MISC/压缩包/zip伪加密.canvas",
     "Hello-CTF/MISC/压缩包/培训 压缩包掩码爆破.canvas",
-    "Hello-CTF/MISC/压缩包/培训 压缩包暴力.canvas",
     "Hello-CTF/MISC/编码",
     "Projects/My Team/AI团队MVP落地.md",
     "Hello-CTF/MISC/图片隐写",
