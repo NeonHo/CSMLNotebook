@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"ac8dea99dc631b82","x":-125,"y":-30,"width":725,"height":1170,"type":"text","text":"```C\n\n  sub_140011384(&unk_140023015);\n  v5[0] = 289739801;\n  v5[1] = 427884820;\n  v5[2] = 1363251608;\n  v5[3] = 269567252;\n  v6[0] = 2026214571;\n  v6[1] = 578894681;\n  v6[2] = 1193947460;\n  v6[3] = -229306230;\n  v6[4] = 73202484;\n  v6[5] = 961145356;\n  v6[6] = -881456792;\n  v6[7] = 358205817;\n  v6[8] = -554069347;\n  v6[9] = 119347883;\n  v6[10] = 0;\n  memset(v7, 0, 0x2Cui64);\n  memset(v8, 0, 0x2Cui64);\n  sub_1400111A4(&unk_14001AED0);\n  sub_1400113ED(&unk_14001AEE4, Str);\n  Size = j_strlen(Str);\n  j_memcpy(v7, Str, Size);\n  for ( j = 0; j < 5; ++j )\n  {\n    v12 = v7[2 * j];\n    v13 = v7[2 * j + 1];\n    sub_14001109B(&v12, v5);\n    v8[2 * j] = v12;\n    v8[2 * j + 1] = v13;\n  }\n  v14 = 1;\n  for ( k = 0; k < 11; ++k )\n  {\n    if ( v8[k] != v6[k] )\n    {\n      v14 = 0;\n      sub_1400111A4(\"You are wrong!!\");\n      break;\n    }\n  }\n  if ( v14 == 1 )\n    sub_1400111A4(\"Congratulations!!!!\");\n  sub_140011320(v3, &unk_14001AE60);\n  return 0i64;\n}\n```"}
+	],
+	"edges":[]
+}
