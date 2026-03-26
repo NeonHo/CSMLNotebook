@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hello-CTF/Reverse/动态调试.canvas",
+                "file": "Hello-CTF/Reverse/moe_tea.canvas",
                 "viewState": {
-                  "x": -115,
-                  "y": -7.8125,
-                  "zoom": 0
+                  "x": 1564.2716023837593,
+                  "y": 4227.241668747825,
+                  "zoom": -0.10222908129193697
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "动态调试"
+              "title": "moe_tea"
             }
           }
         ]
@@ -189,10 +189,11 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260326150349.png",
     "Hello-CTF/Reverse/RC4.canvas",
-    "Hello-CTF/Reverse/moe_tea.canvas",
     "Hello-CTF/Reverse/动态调试.canvas",
+    "Attachments/Pasted image 20260326151422.png",
+    "Attachments/Pasted image 20260326150349.png",
+    "Hello-CTF/Reverse/moe_tea.canvas",
     "Attachments/Pasted image 20260326115129.png",
     "Attachments/Pasted image 20260326113812.png",
     "Attachments/Pasted image 20260326113508.png",
@@ -202,8 +203,6 @@
     "Attachments/Pasted image 20260326102746.png",
     "Attachments/Pasted image 20260326101616.png",
     "Attachments/Pasted image 20260326101548.png",
-    "Attachments/Pasted image 20260326101523.png",
-    "Attachments/Pasted image 20260326101354.png",
     "Hello-CTF/MISC/流量包/培训 流量包文件分离.canvas",
     "Hello-CTF/Reverse",
     "Hello-CTF/MISC/流量包/培训 流量包.canvas",

@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"12ae95164269d30b","x":-500,"y":-640,"width":1260,"height":901,"type":"file","file":"Attachments/Pasted image 20260326150349.png"}
+		{"id":"12ae95164269d30b","x":-500,"y":-640,"width":1260,"height":901,"type":"file","file":"Attachments/Pasted image 20260326150349.png"},
+		{"id":"ffc5f5cd97a635c7","x":-3360,"y":-600,"width":1763,"height":861,"type":"file","file":"Attachments/Pasted image 20260326151422.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3abc941416156947","fromNode":"12ae95164269d30b","fromSide":"left","toNode":"ffc5f5cd97a635c7","toSide":"right","label":"找到窗口程序，别全屏IDA，窗口会在sleep的时候滞留在桌面"}
+	]
 }
