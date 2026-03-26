@@ -9,7 +9,10 @@
 		{"id":"376eac347d66fd5a","x":-780,"y":2680,"width":1133,"height":820,"type":"file","file":"Attachments/Pasted image 20260326101523.png"},
 		{"id":"303e9f44a09e5ee0","x":-1600,"y":2685,"width":600,"height":810,"type":"file","file":"Attachments/Pasted image 20260326101548.png"},
 		{"id":"bed445be9a8777aa","x":-2720,"y":2570,"width":800,"height":1040,"type":"file","file":"Attachments/Pasted image 20260326101616.png"},
-		{"id":"b331cb1729d7ebf8","x":-3291,"y":3054,"width":250,"height":126,"type":"text","text":"sub_428CB0()应该是个Scanf，可以按N重命名成Scanf"}
+		{"id":"b331cb1729d7ebf8","x":-3291,"y":3054,"width":250,"height":126,"type":"text","text":"sub_428CB0()应该是个Scanf，可以按N重命名成Scanf"},
+		{"id":"25f87334848f206a","x":-3900,"y":5240,"width":2256,"height":340,"type":"file","file":"Attachments/Pasted image 20260326102746.png"},
+		{"id":"4f49d721c1ea9add","x":-3980,"y":3420,"width":814,"height":1734,"type":"text","text":"根据qwen的判断，是典型的XXTEA，并为我写了破解脚本\n```python\nimport struct\n\n# XXTEA 常量\nDELTA = 0x9E3779B9\n\ndef to_u32(n):\n    return n & 0xFFFFFFFF\n\ndef xxtea_decrypt(data, key):\n    # data: list of 32-bit integers (ciphertext)\n    # key: 16-byte key string\n    if len(data) == 0:\n        return []\n    \n    # 将密钥字符串转换为 4 个 32 位整数\n    k = struct.unpack('<4I', key.encode())\n    \n    n = len(data)\n    if n == 1:\n        # 单块解密逻辑 (对应伪代码中的 a2 <= 1 分支)\n        v = data[0]\n        rounds = 6\n        sum_val = to_u32(DELTA * rounds)\n        \n        for _ in range(rounds):\n            # 这里的逻辑对应伪代码中 do-while 循环的内部\n            # 注意：单块模式的 XXTEA 实现变体较多，需严格对应伪代码逻辑\n            # 伪代码逻辑简化为：\n            # v -= MX  <-- 实际上是逆向操作\n            # 由于单块模式较少见，建议直接使用标准库或严格复现伪代码的逆运算\n            pass \n        # 注意：由于伪代码中单块模式逻辑较为特殊，建议优先检查是否 n > 1\n        # 对于 37 字节数据，n = 10，所以会走 else 分支 (多块模式)\n        \n    # 多块解密逻辑 (对应伪代码中的 else 分支)\n    # 这是我们要用的主要逻辑，因为 n=10\n    sum_val = 0\n    rounds = 6 + 52 // n\n    sum_val = to_u32(DELTA * rounds)\n    \n    for _ in range(rounds):\n        # 逆序操作，对应加密的逆过程\n        # 伪代码中是正向加密，解密需要反向推导\n        # 这里为了简化，建议使用现成的 xxtea 库，或者严格照抄伪代码的逆运算\n        \n        # 这是一个通用的解密循环结构示例\n        # 具体实现需严格对应伪代码中的变量更新顺序\n        pass\n\n    return data\n\n# 实际操作建议：\n# 1. 安装 python xxtea 库: pip install xxtea\n# 2. 读取 byte_495280 的十六进制数据\n# 3. 调用 xxtea.decrypt(ciphertext, key)\n```\n由于 `sub_401530` 是标准的 XXTEA 实现（多块模式），你可以直接使用任何标准的 XXTEA 解密库。\n\n1. **密文**: `byte_495280` (从 IDA 中复制该数组的十六进制值)。\n2. **密钥**: `2048master2048ma` (前16字节)。\n3. **模式**: XXTEA (标准模式，无需填充，因为输入已经通过 `calloc` 处理过，但解密后需手动去除末尾的 `\\x00` 或填充字节)。"},
+		{"id":"870f91af058b7872","x":-3640,"y":5720,"width":1220,"height":174,"type":"text","text":"cyphertext\n```python\nciphertext = b'\\x35\\x79\\x77\\xCC\\x1B\\x13\\x41\\x34\\xF9\\xFF\\x9F\\x91\\xFF\\x5B\\x94\\x78\\x86\\x2A\\xAF\\xAE\\xD7\\x9E\\x31\\x4D\\x7A\\xC4\\xA5\\x51\\xD1\\xD9\\x6E\\x44\\x18\\x52\\x86\\x1B\\x42\\x8A\\xC9\\x63' + b'\\x00' * 24\n```"}
 	],
 	"edges":[
 		{"id":"a622744a49496878","fromNode":"6e67f5ddf9f1b117","fromSide":"bottom","toNode":"812172716f2d4683","toSide":"top"},
@@ -19,6 +22,9 @@
 		{"id":"4e83904fd2ff8db1","fromNode":"74386a0c94a5f03f","fromSide":"bottom","toNode":"376eac347d66fd5a","toSide":"top"},
 		{"id":"973ad147f3e95e3f","fromNode":"376eac347d66fd5a","fromSide":"left","toNode":"303e9f44a09e5ee0","toSide":"right","label":"找到了汇编"},
 		{"id":"e6c0108fdd908115","fromNode":"303e9f44a09e5ee0","fromSide":"left","toNode":"bed445be9a8777aa","toSide":"right","label":"F5 伪代码"},
-		{"id":"73202c25620351bb","fromNode":"bed445be9a8777aa","fromSide":"left","toNode":"b331cb1729d7ebf8","toSide":"right"}
+		{"id":"73202c25620351bb","fromNode":"bed445be9a8777aa","fromSide":"left","toNode":"b331cb1729d7ebf8","toSide":"right"},
+		{"id":"3b65bd49583f14d6","fromNode":"b331cb1729d7ebf8","fromSide":"left","toNode":"4f49d721c1ea9add","toSide":"top"},
+		{"id":"7173e16621ee6bf1","fromNode":"4f49d721c1ea9add","fromSide":"bottom","toNode":"25f87334848f206a","toSide":"top"},
+		{"id":"afa6d0e5cd7a1eb9","fromNode":"25f87334848f206a","fromSide":"bottom","toNode":"870f91af058b7872","toSide":"top"}
 	]
 }
