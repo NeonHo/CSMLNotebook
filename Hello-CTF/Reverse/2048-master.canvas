@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"6e67f5ddf9f1b117","x":-740,"y":-460,"width":1426,"height":780,"type":"file","file":"Attachments/Pasted image 20260326101014.png"},
+		{"id":"812172716f2d4683","x":-238,"y":440,"width":422,"height":50,"type":"text","text":"这是一个2048游戏，叫做2048_master.exe"},
+		{"id":"f766a1de32366d2e","x":-403,"y":640,"width":376,"height":50,"type":"text","text":"shift + F12：将数据转换为字符串\n"},
+		{"id":"1621857b6abc4f88","x":-922,"y":800,"width":1415,"height":774,"type":"file","file":"Attachments/Pasted image 20260326101317.png"},
+		{"id":"caf84b5967ba1149","x":-654,"y":1720,"width":879,"height":734,"type":"file","file":"Attachments/Pasted image 20260326101354.png"},
+		{"id":"74386a0c94a5f03f","x":-339,"y":2540,"width":250,"height":60,"type":"text","text":"FileName交叉应用\n按X交叉应用"},
+		{"id":"376eac347d66fd5a","x":-780,"y":2680,"width":1133,"height":820,"type":"file","file":"Attachments/Pasted image 20260326101523.png"},
+		{"id":"303e9f44a09e5ee0","x":-1600,"y":2685,"width":600,"height":810,"type":"file","file":"Attachments/Pasted image 20260326101548.png"},
+		{"id":"bed445be9a8777aa","x":-2720,"y":2570,"width":800,"height":1040,"type":"file","file":"Attachments/Pasted image 20260326101616.png"},
+		{"id":"b331cb1729d7ebf8","x":-3291,"y":3054,"width":250,"height":126,"type":"text","text":"sub_428CB0()应该是个Scanf，可以按N重命名成Scanf"}
+	],
+	"edges":[
+		{"id":"a622744a49496878","fromNode":"6e67f5ddf9f1b117","fromSide":"bottom","toNode":"812172716f2d4683","toSide":"top"},
+		{"id":"80c79bf8117d008f","fromNode":"f766a1de32366d2e","fromSide":"bottom","toNode":"1621857b6abc4f88","toSide":"top"},
+		{"id":"de58072563a428e0","fromNode":"1621857b6abc4f88","fromSide":"bottom","toNode":"caf84b5967ba1149","toSide":"top","label":"双击进来"},
+		{"id":"7d094a4e52f0b96d","fromNode":"caf84b5967ba1149","fromSide":"bottom","toNode":"74386a0c94a5f03f","toSide":"top"},
+		{"id":"4e83904fd2ff8db1","fromNode":"74386a0c94a5f03f","fromSide":"bottom","toNode":"376eac347d66fd5a","toSide":"top"},
+		{"id":"973ad147f3e95e3f","fromNode":"376eac347d66fd5a","fromSide":"left","toNode":"303e9f44a09e5ee0","toSide":"right","label":"找到了汇编"},
+		{"id":"e6c0108fdd908115","fromNode":"303e9f44a09e5ee0","fromSide":"left","toNode":"bed445be9a8777aa","toSide":"right","label":"F5 伪代码"},
+		{"id":"73202c25620351bb","fromNode":"bed445be9a8777aa","fromSide":"left","toNode":"b331cb1729d7ebf8","toSide":"right"}
+	]
+}
