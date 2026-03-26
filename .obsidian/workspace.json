@@ -15,8 +15,8 @@
               "state": {
                 "file": "Hello-CTF/Reverse/moe_tea.canvas",
                 "viewState": {
-                  "x": 89.5,
-                  "y": 722.5,
+                  "x": -620.5,
+                  "y": 1260.5,
                   "zoom": 0
                 }
               },
@@ -189,6 +189,7 @@
   },
   "active": "bf92f784b9cd143f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260326113812.png",
     "Attachments/Pasted image 20260326113508.png",
     "Attachments/Pasted image 20260326113437.png",
     "Hello-CTF/Reverse/2048-master.canvas",
@@ -201,7 +202,6 @@
     "Attachments/Pasted image 20260326101354.png",
     "Attachments/Pasted image 20260326101317.png",
     "Attachments/Pasted image 20260326101135.png",
-    "Attachments/Pasted image 20260326101014.png",
     "Hello-CTF/MISC/流量包/培训 流量包文件分离.canvas",
     "Hello-CTF/Reverse",
     "Hello-CTF/MISC/流量包/培训 流量包.canvas",
