@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"2d6591c05d66a5ae","x":-125,"y":-30,"width":1165,"height":1590,"type":"text","text":"好的，我们来分析一下 `e:\\source codes\\junk_code.c` 这段代码，并找出获取 flag 的方法。\n\n### **1. 代码分析**\n\n我们先仔细看一下 `sub_140001455` 函数中的核心逻辑：\n\n```c\n// 1. 一个加密后的字符串被复制到 v3\nstrcpy(v3, \"NRQ@PC}Vdn4tHV4Yi9cd#\\\\}jsXz3LMuaaY0}nj]`4a5&WoB4glB7~u\");\n\n// ... 省略输入部分 ...\n\n// 2. 循环遍历你输入的字符串 Str\nv4 = 0;\nwhile ( v4 < strlen(Str) )\n{\n  // 3. 这是关键的比较逻辑\n  if ( (v3[v4] ^ (v4 % 9)) != Str[v4] )\n    v5 = 0; // 如果不匹配，v5 设置为 0\n}\n\n// 4. 如果 v5 仍然是 1，说明你输入的 flag 是正确的\nif ( v5 == 1 )\n  v0 = \"Right! Congratulation!\";\nelse\n  v0 = \"Wrong! Try agian!\";\n```\n\n从代码中我们可以得出结论：\n-   `v3` 里面存储的是 **加密后的 flag**。\n-   程序通过一个循环，将你输入的 `Str` 的每一位与一个解密后的值进行比较。\n-   正确的 flag 字符 `Str[v4]` 应该等于 `v3[v4] ^ (v4 % 9)`。\n\n这里的加密算法非常简单，是一个 **XOR (异或) 加密**，并且使用的密钥是循环的数字 `0, 1, 2, 3, 4, 5, 6, 7, 8, 0, 1, ...` (由 `v4 % 9` 生成)。\n\n### **2. 解密方法**\n\n要获得 flag，我们只需要模拟程序中的解密过程即可。也就是对 `v3` 中的每一个字符，执行 `v3[v4] ^ (v4 % 9)` 操作。\n\n### **3. 编写解密脚本**\n\n我将编写一个简单的 Python 脚本来完成这个解密过程。\n\n\n        \n            \ntoolName: Write\n            \nstatus: success\n          \n            \nfilePath: e:\\source codes\\junk_code_solver.py\n          \nchanges: undefined\n          \n### **4. 运行脚本获取 Flag**\n\n现在，我们来运行这个脚本。\n\n\n        \n            \ntoolName: run_command\n            \nstatus: success\n          \ncommand: python .\\junk_code_solver.py undefined\n          \n### **5. 最终结果**\n\n我们成功地从加密字符串中还原了 Flag。\n\n**Flag**: `NSSCTF{Qln5vKR1_n1ce!_you_r3MOved_7unk_c0d3!_oC6dhG1y}`"},
-		{"id":"c45ea731a30867fc","x":-714,"y":169,"width":514,"height":171,"type":"text","text":"遇见jmp, 按U，让他Undefined。\n紧跟着遇见E8或者E9，以及JZ和JNZ\n直接用Ctrl + N注释\n"}
+		{"id":"c45ea731a30867fc","x":-714,"y":169,"width":514,"height":371,"type":"text","text":"遇见jmp, 按U，让他Undefined。\n紧跟着遇见E8或者E9，以及JZ和JNZ\n直接用Ctrl + N注释\n\n跳转可能还有jmp有错误也有U\n\n然后从push rbp开始一直到函数末尾按C重新complie\n然后从这个位置再按P，创建函数\n然后F5就进源码了"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ce61477be346116c","fromNode":"c45ea731a30867fc","fromSide":"right","toNode":"2d6591c05d66a5ae","toSide":"left"}
+	]
 }
