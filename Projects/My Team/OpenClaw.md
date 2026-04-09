@@ -18,3 +18,5 @@ nvm use --lts
 ```zsh
 openclaw gateway stop
 ```
+
+最大token太大了，会导致对话不回复。
