@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "OpenClaw"
             }
+          },
+          {
+            "id": "de17c8814171b28d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "091b2ff84e80537e",
+  "active": "de17c8814171b28d",
   "lastOpenFiles": [
     "Projects/My Team/OpenClaw.md",
     "images/DJI.md",
