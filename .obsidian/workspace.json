@@ -25,12 +25,14 @@
             "id": "de17c8814171b28d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "基于经济因素的省级售电量预测关键技术研究"
             }
           }
         ],
