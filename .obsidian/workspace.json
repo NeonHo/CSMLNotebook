@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
+                "file": "Projects/Zheng/江苏月度售电量/新思路之新颖外生变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于经济因素的省级售电量预测关键技术研究"
+              "title": "新思路之新颖外生变量"
             }
           }
         ],
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,9 @@
   },
   "active": "de17c8814171b28d",
   "lastOpenFiles": [
+    "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
+    "Projects/Zheng/江苏月度售电量/新思路之新颖外生变量.md",
+    "Projects/Zheng/江苏月度售电量",
     "Projects/My Team/OpenClaw.md",
     "images/DJI.md",
     "images",
@@ -249,14 +253,11 @@
     "Projects/game dev/1-Build My Own Website",
     "Projects/game dev/0-Journey to Full time Game Dev Land.md",
     "Projects/Zheng/江苏营销部的课题相关内容.md",
-    "Projects/Zheng/基于经济因素的省级售电量预测关键技术研究.md",
     "Projects/Troubles and Solutions/WSL2-Kali.md",
     "Projects/Troubles and Solutions/WSL2 + Kali.md",
     "Projects/Troubles and Solutions/Ubuntu系统装Windows10.md",
-    "Projects/Troubles and Solutions/Troubles and Solutions.md",
     "Projects/Troubles and Solutions/Pandas",
     "Projects/Grid Defect Dection/images",
-    "Projects/game dev",
     "Hello-CTF/WEB/敏感信息泄露/滑稽.canvas",
     "Hello-CTF/WEB/SSTI/Jinja2 SSTI 练习题.canvas",
     "Hello-CTF/WEB/RCE/点击方块小游戏.canvas",
